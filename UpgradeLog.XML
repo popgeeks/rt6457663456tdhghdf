@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DarkWind_Server">
+</Property><Property Name="Solution File" Value="C:\Certification\Version 4\Server\Server\DarkWind_Server.sln">
+</Property><Property Name="Date" Value="Tuesday, June 23, 2009">
+</Property><Property Name="Time" Value="19:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="TTEServer" Source="TTEServer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TTEServer" Source="TTEServer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Entities" Source="..\Entities\Entities.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Entities" Source="..\Entities\Entities.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataLayer" Source="..\DataLayer\DataLayer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataLayer" Source="..\DataLayer\DataLayer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FMWK" Source="..\FMWK\FMWK.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FMWK" Source="..\FMWK\FMWK.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LogicLayer" Source="..\BusinessLayer\LogicLayer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LogicLayer" Source="..\BusinessLayer\LogicLayer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ErrorLogging" Source="..\ErrorLogging\ErrorLogging.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ErrorLogging" Source="..\ErrorLogging\ErrorLogging.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DarkWind_Server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DarkWind_Server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TTEServer" Source="TTEServer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Entities" Source="..\Entities\Entities.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataLayer" Source="..\DataLayer\DataLayer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="FMWK" Source="..\FMWK\FMWK.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LogicLayer" Source="..\BusinessLayer\LogicLayer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ErrorLogging" Source="..\ErrorLogging\ErrorLogging.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
