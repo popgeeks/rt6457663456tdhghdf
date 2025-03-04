@@ -1,0 +1,32 @@
+[player]
+nickname=Moogle77
+password=240642368
+email=offspringkid86@gmail.com
+signup_date=8/5/2005
+playerID=1699
+status=regular
+referal=
+Verify=1
+Last IP=68.101.178.31
+id=45
+IP=68.101.178.31
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+[Newdecks]
+Last=08-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

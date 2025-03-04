@@ -1,0 +1,46 @@
+[player]
+nickname=Smurfage
+password=mahamoti
+email=sunnydaykid@msn.com
+signup_date=8/24/2005
+playerID=1971
+status=regular
+referal=
+Verify=1
+Last IP=141.238.106.37
+id=35
+IP=141.238.106.37
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=102
+Lost=132
+Draw=40
+Lame quits=2
+GP=0
+Newdecks=1
+Level=13
+Exp=6006
+Next=6316
+AP=6
+Streak=4
+SBLost=15
+SBWin=3
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 131171
+Versus=Waddlesworth
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Waddlesworth
+result=win
+score=14-6

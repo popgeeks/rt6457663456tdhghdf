@@ -1,0 +1,20 @@
+[player]
+nickname=chico
+password=377798378
+email=alex_nav23@hotmail.com
+signup_date=7/19/2005
+playerID=1381
+status=regular
+referal=chico
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-19-2005
+[password]
+failed=3

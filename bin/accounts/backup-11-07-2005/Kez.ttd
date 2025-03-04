@@ -1,0 +1,43 @@
+[player]
+nickname=Kez
+password=247431874
+email=PonteladKieran@aol.com
+signup_date=10/11/2005
+playerID=2788
+status=regular
+referal=
+Verify=1
+Last IP=172.213.106.135
+id=5
+IP=172.213.106.135
+adminstatus=off
+match=10-14-2005
+[Stats]
+Win=1
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=43
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=10-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 128450
+Versus=knat
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=knat
+result=win
+score=8-2

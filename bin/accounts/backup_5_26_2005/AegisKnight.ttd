@@ -1,0 +1,53 @@
+[player]
+nickname=AegisKnight
+password=magic1
+email=bfelt@hfcsd.org
+signup_date=4/20/05
+playerID=173
+status=regular
+referal=
+Verify=1
+Last IP=66.153.29.16
+id=1
+IP=66.153.29.16
+adminstatus=off
+match=05-24-2005
+Last Played=05-24-2005
+[Stats]
+Win=7
+Lost=24
+Draw=5
+Lame quits=1
+GP=736
+rank=1549
+Newdecks=9
+Level=5
+Exp=842
+Next=1301
+Streak=-7
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=2
+AP=245
+SBLost=3
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 21542
+Versus=ZeroCool
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=ZeroCool
+result=loss
+score=16-8
+[Warnings]
+Kicks=1

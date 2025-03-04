@@ -1,0 +1,41 @@
+[player]
+nickname=Varandil
+password=apeman
+email=andyped@hotmail.com
+signup_date=9/27/2005
+playerID=2517
+status=regular
+referal=
+Verify=1
+Last IP=172.188.169.136
+id=117
+IP=172.188.169.136
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=2
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=42
+Next=100
+Streak=2
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 115361
+Versus=driver
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=driver
+result=win
+score=6-4

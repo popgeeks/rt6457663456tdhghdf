@@ -1,0 +1,48 @@
+[player]
+nickname=Demented
+password=halorocks
+email=dementedarmy@gmail.com
+signup_date=6/25/2005
+playerID=832
+status=regular
+referal=
+Verify=1
+Last IP=207.172.231.218
+id=28
+IP=207.172.231.218
+adminstatus=off
+match=07-08-2005
+Last Played=07-08-2005
+[Stats]
+Win=20
+Lost=32
+Draw=9
+Lame quits=0
+GP=663
+rank=1410
+Newdecks=7
+Level=4
+Exp=478
+Next=836
+AP=2146
+Streak=-3
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 50970
+Versus=Alvaro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alvaro
+result=loss
+score=15-5

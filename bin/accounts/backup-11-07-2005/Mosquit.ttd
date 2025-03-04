@@ -1,0 +1,41 @@
+[player]
+nickname=Mosquit
+password=64416229
+email=mosquitos@o2.pl
+signup_date=8/4/2005
+playerID=1679
+status=regular
+referal=sieczka
+Verify=1
+Last IP=212.244.123.254
+id=55
+IP=212.244.123.254
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=1
+GP=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=18
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 78399
+Versus=Wiseman
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[Warnings]
+Kicks=1

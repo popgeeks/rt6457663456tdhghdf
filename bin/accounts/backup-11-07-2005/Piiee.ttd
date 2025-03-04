@@ -1,0 +1,46 @@
+[player]
+nickname=Piiee
+password=880789636
+email=paine_misery@hotmail.com
+signup_date=5/28/2005
+playerID=533
+status=regular
+referal=
+Verify=1
+Last IP=69.70.30.140
+id=25
+IP=69.70.30.140
+adminstatus=off
+match=09-25-2005
+Last Played=05-29-2005
+[Stats]
+Win=7
+Lost=4
+Draw=1
+Lame quits=0
+GP=482
+rank=1496
+Newdecks=1
+Level=3
+Exp=293
+Next=476
+AP=135
+Streak=1
+Choices=1
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Abraxas
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Abraxas
+result=win
+score=7-3

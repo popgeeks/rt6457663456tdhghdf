@@ -1,0 +1,19 @@
+[player]
+nickname=Cujo
+password=717372714
+email=Crayzy_cujo@rambler.ru
+signup_date=8/30/2005
+playerID=2016
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=08-30-2005
+[password]
+failed=3

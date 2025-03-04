@@ -1,0 +1,45 @@
+[player]
+nickname=dragonblade
+password=stone131
+email=dragonblade131@gmail.com
+signup_date=9/12/2005
+playerID=2240
+status=regular
+referal=
+Verify=1
+Last IP=24.54.195.135
+id=13
+IP=24.54.195.135
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=16
+Lost=20
+Draw=6
+Lame quits=0
+Newdecks=11
+Level=4
+Exp=766
+Next=836
+Streak=-1
+SBWin=2
+SoldCards=0
+cardsgiven=0
+SBLost=2
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107087
+Versus=Lucrecia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=Lucrecia
+result=loss
+score=15-5

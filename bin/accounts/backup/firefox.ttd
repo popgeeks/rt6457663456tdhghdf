@@ -1,0 +1,57 @@
+[player]
+nickname=firefox
+password=238680660
+email=daniel@borchi-network.de
+signup_date=4/6/05
+playerID=101
+status=regular
+Verify=1
+Last IP=85.73.140.31
+id=14
+IP=85.73.140.31
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-06-2005
+[Totals]
+Level1=1
+Level2=6
+Level3=5
+Level4=1
+Level5=1
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Forbidden=1
+Creeps=1
+Jelleye=2
+Belhelmel=1
+Gesper=1
+Elvoret=1
+Death Claw=1
+Chimera=1
+Thrustaevis=2
+Imp=1
+Ochu=1
+Snow Lion=1
+Tonberry=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,124 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> APCHECK
+darklumina>> PING
+darklumina>> PING
+darklumina>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> PING
+darklumina>> PING
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> PING
+darklumina>> PING
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN Bountiful Bazaar
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN high
+darklumina>> ALTERNATETRAIN high
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN golden
+darklumina>> ALTERNATETRAIN golden
+darklumina>> ALTERNATETRAIN darkys
+darklumina>> ALTERNATETRAIN high
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATESET 80
+darklumina>> PING
+darklumina>> ALTERNATETRAIN darkys
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN busy
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN golden
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN petty
+darklumina>> ALTERNATESET 80
+darklumina>> ALTERNATETRAIN petty
+darklumina>> QUIT 0 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE CHINCHIN
+darklumina>> PING
+darklumina>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> CHINCHINROLL
+darklumina>> PING
+darklumina2>> PING
+darklumina>> CHINCHINROLL
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE CHINCHIN
+darklumina2>> JOINTABLE 1
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina>> PING
+darklumina2>> PING
+darklumina2>> CHINCHINROLL
+darklumina2>> QUIT 0 1
+darklumina>> QUIT 0 1

@@ -1,0 +1,30 @@
+[player]
+nickname=Gerodi
+password=635905324
+email=cartman56@freenet.de
+signup_date=9/15/2005
+playerID=2299
+status=regular
+referal=
+Verify=1
+Last IP=85.72.190.105
+id=23
+IP=85.72.190.105
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

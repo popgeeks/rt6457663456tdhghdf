@@ -1,0 +1,38 @@
+[player]
+nickname=lunz
+password=990726469
+email=pohweilun@hotmail.com
+signup_date=5/6/2005
+playerID=301
+status=regular
+referal=lun
+Verify=1
+Last IP=220.255.26.127
+id=14
+IP=220.255.26.127
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=05-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 11715
+Versus=rEnika
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

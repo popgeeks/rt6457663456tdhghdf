@@ -1,0 +1,42 @@
+[player]
+nickname=BlackDahlia
+password=529790877
+email=kadaja@gmail.com
+signup_date=11/6/2005
+playerID=3168
+status=regular
+referal=
+Verify=1
+Last IP=67.81.177.66
+id=44
+IP=67.81.177.66
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=1
+Lost=3
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=77
+Next=100
+Streak=1
+SBWin=1
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145684
+Versus=Adamisk999
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Adamisk999
+result=win
+score=12-0

@@ -1,0 +1,17 @@
+[player]
+nickname=Teamuteam
+password=253340422
+email=dmiyatam@hotmail.com
+signup_date=10/10/2005
+playerID=2776
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-10-2005

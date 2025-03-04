@@ -1,0 +1,30 @@
+[player]
+nickname=nadine1
+password=
+email=nadinecaldwel@hotmail.com
+signup_date=10/19/2005
+playerID=2923
+status=regular
+referal=father
+Verify=1
+Last IP=220.238.62.154
+id=21
+IP=220.238.62.154
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=33

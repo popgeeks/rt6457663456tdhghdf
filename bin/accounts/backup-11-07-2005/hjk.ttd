@@ -1,0 +1,17 @@
+[player]
+nickname=hjk
+password=693811535
+email=hh@rr.fi
+signup_date=9/25/2005
+playerID=2477
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-25-2005

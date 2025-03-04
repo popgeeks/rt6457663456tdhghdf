@@ -1,0 +1,101 @@
+[player]
+nickname=TheOneJesus7
+password=metalultima
+email=a_mercyful_fate@yahoo.com
+signup_date=3/31/05
+playerID=75
+status=regular
+Verify=1
+Last IP=69.134.69.211
+id=9
+IP=69.134.69.211
+adminstatus=off
+Last Played=08-27-2005
+match=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=343
+Lost=262
+Draw=111
+Lame quits=1
+GP=554
+rank=1499
+Newdecks=15
+Level=17
+Exp=10159
+Next=11368
+Streak=2
+Choices=1
+SoldCards=3
+cardsgiven=0
+Wins=63
+AP=19934
+SBLost=2
+[Newdecks]
+Last=07-07-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=3
+Level4=3
+Level5=2
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=1
+Total=0
+[cards]
+Geezard=0
+Anacondaur=1
+Tri-Face=0
+Imp=1
+Jelleye=0
+Blue Dragon=0
+Gayla=0
+Gerogero=0
+Funguar=1
+Vysage=0
+Mesmerize=1
+Blitz=0
+Wendigo=0
+Fastitocalon=1
+Trauma=1
+Shumi Tribe=1
+Fujin, Raijin=0
+Elvoret=0
+Ruby Dragon=1
+PuPu=1
+Tonberry=1
+Torama=1
+Sphinxara=1
+Adamantoise=1
+Gargantua=0
+Grendel=1
+Gesper=1
+Laguna=1
+Snow Lion=1
+[AP]
+AAEXP=1799
+PCT=90
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 93465
+Versus=Arcky
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Arcky
+result=draw
+score=5-5
+[Warnings]
+Warns=1
+Kicks=4

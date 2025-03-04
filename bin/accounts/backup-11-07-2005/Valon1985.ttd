@@ -1,0 +1,47 @@
+[player]
+nickname=Valon1985
+password=338127910
+email=Zidane2002@gmx.de
+signup_date=7/17/2005
+playerID=1321
+status=regular
+referal=-
+Verify=1
+Last IP=84.169.111.226
+id=16
+IP=84.169.111.226
+adminstatus=off
+match=08-28-2005
+Last Played=07-22-2005
+[Stats]
+Win=14
+Lost=24
+Draw=10
+Lame quits=1
+GP=639
+Newdecks=5
+Level=4
+Exp=601
+Next=836
+AP=758
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 94054
+Versus=J102Y
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=J102Y
+result=loss
+score=8-2

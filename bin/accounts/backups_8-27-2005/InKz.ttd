@@ -1,0 +1,35 @@
+[player]
+nickname=InKz
+password=973796783
+email=theminix@hotmail.com
+signup_date=6/8/2005
+playerID=651
+status=regular
+referal=theminix
+Verify=1
+Last IP=151.80.6.31
+id=22
+IP=151.80.6.31
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=4
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-08-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

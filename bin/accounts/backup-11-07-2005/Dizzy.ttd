@@ -1,0 +1,43 @@
+[player]
+nickname=Dizzy
+password=doodad
+email=gatickst@googlemail.com
+signup_date=10/21/2005
+playerID=2956
+status=regular
+referal=
+Verify=1
+Last IP=172.188.255.163
+id=90
+IP=172.188.255.163
+adminstatus=off
+match=10-28-2005
+[Stats]
+Win=12
+Lost=2
+Draw=9
+Lame quits=0
+Newdecks=11
+Level=3
+Exp=316
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=5
+[Newdecks]
+Last=10-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 138985
+Versus=temari
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=hybre
+result=draw
+score=5-5

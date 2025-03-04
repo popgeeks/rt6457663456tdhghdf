@@ -1,0 +1,35 @@
+[player]
+nickname=Rune
+password=randyk
+email=Whokid135135@yahoo.com
+signup_date=5/26/2005
+playerID=492
+status=regular
+referal=Friend
+Verify=1
+Last IP=69.202.34.172
+id=12
+IP=69.202.34.172
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+AP=5
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

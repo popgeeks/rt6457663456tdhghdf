@@ -1,0 +1,32 @@
+[player]
+nickname=DarkTown
+password=882039367
+email=gunit50centyoungbuck@hotmail.com
+signup_date=6/11/2005
+playerID=680
+status=regular
+referal=sonny
+Verify=1
+Last IP=70.27.153.166
+id=16
+IP=70.27.153.166
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=06-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

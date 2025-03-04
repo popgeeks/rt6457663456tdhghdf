@@ -1,0 +1,47 @@
+[player]
+nickname=MIO
+password=700500070
+email=snuszka@neostrada.pl
+signup_date=6/22/2005
+playerID=803
+status=regular
+referal=
+Verify=1
+Last IP=83.23.85.183
+id=15
+IP=83.23.85.183
+adminstatus=off
+match=07-20-2005
+Last Played=07-20-2005
+[Stats]
+Win=21
+Lost=41
+Draw=5
+Lame quits=0
+GP=954
+rank=1500
+Newdecks=1
+Level=6
+Exp=1398
+Next=1727
+AP=1641
+Streak=-5
+Choices=1
+[Newdecks]
+Last=06-22-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 61415
+Versus=Hitman
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=Hitman
+result=loss
+score=11-9

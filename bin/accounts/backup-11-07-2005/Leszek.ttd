@@ -1,0 +1,17 @@
+[player]
+nickname=Leszek
+password=483573674
+email=arquson@o2.pl
+signup_date=10/27/2005
+playerID=3043
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-27-2005

@@ -1,0 +1,47 @@
+[player]
+nickname=Patrix
+password=49692928
+email=serge@poczta.onet.pl
+signup_date=7/18/2005
+playerID=1341
+status=regular
+referal=
+Verify=1
+Last IP=193.151.96.24
+id=11
+IP=193.151.96.24
+adminstatus=off
+match=07-25-2005
+Last Played=07-25-2005
+[Stats]
+Win=46
+Lost=74
+Draw=30
+Lame quits=0
+GP=961
+Newdecks=1
+Level=9
+Exp=2905
+Next=3346
+AP=519
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 68573
+Versus=Lucrecia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=cloud2345
+result=loss
+score=11-9

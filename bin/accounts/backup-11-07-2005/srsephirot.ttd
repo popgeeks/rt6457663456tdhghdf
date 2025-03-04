@@ -1,0 +1,18 @@
+[player]
+nickname=srsephirot
+password=931132315
+email=davitrix@hotmail.com
+signup_date=8/5/2005
+playerID=1707
+status=regular
+referal=erdavids
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-05-2005

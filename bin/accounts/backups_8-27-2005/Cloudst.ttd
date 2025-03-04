@@ -1,0 +1,48 @@
+[player]
+nickname=Cloudst
+password=gafotass
+email=Pedro_Strife14@hotmail.com
+signup_date=8/6/2005
+playerID=1716
+status=regular
+referal=Strife
+Verify=1
+Last IP=80.59.64.40
+id=25
+IP=80.59.64.40
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=21
+Lost=48
+Draw=8
+Lame quits=1
+GP=511
+Newdecks=1
+Level=5
+Exp=1240
+Next=1301
+AP=2834
+Streak=-2
+SBLost=1
+Choices=1
+SBWin=1
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 88705
+Versus=ColdArmy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=ColdArmy
+result=draw
+score=10-10

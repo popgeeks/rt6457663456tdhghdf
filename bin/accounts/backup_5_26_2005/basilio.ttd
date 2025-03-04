@@ -1,0 +1,45 @@
+[player]
+nickname=basilio
+password=438400625
+email=basilio_zgz@hotmail.com
+signup_date=5/5/2005
+playerID=290
+status=regular
+referal=
+Verify=1
+Last IP=83.44.237.170
+id=19
+IP=83.44.237.170
+adminstatus=off
+match=05-05-2005
+Last Played=05-05-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+rank=1346
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+Streak=1
+Wins=0
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 11335
+Versus=sadico
+Iam=2
+[password]
+failed=3
+[Games]
+Playing=TT
+[game]
+opponent=sadico
+result=loss
+score=7-3

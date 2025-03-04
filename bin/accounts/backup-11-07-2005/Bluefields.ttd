@@ -1,0 +1,43 @@
+[player]
+nickname=Bluefields
+password=261011600
+email=v_pavez@hotmail.com
+signup_date=10/14/2005
+playerID=2830
+status=regular
+referal=Bluefields
+Verify=1
+Last IP=201.215.57.5
+id=90
+IP=201.215.57.5
+adminstatus=off
+match=10-29-2005
+[Stats]
+Win=5
+Lost=14
+Draw=2
+Lame quits=0
+Newdecks=7
+Level=3
+Exp=402
+Next=476
+Streak=-7
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 139696
+Versus=Omni
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Omni
+result=loss
+score=7-3

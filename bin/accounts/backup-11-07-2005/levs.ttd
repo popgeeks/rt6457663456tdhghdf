@@ -1,0 +1,47 @@
+[player]
+nickname=levs
+password=NaclNacl
+email=levsey@iinet.net.au
+signup_date=8/29/2005
+playerID=2003
+status=regular
+referal=blackcat
+Verify=1
+Last IP=203.59.101.125
+id=64
+IP=203.59.101.125
+adminstatus=off
+match=10-25-2005
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=134
+Lost=190
+Draw=22
+Lame quits=2
+Newdecks=49
+Level=16
+Exp=8851
+Next=9651
+Streak=3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 136279
+Versus=Crono22002
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Crono22002
+result=win
+score=6-4

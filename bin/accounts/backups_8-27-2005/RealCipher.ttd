@@ -1,0 +1,33 @@
+[player]
+nickname=RealCipher
+password=125771939
+email=tsula2004@yahoo.com
+signup_date=5/16/2005
+playerID=393
+status=regular
+referal=
+Verify=1
+Last IP=68.239.72.27
+id=6
+IP=68.239.72.27
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=4
+[Newdecks]
+Last=05-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

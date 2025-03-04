@@ -1,0 +1,45 @@
+[player]
+nickname=tuxedomegane
+password=209832906
+email=slowmojoe@hotmail.com
+signup_date=7/10/2005
+playerID=1169
+status=regular
+referal=
+Verify=1
+Last IP=70.20.71.134
+id=24
+IP=70.20.71.134
+adminstatus=off
+match=07-11-2005
+Last Played=07-11-2005
+[Stats]
+Win=1
+Lost=6
+Draw=3
+Lame quits=0
+GP=188
+Newdecks=1
+Level=2
+Exp=129
+Next=248
+AP=137
+Streak=-6
+Choices=1
+[Newdecks]
+Last=07-10-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=DarkJaxyChan
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=7-3

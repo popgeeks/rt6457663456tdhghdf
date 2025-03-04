@@ -1,0 +1,30 @@
+[player]
+nickname=mcilvain86
+password=231799244
+email=bmcilvai@kent.edu
+signup_date=9/27/2005
+playerID=2526
+status=regular
+referal=
+Verify=1
+Last IP=70.104.116.116
+id=116
+IP=70.104.116.116
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

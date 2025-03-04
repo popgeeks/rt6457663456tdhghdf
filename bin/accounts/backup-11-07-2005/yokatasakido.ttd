@@ -1,0 +1,30 @@
+[player]
+nickname=yokatasakido
+password=659753739
+email=jpl_laos@hotmail.com
+signup_date=10/9/2005
+playerID=2722
+status=regular
+referal=jpl_laos@hotmai
+Verify=1
+Last IP=202.62.97.61
+id=39
+IP=202.62.97.61
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-09-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

@@ -1,0 +1,45 @@
+[player]
+nickname=ZeroTakenaka
+password=TSDA
+email=DinotopiaFarmer@aol.com
+signup_date=10/7/2005
+playerID=2692
+status=regular
+referal=Website
+Verify=1
+Last IP=172.162.30.149
+id=18
+IP=172.162.30.149
+adminstatus=off
+match=10-13-2005
+[Stats]
+Win=11
+Lost=23
+Draw=5
+Lame quits=2
+Newdecks=1
+Level=3
+Exp=320
+Next=476
+Streak=-3
+Choices=1
+SBLost=3
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 127990
+Versus=phreakazoid
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=8-2
+[Warnings]
+Kicks=1

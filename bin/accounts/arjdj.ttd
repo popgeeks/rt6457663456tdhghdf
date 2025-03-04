@@ -1,0 +1,26 @@
+[player]
+nickname=arjdj
+password=838245092
+email=arjdj@libero.it
+signup_date=6/29/2005
+playerID=915
+status=regular
+referal=?
+Verify=0
+match=07-29-2006
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-29-2005
+[Play]
+Playing=false
+GameID=
+Versus=lileddie
+Iam=1
+[Games]
+Playing=TT

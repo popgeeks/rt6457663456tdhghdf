@@ -1,0 +1,33 @@
+[player]
+nickname=Indy
+password=949261068
+email=indy_cg@hotmail.com
+signup_date=6/17/2005
+playerID=729
+status=regular
+referal=Enjoy
+Verify=1
+Last IP=217.136.130.100
+id=31
+IP=217.136.130.100
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=06-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

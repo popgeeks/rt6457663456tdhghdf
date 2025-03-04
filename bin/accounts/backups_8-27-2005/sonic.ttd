@@ -1,0 +1,18 @@
+[player]
+nickname=sonic
+password=46869993
+email=hitma_superhero@yahoo.com
+signup_date=7/5/2005
+playerID=1035
+status=regular
+referal=xtreme
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-05-2005

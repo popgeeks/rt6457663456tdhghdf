@@ -1,0 +1,20 @@
+[player]
+nickname=xodinx
+password=473541080
+email=technoslaver@yahoo.com
+signup_date=8/12/2005
+playerID=1825
+status=regular
+referal=prophesy
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-12-2005
+[password]
+failed=2

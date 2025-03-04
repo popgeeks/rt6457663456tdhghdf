@@ -1,0 +1,52 @@
+[player]
+nickname=MasterD
+password=dino16
+email=dionoudespraakste@hotmail.com
+signup_date=7/15/2005
+playerID=1257
+status=regular
+referal=dino16
+Verify=1
+Last IP=83.116.119.135
+id=27
+IP=83.116.119.135
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=710
+Lost=488
+Draw=206
+Lame quits=3
+GP=588
+Newdecks=5
+Level=20
+Exp=14701
+Next=15166
+AP=57263
+SoldCards=18
+cardsgiven=0
+Streak=2
+Choices=1
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=1242
+honor=1
+PCT=80
+AAPOINTS=0
+TRAINED=10
+darky's=5
+[Play]
+Playing=false
+GameID= 93392
+Versus=Saty
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=ZypherX
+result=win
+score=8-2

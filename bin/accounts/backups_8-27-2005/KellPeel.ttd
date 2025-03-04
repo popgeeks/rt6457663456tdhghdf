@@ -1,0 +1,46 @@
+[player]
+nickname=KellPeel
+password=851889013
+email=kellpeel2@wp.pl
+signup_date=6/3/2005
+playerID=595
+status=regular
+referal=
+Verify=1
+Last IP=83.24.104.159
+id=28
+IP=83.24.104.159
+adminstatus=off
+Last Played=06-05-2005
+match=06-05-2005
+[Stats]
+Win=1
+Lost=4
+Draw=2
+Lame quits=0
+GP=172
+rank=1490
+Newdecks=1
+Level=2
+Exp=104
+Next=248
+AP=202
+Streak=-4
+Choices=1
+[Newdecks]
+Last=06-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 28493
+Versus=Radogost
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Radogost
+result=draw
+score=10-10

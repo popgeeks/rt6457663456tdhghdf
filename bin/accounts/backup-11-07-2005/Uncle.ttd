@@ -1,0 +1,19 @@
+[player]
+nickname=Uncle
+password=785226880
+email=Ciod@inbox.lv
+signup_date=10/9/2005
+playerID=2726
+status=regular
+referal=wuzimu
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-09-2005
+[password]
+failed=2

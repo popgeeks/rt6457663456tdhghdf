@@ -1,0 +1,34 @@
+[player]
+nickname=Rambo
+password=814762710
+email=littlesoldier05@hotmail.com
+signup_date=8/26/2005
+playerID=2008
+status=regular
+referal=Rambo
+Verify=1
+Last IP=69.118.57.226
+id=56
+IP=69.118.57.226
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=6
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,32 @@
+[player]
+nickname=SoloPrime
+password=pampers
+email=SoloPrime16@sbcglobal.net
+signup_date=8/7/2005
+playerID=1723
+status=regular
+referal=
+Verify=1
+Last IP=68.120.241.167
+id=21
+IP=68.120.241.167
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=8
+[Newdecks]
+Last=08-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

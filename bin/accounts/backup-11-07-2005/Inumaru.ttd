@@ -1,0 +1,19 @@
+[player]
+nickname=Inumaru
+password=223984896
+email=Lord_Sesshomaru@yahoo.com
+signup_date=9/13/2005
+playerID=2272
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-13-2005
+[password]
+failed=6

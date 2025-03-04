@@ -1,0 +1,20 @@
+[player]
+nickname=Tidus
+password=715177773
+email=lore@msn.com
+signup_date=7/7/2005
+playerID=1086
+status=regular
+referal=ffx
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-07-2005
+[password]
+failed=1

@@ -1,0 +1,73 @@
+[player]
+nickname=SlapNut0101
+password=darkwind
+email=godd1921@yahoo.com
+signup_date=3/30/05
+playerID=72
+status=regular
+Verify=1
+Last IP=68.41.4.183
+id=27
+IP=68.41.4.183
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+[Stats]
+Win=1
+Lost=7
+Draw=1
+Lame quits=0
+GP=168
+rank=1493
+Newdecks=1
+Level=2
+Exp=133
+Next=248
+Streak=-4
+Wins=1
+AP=123
+SBLost=3
+Choices=1
+[Newdecks]
+Last=03-30-2005
+[Totals]
+Level1=4
+Level2=2
+Level3=1
+Level4=3
+Level5=1
+Level6=2
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Geezard=2
+Propagator=1
+Creeps=1
+Jelleye=1
+Imp=1
+Forbidden=1
+Trauma=1
+Granaldo=1
+GIM47N=1
+Blue Dragon=2
+Catoblepas=1
+Red Bat=1
+Funguar=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 22151
+Versus=bahamutzero
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=bahamutzero
+result=loss
+score=11-9

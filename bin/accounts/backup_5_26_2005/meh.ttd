@@ -1,0 +1,94 @@
+[player]
+nickname=meh
+password=584822654
+email=30418511@student.murdoch.edu.au
+signup_date=3/22/05
+playerID=37
+status=regular
+Verify=1
+Last IP=58.6.0.105
+id=18
+IP=58.6.0.105
+adminstatus=off
+Last Played=03-23-2005
+[Stats]
+Win=16
+Lost=28
+Draw=13
+Lame quits=0
+GP=135
+rank=965
+Newdecks=3
+Level=6
+Exp=1636
+Next=1727
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=16
+[Newdecks]
+Last=03-22-2005
+[Totals]
+Level1=2
+Level2=5
+Level3=14
+Level4=8
+Level5=5
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Trauma=1
+Cactuar=0
+Ochu=3
+Red Bat=0
+Blobra=0
+Armadodo=3
+Fastitocalon-F=0
+Snow Lion=0
+Buel=2
+Imp=1
+Wendigo=3
+Anacondaur=1
+Tonberry=2
+Abadon=0
+Ruby Dragon=1
+Tri-Face=3
+Gayla=1
+Glacial Eye=1
+SAM08G=1
+Elvoret=0
+Blue Dragon=2
+Shumi Tribe=0
+Death Claw=0
+Funguar=1
+Mobile Type 8=0
+Wedge, Biggs=2
+Caterchipillar=0
+Chimera=1
+GIM47N=1
+Torama=0
+Forbidden=1
+Granaldo=1
+Vysage=2
+Fastitocalon=1
+Jelleye=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=hitman
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=hitman
+result=win
+score=6-4

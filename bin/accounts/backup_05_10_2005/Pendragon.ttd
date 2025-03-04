@@ -1,0 +1,47 @@
+[player]
+nickname=Pendragon
+password=kayak
+email=Kreatur_of_night@yahoo.com
+signup_date=5/1/2005
+playerID=242
+status=regular
+referal=
+Verify=1
+Last IP=68.194.10.53
+id=17
+IP=68.194.10.53
+adminstatus=off
+match=05-01-2005
+Last Played=05-01-2005
+[Stats]
+Win=0
+Lost=6
+Draw=1
+Lame quits=0
+GP=132
+rank=1341
+Newdecks=3
+Level=2
+Exp=114
+Next=248
+Streak=-5
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=05-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10010
+Versus=Takeshi
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Takeshi
+result=loss
+score=11-9

@@ -1,0 +1,74 @@
+[player]
+nickname=Combat-Sole
+password=saraha
+email=Jason_007@juno.com
+signup_date=3/30/05
+playerID=70
+status=regular
+Verify=1
+Last IP=70.58.100.76
+id=13
+IP=70.58.100.76
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+[Stats]
+Win=16
+Lost=21
+Draw=0
+Lame quits=0
+GP=960
+rank=1218
+Newdecks=1
+Level=4
+Exp=721
+Next=836
+Wins=0
+AP=958
+SBLost=6
+Streak=1
+Choices=1
+SBWin=4
+[Newdecks]
+Last=03-30-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=6
+Level4=2
+Level5=0
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Grendel=1
+Forbidden=1
+Adamantoise=1
+Fujin, Raijin=1
+Death Claw=2
+Cactuar=1
+Buel=1
+Ochu=1
+Caterchipillar=1
+Tri-Face=1
+Granaldo=1
+Oilboyle=2
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 22547
+Versus=JohnWinski
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=JohnWinski
+result=win
+score=12-8

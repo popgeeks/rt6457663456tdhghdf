@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DarkWind_Server
+</name>
+</assembly>
+<members>
+<member name="M:DarkWind_Server.AlternateAdvancement.aatrain(System.String,System.Int32)">
+	<summary>
+ sItems = 0 = lostvar, 1 = callkey (value)
+ </summary>
+	<param name="incoming"></param>
+	<param name="socket"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.AlternateAdvancement.aaset(System.String,System.Int32)">
+	<summary>
+ sItems: 0 = lostvar, 1 = sValue
+ </summary>
+	<param name="incoming"></param>
+	<param name="socket"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.modTransmissions.KickPlayerSocketsInQueue">
+	<summary>
+ Close the socket
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.PlayerAccount.chpass(System.String,System.Int32)">
+	<summary>
+ Change password
+ 
+ 0 = lostvar, 1 = new password, 2 = newsletter, 3 = incentive
+ </summary>
+	<param name="incoming"></param>
+	<param name="socket"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQNotice(System.String)">
+	<summary>
+ sItems(1) = Text
+ 
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQNotify(System.String)">
+	<summary>
+ sItems(1) = Player
+ sItems(2) = Block
+ sItems(3) = Text
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQMatch(System.String)">
+	<summary>
+ sItems(1) = Winner
+ sItems(2) = Winner Rank
+ sItems(3) = Loser
+ sItems(4) = Loser Rank
+ sItems(5) = Winner Score
+ sItems(6) = Loser Score
+ sItems(7) = Game ID (6 for Chinchirorin)
+ sItems(8) = Game Replay ID
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQNotifyAll(System.String)">
+	<summary>
+ sItems(1) = Block
+ sitems(2) = Text
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQAdminChat(System.String)">
+	<summary>
+ sItems(1) = Text
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQUpdateTokens(System.String)">
+	<summary>
+ sItems(1) = Name
+ 
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQAddZombie(System.String)">
+	<summary>
+ sItems(1) = Name
+ 
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.ProcessQueue.PQRemoveZombie(System.String)">
+	<summary>
+ sItems(1) = Name
+ 
+ </summary>
+	<param name="incoming"></param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.MemoryFunctionsDAL.UpdateCardSlots(System.Int32,System.Int32[])">
+	<summary>
+ Updates the Memory board record with new data
+ </summary>
+	<param name="iGameID">The GameID that is being played</param>
+	<param name="iCards">The Board (index) spot integer index 0-23</param>
+	<remarks></remarks>
+</member><member name="M:DarkWind_Server.VeteranAdvancement.aatrain(System.String,System.Int32)">
+	<summary>
+ sItems = 0 = lostvar, 1 = callkey (value)
+ </summary>
+	<param name="incoming"></param>
+	<param name="socket"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

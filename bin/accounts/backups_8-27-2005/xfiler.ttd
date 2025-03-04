@@ -1,0 +1,19 @@
+[player]
+nickname=xfiler
+password=141181647
+email=santivanegas@terra.com.co
+signup_date=5/31/2005
+playerID=570
+status=regular
+referal=vanegas
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-31-2005

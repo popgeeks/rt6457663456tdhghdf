@@ -1,0 +1,32 @@
+[player]
+nickname=kaqx
+password=19185304
+email=jaiuncrayonjaune@hotmail.com
+signup_date=4/25/2005
+playerID=195
+status=regular
+referal=a
+Verify=1
+Last IP=24.122.34.141
+id=20
+IP=24.122.34.141
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-25-2005
+[password]
+failed=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false

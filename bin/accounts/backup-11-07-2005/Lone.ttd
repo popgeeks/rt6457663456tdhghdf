@@ -1,0 +1,32 @@
+[player]
+nickname=Lone
+password=buster
+email=oblivionangel007@hotmail.com
+signup_date=9/17/2005
+playerID=2334
+status=regular
+referal=
+Verify=1
+Last IP=68.222.64.105
+id=44
+IP=68.222.64.105
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=7
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

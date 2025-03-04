@@ -1,0 +1,30 @@
+[player]
+nickname=darkruler
+password=712328314
+email=wlcxbrn@yahoo.com
+signup_date=10/9/2005
+playerID=2743
+status=regular
+referal=hamster
+Verify=1
+Last IP=198.68.237.188
+id=124
+IP=198.68.237.188
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

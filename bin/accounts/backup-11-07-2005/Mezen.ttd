@@ -1,0 +1,41 @@
+[player]
+nickname=Mezen
+password=794211148
+email=cityof_light@usa.com
+signup_date=9/5/2005
+playerID=2116
+status=regular
+referal=
+Verify=1
+Last IP=66.26.71.17
+id=43
+IP=66.26.71.17
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=1
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=15
+Next=100
+Streak=1
+[Newdecks]
+Last=09-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 103035
+Versus=nctl501
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=nctl501
+result=draw
+score=5-5

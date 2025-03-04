@@ -1,0 +1,43 @@
+[player]
+nickname=skizzle
+password=582462250
+email=neversummerandy@hotmail.com
+signup_date=10/2/2005
+playerID=2604
+status=regular
+referal=
+Verify=1
+Last IP=68.70.98.178
+id=118
+IP=68.70.98.178
+adminstatus=off
+match=10-05-2005
+[Stats]
+Win=0
+Lost=9
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=2
+Exp=138
+Next=248
+Streak=-8
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 120957
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=J102Y
+result=loss
+score=7-3

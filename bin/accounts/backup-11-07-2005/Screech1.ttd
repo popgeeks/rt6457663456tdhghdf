@@ -1,0 +1,44 @@
+[player]
+nickname=Screech1
+password=698693513
+email=bigmasterbeaver@yahoo.co.uk
+signup_date=8/29/2005
+playerID=1998
+status=regular
+referal=
+Verify=1
+Last IP=81.77.186.166
+id=11
+IP=81.77.186.166
+adminstatus=off
+match=08-31-2005
+[Stats]
+Win=65
+Lost=117
+Draw=34
+Lame quits=1
+Newdecks=1
+Level=10
+Exp=3678
+Next=3936
+Streak=-3
+Choices=1
+SBLost=4
+[Newdecks]
+Last=08-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 95857
+Iam=1
+Versus=MasterD
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MasterD
+result=loss
+score=14-6

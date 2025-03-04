@@ -1,0 +1,44 @@
+[player]
+nickname=weasel
+password=750348328
+email=ultimatedragons2000@yahoo.com.au
+signup_date=10/28/2005
+playerID=3058
+status=regular
+referal=google
+Verify=1
+Last IP=149.167.215.160
+id=33
+IP=149.167.215.160
+adminstatus=off
+match=11-03-2005
+[Stats]
+Win=39
+Lost=101
+Draw=14
+Lame quits=0
+Newdecks=1
+Level=8
+Exp=2343
+Next=2698
+Streak=1
+Choices=1
+SBLost=2
+[Newdecks]
+Last=10-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 143472
+Versus=shnyder21
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=cent5
+result=win
+score=11-9

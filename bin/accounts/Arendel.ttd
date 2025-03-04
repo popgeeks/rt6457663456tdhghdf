@@ -1,0 +1,10 @@
+[AP]
+AAEXP=0
+[player]
+id=29
+[Play]
+Playing=false
+[Stats]
+Level=1
+Exp=0
+Next=100

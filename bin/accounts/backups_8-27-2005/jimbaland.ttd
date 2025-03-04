@@ -1,0 +1,32 @@
+[player]
+nickname=jimbaland
+password=907592593
+email=jimbaland@gmail.com
+signup_date=7/24/2005
+playerID=1455
+status=regular
+referal=
+Verify=1
+Last IP=203.59.65.245
+id=18
+IP=203.59.65.245
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,47 @@
+[player]
+nickname=Isis
+password=515088557
+email=lina_xv84@hotmail.com
+signup_date=8/4/2005
+playerID=1688
+status=regular
+referal=
+Verify=1
+Last IP=201.250.124.27
+id=59
+IP=201.250.124.27
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=43
+Lost=66
+Draw=13
+Lame quits=0
+GP=2259
+Newdecks=1
+Level=8
+Exp=2534
+Next=2698
+AP=251
+Streak=2
+Choices=1
+[Newdecks]
+Last=08-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID=92993
+Versus=Team
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=SuperGhoul
+result=draw
+score=10-10

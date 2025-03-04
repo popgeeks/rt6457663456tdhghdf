@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+[player]
+id=40
+match=12-11-2005
+[Play]
+Playing=false
+GameID= 170554
+Versus=Demosthenes
+Iam=2
+[Stats]
+Level=1
+Exp=48
+Next=100
+Streak=-5
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=demosthenes
+result=loss
+score=6-4

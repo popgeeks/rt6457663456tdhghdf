@@ -1,0 +1,43 @@
+[player]
+nickname=cardist
+password=13367235
+email=kel_miguel@yahoo.com
+signup_date=10/7/2005
+playerID=2685
+status=regular
+referal=
+Verify=1
+Last IP=219.90.91.43
+id=161
+IP=219.90.91.43
+adminstatus=off
+match=10-10-2005
+[Stats]
+Win=9
+Lost=32
+Draw=3
+Lame quits=1
+Newdecks=1
+Level=5
+Exp=887
+Next=1301
+Streak=-7
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 125204
+Versus=blinker616
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=kidcomet
+result=draw
+score=10-10

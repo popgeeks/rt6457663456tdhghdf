@@ -1,0 +1,33 @@
+[player]
+nickname=RaizerSabre
+password=842923938
+email=raizersabre@ntlworld.com
+signup_date=5/26/2005
+playerID=495
+status=regular
+referal=
+Verify=1
+Last IP=80.6.36.105
+id=30
+IP=80.6.36.105
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=05-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

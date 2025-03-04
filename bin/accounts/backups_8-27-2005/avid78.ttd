@@ -1,0 +1,50 @@
+[player]
+nickname=avid78
+password=846020936
+email=avid8@hotmail.com
+signup_date=7/24/2005
+playerID=1464
+status=regular
+referal=
+Verify=1
+Last IP=220.255.132.113
+id=29
+IP=220.255.132.113
+adminstatus=off
+match=07-28-2005
+Last Played=07-28-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=23
+Lost=49
+Draw=13
+Lame quits=0
+GP=2231
+Newdecks=1
+Level=6
+Exp=1688
+Next=1727
+AP=1406
+Streak=-8
+Choices=1
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 70754
+Versus=Arlo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Arlo
+result=loss
+score=17-3

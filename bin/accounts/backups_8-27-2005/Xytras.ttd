@@ -1,0 +1,55 @@
+[player]
+nickname=Xytras
+password=nugan
+email=bornxxto@yahoo.co.uk
+signup_date=6/17/2005
+playerID=732
+status=regular
+referal=
+Verify=1
+Last IP=68.73.199.171
+id=21
+IP=68.73.199.171
+adminstatus=off
+match=06-26-2005
+Last Played=06-26-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=23
+Lost=20
+Draw=18
+Lame quits=0
+GP=68
+rank=1477
+Newdecks=15
+Level=5
+Exp=990
+Next=1301
+AP=147
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+SBLost=3
+SBWin=1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 42557
+Versus=Seiryukun00
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Seiryukun00
+result=win
+score=7-3

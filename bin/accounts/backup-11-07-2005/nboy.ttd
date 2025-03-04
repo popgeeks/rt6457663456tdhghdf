@@ -1,0 +1,30 @@
+[player]
+nickname=nboy
+password=271471202
+email=nboy@hot.ee
+signup_date=10/26/2005
+playerID=3025
+status=regular
+referal=runescape
+Verify=1
+Last IP=80.235.89.136
+id=21
+IP=80.235.89.136
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

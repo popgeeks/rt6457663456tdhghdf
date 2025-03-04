@@ -1,0 +1,41 @@
+[player]
+nickname=waldo
+password=156568765
+email=stevandam@aol.com
+signup_date=10/15/2005
+playerID=2847
+status=regular
+referal=zed
+Verify=1
+Last IP=172.188.152.150
+id=32
+IP=172.188.152.150
+adminstatus=off
+match=10-26-2005
+[Stats]
+Win=1
+Lost=4
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=113
+Next=248
+Streak=-1
+[Newdecks]
+Last=10-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 137333
+Versus=Zed
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Zed
+result=draw
+score=10-10

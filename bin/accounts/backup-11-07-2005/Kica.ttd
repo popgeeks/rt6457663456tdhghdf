@@ -1,0 +1,30 @@
+[player]
+nickname=Kica
+password=318702757
+email=kica4@wp.pl
+signup_date=10/14/2005
+playerID=2827
+status=regular
+referal=
+Verify=1
+Last IP=212.160.70.80
+id=33
+IP=212.160.70.80
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

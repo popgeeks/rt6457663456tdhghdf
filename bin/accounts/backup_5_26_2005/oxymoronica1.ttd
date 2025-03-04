@@ -1,0 +1,76 @@
+[player]
+nickname=oxymoronica1
+password=grapejuice33
+email=kf554@yahoo.com
+signup_date=4/16/05
+playerID=151
+status=regular
+referal=
+Verify=1
+Last IP=69.81.67.9
+id=11
+IP=69.81.67.9
+adminstatus=off
+match=04-16-2005
+Last Played=04-16-2005
+[Stats]
+Win=5
+Lost=2
+Draw=2
+Lame quits=0
+GP=615
+rank=1208
+Newdecks=1
+Level=2
+Exp=198
+Next=248
+Streak=-1
+Choices=1
+Wins=5
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=1
+Level4=2
+Level5=3
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Imp=1
+Grendel=1
+Jelleye=1
+Mobile Type 8=1
+Elnoyle=1
+GIM47N=1
+Bomb=1
+Elvoret=1
+Trauma=1
+Death Claw=1
+Funguar=1
+Belhelmel=1
+Blobra=0
+Granaldo=1
+Malboro=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5945
+Versus=jedislight
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[Warnings]
+Kicks=2
+[game]
+opponent=jedislight
+result=loss
+score=7-3

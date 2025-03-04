@@ -1,0 +1,45 @@
+[player]
+nickname=Kuru
+password=241098284
+email=sonatafunk@hotmail.com
+signup_date=7/23/2005
+playerID=1428
+status=regular
+referal=Benja
+Verify=1
+Last IP=200.30.200.192
+id=26
+IP=200.30.200.192
+adminstatus=off
+match=07-24-2005
+Last Played=07-24-2005
+[Stats]
+Win=3
+Lost=7
+Draw=1
+Lame quits=0
+GP=212
+Newdecks=1
+Level=2
+Exp=205
+Next=248
+AP=328
+Streak=-4
+Choices=1
+[Newdecks]
+Last=07-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 67217
+Versus=Konvict
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Konvict
+result=loss
+score=16-4

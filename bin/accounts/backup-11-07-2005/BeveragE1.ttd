@@ -1,0 +1,19 @@
+[player]
+nickname=BeveragE1
+password=423867761
+email=BeveragERockS666@hotmail.com
+signup_date=8/29/2005
+playerID=1997
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=08-29-2005
+[password]
+failed=8

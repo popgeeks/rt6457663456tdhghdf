@@ -1,0 +1,45 @@
+[player]
+nickname=clkimble
+password=160262524
+email=cl_copeland@yahoo.com
+signup_date=7/8/2005
+playerID=1123
+status=regular
+referal=
+Verify=1
+Last IP=69.137.123.234
+id=53
+IP=69.137.123.234
+adminstatus=off
+match=07-09-2005
+Last Played=07-09-2005
+[Stats]
+Win=3
+Lost=10
+Draw=4
+Lame quits=0
+GP=202
+Newdecks=1
+Level=2
+Exp=184
+Next=248
+AP=504
+Streak=1
+Choices=1
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 52070
+Versus=pugrin
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=pugrin
+result=draw
+score=5-5

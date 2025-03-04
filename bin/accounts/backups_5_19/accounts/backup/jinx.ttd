@@ -1,0 +1,92 @@
+[player]
+nickname=jinx
+password=newcastle
+email=kaal@btinternet.com
+signup_date=4/8/05
+playerID=115
+status=regular
+Verify=1
+Last IP=217.43.236.22
+id=11
+IP=217.43.236.22
+adminstatus=off
+Last Played=04-17-2005
+match=04-17-2005
+[Stats]
+Win=22
+Lost=27
+Draw=9
+Lame quits=3
+GP=1497
+rank=1747
+Newdecks=3
+Level=6
+Exp=1471
+Next=1727
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+[Newdecks]
+Last=04-08-2005
+[Totals]
+Level1=4
+Level2=4
+Level3=5
+Level4=5
+Level5=0
+Level6=6
+Level7=3
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Jelleye=0
+Tonberry=1
+Creeps=0
+Blood Soul=0
+Anacondaur=0
+Bomb=0
+Elvoret=2
+Armadodo=0
+Blitz=0
+Blobra=1
+Torama=0
+Trauma=0
+Geezard=0
+Snow Lion=1
+Fujin, Raijin=0
+Iguion=1
+Gargantua=1
+T-Rexaur=1
+Mesmerize=3
+Tri-Face=1
+Blue Dragon=2
+Glacial Eye=1
+Imp=2
+Abadon=1
+Red Bat=2
+Gerogero=1
+Sphinxara=2
+Fastitocalon-F=1
+Death Claw=1
+Oilboyle=1
+Ochu=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 6326
+Versus=Rain
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Rain
+result=win
+score=13-7
+[Warnings]
+Kicks=1

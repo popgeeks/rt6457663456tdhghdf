@@ -1,0 +1,49 @@
+[player]
+nickname=khziddy
+password=736502467
+email=niggabugga@yahoo.co.uk
+signup_date=8/20/2005
+playerID=1906
+status=regular
+referal=
+Verify=1
+Last IP=66.73.2.119
+id=54
+IP=66.73.2.119
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=15
+Lost=29
+Draw=11
+Lame quits=0
+GP=755
+Newdecks=11
+Level=5
+Exp=846
+Next=1301
+AP=217
+Streak=-2
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 92561
+Versus=oniz
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=blackcat
+result=draw
+score=10-10

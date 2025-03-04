@@ -1,0 +1,44 @@
+[player]
+nickname=Lei
+password=am0098
+email=lei@evrae.net
+signup_date=5/9/2005
+playerID=344
+status=regular
+referal=
+Verify=1
+Last IP=70.118.21.251
+id=9
+IP=70.118.21.251
+adminstatus=off
+match=05-09-2005
+Last Played=05-09-2005
+[Stats]
+Win=3
+Lost=1
+Draw=0
+Lame quits=2
+GP=80
+rank=1703
+Newdecks=1
+Level=1
+Exp=48
+Next=100
+Streak=1
+[Newdecks]
+Last=05-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 13744
+Versus=Kaoru
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Kaoru
+result=win
+score=6-4

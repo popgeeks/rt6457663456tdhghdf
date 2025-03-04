@@ -1,0 +1,58 @@
+[player]
+nickname=gpkyo
+password=445583402
+email=terrangoliath@hotmail.com
+signup_date=4/3/05
+playerID=86
+status=regular
+Verify=1
+Last IP=206.116.170.128
+id=12
+IP=206.116.170.128
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-03-2005
+[Totals]
+Level1=1
+Level2=1
+Level3=5
+Level4=4
+Level5=2
+Level6=1
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Tonberry=1
+Bite Bug=1
+Turtapod=1
+Cactuar=2
+Elastoid=1
+Ochu=1
+Death Claw=1
+Anacondaur=1
+Torama=1
+Blue Dragon=1
+X-ATM092=1
+Red Giant=1
+Blitz=1
+Iron Giant=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

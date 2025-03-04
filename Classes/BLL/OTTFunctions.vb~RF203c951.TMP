@@ -1,0 +1,1266 @@
+Public Class OTTFunctions
+    Inherits OTTFunctionsDAL
+
+    Public Sub OTTModule(ByVal sCommand As String, ByVal incoming As String, ByVal socket As Integer)
+        Try
+            Select Case sCommand
+                Case "OTTPLACEAT"
+                    Call OTTPlaceCard(incoming, socket)
+                Case "OTTCARDDISCARD"
+                    Call OTTDiscard(socket)
+                Case "OTTSURRENDER"
+                    Call OTTSurrender(socket)
+                Case "OTTSTALEMATE"
+                    Call OTTStalemate(socket)
+                Case "OTTENDGAME"
+                    Call ottendgame(socket)
+            End Select
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "OTTModule")
+        End Try
+    End Sub
+
+    Private Sub OTTEndgame(ByVal socket As Integer)
+        Dim oChatFunctions As New ChatFunctions
+
+        Try
+            Dim oTables As New TableFunctions
+            Dim iTableID As Integer = oTables.findplayerstable(frmSystray.Winsock(socket).Tag)
+            Dim iGameID As Integer = tables(iTableID).gameid
+
+            If iGameID = 0 Then Throw New Exception
+            GameID = iGameID
+
+            LoadRecord(iGameID)
+
+            If TimeoutDate < Date.Now Then
+                'The game has expired
+                Call GameOver(IIf(PlayerID(frmSystray.Winsock(socket).Tag) = 1, 1, 2), True)
+            Else
+                oChatFunctions.unisend("CHAT", String.Concat(frmSystray.Winsock(socket).Tag, " !endgame [End Game]"))
+                Call blockchat(String.Empty, "Request", "An endgame request has been sent to the administrators that are online as 4 minutes have not yet elapsed.", socket)
+            End If
+        Catch ex As Exception
+            oChatFunctions.uniwarn(String.Concat(frmSystray.Winsock(socket).Tag, " sent an invalid stalemate request."))
+        End Try
+    End Sub
+
+    Private Sub OTTSurrender(ByVal socket As Integer)
+        Try
+            Dim oPlayerAccount As New PlayerAccountDAL(frmSystray.Winsock(socket).Tag)
+
+            If oPlayerAccount.Gold < 100 Then
+                Call blockchat(frmSystray.Winsock(socket).Tag, "Surrender", "You do not have enough gold to surrender. Surrenders cost 100GP.")
+                Exit Sub
+            End If
+
+            Dim oTables As New TableFunctions
+            Dim iGameID As Integer = tables(oTables.findplayerstable(frmSystray.Winsock(socket).Tag)).gameid
+
+            If iGameID = 0 Then Throw New Exception
+
+            Call gpadd(frmSystray.Winsock(socket).Tag, -100, True)
+            Call historyadd(frmSystray.Winsock(socket).Tag, 6, frmSystray.Winsock(socket).Tag & " surrendered on " & DateString & " " & TimeString & " - GameID: " & iGameID)
+
+            Call DalNew(iGameID)
+            GameOver(IIf(Player1 = frmSystray.Winsock(socket).Tag, 2, 1), False)
+        Catch ex As Exception
+            Dim oChatFunctions As New ChatFunctions
+            oChatFunctions.uniwarn(frmSystray.Winsock(socket).Tag & " sent an invalid game surrender packet.")
+        End Try
+    End Sub
+
+    Private Sub OTTStalemate(ByVal socket As Integer)
+        Try
+            Dim oTables As New TableFunctions
+            Dim iTableID As Integer = oTables.findplayerstable(frmSystray.Winsock(socket).Tag)
+            Dim iGameID As Integer = tables(iTableID).gameid
+
+            If iGameID = 0 Then Throw New Exception
+            GameID = iGameID
+
+            DalNew(GameID)
+
+            Dim iPlayerID As Integer = PlayerID(frmSystray.Winsock(socket).Tag)
+
+            If iPlayerID = 1 Then
+                tables(iTableID).stalemate1 = True
+            ElseIf iPlayerID = 2 Then
+                tables(iTableID).stalemate2 = True
+            Else
+                Throw New Exception
+            End If
+
+            If tables(iTableID).stalemate1 = True And tables(iTableID).stalemate2 = True Then
+                GameOver(3, False)
+            Else
+                Send(String.Empty, "GAMESTALEMATE", IIf(iPlayerID = 1, PlayerSocket(2), PlayerSocket(1)))
+            End If
+        Catch ex As Exception
+            Call blockchat(String.Empty, "Fail", "The server could not process your request for a stalemate because it was invalid. If your game is hung, send an end game request.  If it has been over 4 minutes, the game will auto-terminate.", socket)
+            'Call errorsub(ex.ToString, "OTTStalemate")
+        End Try
+    End Sub
+
+    Private Sub OTTPlaceCard(ByVal incoming As String, ByVal socket As Integer)
+        Dim oTableFunctions As New TableFunctions
+        Dim oChatFunctions As New ChatFunctions
+
+        Try
+            Dim sDivide() As String = incoming.Split(" ")
+            Dim iSquareID As Integer = Val(sDivide(1))
+
+            Dim iGameID As Integer = tables(oTableFunctions.findplayerstable(frmSystray.Winsock(socket).Tag)).gameid
+
+            Call DalNew(iGameID)
+
+            Dim iThisPlrID As Integer = PlayerID(frmSystray.Winsock(socket).Tag)
+            Dim sCardPlayed As String = Player_Hand(iThisPlrID, Player_Index(iThisPlrID) - 1)
+
+            If IsPlayable(iSquareID) = False Then
+                Dim oDatabaseFunctions As New DatabaseFunctions
+
+                'Call quit("QUIT", socket, True)
+                Call blockchat(String.Empty, "Game Ended", String.Concat("Your match was ended because ", frmSystray.Winsock(socket).Tag, " tried to place a card on the OTT board that already had a card on it."), PlayerSocket(1))
+                Call blockchat(String.Empty, "Game Ended", String.Concat("Your match was ended because ", frmSystray.Winsock(socket).Tag, " tried to place a card on the OTT board that already had a card on it."), PlayerSocket(2))
+                oTableFunctions.EndMatch("ENDMATCH " & frmSystray.Winsock(socket).Tag, 0, False, True)
+                oChatFunctions.uniwarn(String.Concat(frmSystray.Winsock(socket).Tag, " tried to place a card on the OTT board that already had a card on it.  GameID: ", GameID))
+                oDatabaseFunctions.HistoryInsert(frmSystray.Winsock(socket).Tag, "2", String.Concat(frmSystray.Winsock(socket).Tag, " tried to place a card on the OTT board that already had a card on it.  GameID: ", GameID))
+                Exit Sub
+            End If
+
+            Board(iSquareID) = sCardPlayed
+            HistoryInsert(iSquareID, sCardPlayed, String.Concat(frmSystray.Winsock(socket).Tag, " placed ", sCardPlayed, " on the board."))
+
+            Select Case iThisPlrID
+                Case 1
+                    CardColor(iSquareID) = "blue"
+                    Send(String.Empty, String.Concat("OTTPLACEDCARD ", iSquareID, " ", sCardPlayed.Replace(" ", "%20")), GetSocket(Player2))
+                Case 2
+                    CardColor(iSquareID) = "red"
+                    Send(String.Empty, String.Concat("OTTPLACEDCARD ", iSquareID, " ", sCardPlayed.Replace(" ", "%20")), GetSocket(Player1))
+            End Select
+
+            OTTAnalyze(iSquareID, sCardPlayed, iThisPlrID)
+        Catch ex As Exception
+            Call errorsub(ex.Message, "OTTPlaceCard")
+            'Call blockchat(String.Empty, "Game Ended", String.Concat("Your match was ended because an error had occured.  A notice has been dispatched to the server operator.  Please try again."), PlayerSocket(1))
+            'Call blockchat(String.Empty, "Game Ended", String.Concat("Your match was ended because an error had occured.  A notice has been dispatched to the server operator.  Please try again."), PlayerSocket(2))
+            'oTableFunctions.EndMatch("ENDMATCH " & frmSystray.Winsock(socket).Tag, 0, False, True)
+        End Try
+    End Sub
+
+    Private Sub OTTDiscard(ByVal socket As Integer)
+        Dim oTableFunctions As New TableFunctions
+
+        Try
+            Dim iGameID As Integer = tables(oTableFunctions.findplayerstable(frmSystray.Winsock(socket).Tag)).gameid
+
+            Call DalNew(iGameID)
+            Dim iThisPlrId As Integer = PlayerID(frmSystray.Winsock(socket).Tag)
+
+            If Discards(iThisPlrId) = 0 Then
+                'Kill match and give warning
+                'Dim oChatFunctions As New ChatFunctions
+                Call blockchat(String.Empty, "Discard", "You cannot discard anymore cards", socket)
+                'oTableFunctions.EndMatch("ENDMATCH " & frmSystray.Winsock(socket).Tag, 0, False, True)
+                'oChatFunctions.uniwarn(String.Concat("WARNING ADMINS! ", frmSystray.Winsock(socket).Tag, " tried to discard one too many cards!"))
+                'Call historyadd(frmSystray.Winsock(socket).Tag, 2, String.Concat(frmSystray.Winsock(socket).Tag, " tried to discard one too many cards! (OTT)"))
+                Exit Sub
+            End If
+
+            Discards(iThisPlrId) -= 1
+            HistoryInsert(-1, String.Empty, String.Concat(frmSystray.Winsock(socket).Tag, " discarded"))
+            Update()
+            Send(String.Empty, String.Concat("OTTCARDDRAW ", Omni_NextCard(iThisPlrId, False), " ", Omni_NextCard(iThisPlrId, True)), socket)
+        Catch ex As Exception
+            Call errorsub(ex.Message, "OTTDiscard")
+            'Call blockchat(String.Empty, "Game Ended", String.Concat("Your match was ended because an error had occured.  A notice has been dispatched to the server operator.  Please try again."), PlayerSocket(1))
+            'Call blockchat(String.Empty, "Game Ended", String.Concat("Your match was ended because an error had occured.  A notice has been dispatched to the server operator.  Please try again."), PlayerSocket(2))
+            'oTableFunctions.EndMatch("ENDMATCH " & frmSystray.Winsock(socket).Tag, 0, False, True)
+        End Try
+    End Sub
+
+    Public Function OTTChallengeYes(ByVal incoming As String, ByVal socket As Integer, Optional ByVal rulelist As String = "") As String
+        Dim oOTTFunctions As New OTTFunctions
+        Try
+            'omnichallengeyes("OMNICHALLENGEYES " & tables(Val(tableID)).player1 & " " & tables(Val(tableID)).rulelist, socket, tables(Val(tableID)).rulelist))
+
+            Dim oGameFunctions As New GameFunctions
+            Dim sDivide() As String = incoming.Split(" ")
+            Dim sChallengeYesNick As String = sDivide(1)
+
+            Dim sRuleDivide() As String = rulelist.Split(" ")
+            Blocks = Val(sRuleDivide(1))
+
+            GameID = oGameFunctions.NewGameID()
+            OTTChallengeYes = GameID
+
+            Select Case sRuleDivide(0)
+                Case "OMNITT_RANDOM"
+                    Type = "Random"
+                Case "OMNITT_PLAYER"
+                    Type = "Player"
+            End Select
+
+            Send(sChallengeYesNick, String.Concat("CHALLENGEYES ", frmSystray.Winsock(socket).Tag))
+            Send(sChallengeYesNick, String.Concat("GAMEOPPONENT ", frmSystray.Winsock(socket).Tag))
+            Send(frmSystray.Winsock(socket).Tag, String.Concat("GAMEOPPONENT ", sChallengeYesNick))
+
+            Player1 = sChallengeYesNick
+            Player2 = frmSystray.Winsock(socket).Tag
+
+            If Type = "Random" Then
+                GetRandomCards(1)
+                GetRandomCards(2)
+            Else
+                GetRandomPlayerCards(1)
+                GetRandomPlayerCards(2)
+            End If
+
+            'Find card blocks
+
+            Dim oChatFunctions As New ChatFunctions
+            Call oChatFunctions.unisend("CHALLENGESTART", String.Concat(sChallengeYesNick, " ", frmSystray.Winsock(socket).Tag, " 2"))
+
+            'If both players are ready, define who starts first and notify both players
+            Dim iGameStarter As Integer = oGameFunctions.PickStarter(False)
+
+
+            Send(String.Empty, String.Concat("OTTSTARTER ", iGameStarter), GetSocket(sChallengeYesNick))
+            Send(String.Empty, String.Concat("OTTSTARTER ", iGameStarter), socket)
+
+            GetRandomBlocks()
+            GameInsert()
+
+            If iGameStarter = 1 Then
+                Send(String.Empty, String.Concat("OTTCARDDRAW ", Omni_NextCard(1, False), " ", Omni_NextCard(1, True)), GetSocket(sChallengeYesNick))
+            Else
+                Send(String.Empty, String.Concat("OTTCARDDRAW ", Omni_NextCard(2, False), " ", Omni_NextCard(2, True)), socket)
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "ottchallengeyes")
+            OTTChallengeYes = String.Empty
+        Finally
+            oOTTFunctions = Nothing
+        End Try
+    End Function
+
+    Private Function Omni_NextCard(ByVal iPlayerID As Integer, ByVal blnAdvance As Boolean) As String
+        Select Case iPlayerID
+            Case 1
+                If blnAdvance = True Then
+                    Player_Index(1) += 1
+                    UpdateIndex()
+                End If
+
+                Return Player_Hand(1, Player_Index(1)).Replace(" ", "%20")
+            Case 2
+                If blnAdvance = True Then
+                    Player_Index(2) += 1
+                    UpdateIndex()
+                End If
+
+                Return Player_Hand(2, Player_Index(2)).Replace(" ", "%20")
+            Case Else
+                Return String.Empty
+        End Select
+    End Function
+
+    Private Sub OTTAnalyze(ByVal iSquareID As Integer, ByVal sCardPlayed As String, ByVal iThisPlrID As Integer)
+        Try
+            Call OTTSameSub(iSquareID, sCardPlayed, iThisPlrID)
+            Call OTTPlusSub(iSquareID, sCardPlayed, iThisPlrID)
+            Call OTTBasicSub(iSquareID, sCardPlayed, iThisPlrID)
+
+            FindOttSendPoints()
+            Update()
+
+            If IsGameOver() = False Then
+                If iThisPlrID = 1 Then
+                    Send(String.Empty, "OTTTURNOVER", PlayerSocket(1))
+                    Send(String.Empty, "OTTYOURTURN", PlayerSocket(2))
+                    Send(String.Empty, String.Concat("OTTCARDDRAW ", Omni_NextCard(2, False), " ", Omni_NextCard(2, True)), PlayerSocket(2))
+                Else
+                    Send(String.Empty, "OTTTURNOVER", PlayerSocket(2))
+                    Send(String.Empty, "OTTYOURTURN", PlayerSocket(1))
+                    Send(String.Empty, String.Concat("OTTCARDDRAW ", Omni_NextCard(1, False), " ", Omni_NextCard(1, True)), PlayerSocket(1))
+                End If
+            Else
+                GameOver(0, False)
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.Message, "OTTAnalyze")
+        End Try
+    End Sub
+
+    Public Sub GameOver(ByVal iSkip As Integer, ByVal blnTimeout As Boolean)
+        Try
+            Dim blnSkip As Boolean = False
+            Dim oStats As New Statistics
+            Dim oGameFunctions As New GameFunctions
+            Dim iWinner_Gold As Integer, iLoser_Gold As Integer, sWinner As String = String.Empty, sLoser As String = String.Empty
+
+            Select Case iSkip
+                Case 3
+                    'FoundEmpty = False
+                    Player1_Score = 10
+                    Player2_Score = 10
+                    Surrender = 1
+                    HistoryInsert(-1, String.Empty, "Stalemate")
+                    blnSkip = True
+                Case 1
+                    'FoundEmpty = False
+                    Player1_Score = 15
+                    Player2_Score = 5
+                    Surrender = 1
+
+                    If blnTimeout = False Then
+                        Call blockchat(Player1, "Surrender", String.Concat(Player2, " surrendered and lost."))
+                        Call blockchat(Player2, "Surrender", String.Concat(Player2, " surrendered and lost."))
+                        HistoryInsert(-1, String.Empty, String.Concat(Player2, " surrendered and lost."))
+                    End If
+
+                    blnSkip = True
+                Case 2
+                    Player1_Score = 5
+                    Player2_Score = 15
+                    Surrender = 1
+
+                    If blnTimeout = False Then
+                        Call blockchat(Player1, "Surrender", String.Concat(Player1, " surrendered and lost."))
+                        Call blockchat(Player2, "Surrender", String.Concat(Player1, " surrendered and lost."))
+                        HistoryInsert(-1, String.Empty, String.Concat(Player1, " surrendered and lost."))
+                    End If
+
+                    blnSkip = True
+            End Select
+
+            If Player1_Score > Player2_Score Then
+                'Player 1 won
+                Call playerrankings(Player1, Player2, "ott")
+                Call laddersub(Player1, Player2, CStr(Player1_Score), CStr(Player2_Score), GameID, False, True, "ott")
+
+                If blnSkip = False Then
+                    iLoser_Gold = oServerConfig.LossRate * (1 + Val(getAAMod(Player2, "golden")))
+                    iLoser_Gold = Int(iLoser_Gold * (1 + (Val(getgpbonus(Player2)))))
+                    sLoser = Player2
+
+                    iWinner_Gold = oServerConfig.WinRate * (1 + Val(getAAMod(Player1, "golden")))
+                    iWinner_Gold = Int(iWinner_Gold * (1 + (Val(getgpbonus(Player1)))))
+                    sWinner = Player1
+                End If
+
+                oStats.CompileStats(Player1, Player2, "ott", False)
+            ElseIf Player1_Score < Player2_Score Then
+                'Player 2 won
+
+                Call playerrankings(Player2, Player1, "ott")
+                Call laddersub(Player2, Player1, CStr(Player2_Score), CStr(Player1_Score), GameID, False, True, "ott")
+
+                If blnSkip = False Then
+                    iLoser_Gold = oServerConfig.LossRate * (1 + Val(getAAMod(Player1, "golden")))
+                    iLoser_Gold = Int(iLoser_Gold * (1 + (Val(getgpbonus(Player1)))))
+                    sLoser = Player1
+
+                    iWinner_Gold = oServerConfig.WinRate * (1 + Val(getAAMod(Player2, "golden")))
+                    iWinner_Gold = Int(iWinner_Gold * (1 + (Val(getgpbonus(Player2)))))
+                    sWinner = Player2
+                End If
+
+                oStats.CompileStats(Player2, Player1, "ott", False)
+            ElseIf Player1_Score = Player2_Score Then
+                'Draw game
+                If blnSkip = False Then
+                    Call oGameFunctions.drawevent(Player1, Player2, GameID, True, "ott", Me.GameLength)
+                Else
+                    Call laddersub(Player1, Player2, Player1_Score.ToString, Player2_Score.ToString, GameID, False, True, "ott")
+                End If
+
+                oStats.CompileStats(Player1, Player2, "ott", True)
+            End If
+
+            Send(String.Empty, "OTTCLOSE", PlayerSocket(1))
+            Send(String.Empty, "OTTCLOSE", PlayerSocket(2))
+
+            If Me.GameLength >= oServerConfig.TurboMinimum And Player1_Score <> 10 Then
+                Call gpadd(sWinner, iWinner_Gold, True)
+                Call gpadd(sLoser, iLoser_Gold, True)
+
+                Call oGameFunctions.GiveExp(sWinner, IIf(Me.Winner = 1, Player1_Score, Player2_Score), sLoser, IIf(Me.Winner = 1, Player1_Score, Player2_Score), GameID, Nothing, False, "tt")
+            ElseIf Player1_Score <> 10 Then
+                Call blockchat(String.Empty, "Warning", "You did not earn gold, active points, or experience because you and your opponent played too fast.  Turbo play is no longer rewarded.", Me.PlayerSocket(1))
+                Call blockchat(String.Empty, "Warning", "You did not earn gold, active points, or experience because you and your opponent played too fast.  Turbo play is no longer rewarded.", Me.PlayerSocket(2))
+            End If
+
+            EndGame()
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "OTT.GameOver")
+        Finally
+            Dim oTableFunctions As New TableFunctions
+            Call oTableFunctions.ClosePlayerTable(Player1)
+        End Try
+    End Sub
+
+    Private Sub OTTBasicSub(ByVal iSquareID As Integer, ByVal sCardPlayed As String, ByVal iThisPlrId As Integer)
+        Select Case iSquareID
+            Case 0
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 1, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 5, "Up")
+            Case 1
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 0, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 6, "Up")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 2, "Left")
+            Case 2
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 1, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 3, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 7, "Up")
+            Case 3
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 2, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 4, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 8, "Up")
+            Case 4
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 3, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 9, "Up")
+            Case 5
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 0, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 6, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 10, "Up")
+            Case 6
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 1, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 5, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 7, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 11, "Up")
+            Case 7
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 2, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 6, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 8, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 12, "Up")
+            Case 8
+                'Basic Checking
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 3, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 7, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 9, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 13, "Up")
+            Case 9
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 4, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 8, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 14, "Up")
+            Case 10
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 5, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 11, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 15, "Up")
+            Case 11
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 6, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 10, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 12, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 16, "Up")
+            Case 12
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 7, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 11, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 13, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 17, "Up")
+            Case 13
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 8, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 12, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 14, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 18, "Up")
+            Case 14
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 9, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 13, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 19, "Up")
+            Case 15
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 10, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 16, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 20, "Up")
+            Case 16
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 11, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 15, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 17, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 21, "Up")
+            Case 17
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 12, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 16, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 18, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 22, "Up")
+            Case 18
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 13, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 17, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 19, "Left")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 23, "Up")
+            Case 19
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 14, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 18, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Down", 24, "Up")
+            Case 20
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 15, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 21, "Left")
+            Case 21
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 16, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 20, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 22, "Left")
+            Case 22
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 17, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 21, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 23, "Left")
+            Case 23
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 18, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 22, "Right")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Right", 24, "Left")
+            Case 24
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Up", 19, "Down")
+                OTTMorePower(iSquareID, iThisPlrId, sCardPlayed, "Left", 23, "Right")
+        End Select
+    End Sub
+
+    Private Sub OTTMorePower(ByVal iSquareID As Integer, ByVal iThisPlrID As Integer, ByVal sCardPlayed As String, ByVal sPlayedSpot_Direction As String, ByVal iNeighborID As Integer, ByVal sNeighbor_Direction As String)
+        Try
+            Dim ignoremove As Boolean = False
+            Dim oPlacedCard As New DarkWindCard(sCardPlayed)
+
+            If oPlacedCard.DirectionValue(sPlayedSpot_Direction) = 0 Then ignoremove = True
+
+            If CardColor(iNeighborID) = "blue" And iThisPlrID = 1 Then ignoremove = True
+            If CardColor(iNeighborID) = "red" And iThisPlrID = 2 Then ignoremove = True
+            If IsBlock(iSquareID) = True Or IsEmpty(iSquareID) = True Then ignoremove = True
+            If IsBlock(iNeighborID) = True Or IsEmpty(iNeighborID) = True Then ignoremove = True
+
+            If ignoremove = False Then
+                Dim oNeighborCard As New DarkWindCard(Board(iNeighborID))
+
+                If oPlacedCard.DirectionValue(sPlayedSpot_Direction) > oNeighborCard.DirectionValue(sNeighbor_Direction) Then
+                    'Card is stronger, replace the color
+
+                    If iThisPlrID = 1 Then
+                        CardColor(iNeighborID) = "blue"
+                    Else
+                        CardColor(iNeighborID) = "red"
+                    End If
+
+                    Call SendOTTCardFlip(iSquareID, iNeighborID)
+                    Call SendOTTCardData(iNeighborID)
+                End If
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "ottMorePower")
+        End Try
+    End Sub
+
+    Private Sub FindOttSendPoints()
+        Try
+            'Re-Calculate the player points and send them to the players
+
+            Player1_Score = 0
+            Player2_Score = 0
+
+            For x As Integer = 0 To 24
+                Select Case CardColor(x)
+                    Case "blue"
+                        Player1_Score += 1
+                    Case "red"
+                        Player2_Score += 1
+                End Select
+            Next x
+
+            Send(String.Empty, String.Concat("OTTPOINTS ", Player1_Score, " ", Player2_Score), PlayerSocket(1))
+            Send(String.Empty, String.Concat("OTTPOINTS ", Player1_Score, " ", Player2_Score), PlayerSocket(2))
+        Catch ex As Exception
+            Call errorsub(ex.Message, "FindOttSendPoints")
+        End Try
+    End Sub
+
+    Private Sub SendOTTCardFlip(ByVal iBoardID As Integer, ByVal iNeighborID As Integer)
+        Dim status As Integer = 1
+
+        Select Case iNeighborID
+            Case 0
+                If iBoardID = 5 Then status = 2
+            Case 1
+                If iBoardID = 6 Then status = 2
+            Case 2
+                If iBoardID = 7 Then status = 2
+            Case 3
+                If iBoardID = 8 Then status = 2
+            Case 4
+                If iBoardID = 9 Then status = 2
+            Case 5
+                If iBoardID = 0 Or iBoardID = 10 Then status = 2
+            Case 6
+                If iBoardID = 1 Or iBoardID = 11 Then status = 2
+            Case 7
+                If iBoardID = 2 Or iBoardID = 12 Then status = 2
+            Case 8
+                If iBoardID = 3 Or iBoardID = 13 Then status = 2
+            Case 9
+                If iBoardID = 4 Or iBoardID = 14 Then status = 2
+            Case 10
+                If iBoardID = 5 Or iBoardID = 15 Then status = 2
+            Case 11
+                If iBoardID = 6 Or iBoardID = 16 Then status = 2
+            Case 12
+                If iBoardID = 7 Or iBoardID = 17 Then status = 2
+            Case 13
+                If iBoardID = 8 Or iBoardID = 18 Then status = 2
+            Case 14
+                If iBoardID = 9 Or iBoardID = 19 Then status = 2
+            Case 15
+                If iBoardID = 10 Or iBoardID = 20 Then status = 2
+            Case 16
+                If iBoardID = 11 Or iBoardID = 21 Then status = 2
+            Case 17
+                If iBoardID = 12 Or iBoardID = 22 Then status = 2
+            Case 18
+                If iBoardID = 13 Or iBoardID = 23 Then status = 2
+            Case 19
+                If iBoardID = 14 Or iBoardID = 14 Then status = 2
+            Case 20
+                If iBoardID = 15 Then status = 2
+            Case 21
+                If iBoardID = 16 Then status = 2
+            Case 22
+                If iBoardID = 17 Then status = 2
+            Case 23
+                If iBoardID = 18 Then status = 2
+            Case 24
+                If iBoardID = 19 Then status = 2
+        End Select
+
+        Send(String.Empty, String.Concat("OTTCARDFLIP ", iNeighborID, " ", status, " ", CardColor(iNeighborID)), PlayerSocket(1))
+        Send(String.Empty, String.Concat("OTTCARDFLIP ", iNeighborID, " ", status, " ", CardColor(iNeighborID)), PlayerSocket(2))
+    End Sub
+
+    Private Sub OTTSameSub(ByVal iSquareID As Integer, ByVal sCardPlayed As String, ByVal iThisPlrId As Integer)
+        Call OTTSame(iSquareID, sCardPlayed, iThisPlrId)
+    End Sub
+
+    Private Sub OTTPlusSub(ByVal iSquareID As Integer, ByVal sCardPlayed As String, ByVal iThisPlrId As Integer)
+        Call OTTPlus(iSquareID, sCardPlayed, iThisPlrId)
+    End Sub
+
+    Private Sub OTTSame(ByVal iSquareID As Integer, ByVal sCardPlayed As String, ByVal iThisPlrId As Integer)
+        Try
+            'Check Right(0), Left(1) and Down(0), Up(3)
+            Select Case iSquareID
+                Case 0
+                    'Check Right(0), Left(1) and Down(0), Up(3)
+                    Call OTTCheckSame(sCardPlayed, 0, "Right", "Down", 1, "Left", 5, "Up", iThisPlrId)
+                Case 1
+                    Call OTTCheckSame(sCardPlayed, 1, "Left", "Down", 0, "Right", 6, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 1, "Left", "Right", 0, "Right", 2, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 1, "Right", "Down", 2, "Left", 6, "Up", iThisPlrId)
+                Case 2
+                    'Check Left(2), Right(1) and Down(2), Up(5)
+                    Call OTTCheckSame(sCardPlayed, 2, "Left", "Down", 1, "Right", 7, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 2, "Left", "Right", 1, "Right", 3, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 2, "Right", "Down", 3, "Left", 7, "Up", iThisPlrId)
+                Case 3
+                    Call OTTCheckSame(sCardPlayed, 3, "Left", "Down", 2, "Right", 8, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 3, "Left", "Right", 2, "Right", 4, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 3, "Right", "Down", 4, "Left", 8, "Up", iThisPlrId)
+                Case 4
+                    Call OTTCheckSame(sCardPlayed, 4, "Left", "Down", 3, "Right", 9, "Up", iThisPlrId)
+                Case 5
+                    Call OTTCheckSame(sCardPlayed, 5, "Up", "Right", 0, "Down", 6, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 5, "Right", "Down", 6, "Left", 10, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 5, "Up", "Down", 0, "Down", 10, "Up", iThisPlrId)
+                Case 6
+                    Call OTTCheckSame(sCardPlayed, 6, "Up", "Down", 1, "Down", 11, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 6, "Left", "Down", 5, "Right", 11, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 6, "Left", "Right", 5, "Right", 7, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 6, "Right", "Down", 7, "Left", 11, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 6, "Up", "Right", 1, "Down", 7, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 6, "Up", "Left", 1, "Down", 5, "Right", iThisPlrId)
+                Case 7
+                    Call OTTCheckSame(sCardPlayed, 7, "Up", "Down", 2, "Down", 12, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 7, "Left", "Down", 6, "Right", 12, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 7, "Left", "Right", 6, "Right", 8, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 7, "Right", "Down", 8, "Left", 12, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 7, "Up", "Right", 2, "Down", 8, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 7, "Up", "Left", 2, "Down", 6, "Right", iThisPlrId)
+                Case 8
+                    Call OTTCheckSame(sCardPlayed, 8, "Up", "Down", 3, "Down", 13, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 8, "Left", "Down", 7, "Right", 13, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 8, "Left", "Right", 7, "Right", 9, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 8, "Right", "Down", 9, "Left", 13, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 8, "Up", "Right", 3, "Down", 9, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 8, "Up", "Left", 3, "Down", 7, "Right", iThisPlrId)
+                Case 9
+                    Call OTTCheckSame(sCardPlayed, 9, "Up", "Down", 4, "Down", 14, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 9, "Left", "Down", 8, "Right", 14, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 9, "Up", "Left", 4, "Down", 8, "Right", iThisPlrId)
+                Case 10
+                    Call OTTCheckSame(sCardPlayed, 10, "Up", "Down", 5, "Down", 15, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 10, "Right", "Down", 11, "Left", 15, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 10, "Right", "Up", 11, "Left", 5, "Down", iThisPlrId)
+                Case 11
+                    Call OTTCheckSame(sCardPlayed, 11, "Up", "Down", 6, "Down", 16, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 11, "Left", "Down", 10, "Right", 16, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 11, "Left", "Right", 10, "Right", 12, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 11, "Right", "Down", 12, "Left", 16, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 11, "Up", "Right", 6, "Down", 12, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 11, "Up", "Left", 6, "Down", 10, "Right", iThisPlrId)
+                Case 12
+                    Call OTTCheckSame(sCardPlayed, 12, "Up", "Down", 7, "Down", 17, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 12, "Left", "Down", 11, "Right", 17, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 12, "Left", "Right", 11, "Right", 13, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 12, "Right", "Down", 13, "Left", 17, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 12, "Up", "Right", 7, "Down", 13, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 12, "Up", "Left", 7, "Down", 11, "Right", iThisPlrId)
+                Case 13
+                    Call OTTCheckSame(sCardPlayed, 13, "Up", "Down", 8, "Down", 18, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 13, "Left", "Down", 12, "Right", 18, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 13, "Left", "Right", 12, "Right", 14, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 13, "Right", "Down", 14, "Left", 18, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 13, "Up", "Right", 8, "Down", 14, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 13, "Up", "Left", 8, "Down", 12, "Right", iThisPlrId)
+                Case 14
+                    Call OTTCheckSame(sCardPlayed, 14, "Up", "Down", 9, "Down", 19, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 14, "Left", "Down", 13, "Right", 19, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 14, "Up", "Left", 9, "Down", 13, "Right", iThisPlrId)
+                Case 15
+                    Call OTTCheckSame(sCardPlayed, 15, "Up", "Down", 10, "Down", 20, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 15, "Right", "Down", 16, "Left", 20, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 15, "Up", "Right", 10, "Down", 16, "Left", iThisPlrId)
+                Case 16
+                    Call OTTCheckSame(sCardPlayed, 16, "Up", "Down", 11, "Down", 21, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 16, "Left", "Down", 15, "Right", 21, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 16, "Left", "Right", 15, "Right", 17, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 16, "Right", "Down", 17, "Left", 21, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 16, "Up", "Right", 11, "Down", 17, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 16, "Up", "Left", 11, "Down", 15, "Right", iThisPlrId)
+                Case 17
+                    Call OTTCheckSame(sCardPlayed, 17, "Up", "Down", 12, "Down", 22, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 17, "Left", "Down", 16, "Right", 22, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 17, "Left", "Right", 16, "Right", 18, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 17, "Right", "Down", 18, "Left", 22, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 17, "Up", "Right", 12, "Down", 18, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 17, "Up", "Left", 12, "Down", 16, "Right", iThisPlrId)
+                Case 18
+                    Call OTTCheckSame(sCardPlayed, 18, "Up", "Down", 13, "Down", 23, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 18, "Left", "Down", 17, "Right", 23, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 18, "Left", "Right", 17, "Right", 19, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 18, "Right", "Down", 19, "Left", 23, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 18, "Up", "Right", 13, "Down", 19, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 18, "Up", "Left", 13, "Down", 17, "Right", iThisPlrId)
+                Case 19
+                    Call OTTCheckSame(sCardPlayed, 19, "Up", "Down", 14, "Down", 24, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 19, "Left", "Down", 18, "Right", 24, "Up", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 19, "Up", "Left", 14, "Down", 18, "Right", iThisPlrId)
+                Case 20
+                    Call OTTCheckSame(sCardPlayed, 20, "Up", "Right", 15, "Down", 21, "Left", iThisPlrId)
+                Case 21
+                    Call OTTCheckSame(sCardPlayed, 21, "Left", "Right", 20, "Right", 22, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 21, "Up", "Right", 16, "Down", 22, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 21, "Up", "Left", 16, "Down", 20, "Right", iThisPlrId)
+                Case 22
+                    Call OTTCheckSame(sCardPlayed, 22, "Left", "Right", 21, "Right", 23, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 22, "Up", "Right", 17, "Down", 23, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 22, "Up", "Left", 17, "Down", 21, "Right", iThisPlrId)
+                Case 23
+                    Call OTTCheckSame(sCardPlayed, 23, "Left", "Right", 22, "Right", 24, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 23, "Up", "Right", 18, "Down", 24, "Left", iThisPlrId)
+                    Call OTTCheckSame(sCardPlayed, 23, "Up", "Left", 18, "Down", 22, "Right", iThisPlrId)
+                Case 24
+                    Call OTTCheckSame(sCardPlayed, 24, "Up", "Left", 19, "Down", 23, "Right", iThisPlrId)
+            End Select
+        Catch ex As Exception
+            Call errorsub(ex.Message, "ottsame")
+        End Try
+    End Sub
+
+    Private Sub SendOTTCardData(ByVal iBoardID As Integer)
+        Select Case CardColor(iBoardID)
+            Case "blue"
+                Send(String.Empty, String.Concat("OTTBLUECARD ", iBoardID, " ", Board(iBoardID).Replace(" ", "%20")), PlayerSocket(1))
+                Send(String.Empty, String.Concat("OTTBLUECARD ", iBoardID, " ", Board(iBoardID).Replace(" ", "%20")), PlayerSocket(2))
+            Case "red"
+                Send(String.Empty, String.Concat("OTTREDCARD ", iBoardID, " ", Board(iBoardID).Replace(" ", "%20")), PlayerSocket(1))
+                Send(String.Empty, String.Concat("OTTREDCARD ", iBoardID, " ", Board(iBoardID).Replace(" ", "%20")), PlayerSocket(2))
+        End Select
+    End Sub
+
+    Private Sub OTTCheckSame(ByVal sCardPlayed As String, ByVal iBoardID As Integer, ByVal sPlayedSpot_Direction1 As String, ByVal sPlayedSpot_Direction2 As String, ByVal iNeighborID As Integer, ByVal sNeighbor_Direction1 As String, ByVal iNeighbor2ID As Integer, ByVal sNeighbor_Direction2 As String, ByVal iThisPlrID As Integer)
+        Try
+            Dim pointchange As Integer = 0
+            Dim part1 As Boolean = False, part2 As Boolean = False, ignoremove As Boolean = False
+
+            If IsEmpty(iNeighborID) = True Or IsBlock(iNeighborID) = True Then ignoremove = True
+            If IsEmpty(iNeighbor2ID) = True Or IsBlock(iNeighbor2ID) = True Then ignoremove = True
+
+            Dim oPlacedCard As New DarkWindCard(sCardPlayed)
+
+            If oPlacedCard.DirectionValue(sPlayedSpot_Direction1) = 0 Then ignoremove = True
+            If oPlacedCard.DirectionValue(sPlayedSpot_Direction2) = 0 Then ignoremove = True
+
+            If ignoremove = False Then
+                Dim oNeighbor1Card As New DarkWindCard(Board(iNeighborID))
+                Dim oNeighbor2Card As New DarkWindCard(Board(iNeighbor2ID))
+
+                If (oPlacedCard.DirectionValue(sPlayedSpot_Direction1) = oNeighbor1Card.DirectionValue(sNeighbor_Direction1)) And (oPlacedCard.DirectionValue(sPlayedSpot_Direction2) = oNeighbor2Card.DirectionValue(sNeighbor_Direction2)) Then
+                    If iThisPlrID = 1 Then
+                        If CardColor(iNeighborID) = "red" Then
+                            pointchange += 1
+                            part1 = True
+                        End If
+
+                        If CardColor(iNeighbor2ID) = "red" Then
+                            pointchange += 1
+                            part2 = True
+                        End If
+
+                        CardColor(iBoardID) = "blue"
+                        CardColor(iNeighborID) = "blue"
+                        CardColor(iNeighbor2ID) = "blue"
+                    Else
+                        If CardColor(iNeighborID) = "blue" Then
+                            pointchange += 1
+                            part1 = True
+                        End If
+
+                        If CardColor(iNeighbor2ID) = "blue" Then
+                            pointchange += 1
+                            part2 = True
+                        End If
+
+                        CardColor(iBoardID) = "red"
+                        CardColor(iNeighborID) = "red"
+                        CardColor(iNeighbor2ID) = "red"
+                    End If
+
+                    Call SendOTTCardFlip(iBoardID, iNeighborID)
+                    Call SendOTTCardData(iBoardID)
+                    Call SendOTTCardData(iNeighborID)
+
+                    Call SendOTTCardFlip(iBoardID, iNeighbor2ID)
+                    Call SendOTTCardData(iNeighbor2ID)
+
+                    Call OTTSameData(pointchange)
+
+                    If part1 = True Then
+                        Call OTTComboSub(oNeighbor1Card.CardName, iNeighborID, iThisPlrID)
+                    End If
+
+                    If part2 = True Then
+                        Call OTTComboSub(oNeighbor2Card.CardName, iNeighbor2ID, iThisPlrID)
+                    End If
+                End If
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.Message, "OTTCheckSame")
+        End Try
+    End Sub
+
+    Private Sub OTTSameData(ByVal pointchange As Integer)
+        Try
+            If pointchange > 0 Then
+                Send(String.Empty, "OTTSAME", PlayerSocket(1))
+                Send(String.Empty, "OTTSAME", PlayerSocket(2))
+
+                HistoryInsert(-1, String.Empty, "SAME")
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.Message, "ottsamedata")
+        End Try
+    End Sub
+
+    Private Sub OTTPlus(ByVal iSquareID As Integer, ByVal sCardPlayed As String, ByVal iThisPlrId As Integer)
+        Try
+            'Check Right(0), Left(1) and Down(0), Up(3)
+            Select Case iSquareID
+                Case 0
+                    'Check Right(0), Left(1) and Down(0), Up(3)
+                    Call OTTCheckPlus(sCardPlayed, 0, "Right", "Down", 1, "Left", 5, "Up", iThisPlrId)
+                Case 1
+                    Call OTTCheckPlus(sCardPlayed, 1, "Left", "Down", 0, "Right", 6, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 1, "Left", "Right", 0, "Right", 2, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 1, "Right", "Down", 2, "Left", 6, "Up", iThisPlrId)
+                Case 2
+                    'Check Left(2), Right(1) and Down(2), Up(5)
+                    Call OTTCheckPlus(sCardPlayed, 2, "Left", "Down", 1, "Right", 7, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 2, "Left", "Right", 1, "Right", 3, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 2, "Right", "Down", 3, "Left", 7, "Up", iThisPlrId)
+                Case 3
+                    Call OTTCheckPlus(sCardPlayed, 3, "Left", "Down", 2, "Right", 8, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 3, "Left", "Right", 2, "Right", 4, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 3, "Right", "Down", 4, "Left", 8, "Up", iThisPlrId)
+                Case 4
+                    Call OTTCheckPlus(sCardPlayed, 4, "Left", "Down", 3, "Right", 9, "Up", iThisPlrId)
+                Case 5
+                    Call OTTCheckPlus(sCardPlayed, 5, "Up", "Right", 0, "Down", 6, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 5, "Right", "Down", 6, "Left", 10, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 5, "Up", "Down", 0, "Down", 10, "Up", iThisPlrId)
+                Case 6
+                    Call OTTCheckPlus(sCardPlayed, 6, "Up", "Down", 1, "Down", 11, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 6, "Left", "Down", 5, "Right", 11, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 6, "Left", "Right", 5, "Right", 7, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 6, "Right", "Down", 7, "Left", 11, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 6, "Up", "Right", 1, "Down", 7, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 6, "Up", "Left", 1, "Down", 5, "Right", iThisPlrId)
+                Case 7
+                    Call OTTCheckPlus(sCardPlayed, 7, "Up", "Down", 2, "Down", 12, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 7, "Left", "Down", 6, "Right", 12, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 7, "Left", "Right", 6, "Right", 8, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 7, "Right", "Down", 8, "Left", 12, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 7, "Up", "Right", 2, "Down", 8, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 7, "Up", "Left", 2, "Down", 6, "Right", iThisPlrId)
+                Case 8
+                    Call OTTCheckPlus(sCardPlayed, 8, "Up", "Down", 3, "Down", 13, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 8, "Left", "Down", 7, "Right", 13, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 8, "Left", "Right", 7, "Right", 9, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 8, "Right", "Down", 9, "Left", 13, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 8, "Up", "Right", 3, "Down", 9, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 8, "Up", "Left", 3, "Down", 7, "Right", iThisPlrId)
+                Case 9
+                    Call OTTCheckPlus(sCardPlayed, 9, "Up", "Down", 4, "Down", 14, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 9, "Left", "Down", 8, "Right", 14, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 9, "Up", "Left", 4, "Down", 8, "Right", iThisPlrId)
+                Case 10
+                    Call OTTCheckPlus(sCardPlayed, 10, "Up", "Down", 5, "Down", 15, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 10, "Right", "Down", 11, "Left", 15, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 10, "Right", "Up", 11, "Left", 5, "Down", iThisPlrId)
+                Case 11
+                    Call OTTCheckPlus(sCardPlayed, 11, "Up", "Down", 6, "Down", 16, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 11, "Left", "Down", 10, "Right", 16, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 11, "Left", "Right", 10, "Right", 12, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 11, "Right", "Down", 12, "Left", 16, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 11, "Up", "Right", 6, "Down", 12, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 11, "Up", "Left", 6, "Down", 10, "Right", iThisPlrId)
+                Case 12
+                    Call OTTCheckPlus(sCardPlayed, 12, "Up", "Down", 7, "Down", 17, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 12, "Left", "Down", 11, "Right", 17, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 12, "Left", "Right", 11, "Right", 13, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 12, "Right", "Down", 13, "Left", 17, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 12, "Up", "Right", 7, "Down", 13, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 12, "Up", "Left", 7, "Down", 11, "Right", iThisPlrId)
+                Case 13
+                    Call OTTCheckPlus(sCardPlayed, 13, "Up", "Down", 8, "Down", 18, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 13, "Left", "Down", 12, "Right", 18, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 13, "Left", "Right", 12, "Right", 14, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 13, "Right", "Down", 14, "Left", 18, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 13, "Up", "Right", 8, "Down", 14, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 13, "Up", "Left", 8, "Down", 12, "Right", iThisPlrId)
+                Case 14
+                    Call OTTCheckPlus(sCardPlayed, 14, "Up", "Down", 9, "Down", 19, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 14, "Left", "Down", 13, "Right", 19, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 14, "Up", "Left", 9, "Down", 13, "Right", iThisPlrId)
+                Case 15
+                    Call OTTCheckPlus(sCardPlayed, 15, "Up", "Down", 10, "Down", 20, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 15, "Right", "Down", 16, "Left", 20, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 15, "Up", "Right", 10, "Down", 16, "Left", iThisPlrId)
+                Case 16
+                    Call OTTCheckPlus(sCardPlayed, 16, "Up", "Down", 11, "Down", 21, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 16, "Left", "Down", 15, "Right", 21, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 16, "Left", "Right", 15, "Right", 17, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 16, "Right", "Down", 17, "Left", 21, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 16, "Up", "Right", 11, "Down", 17, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 16, "Up", "Left", 11, "Down", 15, "Right", iThisPlrId)
+                Case 17
+                    Call OTTCheckPlus(sCardPlayed, 17, "Up", "Down", 12, "Down", 22, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 17, "Left", "Down", 16, "Right", 22, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 17, "Left", "Right", 16, "Right", 18, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 17, "Right", "Down", 18, "Left", 22, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 17, "Up", "Right", 12, "Down", 18, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 17, "Up", "Left", 12, "Down", 16, "Right", iThisPlrId)
+                Case 18
+                    Call OTTCheckPlus(sCardPlayed, 18, "Up", "Down", 13, "Down", 23, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 18, "Left", "Down", 17, "Right", 23, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 18, "Left", "Right", 17, "Right", 19, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 18, "Right", "Down", 19, "Left", 23, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 18, "Up", "Right", 13, "Down", 19, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 18, "Up", "Left", 13, "Down", 17, "Right", iThisPlrId)
+                Case 19
+                    Call OTTCheckPlus(sCardPlayed, 19, "Up", "Down", 14, "Down", 24, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 19, "Left", "Down", 18, "Right", 24, "Up", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 19, "Up", "Left", 14, "Down", 18, "Right", iThisPlrId)
+                Case 20
+                    Call OTTCheckPlus(sCardPlayed, 20, "Up", "Right", 15, "Down", 21, "Left", iThisPlrId)
+                Case 21
+                    Call OTTCheckPlus(sCardPlayed, 21, "Left", "Right", 20, "Right", 22, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 21, "Up", "Right", 16, "Down", 22, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 21, "Up", "Left", 16, "Down", 20, "Right", iThisPlrId)
+                Case 22
+                    Call OTTCheckPlus(sCardPlayed, 22, "Left", "Right", 21, "Right", 23, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 22, "Up", "Right", 17, "Down", 23, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 22, "Up", "Left", 17, "Down", 21, "Right", iThisPlrId)
+                Case 23
+                    Call OTTCheckPlus(sCardPlayed, 23, "Left", "Right", 22, "Right", 24, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 23, "Up", "Right", 18, "Down", 24, "Left", iThisPlrId)
+                    Call OTTCheckPlus(sCardPlayed, 23, "Up", "Left", 18, "Down", 22, "Right", iThisPlrId)
+                Case 24
+                    Call OTTCheckPlus(sCardPlayed, 24, "Up", "Left", 19, "Down", 23, "Right", iThisPlrId)
+            End Select
+        Catch ex As Exception
+            Call errorsub(ex.Message, "OTTPlus")
+        End Try
+    End Sub
+
+    Private Sub OTTPlusData(ByVal pointchange As Integer)
+        Try
+            If pointchange > 0 Then
+                Send(String.Empty, "OTTPLUS", PlayerSocket(1))
+                Send(String.Empty, "OTTPLUS", PlayerSocket(2))
+
+                HistoryInsert(-1, String.Empty, "PLUS")
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "ottplusdata")
+        End Try
+    End Sub
+
+    Private Sub OTTCheckPlus(ByVal sCardPlayed As String, ByVal iBoardID As Integer, ByVal sPlayedSpot_Direction1 As String, ByVal sPlayedSpot_Direction2 As String, ByVal iNeighborID As Integer, ByVal sNeighbor_Direction1 As String, ByVal iNeighbor2ID As Integer, ByVal sNeighbor_Direction2 As String, ByVal iThisPlrID As Integer)
+        Try
+            Dim pointchange As Integer = 0
+            Dim part1 As Boolean = False, part2 As Boolean = False, ignoremove As Boolean = False
+
+            If IsEmpty(iNeighborID) = True Or IsBlock(iNeighborID) = True Then ignoremove = True
+            If IsEmpty(iNeighbor2ID) = True Or IsBlock(iNeighbor2ID) = True Then ignoremove = True
+
+            Dim oPlacedCard As New DarkWindCard(sCardPlayed)
+
+            If oPlacedCard.DirectionValue(sPlayedSpot_Direction1) = 0 Then ignoremove = True
+            If oPlacedCard.DirectionValue(sPlayedSpot_Direction2) = 0 Then ignoremove = True
+
+            If ignoremove = False Then
+                Dim oNeighbor1Card As New DarkWindCard(Board(iNeighborID))
+                Dim oNeighbor2Card As New DarkWindCard(Board(iNeighbor2ID))
+
+                If (oPlacedCard.DirectionValue(sPlayedSpot_Direction1) + oNeighbor1Card.DirectionValue(sNeighbor_Direction1)) = (oPlacedCard.DirectionValue(sPlayedSpot_Direction2) + oNeighbor2Card.DirectionValue(sNeighbor_Direction2)) Then
+
+                    If iThisPlrID = 1 Then
+                        If CardColor(iNeighborID) = "red" Then
+                            pointchange += 1
+                            part1 = True
+                        End If
+
+                        If CardColor(iNeighbor2ID) = "red" Then
+                            pointchange += 1
+                            part2 = True
+                        End If
+
+                        CardColor(iBoardID) = "blue"
+                        CardColor(iNeighborID) = "blue"
+                        CardColor(iNeighbor2ID) = "blue"
+                    Else
+                        If CardColor(iNeighborID) = "blue" Then
+                            pointchange += 1
+                            part1 = True
+                        End If
+
+                        If CardColor(iNeighbor2ID) = "blue" Then
+                            pointchange += 1
+                            part2 = True
+                        End If
+
+                        CardColor(iBoardID) = "red"
+                        CardColor(iNeighborID) = "red"
+                        CardColor(iNeighbor2ID) = "red"
+                    End If
+
+                    Call SendOTTCardFlip(iBoardID, iNeighborID)
+                    Call SendOTTCardData(iBoardID)
+                    Call SendOTTCardData(iNeighborID)
+
+                    Call SendOTTCardFlip(iBoardID, iNeighbor2ID)
+                    Call SendOTTCardData(iNeighbor2ID)
+
+                    Call OTTPlusData(pointchange)
+
+                    If part1 = True Then
+                        Call OTTComboSub(oNeighbor1Card.CardName, iNeighborID, iThisPlrID)
+                    End If
+
+                    If part2 = True Then
+                        Call OTTComboSub(oNeighbor2Card.CardName, iNeighbor2ID, iThisPlrID)
+                    End If
+                End If
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.Message, "OTTCheckPlus")
+        End Try
+    End Sub
+
+    Private Sub OTTComboSub(ByVal sPlayedCard As String, ByVal iBoardID As Integer, ByVal iThisPlrID As Integer)
+        Try
+            Select Case iBoardID
+                Case 0
+                    'Check Right(0), Left(1) and Down(0), Up(3)
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 0, "Right", 1, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 0, "Down", 5, "Up")
+                Case 1
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 1, "Left", 0, "Right")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 1, "Down", 6, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 1, "Right", 2, "Left")
+                Case 2
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 2, "Left", 1, "Right")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 2, "Down", 7, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 2, "Right", 3, "Left")
+                Case 3
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 3, "Left", 2, "Right")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 3, "Down", 8, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 3, "Right", 4, "Left")
+                Case 4
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 4, "Left", 3, "Right")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 4, "Down", 9, "Up")
+                Case 5
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 5, "Up", 0, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 5, "Down", 10, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 5, "Right", 6, "Left")
+                Case 6
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 6, "Up", 1, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 6, "Down", 11, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 6, "Right", 7, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 6, "Left", 5, "Right")
+                Case 7
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 7, "Up", 2, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 7, "Down", 12, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 7, "Right", 8, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 7, "Left", 6, "Right")
+                Case 8
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 8, "Up", 3, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 8, "Down", 13, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 8, "Right", 9, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 8, "Left", 7, "Right")
+                Case 9
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 9, "Up", 4, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 9, "Down", 14, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 9, "Left", 8, "Right")
+                Case 10
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 10, "Up", 5, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 10, "Down", 15, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 10, "Right", 11, "Left")
+                Case 11
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 11, "Up", 6, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 11, "Down", 16, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 11, "Right", 12, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 11, "Left", 10, "Right")
+                Case 12
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 12, "Up", 7, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 12, "Down", 17, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 12, "Right", 13, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 12, "Left", 11, "Right")
+                Case 13
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 13, "Up", 8, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 13, "Down", 18, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 13, "Right", 14, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 13, "Left", 12, "Right")
+                Case 14
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 14, "Up", 9, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 14, "Down", 19, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 14, "Left", 13, "Right")
+                Case 15
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 15, "Up", 10, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 15, "Down", 20, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 15, "Right", 16, "Left")
+                Case 16
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 16, "Up", 11, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 16, "Down", 21, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 16, "Right", 17, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 16, "Left", 15, "Right")
+                Case 17
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 17, "Up", 12, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 17, "Down", 22, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 17, "Right", 18, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 17, "Left", 16, "Right")
+                Case 18
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 18, "Up", 13, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 18, "Down", 23, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 18, "Right", 19, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 18, "Left", 17, "Right")
+                Case 19
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 19, "Up", 14, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 19, "Down", 24, "Up")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 19, "Left", 18, "Right")
+                Case 20
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 20, "Up", 15, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 20, "Right", 21, "Left")
+                Case 21
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 21, "Up", 16, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 21, "Right", 22, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 21, "Left", 20, "Right")
+                Case 22
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 22, "Up", 17, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 22, "Right", 23, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 22, "Left", 21, "Right")
+                Case 23
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 23, "Up", 18, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 23, "Right", 24, "Left")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 23, "Left", 22, "Right")
+                Case 24
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 24, "Up", 19, "Down")
+                    Call OTTCheckCombo(sPlayedCard, iThisPlrID, 24, "Left", 23, "Right")
+            End Select
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "OTTComboSub")
+        End Try
+    End Sub
+
+    Private Sub OTTCheckCombo(ByVal sCardPlayed As String, ByVal iThisPlrID As Integer, ByVal iBoardID As Integer, ByVal sPlayedSpot_Direction1 As String, ByVal iNeighborID As Integer, ByVal sNeighbor_Direction1 As String)
+        Try
+            Dim ignoremove As Boolean = False, pointchange As Integer = 0, part1 As Boolean = False
+
+            Dim oPlacedCard As New DarkWindCard(sCardPlayed)
+
+            If IsEmpty(iBoardID) = True Or IsBlock(iBoardID) = True Then ignoremove = True
+            If IsEmpty(iNeighborID) = True Or IsBlock(iNeighborID) = True Then ignoremove = True
+            If oPlacedCard.DirectionValue(sPlayedSpot_Direction1) = 0 Then ignoremove = True
+
+            If ignoremove = False Then
+                Dim oNeighborCard As New DarkWindCard(Board(iNeighborID))
+
+                If oPlacedCard.DirectionValue(sPlayedSpot_Direction1) > oNeighborCard.DirectionValue(sNeighbor_Direction1) Then
+                    If iThisPlrID = 1 Then
+                        If CardColor(iNeighborID) = "red" Then
+                            pointchange += 1
+                            part1 = True
+                        End If
+
+                        CardColor(iBoardID) = "blue"
+                        CardColor(iNeighborID) = "blue"
+                    Else
+                        If CardColor(iNeighborID) = "blue" Then
+                            pointchange += 1
+                            part1 = True
+                        End If
+
+                        CardColor(iBoardID) = "red"
+                        CardColor(iNeighborID) = "red"
+                    End If
+
+                    Call SendOTTCardFlip(iBoardID, iNeighborID)
+                    Call SendOTTCardData(iBoardID)
+                    Call SendOTTCardData(iNeighborID)
+
+                    Call OTTComboData(pointchange)
+                    'FindOttSendPoints(oOTTFunctions)
+
+                    If part1 = True Then
+                        Call OTTComboSub(oNeighborCard.CardName, iNeighborID, iThisPlrID)
+                    End If
+                End If
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "OTTCheckCombo")
+        End Try
+    End Sub
+
+    Private Sub OTTComboData(ByVal pointchange As Integer)
+        Try
+            If pointchange > 0 Then
+                Send(String.Empty, "OTTCOMBO", PlayerSocket(1))
+                Send(String.Empty, "OTTCOMBO", PlayerSocket(2))
+
+                HistoryInsert(-1, String.Empty, "COMBO")
+            End If
+        Catch ex As Exception
+            Call errorsub(ex.ToString, "OTTComboData")
+        End Try
+    End Sub
+End Class

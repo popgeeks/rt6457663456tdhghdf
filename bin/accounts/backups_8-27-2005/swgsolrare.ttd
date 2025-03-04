@@ -1,0 +1,52 @@
+[player]
+nickname=swgsolrare
+password=beta
+email=swgsolrare@hotmail.com
+signup_date=8/11/2005
+playerID=1792
+status=regular
+referal=philar
+Verify=1
+Last IP=68.204.191.225
+id=48
+IP=68.204.191.225
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=1
+[Stats]
+Win=101
+Lost=149
+Draw=35
+Lame quits=0
+GP=110
+Newdecks=1
+Level=13
+Exp=5895
+Next=6316
+AP=3321
+Streak=-4
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 86258
+Versus=efka9
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=efka9
+result=loss
+score=12-8

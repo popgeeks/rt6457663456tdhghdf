@@ -1,0 +1,122 @@
+[player]
+nickname=Jimmy3000
+password=jims
+email=lessthanjakefan2000@hotmail.com
+signup_date=4/4/05
+playerID=92
+status=regular
+Verify=1
+Last IP=172.215.55.121
+id=13
+IP=172.215.55.121
+adminstatus=off
+Last Played=05-26-2005
+membership=diamond
+membership_enddate=05-06-2005
+match=05-26-2005
+guildinvite=
+guildinvite_name=
+guild=Card Club
+guildmaster=3
+
+[Stats]
+Win=471
+Lost=337
+Draw=119
+Lame quits=20
+GP=825
+rank=2202
+Newdecks=5
+Level=23
+Exp=20447
+Next=20718
+Streak=4
+Choices=1
+SoldCards=54
+cardsgiven=0
+Wins=364
+AP=1231
+SBLost=15
+SBWin=21
+[Newdecks]
+Last=04-19-2005
+[Totals]
+Level1=0
+Level2=0
+Level3=0
+Level4=4
+Level5=13
+Level6=5
+Level7=5
+Level8=2
+Level9=4
+Level10=1
+Total=0
+[cards]
+Eden=1
+Anacondaur=0
+Tonberry=0
+X-ATM092=1
+Snow Lion=0
+Armadodo=0
+Trauma=1
+Iron Giant=2
+Shumi Tribe=1
+Ochu=0
+SAM08G=0
+Blitz=1
+Cactuar=0
+Blood Soul=0
+Blobra=0
+Oilboyle=1
+Jelleye=0
+Sphinxara=2
+Tonberry King=1
+Cockatrice=0
+Forbidden=0
+Turtapod=0
+Edea=1
+Diablos=1
+Ruby Dragon=1
+Malboro=3
+Cerberus=1
+Bahamut=1
+Geezard=0
+Vysage=2
+Grendel=0
+Elnoyle=1
+T-Rexaur=1
+Chubby Chocobo=1
+Mobile Type 8=1
+Grand Mantis=0
+Angelo=1
+PuPu=2
+Red Giant=1
+Abyss Worm=0
+Gerogero=1
+BGH251F2=1
+Fastitocalon-F=0
+Chimera=1
+Elastoid=2
+[AP]
+AAEXP=1128
+PCT=10
+AAPOINTS=0
+TRAINED=2
+golden=1
+[Play]
+Playing=false
+GameID= 22369
+Versus=Jin
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Jin
+result=win
+score=11-9
+[Warnings]
+Kicks=3

@@ -1,0 +1,95 @@
+[player]
+nickname=amy
+password=960745512
+email=rpggirl87@yahoo.com
+signup_date=4/8/05
+playerID=111
+status=subadmin
+Verify=1
+Last IP=64.53.114.16
+id=7
+IP=64.53.114.16
+adminstatus=off
+Last Played=06-11-2005
+match=06-11-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+surname=bramaster
+[Stats]
+Win=290
+Lost=427
+Draw=138
+Lame quits=17
+GP=600
+rank=2113
+Newdecks=13
+Level=20
+Exp=14085
+Next=15166
+Streak=1
+Choices=1
+SoldCards=28
+cardsgiven=0
+Wins=65
+AP=421
+SBLost=3
+[Newdecks]
+Last=05-17-2005
+[Totals]
+Level1=3
+Level2=4
+Level3=4
+Level4=3
+Level5=1
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Anacondaur=1
+Ochu=1
+Grendel=1
+Vysage=1
+Creeps=1
+Caterchipillar=1
+Elvoret=1
+Blue Dragon=1
+Iron Giant=1
+Tri-Face=1
+Oilboyle=1
+Mesmerize=1
+Abadon=1
+Imp=1
+Geezard=1
+Death Claw=1
+Gayla=1
+Cactuar=1
+[AP]
+AAEXP=277
+PCT=10
+AAPOINTS=0
+TRAINED=3
+honor=2
+high=1
+[Play]
+Playing=false
+GameID= 31549
+Versus=dark-wing
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=dark-wing
+result=win
+score=15-7
+[Warnings]
+Kicks=4
+[Admin]
+Passkey=41325156

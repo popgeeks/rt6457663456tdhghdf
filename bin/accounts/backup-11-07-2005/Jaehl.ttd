@@ -1,0 +1,45 @@
+[player]
+nickname=Jaehl
+password=327956
+email=JamesTMills@hotmail.com
+signup_date=6/24/2005
+playerID=829
+status=regular
+referal=
+Verify=1
+Last IP=81.101.168.237
+id=20
+IP=81.101.168.237
+adminstatus=off
+match=06-24-2005
+Last Played=06-24-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+rank=1341
+Newdecks=1
+Level=1
+Exp=6
+Next=100
+AP=23
+Streak=1
+[Newdecks]
+Last=06-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Lew
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Lew
+result=loss
+score=6-4

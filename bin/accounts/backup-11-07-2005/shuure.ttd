@@ -1,0 +1,37 @@
+[player]
+nickname=shuure
+password=177125155
+email=kevvo_89@hotmail.com
+signup_date=10/23/2005
+playerID=2993
+status=regular
+referal=kevvo_89@hotmai
+Verify=1
+Last IP=213.113.29.41
+id=50
+IP=213.113.29.41
+adminstatus=off
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=5
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 135345
+Versus=Legendfox
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN

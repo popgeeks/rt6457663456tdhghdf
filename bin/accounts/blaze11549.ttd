@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=120
+match=01-07-2006
+[Play]
+Playing=false
+GameID= 193368
+Versus=Solidsnake
+Iam=1
+[Stats]
+Level=2
+Exp=123
+Next=248
+Streak=-1
+[Games]
+Playing=SB
+[game]
+opponent=Solidsnake
+result=loss
+score=44-15

@@ -1,0 +1,72 @@
+[player]
+nickname=TheOneDeath
+password=qawsedrfv
+email=kidnamedsavage@yahoo.com
+signup_date=4/11/05
+playerID=127
+status=regular
+referal=TheOneGod13
+Verify=1
+Last IP=166.82.50.141
+id=16
+IP=166.82.50.141
+adminstatus=off
+match=04-13-2005
+Last Played=04-13-2005
+[Stats]
+Win=0
+Lost=8
+Draw=3
+Lame quits=0
+GP=290
+rank=1240
+Newdecks=1
+Level=2
+Exp=200
+Next=248
+Streak=-7
+Choices=1
+[Newdecks]
+Last=04-11-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=2
+Level4=0
+Level5=4
+Level6=2
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Thrustaevis=1
+Tonberry King=1
+Propagator=2
+Malboro=1
+Ochu=1
+Tonberry=1
+Blobra=1
+Behemoth=1
+PuPu=1
+Elvoret=1
+Shumi Tribe=1
+Belhelmel=1
+Anacondaur=1
+Red Bat=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5771
+Versus=darklumina
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Rain
+result=loss
+score=16-4

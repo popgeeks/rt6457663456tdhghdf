@@ -1,0 +1,66 @@
+[player]
+nickname=J102Y
+password=ocarina
+email=RetroKamasi@hotmail.co.uk
+signup_date=5/5/2005
+playerID=299
+status=regular
+referal=Lucrecia
+Verify=1
+Last IP=82.36.144.224
+id=62
+IP=82.36.144.224
+adminstatus=off
+match=11-07-2005
+Last Played=08-27-2005
+surname=gamma
+guild=Fated Circle
+guildmaster=2
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=2600
+Lost=1953
+Draw=836
+Lame quits=79
+GP=58
+rank=3296
+Newdecks=30
+Level=48
+Exp=85625
+Next=87773
+Streak=-1
+Choices=1
+SoldCards=59
+cardsgiven=0
+AP=2884
+SBWin=23
+Wins=173
+SBLost=33
+[Newdecks]
+Last=07-09-2005
+[AP]
+AAEXP=1640
+honor=3
+PCT=50
+AAPOINTS=0
+TRAINED=13
+high=1
+golden=5
+[Play]
+Playing=false
+GameID= 146702
+Iam=2
+Versus=TheOneGod13
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=TheOneGod13
+result=loss
+score=6-4
+[Warnings]
+Kicks=57
+Warns=14

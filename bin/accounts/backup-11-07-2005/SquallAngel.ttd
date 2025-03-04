@@ -1,0 +1,44 @@
+[player]
+nickname=SquallAngel
+password=spb1msk8
+email=chen_kee_loon1987@hotmail.com
+signup_date=10/19/2005
+playerID=2922
+status=regular
+referal=
+Verify=1
+Last IP=219.74.24.30
+id=22
+IP=219.74.24.30
+adminstatus=off
+match=10-20-2005
+[Stats]
+Win=22
+Lost=29
+Draw=8
+Lame quits=2
+Newdecks=11
+Level=6
+Exp=1339
+Next=1727
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-19-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 132998
+Versus=meh2
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=meh2
+result=draw
+score=10-10

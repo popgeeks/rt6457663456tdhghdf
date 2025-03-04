@@ -1,0 +1,45 @@
+[player]
+nickname=Telvecho
+password=965282558
+email=nbodenschatz@hotmail.com
+signup_date=3/22/05
+playerID=45
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=03-22-2005
+[Totals]
+Level1=3
+Level2=4
+Level3=3
+Level4=4
+Level5=1
+Level6=0
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Vysage=1
+Belhelmel=1
+Mesmerize=1
+Grat=1
+Blitz=1
+Chimera=1
+Ochu=2
+Forbidden=1
+Creeps=1
+Gesper=1
+Geezard=1
+Blood Soul=1
+Wendigo=1
+Blue Dragon=1

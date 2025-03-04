@@ -1,0 +1,47 @@
+[player]
+nickname=hitchen
+password=qKTcwp
+email=bluescreen_windows@hotmail.com
+signup_date=10/16/2005
+playerID=2870
+status=regular
+referal=
+Verify=1
+Last IP=80.90.52.81
+id=12
+IP=80.90.52.81
+adminstatus=off
+match=10-28-2005
+[Stats]
+Win=98
+Lost=80
+Draw=30
+Lame quits=0
+Newdecks=3
+Level=11
+Exp=4264
+Next=4838
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-16-2005
+[AP]
+AAEXP=357
+honor=1
+PCT=30
+[Play]
+Playing=false
+GameID= 138643
+Versus=Alucardian
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alucardian
+result=win
+score=14-6
+[Warnings]
+Warns=1

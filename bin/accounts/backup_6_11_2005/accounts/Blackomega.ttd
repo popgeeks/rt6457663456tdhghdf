@@ -1,0 +1,71 @@
+[player]
+nickname=Blackomega
+password=tablesownyou
+email=tom_13bennett@yahoo.co.uk
+signup_date=4/8/05
+playerID=110
+status=regular
+Verify=1
+Last IP=82.17.5.225
+id=5
+IP=82.17.5.225
+adminstatus=off
+Last Played=04-08-2005
+[Stats]
+Win=3
+Lost=1
+Draw=2
+Lame quits=0
+GP=180
+rank=1469
+Newdecks=1
+Level=2
+Exp=172
+Next=248
+Streak=2
+Choices=1
+Wins=3
+[Newdecks]
+Last=04-08-2005
+[Totals]
+Level1=6
+Level2=0
+Level3=2
+Level4=3
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Caterchipillar=2
+Gerogero=1
+Bite Bug=1
+Fastitocalon-F=1
+Vysage=1
+Malboro=1
+Fujin, Raijin=0
+Blobra=1
+Ochu=1
+Bomb=1
+Red Bat=1
+Elvoret=1
+Torama=1
+Armadodo=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4140
+Versus=gafgarion
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=gafgarion
+result=draw
+score=5-5

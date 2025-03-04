@@ -1,0 +1,18 @@
+[player]
+nickname=erik
+password=831273733
+email=marre@hotmail.com
+signup_date=8/20/2005
+playerID=1900
+status=regular
+referal=erik
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-20-2005

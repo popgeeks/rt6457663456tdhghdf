@@ -1,0 +1,48 @@
+[player]
+nickname=GOD
+password=nugan
+email=mikedude52246@yahoo.com
+signup_date=7/4/2005
+playerID=1014
+status=regular
+referal=
+Verify=1
+Last IP=68.73.198.140
+id=29
+IP=68.73.198.140
+adminstatus=off
+match=07-05-2005
+Last Played=07-05-2005
+[Stats]
+Win=19
+Lost=10
+Draw=3
+Lame quits=0
+GP=428
+Newdecks=11
+Level=5
+Exp=913
+Next=1301
+AP=256
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 48772
+Versus=Andrew
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Andrew
+result=loss
+score=12-8

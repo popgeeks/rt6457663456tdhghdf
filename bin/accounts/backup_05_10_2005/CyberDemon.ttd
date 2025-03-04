@@ -1,0 +1,69 @@
+[player]
+nickname=CyberDemon
+password=646284221
+email=dmr_5000@hotmail.com
+signup_date=4/9/05
+playerID=120
+status=regular
+Verify=1
+Last IP=80.4.57.41
+id=8
+IP=80.4.57.41
+adminstatus=off
+Last Played=04-10-2005
+[Stats]
+Win=6
+Lost=2
+Draw=1
+Lame quits=0
+GP=50
+rank=1307
+Newdecks=1
+Level=1
+Exp=38
+Next=100
+Streak=1
+[Newdecks]
+Last=04-09-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=2
+Level4=2
+Level5=0
+Level6=4
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Snow Lion=1
+Trauma=1
+Blobra=1
+Jumbo Cactuar=1
+Glacial Eye=2
+Geezard=1
+Anacondaur=1
+Granaldo=1
+Blue Dragon=1
+Oilboyle=1
+Tri-Face=1
+Buel=1
+Shumi Tribe=1
+Adamantoise=1
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4708
+Versus=crab-bot
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=crab-bot
+result=win
+score=8-2

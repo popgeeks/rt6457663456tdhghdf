@@ -1,0 +1,95 @@
+[player]
+nickname=smily
+password=stalker
+email=smily.kobaldai@seznam.cz
+signup_date=4/16/05
+playerID=148
+status=regular
+referal=
+Verify=1
+Last IP=213.195.210.5
+id=21
+IP=213.195.210.5
+adminstatus=off
+match=04-17-2005
+Last Played=04-17-2005
+[Stats]
+Win=20
+Lost=62
+Draw=22
+Lame quits=0
+GP=5
+rank=1461
+Newdecks=3
+Level=7
+Exp=1858
+Next=2154
+SoldCards=5
+cardsgiven=0
+Streak=1
+Choices=1
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=6
+Level4=4
+Level5=2
+Level6=5
+Level7=1
+Level8=0
+Level9=0
+Level10=1
+Total=0
+[cards]
+Snow Lion=0
+Turtapod=0
+Tri-Face=2
+Fujin, Raijin=0
+Blood Soul=0
+GIM47N=0
+Abadon=0
+Tiamat=0
+Elnoyle=0
+T-Rexaur=0
+Belhelmel=0
+Thrustaevis=1
+Cactuar=0
+Torama=1
+Gesper=1
+Fastitocalon=1
+Buel=0
+Blobra=0
+Tonberry=1
+Blitz=1
+Wendigo=1
+Chimera=1
+Red Bat=1
+Trauma=1
+Grat=1
+=0
+Iguion=3
+Grand Mantis=1
+Elastoid=1
+Ochu=2
+Jelleye=1
+Laguna=1
+Jumbo Cactuar=1
+Imp=1
+Elvoret=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 6314
+Versus=Beholder
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Beholder
+result=win
+score=6-4

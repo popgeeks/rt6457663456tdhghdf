@@ -1,0 +1,43 @@
+[player]
+nickname=Gvd
+password=781586169
+email=Patrick_no_awp@hotmail.com
+signup_date=10/9/2005
+playerID=2731
+status=regular
+referal=aboo
+Verify=1
+Last IP=82.145.137.144
+id=133
+IP=82.145.137.144
+adminstatus=off
+match=10-09-2005
+[Stats]
+Win=5
+Lost=9
+Draw=5
+Lame quits=0
+Newdecks=3
+Level=2
+Exp=121
+Next=248
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 124212
+Versus=Dragonwar
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Dragonwar
+result=win
+score=6-4

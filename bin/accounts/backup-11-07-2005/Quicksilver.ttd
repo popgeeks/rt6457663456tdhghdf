@@ -1,0 +1,45 @@
+[player]
+nickname=Quicksilver
+password=cornell7
+email=pre33x@yahoo.com
+signup_date=11/4/2005
+playerID=3149
+status=regular
+referal=
+Verify=1
+Last IP=128.253.17.64
+id=64
+IP=128.253.17.64
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=73
+Lost=105
+Draw=59
+Lame quits=1
+Newdecks=1
+Level=9
+Exp=2750
+Next=3346
+Streak=2
+SBWin=1
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146759
+Versus=Lezard
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Lezard
+result=draw
+score=5-5
+[Warnings]
+Warns=4

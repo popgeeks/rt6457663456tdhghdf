@@ -1,0 +1,76 @@
+[player]
+nickname=cashman
+password=get45free
+email=CMGaret_Jax@hotmail.com
+signup_date=3/15/05
+playerID=17
+status=regular
+Verify=1
+Last IP=141.213.165.227
+id=3
+IP=141.213.165.227
+adminstatus=off
+Last Played=06-25-2005
+match=06-25-2005
+[Stats]
+Win=3
+Lost=10
+Draw=2
+Lame quits=1
+GP=225
+rank=1177
+Newdecks=7
+Level=3
+Exp=255
+Next=476
+Streak=-2
+AP=743
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-03-2005
+[Totals]
+Level1=5
+Level2=0
+Level3=1
+Level4=2
+Level5=0
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Buel=0
+Caterchipillar=2
+SAM08G=1
+Tonberry=0
+Gesper=1
+Imp=2
+Granaldo=1
+PuPu=0
+Blobra=1
+Gayla=1
+Fujin, Raijin=0
+Elvoret=1
+Shumi Tribe=1
+Edea=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5768
+Versus=Avelia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=squll-typo
+result=draw
+score=5-5
+[Warnings]
+Kicks=3

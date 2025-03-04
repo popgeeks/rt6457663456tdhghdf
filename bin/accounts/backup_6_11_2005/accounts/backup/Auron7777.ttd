@@ -1,0 +1,59 @@
+[player]
+nickname=Auron7777
+password=363858699
+email=Auron7@gmx.net
+signup_date=4/16/05
+playerID=152
+status=regular
+referal=
+Verify=1
+Last IP=62.218.230.126
+id=19
+IP=62.218.230.126
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=2
+Level2=2
+Level3=2
+Level4=5
+Level5=1
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Grendel=1
+Elnoyle=1
+Shumi Tribe=2
+Blue Dragon=1
+Anacondaur=1
+Turtapod=1
+Imp=1
+Blitz=1
+Bite Bug=1
+Fastitocalon=1
+Adamantoise=1
+Gesper=1
+Death Claw=1
+Iguion=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

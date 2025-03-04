@@ -1,0 +1,21 @@
+[player]
+nickname=raliosion
+password=724493324
+email=therealoospudly@aol.com
+signup_date=5/19/2005
+playerID=419
+status=regular
+referal=kojiro777
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-19-2005
+[password]
+failed=3

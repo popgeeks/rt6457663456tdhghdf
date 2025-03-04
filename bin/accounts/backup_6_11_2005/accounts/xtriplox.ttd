@@ -1,0 +1,33 @@
+[player]
+nickname=xtriplox
+password=paty
+email=xtriplox@hotmail.com
+signup_date=6/4/2005
+playerID=618
+status=regular
+referal=Divine
+Verify=1
+Last IP=200.165.239.216
+id=32
+IP=200.165.239.216
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=29
+[Newdecks]
+Last=06-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

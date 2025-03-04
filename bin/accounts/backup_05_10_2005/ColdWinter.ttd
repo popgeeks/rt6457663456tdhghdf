@@ -1,0 +1,45 @@
+[player]
+nickname=ColdWinter
+password=bmargera
+email=mrseganbyrne@hotmail.com
+signup_date=4/23/05
+playerID=194
+status=regular
+referal=Rain
+Verify=1
+Last IP=86.131.52.251
+id=6
+IP=86.131.52.251
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=10
+Lost=16
+Draw=6
+Lame quits=0
+GP=1015
+rank=1114
+Newdecks=1
+Level=4
+Exp=725
+Next=836
+Streak=1
+Choices=1
+[Newdecks]
+Last=04-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 14477
+Versus=Shoxxx
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Shoxxx
+result=draw
+score=10-10

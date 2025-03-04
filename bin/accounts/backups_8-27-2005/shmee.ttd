@@ -1,0 +1,36 @@
+[player]
+nickname=shmee
+password=236875533
+email=harktheangels@hotmail.co.uk
+signup_date=7/12/2005
+playerID=1221
+status=regular
+referal=
+Verify=1
+Last IP=217.43.58.252
+id=38
+IP=217.43.58.252
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=9
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

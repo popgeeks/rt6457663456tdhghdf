@@ -1,0 +1,32 @@
+[player]
+nickname=garnett
+password=432573318
+email=claudio_451@hotmail.com
+signup_date=7/5/2005
+playerID=1045
+status=regular
+referal=garnett
+Verify=1
+Last IP=81.211.233.212
+id=27
+IP=81.211.233.212
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=16
+[Newdecks]
+Last=07-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=26
+match=11-28-2005
+[Play]
+Playing=false
+GameID= 159737
+Versus=alturiack
+Iam=2
+[Stats]
+Level=2
+Exp=101
+Next=248
+Streak=-3
+[Games]
+Playing=OTT
+[game]
+opponent=alturiack
+result=loss
+score=16-4

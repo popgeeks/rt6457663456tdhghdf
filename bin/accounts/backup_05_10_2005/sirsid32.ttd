@@ -1,0 +1,44 @@
+[player]
+nickname=sirsid32
+password=412476539
+email=xxslayersidxx@hotmail.co.uk
+signup_date=5/4/2005
+playerID=280
+status=regular
+referal=
+Verify=1
+Last IP=81.159.1.125
+id=26
+IP=81.159.1.125
+adminstatus=off
+match=05-04-2005
+Last Played=05-04-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+rank=1500
+Newdecks=1
+Level=1
+Exp=11
+Next=100
+Streak=1
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10976
+Versus=MisterRictus
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MisterRictus
+result=loss
+score=15-5

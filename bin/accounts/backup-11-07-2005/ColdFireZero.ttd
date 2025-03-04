@@ -1,0 +1,47 @@
+[player]
+nickname=ColdFireZero
+password=iceflare
+email=coldfire0x@yahoo.com
+signup_date=6/18/2005
+playerID=741
+status=regular
+referal=Akkito
+Verify=1
+Last IP=66.68.10.235
+id=8
+IP=66.68.10.235
+adminstatus=off
+match=06-20-2005
+Last Played=06-20-2005
+[Stats]
+Win=6
+Lost=2
+Draw=4
+Lame quits=0
+GP=500
+rank=1497
+Newdecks=1
+Level=3
+Exp=282
+Next=476
+AP=208
+Streak=2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=06-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Ketsueki
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Ketsueki
+result=win
+score=7-3

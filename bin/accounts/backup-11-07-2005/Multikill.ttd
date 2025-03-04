@@ -1,0 +1,45 @@
+[player]
+nickname=Multikill
+password=ventilator
+email=headbreaka@gmx.de
+signup_date=8/11/2005
+playerID=1796
+status=regular
+referal=Lex
+Verify=1
+Last IP=83.129.182.39
+id=31
+IP=83.129.182.39
+adminstatus=off
+match=08-11-2005
+Last Played=08-11-2005
+[Stats]
+Win=5
+Lost=9
+Draw=3
+Lame quits=0
+GP=220
+Newdecks=1
+Level=2
+Exp=135
+Next=248
+AP=432
+Streak=-3
+Choices=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 84180
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Eishu
+result=loss
+score=11-9

@@ -1,0 +1,44 @@
+[player]
+nickname=Godric
+password=485328435
+email=godricporsche@hotmail.com
+signup_date=5/6/2005
+playerID=306
+status=regular
+referal=
+Verify=1
+Last IP=216.229.163.106
+id=5
+IP=216.229.163.106
+adminstatus=off
+match=05-06-2005
+Last Played=05-06-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=1
+GP=25
+rank=1740
+Newdecks=1
+Level=1
+Exp=56
+Next=100
+Streak=1
+[Newdecks]
+Last=05-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 11857
+Versus=AJ666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Andrew
+result=win
+score=9-1

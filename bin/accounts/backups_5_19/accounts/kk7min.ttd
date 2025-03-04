@@ -1,0 +1,48 @@
+[player]
+nickname=kk7min
+password=596847354
+email=kaew_soot@hotmail.com
+signup_date=3/15/05
+playerID=18
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=03-15-2005
+[Totals]
+Level1=4
+Level2=2
+Level3=3
+Level4=3
+Level5=1
+Level6=0
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Imp=1
+Death Claw=1
+Blobra=2
+Mobile Type 8=1
+Armadodo=1
+Thrustaevis=1
+Belhelmel=1
+Tri-Face=1
+Blue Dragon=1
+Funguar=1
+Wedge, Biggs=1
+Ultima Weapon=1
+Wendigo=1
+Geezard=1
+[password]
+failed=1

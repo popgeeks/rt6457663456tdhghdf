@@ -1,0 +1,83 @@
+[player]
+nickname=Nanaki
+password=doomsday
+email=fileencrypted@yahoo.com
+signup_date=4/8/05
+playerID=114
+status=regular
+Verify=1
+Last IP=172.141.223.254
+id=5
+IP=172.141.223.254
+adminstatus=off
+Last Played=04-09-2005
+[Stats]
+Win=9
+Lost=13
+Draw=2
+Lame quits=1
+GP=480
+rank=730
+Newdecks=3
+Level=3
+Exp=422
+Next=476
+Streak=-5
+SoldCards=0
+cardsgiven=0
+Choices=1
+Wins=9
+[Newdecks]
+Last=04-08-2005
+[Totals]
+Level1=2
+Level2=2
+Level3=5
+Level4=2
+Level5=0
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Snow Lion=1
+Behemoth=0
+Armadodo=0
+Grendel=0
+Geezard=1
+Wendigo=0
+Ochu=1
+Blood Soul=0
+Death Claw=1
+Gayla=0
+Imp=0
+Cactuar=0
+Anacondaur=0
+Bomb=1
+Belhelmel=1
+Tonberry=1
+Fastitocalon=1
+T-Rexaur=1
+Buel=1
+Shumi Tribe=1
+BGH251F2=0
+Fastitocalon-F=1
+X-ATM092=1
+Abadon=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4526
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Jimmy3000
+result=loss
+score=7-3

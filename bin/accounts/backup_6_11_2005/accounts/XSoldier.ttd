@@ -1,0 +1,21 @@
+[player]
+nickname=XSoldier
+password=486720561
+email=cyberwolf9156@aol.com
+signup_date=5/27/2005
+playerID=518
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-27-2005
+[password]
+failed=1

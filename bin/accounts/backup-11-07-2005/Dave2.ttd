@@ -1,0 +1,42 @@
+[player]
+nickname=Dave2
+password=751432358
+email=david_martin614@hotmail.com
+signup_date=10/16/2005
+playerID=2886
+status=regular
+referal=
+Verify=1
+Last IP=24.201.11.26
+id=83
+IP=24.201.11.26
+adminstatus=off
+match=10-26-2005
+[Stats]
+Win=42
+Lost=46
+Draw=18
+Lame quits=0
+Newdecks=1
+Level=8
+Exp=2578
+Next=2698
+Streak=-3
+[Newdecks]
+Last=10-16-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 137571
+Versus=Legendfox
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=Legendfox
+result=loss
+score=15-5

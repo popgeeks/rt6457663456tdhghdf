@@ -1,0 +1,43 @@
+[player]
+nickname=Zidane007nl
+password=457968532
+email=hellandheavennet@hotmail.com
+signup_date=7/18/2005
+playerID=1355
+status=regular
+referal=
+Verify=1
+Last IP=81.70.18.196
+id=11
+IP=81.70.18.196
+adminstatus=off
+match=07-18-2005
+Last Played=07-18-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=5
+Next=100
+AP=39
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 59488
+Versus=Aerith
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Aerith
+result=draw
+score=5-5

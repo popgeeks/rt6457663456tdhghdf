@@ -1,0 +1,95 @@
+[player]
+nickname=esthar-bot
+password=412luck
+email=gamewar@yahoo.com
+signup_date=3/27/2005
+playerID=54
+status=god
+Verify=1
+Last IP=127.0.0.1
+id=7
+IP=127.0.0.1
+adminstatus=off
+Last Played=04-17-2005
+guildmaster=2
+guild=Bots of Doom
+
+[Stats]
+Win=22
+Lost=57
+Draw=18
+Lame quits=3
+GP=1560
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=-15
+Choices=1
+rank=570
+
+[Totals]
+Level1=0
+Level2=0
+Level3=4
+Level4=5
+Level5=5
+Level6=3
+Level7=5
+Level8=7
+Level9=12
+Level10=9
+Total=50
+
+[cards]
+Ward=3
+Laguna=3
+Kiros=3
+Carbuncle=2
+Diablos=2
+Pandemona=2
+Phoenix=2
+Cerberus=2
+Odin=2
+Mini Mog=1
+Chicobo=1
+Chubby Chocobo=1
+Sacred=2
+Minotaur=2
+Propagator=1
+Jumbo Cactuar=1
+Spinxuar=1
+Tri-point=1
+Tiamat=1
+Fuijin & Raijin=1
+Elvoret=1
+X-ATM092=1
+PuPu=1
+Malboro=1
+Ruby Dragon=1
+Wedge & Biggs=1
+Elastoid=1
+Wendigo=1
+Turtapod=1
+Bomb=1
+Hexadragon=1
+T-Rexaur=1
+Death Claw=1
+Tonberry=1
+Ochu=1
+Cactaur=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 6366
+Versus=ColdArmy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ColdArmy
+result=loss
+score=7-3

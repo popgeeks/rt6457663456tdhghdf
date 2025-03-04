@@ -1,0 +1,46 @@
+[player]
+nickname=bloodofsokar
+password=913307785
+email=graeme.corten@btinternet.com
+signup_date=5/22/2005
+playerID=455
+status=regular
+referal=
+Verify=1
+Last IP=81.153.138.68
+id=14
+IP=81.153.138.68
+adminstatus=off
+match=05-22-2005
+Last Played=05-22-2005
+[Stats]
+Win=3
+Lost=2
+Draw=5
+Lame quits=0
+GP=230
+rank=1592
+Newdecks=1
+Level=2
+Exp=171
+Next=248
+AP=243
+Streak=1
+Choices=1
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 20166
+Versus=ashley-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ashley-bot
+result=win
+score=6-4

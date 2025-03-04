@@ -1,0 +1,42 @@
+[player]
+nickname=retroclovis
+password=martin
+email=csa_caloy@yahoo.com.ph
+signup_date=10/26/2005
+playerID=3029
+status=regular
+referal=myrben
+Verify=1
+Last IP=219.90.93.64
+id=99
+IP=219.90.93.64
+adminstatus=off
+match=10-28-2005
+[Stats]
+Win=11
+Lost=37
+Draw=7
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=1027
+Next=1301
+Streak=-10
+[Newdecks]
+Last=10-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 138800
+Versus=howabe
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=loss
+score=16-4

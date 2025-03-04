@@ -1,0 +1,33 @@
+[player]
+nickname=bouncyblob
+password=245188534
+email=bouncyblob@hotmail.com
+signup_date=6/21/2005
+playerID=777
+status=regular
+referal=
+Verify=1
+Last IP=68.111.224.100
+id=44
+IP=68.111.224.100
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=8
+[Newdecks]
+Last=06-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

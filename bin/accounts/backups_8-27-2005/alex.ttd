@@ -1,0 +1,18 @@
+[player]
+nickname=alex
+password=579574345
+email=janc_zero@hotmail.com
+signup_date=6/28/2005
+playerID=900
+status=regular
+referal=dark
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-28-2005

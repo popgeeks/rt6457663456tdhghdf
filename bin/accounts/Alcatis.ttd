@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=12
+match=01-20-2006
+[Play]
+Playing=false
+GameID= 203220
+Versus=phoneshoe
+Iam=2
+[Stats]
+Level=3
+Exp=387
+Next=476
+Streak=-2
+[Games]
+Playing=OTT
+[game]
+opponent=phoneshoe
+result=loss
+score=12-8

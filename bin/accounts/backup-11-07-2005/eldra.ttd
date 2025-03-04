@@ -1,0 +1,43 @@
+[player]
+nickname=eldra
+password=783627926
+email=eldra5@hotmail.co.uk
+signup_date=10/15/2005
+playerID=2854
+status=regular
+referal=
+Verify=1
+Last IP=82.35.216.81
+id=30
+IP=82.35.216.81
+adminstatus=off
+match=10-16-2005
+[Stats]
+Win=0
+Lost=13
+Draw=1
+Lame quits=1
+Newdecks=3
+Level=2
+Exp=141
+Next=248
+Streak=-11
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130971
+Versus=darkfire
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=6-4

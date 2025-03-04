@@ -1,0 +1,30 @@
+[player]
+nickname=SuperSeal
+password=cainryan
+email=bappa4england@aol.com
+signup_date=9/10/2005
+playerID=2211
+status=regular
+referal=
+Verify=1
+Last IP=172.200.113.176
+id=16
+IP=172.200.113.176
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

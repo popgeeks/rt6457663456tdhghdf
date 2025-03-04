@@ -1,0 +1,43 @@
+[player]
+nickname=ravish
+password=443542182
+email=the_ravishing_one3@hotmail.com
+signup_date=10/9/2005
+playerID=2723
+status=regular
+referal=
+Verify=1
+Last IP=24.114.212.110
+id=122
+IP=24.114.212.110
+adminstatus=off
+match=10-09-2005
+[Stats]
+Win=1
+Lost=1
+Draw=1
+Lame quits=0
+Newdecks=5
+Level=1
+Exp=56
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=2
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 123944
+Versus=cardist
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=cardist
+result=win
+score=12-8

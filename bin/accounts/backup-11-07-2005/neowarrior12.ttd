@@ -1,0 +1,45 @@
+[player]
+nickname=neowarrior12
+password=regd29
+email=ultimateheadcase@hotmail.com
+signup_date=10/23/2005
+playerID=2982
+status=regular
+referal=
+Verify=1
+Last IP=129.244.129.185
+id=84
+IP=129.244.129.185
+adminstatus=off
+match=10-30-2005
+[Stats]
+Win=6
+Lost=11
+Draw=2
+Lame quits=0
+Newdecks=3
+Level=3
+Exp=309
+Next=476
+SoldCards=0
+cardsgiven=0
+SBLost=3
+Streak=-2
+SBWin=6
+[Newdecks]
+Last=10-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140629
+Versus=blackcat
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=hybre
+result=loss
+score=15-5

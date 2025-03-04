@@ -1,0 +1,47 @@
+[player]
+nickname=Phace
+password=penrallt
+email=Phace@fsmail.net
+signup_date=6/23/2005
+playerID=823
+status=regular
+referal=penrallt
+Verify=1
+Last IP=195.62.207.88
+id=18
+IP=195.62.207.88
+adminstatus=off
+Last Played=07-06-2005
+match=07-06-2005
+[Stats]
+Win=19
+Lost=23
+Draw=7
+Lame quits=1
+GP=320
+rank=1169
+Newdecks=1
+Level=5
+Exp=1164
+Next=1301
+AP=1344
+Streak=-2
+Choices=1
+[Newdecks]
+Last=06-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 49631
+Versus=Alvaro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alvaro
+result=loss
+score=9-1

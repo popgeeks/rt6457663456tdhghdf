@@ -1,0 +1,18 @@
+[player]
+nickname=Craig
+password=681691765
+email=02mckic@ross.e-lothian.sch
+signup_date=7/4/2005
+playerID=1015
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-04-2005

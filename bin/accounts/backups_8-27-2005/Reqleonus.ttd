@@ -1,0 +1,46 @@
+[player]
+nickname=Reqleonus
+password=Vampire
+email=Divinity135912@yahoo.com
+signup_date=7/25/2005
+playerID=1486
+status=regular
+referal=Tenrok
+Verify=1
+Last IP=67.176.109.196
+id=70
+IP=67.176.109.196
+adminstatus=off
+match=07-25-2005
+Last Played=07-25-2005
+[Stats]
+Win=16
+Lost=18
+Draw=5
+Lame quits=0
+GP=15
+Newdecks=1
+Level=4
+Exp=625
+Next=836
+AP=1002
+Streak=-1
+SBWin=1
+Choices=1
+[Newdecks]
+Last=07-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 68173
+Versus=Tenrok
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Tenrok
+result=loss
+score=15-5

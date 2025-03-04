@@ -1,0 +1,44 @@
+[player]
+nickname=paranoidandy
+password=413872539
+email=paranoidandy91@yahoo.com
+signup_date=8/24/2005
+playerID=1972
+status=regular
+referal=andy
+Verify=1
+Last IP=68.55.248.82
+id=59
+IP=68.55.248.82
+adminstatus=off
+match=08-24-2005
+Last Played=08-24-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+Streak=1
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 91645
+Versus=meh2
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=meh2
+result=loss
+score=9-1

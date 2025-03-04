@@ -1,0 +1,19 @@
+[player]
+nickname=eiboonz
+password=381918787
+email=diosdelbosque@telefonica.net
+signup_date=10/22/2005
+playerID=2978
+status=regular
+referal=XDXDXD
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-22-2005
+[password]
+failed=2

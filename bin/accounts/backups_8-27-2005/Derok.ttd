@@ -1,0 +1,47 @@
+[player]
+nickname=Derok
+password=27487mgm1123
+email=syte_in_hell@hotmail.com
+signup_date=7/30/2005
+playerID=1596
+status=regular
+referal=
+Verify=1
+Last IP=80.24.60.24
+id=1
+IP=80.24.60.24
+adminstatus=off
+match=08-03-2005
+Last Played=08-03-2005
+[Stats]
+Win=13
+Lost=28
+Draw=7
+Lame quits=0
+GP=658
+Newdecks=1
+Level=4
+Exp=713
+Next=836
+AP=14
+Streak=-3
+Choices=1
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Iam=2
+Versus=youto
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=youto
+result=loss
+score=6-4
+[Warnings]
+Kicks=1

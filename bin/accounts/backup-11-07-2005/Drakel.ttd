@@ -1,0 +1,18 @@
+[player]
+nickname=Drakel
+password=315199553
+email=thomi.buser@bluewin.ch
+signup_date=7/14/2005
+playerID=1241
+status=regular
+referal=Drakel
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-14-2005

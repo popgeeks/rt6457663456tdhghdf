@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=92
+match=01-02-2006
+[Play]
+Playing=false
+GameID= 189064
+Versus=Lee768
+Iam=2
+[Stats]
+Level=6
+Exp=1592
+Next=1727
+Streak=-4
+[Games]
+Playing=MM
+[game]
+opponent=ukimaro
+result=loss
+score=13-5

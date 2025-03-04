@@ -1,0 +1,42 @@
+[player]
+nickname=Adamisk999
+password=689818858
+email=angelofdark45@aol.com
+signup_date=11/6/2005
+playerID=3174
+status=regular
+referal=
+Verify=1
+Last IP=67.81.177.66
+id=31
+IP=67.81.177.66
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=29
+Next=100
+Streak=-1
+SBLost=1
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145684
+Versus=BlackDahlia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=BlackDahlia
+result=loss
+score=12-0

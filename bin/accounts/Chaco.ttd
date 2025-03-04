@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=11
+match=11-29-2005
+[Play]
+Playing=false
+GameID= 160702
+Versus=Kadajiroth
+Iam=1
+[Stats]
+Level=1
+Exp=86
+Next=100
+Streak=1
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=serpentarius
+result=win
+score=11-9

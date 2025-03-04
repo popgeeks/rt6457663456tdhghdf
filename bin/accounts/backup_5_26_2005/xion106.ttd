@@ -1,0 +1,52 @@
+[player]
+nickname=xion106
+password=games7
+email=Secondstar559271@aol.com
+signup_date=5/2/2005
+playerID=261
+status=regular
+referal=darklumina
+Verify=1
+Last IP=172.215.50.139
+id=25
+IP=172.215.50.139
+adminstatus=off
+match=05-13-2005
+Last Played=05-13-2005
+[Stats]
+Win=16
+Lost=59
+Draw=11
+Lame quits=10
+GP=69
+rank=907
+Newdecks=1
+Level=6
+Exp=1559
+Next=1727
+Streak=-6
+Choices=1
+Wins=16
+AP=126
+SBLost=3
+[Newdecks]
+Last=05-02-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 15494
+Versus=heathen
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Angelus
+result=loss
+score=14-3
+[Warnings]
+Kicks=4
+Warns=1

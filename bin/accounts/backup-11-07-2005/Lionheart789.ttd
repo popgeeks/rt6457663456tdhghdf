@@ -1,0 +1,44 @@
+[player]
+nickname=Lionheart789
+password=558910369
+email=benhenderson13@hotmail.com
+signup_date=7/18/2005
+playerID=1360
+status=regular
+referal=Lionheart
+Verify=1
+Last IP=82.41.90.108
+id=34
+IP=82.41.90.108
+adminstatus=off
+match=07-19-2005
+Last Played=07-19-2005
+[Stats]
+Win=0
+Lost=2
+Draw=2
+Lame quits=0
+GP=20
+Newdecks=1
+Level=1
+Exp=34
+Next=100
+AP=161
+Streak=-1
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 60364
+Versus=Patrix
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Patrix
+result=draw
+score=5-5

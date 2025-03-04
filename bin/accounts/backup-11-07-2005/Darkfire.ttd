@@ -1,0 +1,42 @@
+[player]
+nickname=Darkfire
+password=258933365
+email=manga_anime_shading@hotmail.com
+signup_date=10/17/2005
+playerID=2897
+status=regular
+referal=Imperio
+Verify=1
+Last IP=217.125.1.231
+id=20
+IP=217.125.1.231
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=2
+Lost=6
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=80
+Next=100
+Streak=-3
+SBLost=1
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130993
+Versus=SephirothBMX
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=maikel
+result=loss
+score=6-4

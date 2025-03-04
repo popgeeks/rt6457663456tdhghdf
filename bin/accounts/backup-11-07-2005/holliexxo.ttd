@@ -1,0 +1,19 @@
+[player]
+nickname=holliexxo
+password=835906623
+email=hollie.hayton@blueyonder.co.uk
+signup_date=10/10/2005
+playerID=2764
+status=regular
+referal=951357
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-10-2005
+[password]
+failed=1

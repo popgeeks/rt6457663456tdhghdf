@@ -1,0 +1,32 @@
+[player]
+nickname=latinguy2100
+password=585885464
+email=realmadrid21000@yahoo.com
+signup_date=10/21/2005
+playerID=2959
+status=regular
+referal=soccer
+Verify=1
+Last IP=71.14.118.133
+id=15
+IP=71.14.118.133
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,44 @@
+[player]
+nickname=Tsuru
+password=healing
+email=nantuko@sbcglobal.net
+signup_date=9/18/2005
+playerID=2354
+status=regular
+referal=
+Verify=1
+Last IP=66.143.141.190
+id=60
+IP=66.143.141.190
+adminstatus=off
+match=09-30-2005
+[Stats]
+Win=62
+Lost=94
+Draw=26
+Lame quits=0
+Newdecks=1
+Level=9
+Exp=2913
+Next=3346
+Streak=-1
+SBLost=8
+SBWin=2
+[Newdecks]
+Last=09-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 117392
+Versus=MILAMBER
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MILAMBER
+result=loss
+score=11-9

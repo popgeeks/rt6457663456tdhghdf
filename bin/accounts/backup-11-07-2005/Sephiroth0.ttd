@@ -1,0 +1,43 @@
+[player]
+nickname=Sephiroth0
+password=masamune
+email=Lord_Sesshomaru717@yahoo.com
+signup_date=10/11/2005
+playerID=2783
+status=regular
+referal=masamune
+Verify=1
+Last IP=66.50.90.55
+id=41
+IP=66.50.90.55
+adminstatus=off
+match=10-11-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=18
+Next=100
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126093
+Versus=MasterD
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=8-2

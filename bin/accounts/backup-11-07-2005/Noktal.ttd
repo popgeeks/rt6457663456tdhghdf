@@ -1,0 +1,46 @@
+[player]
+nickname=Noktal
+password=1
+email=lone_Wanderer772@yahoo.com
+signup_date=7/29/2005
+playerID=1569
+status=regular
+referal=
+Verify=1
+Last IP=67.35.121.70
+id=19
+IP=67.35.121.70
+adminstatus=off
+match=08-30-2005
+Last Played=07-29-2005
+[Stats]
+Win=5
+Lost=7
+Draw=3
+Lame quits=0
+GP=180
+Newdecks=1
+Level=3
+Exp=262
+Next=476
+AP=193
+Streak=-2
+SBLost=1
+Choices=1
+[Newdecks]
+Last=07-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95250
+Versus=Raya
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Raya
+result=loss
+score=7-3

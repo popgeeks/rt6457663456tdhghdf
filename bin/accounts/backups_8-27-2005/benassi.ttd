@@ -1,0 +1,32 @@
+[player]
+nickname=benassi
+password=704310178
+email=edgariukas18@yahoo.com
+signup_date=8/27/2005
+playerID=2016
+status=regular
+referal=benassi
+Verify=1
+Last IP=85.206.163.195
+id=24
+IP=85.206.163.195
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=4
+[Newdecks]
+Last=08-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

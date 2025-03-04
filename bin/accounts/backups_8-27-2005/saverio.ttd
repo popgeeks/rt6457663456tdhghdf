@@ -1,0 +1,18 @@
+[player]
+nickname=saverio
+password=304725587
+email=saverio.picozzi@libero.it
+signup_date=8/4/2005
+playerID=1682
+status=regular
+referal=evviva
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-04-2005

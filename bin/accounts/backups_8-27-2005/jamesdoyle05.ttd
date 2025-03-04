@@ -1,0 +1,44 @@
+[player]
+nickname=jamesdoyle05
+password=922911583
+email=dogger130@hotmail.com
+signup_date=6/30/2005
+playerID=936
+status=regular
+referal=
+Verify=1
+Last IP=82.38.72.193
+id=31
+IP=82.38.72.193
+adminstatus=off
+match=07-04-2005
+Last Played=07-04-2005
+[Stats]
+Win=1
+Lost=2
+Draw=1
+Lame quits=0
+GP=35
+Newdecks=1
+Level=1
+Exp=68
+Next=100
+AP=124
+Streak=2
+[Newdecks]
+Last=06-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 48577
+Versus=Jinx
+Iam=2
+[Games]
+Playing=MM
+[game]
+opponent=Jinx
+result=win
+score=11-7

@@ -1,0 +1,60 @@
+[player]
+nickname=MGdaGR8est
+password=tosmart
+email=MGdaGR8est@gmail.com
+signup_date=3/26/05
+playerID=58
+status=regular
+Verify=1
+Last IP=69.115.9.85
+id=9
+IP=69.115.9.85
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=03-26-2005
+[Totals]
+Level1=4
+Level2=2
+Level3=1
+Level4=6
+Level5=1
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Snow Lion=1
+Turtapod=1
+Mesmerize=1
+Blitz=1
+Bomb=1
+X-ATM092=1
+Fastitocalon-F=1
+Funguar=1
+Gayla=1
+Tonberry King=1
+T-Rexaur=1
+Imp=1
+Jelleye=1
+Blood Soul=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

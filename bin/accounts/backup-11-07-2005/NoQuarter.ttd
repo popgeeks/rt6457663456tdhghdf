@@ -1,0 +1,35 @@
+[player]
+nickname=NoQuarter
+password=54254855
+email=noquarter0220@gmail.com
+signup_date=5/8/2005
+playerID=338
+status=regular
+referal=NoQuarter
+Verify=1
+Last IP=200.114.132.20
+id=1
+IP=200.114.132.20
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+Wins=0
+[Newdecks]
+Last=05-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

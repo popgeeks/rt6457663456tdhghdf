@@ -1,0 +1,44 @@
+[player]
+nickname=UPRC
+password=312372386
+email=daniel.babineau@gmail.com
+signup_date=7/2/2005
+playerID=980
+status=regular
+referal=Yahoo
+Verify=1
+Last IP=24.215.108.223
+id=25
+IP=24.215.108.223
+adminstatus=off
+match=07-02-2005
+Last Played=07-02-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=25
+Newdecks=1
+Level=1
+Exp=6
+Next=100
+AP=22
+Streak=1
+[Newdecks]
+Last=07-02-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 46951
+Versus=chay0531
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=chay0531
+result=win
+score=6-4

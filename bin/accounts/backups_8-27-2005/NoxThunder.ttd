@@ -1,0 +1,39 @@
+[player]
+nickname=NoxThunder
+password=608494459
+email=BlazickenTiger@hotmail.com
+signup_date=8/12/2005
+playerID=1838
+status=regular
+referal=master
+Verify=1
+Last IP=83.209.66.18
+id=206
+IP=83.209.66.18
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=8
+Streak=1
+[Newdecks]
+Last=08-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0
+[game]
+opponent=DarkGlory
+result=loss
+score=9-1

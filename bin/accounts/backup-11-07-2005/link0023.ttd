@@ -1,0 +1,41 @@
+[player]
+nickname=link0023
+password=0023
+email=link0023@gmail.com
+signup_date=9/11/2005
+playerID=2234
+status=regular
+referal=
+Verify=1
+Last IP=24.54.195.135
+id=118
+IP=24.54.195.135
+adminstatus=off
+match=10-09-2005
+[Stats]
+Win=0
+Lost=3
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=30
+Next=100
+Streak=-2
+[Newdecks]
+Last=09-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 123868
+Versus=blackcat
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=blackcat
+result=loss
+score=7-3

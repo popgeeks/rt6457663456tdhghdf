@@ -1,0 +1,89 @@
+[player]
+nickname=Ragnarok-88
+password=s8924320
+email=gumgaga@yahoo.com
+signup_date=4/16/05
+playerID=145
+status=regular
+referal=
+Verify=1
+Last IP=219.74.50.169
+id=20
+IP=219.74.50.169
+adminstatus=off
+match=04-25-2005
+Last Played=04-25-2005
+guildinvite=
+guildinvite_name=
+guild=
+guildmaster=
+[Stats]
+Win=13
+Lost=37
+Draw=3
+Lame quits=1
+GP=1880
+rank=1051
+Newdecks=3
+Level=5
+Exp=1229
+Next=1301
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+Wins=13
+AP=16
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=4
+Level4=3
+Level5=0
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Thrustaevis=0
+Creeps=1
+Death Claw=0
+Adamantoise=0
+Red Bat=0
+Abadon=2
+Snow Lion=0
+Bite Bug=0
+Gesper=0
+Tri-Point=0
+Grat=0
+Anacondaur=1
+Wendigo=0
+T-Rexaur=2
+Iguion=2
+Belhelmel=1
+Ochu=3
+Blue Dragon=1
+Blobra=1
+Tonberry=1
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 8183
+Versus=hitman
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=hitman
+result=win
+score=12-8
+[Warnings]
+Warns=1

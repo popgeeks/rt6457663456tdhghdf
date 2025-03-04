@@ -1,0 +1,63 @@
+[player]
+nickname=Kali
+password=89046895
+email=xdesirax@yahoo.com
+signup_date=4/13/05
+playerID=134
+status=regular
+referal=
+Verify=1
+Last IP=70.185.178.213
+id=12
+IP=70.185.178.213
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-13-2005
+[Totals]
+Level1=3
+Level2=1
+Level3=2
+Level4=5
+Level5=1
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blue Dragon=2
+Elvoret=1
+PuPu=1
+Funguar=1
+Caterchipillar=1
+Imp=1
+Red Bat=1
+Abadon=1
+Creeps=1
+Jumbo Cactuar=1
+T-Rexaur=2
+Tri-Face=1
+Fastitocalon=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5340
+Versus=darklumina
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT

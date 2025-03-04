@@ -1,0 +1,43 @@
+[player]
+nickname=Arturo
+password=arzgmail
+email=arz.reina@gmail.com
+signup_date=9/22/2005
+playerID=2425
+status=regular
+referal=Arturo
+Verify=1
+Last IP=82.198.103.159
+id=12
+IP=82.198.103.159
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=2
+Lost=13
+Draw=3
+Lame quits=0
+Newdecks=11
+Level=2
+Exp=177
+Next=248
+Streak=-6
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 115111
+Versus=moranguinha
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=moranguinha
+result=draw
+score=5-5

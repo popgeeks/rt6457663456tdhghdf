@@ -1,0 +1,43 @@
+[player]
+nickname=KidBuddha
+password=132396459
+email=zerra2000@spray.se
+signup_date=11/1/2005
+playerID=3103
+status=regular
+referal=8911120213
+Verify=1
+Last IP=80.217.195.94
+id=38
+IP=80.217.195.94
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=6
+Lost=17
+Draw=1
+Lame quits=0
+Newdecks=3
+Level=3
+Exp=418
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=-6
+[Newdecks]
+Last=11-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 144668
+Versus=Darksol
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Darksol
+result=loss
+score=6-4

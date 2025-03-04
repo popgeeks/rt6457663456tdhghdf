@@ -1,0 +1,46 @@
+[player]
+nickname=fffreak
+password=534542023
+email=ceunen_veestraeten@hotmail.com
+signup_date=8/23/2005
+playerID=1950
+status=regular
+referal=njits
+Verify=1
+Last IP=81.243.112.201
+id=15
+IP=81.243.112.201
+adminstatus=off
+match=08-30-2005
+Last Played=08-25-2005
+[Stats]
+Win=2
+Lost=8
+Draw=2
+Lame quits=0
+GP=50
+Newdecks=3
+Level=1
+Exp=92
+Next=100
+AP=206
+Streak=-3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95051
+Versus=Shardival
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Shardival
+result=loss
+score=6-4

@@ -1,0 +1,42 @@
+[player]
+nickname=Seisuke
+password=yunoki
+email=Seisuke@web.de
+signup_date=10/30/2005
+playerID=3077
+status=regular
+referal=
+Verify=1
+Last IP=84.139.82.228
+id=2
+IP=84.139.82.228
+adminstatus=off
+match=10-31-2005
+[Stats]
+Win=5
+Lost=6
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=318
+Next=476
+Streak=-1
+Choices=1
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140959
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=12-8

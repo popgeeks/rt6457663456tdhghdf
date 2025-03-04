@@ -1,0 +1,33 @@
+[player]
+nickname=Reborn
+password=549996733
+email=doctorpepper@hotmail.com
+signup_date=8/23/2005
+playerID=1945
+status=regular
+referal=BorneSupreme
+Verify=1
+Last IP=84.68.20.94
+id=1
+IP=84.68.20.94
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=5

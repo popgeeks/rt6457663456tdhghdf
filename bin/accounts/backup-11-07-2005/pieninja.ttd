@@ -1,0 +1,37 @@
+[player]
+nickname=pieninja
+password=loop
+email=sumfink.is.fishy@hotmail.com
+signup_date=10/29/2005
+playerID=3065
+status=regular
+referal=oniblade
+Verify=1
+Last IP=210.10.180.233
+id=86
+IP=210.10.180.233
+adminstatus=off
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=7
+Level=1
+Exp=5
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 139851
+Versus=howabe
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM

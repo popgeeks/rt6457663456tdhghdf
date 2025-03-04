@@ -1,0 +1,41 @@
+[player]
+nickname=jeze
+password=163193046
+email=jesse.inkeroinen@luukku.com
+signup_date=10/26/2005
+playerID=3020
+status=regular
+referal=020202
+Verify=1
+Last IP=82.128.236.223
+id=40
+IP=82.128.236.223
+adminstatus=off
+match=10-26-2005
+[Stats]
+Win=1
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=68
+Next=100
+Streak=-1
+[Newdecks]
+Last=10-26-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 136801
+Versus=squll-typo
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=15-9

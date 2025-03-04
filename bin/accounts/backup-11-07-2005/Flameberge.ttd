@@ -1,0 +1,43 @@
+[player]
+nickname=Flameberge
+password=754243671
+email=joshua.proffitt@ntlworld.com
+signup_date=10/26/2005
+playerID=3024
+status=regular
+referal=Flameberge
+Verify=1
+Last IP=82.10.109.47
+id=32
+IP=82.10.109.47
+adminstatus=off
+match=10-26-2005
+[Stats]
+Win=0
+Lost=7
+Draw=0
+Lame quits=1
+Newdecks=5
+Level=2
+Exp=114
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=-6
+[Newdecks]
+Last=10-26-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 137059
+Versus=MasterD
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=7-3

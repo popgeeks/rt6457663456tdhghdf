@@ -1,0 +1,37 @@
+[player]
+nickname=LittleNemo
+password=593989431
+email=angelam.neal@gmail.com
+signup_date=7/25/2005
+playerID=1495
+status=regular
+referal=DreamMaster
+Verify=1
+Last IP=66.141.169.155
+id=74
+IP=66.141.169.155
+adminstatus=off
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=29
+[Newdecks]
+Last=07-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 67779
+Versus=DreamMaster
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM

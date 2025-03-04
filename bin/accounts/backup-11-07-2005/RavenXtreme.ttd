@@ -1,0 +1,58 @@
+[player]
+nickname=RavenXtreme
+password=Phoenix
+email=xtreme_mage@yahoo.com
+signup_date=8/24/2005
+playerID=1968
+status=regular
+referal=
+Verify=1
+Last IP=70.162.73.240
+id=50
+IP=70.162.73.240
+adminstatus=off
+match=11-05-2005
+Last Played=08-26-2005
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=120
+Lost=229
+Draw=57
+Lame quits=1
+GP=383
+Newdecks=3
+Level=13
+Exp=5765
+Next=6316
+AP=249
+SoldCards=1
+cardsgiven=0
+Streak=-6
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=449
+honor=1
+PCT=50
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 144917
+Iam=2
+Versus=LagunaD
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=LagunaD
+result=loss
+score=11-9
+[Warnings]
+Kicks=2

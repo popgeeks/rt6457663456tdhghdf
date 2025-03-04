@@ -1,0 +1,46 @@
+[player]
+nickname=oxymoronica
+password=548025667
+email=oxymoron_kelly@hotmail.com
+signup_date=4/16/05
+playerID=149
+status=regular
+referal=jedislight
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=2
+Level2=6
+Level3=3
+Level4=2
+Level5=1
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Wedge, Biggs=1
+Gayla=1
+Thrustaevis=1
+Anacondaur=1
+Shumi Tribe=1
+Blitz=1
+Blobra=1
+Death Claw=1
+Glacial Eye=1
+Armadodo=1
+Belhelmel=2
+Adamantoise=1
+Tonberry=1
+Mesmerize=1

@@ -1,0 +1,18 @@
+[player]
+nickname=ProfessorO
+password=30355513
+email=ProfessorO@dodgeit.com
+signup_date=8/24/2005
+playerID=1958
+status=regular
+referal=Aiza
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-24-2005

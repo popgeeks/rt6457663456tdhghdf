@@ -1,0 +1,32 @@
+[player]
+nickname=Havocwest
+password=814644157
+email=hvc_west@yahoo.com
+signup_date=8/25/2005
+playerID=1980
+status=regular
+referal=Havoc
+Verify=1
+Last IP=69.128.184.170
+id=24
+IP=69.128.184.170
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=8
+[Newdecks]
+Last=08-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

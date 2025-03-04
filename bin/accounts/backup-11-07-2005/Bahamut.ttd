@@ -1,0 +1,54 @@
+[player]
+nickname=Bahamut
+password=15041993
+email=mr.gako@gmail.com
+signup_date=7/21/2005
+playerID=1410
+status=regular
+referal=
+Verify=1
+Last IP=82.53.163.183
+id=27
+IP=82.53.163.183
+adminstatus=off
+match=08-31-2005
+Last Played=08-09-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=93
+Lost=121
+Draw=40
+Lame quits=2
+GP=591
+Newdecks=1
+Level=12
+Exp=4855
+Next=5510
+AP=2118
+Streak=-4
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-21-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 95913
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=squll-typo
+result=loss
+score=6-4
+[Warnings]
+Kicks=1

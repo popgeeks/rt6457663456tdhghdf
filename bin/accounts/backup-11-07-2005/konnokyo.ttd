@@ -1,0 +1,46 @@
+[player]
+nickname=konnokyo
+password=944041549
+email=tazumi2003@hotmail.com
+signup_date=5/28/2005
+playerID=530
+status=regular
+referal=
+Verify=1
+Last IP=84.142.111.211
+id=23
+IP=84.142.111.211
+adminstatus=off
+Last Played=06-27-2005
+match=06-27-2005
+[Stats]
+Win=13
+Lost=6
+Draw=7
+Lame quits=0
+GP=377
+rank=1490
+Newdecks=1
+Level=2
+Exp=161
+Next=248
+AP=645
+Streak=-2
+Choices=1
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 43073
+Versus=kozfogel
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=kozfogel
+result=draw
+score=5-5

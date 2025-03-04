@@ -1,0 +1,25 @@
+[AP]
+AAEXP=0
+honor=2
+[player]
+id=14
+match=11-29-2005
+guildinvite=
+guildinvite_name=
+[Play]
+Playing=false
+GameID= 160335
+Versus=minuil
+Iam=1
+[Stats]
+Level=7
+Exp=2144
+Next=2154
+Streak=-2
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=squll-typo
+result=loss
+score=13-7

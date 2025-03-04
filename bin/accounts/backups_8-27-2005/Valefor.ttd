@@ -1,0 +1,49 @@
+[player]
+nickname=Valefor
+password=675887643
+email=valefor@vp.pl
+signup_date=6/26/2005
+playerID=859
+status=regular
+referal=
+Verify=1
+Last IP=83.23.242.58
+id=22
+IP=83.23.242.58
+adminstatus=off
+match=06-29-2005
+Last Played=06-29-2005
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=0
+GP=27
+Newdecks=1
+Level=1
+Exp=83
+Next=100
+AP=162
+Streak=-2
+SBWin=1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 44603
+Versus=BorneSupreme
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=BorneSupreme
+result=loss
+score=7-3

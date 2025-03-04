@@ -1,0 +1,62 @@
+[player]
+nickname=oniz
+password=labankat
+email=oniz.go@gmail.com
+signup_date=7/15/2005
+playerID=1249
+status=regular
+referal=
+Verify=1
+Last IP=84.240.61.68
+id=28
+IP=84.240.61.68
+adminstatus=off
+match=11-06-2005
+Last Played=08-26-2005
+surname=eternal
+guildinvite=
+guildinvite_name=
+guild=Guild of Legends
+guildmaster=3
+[Stats]
+Win=1465
+Lost=1017
+Draw=514
+Lame quits=19
+GP=345
+Newdecks=11
+Level=38
+Exp=51865
+Next=54517
+AP=177
+SoldCards=217
+cardsgiven=0
+Streak=-1
+Choices=1
+SBWin=2
+SBLost=5
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=1499
+honor=2
+PCT=0
+AAPOINTS=0
+TRAINED=4
+bountiful=2
+[Play]
+Playing=false
+GameID= 145740
+Versus=Omni
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Omni
+result=loss
+score=7-3
+[Warnings]
+Kicks=4

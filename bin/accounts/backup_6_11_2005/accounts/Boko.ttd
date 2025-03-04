@@ -1,0 +1,116 @@
+[player]
+nickname=Boko
+password=4591507
+email=m_koerber@charter.net
+signup_date=3/23/05
+playerID=46
+status=regular
+Verify=1
+Last IP=24.241.126.114
+id=8
+IP=24.241.126.114
+adminstatus=off
+Last Played=06-04-2005
+guildinvite=
+guildinvite_name=
+guild=Card Club
+guildmaster=3
+match=06-04-2005
+surname=(kwehh!?)
+membership=diamond
+membership_enddate=05/15/2005
+
+[Stats]
+Win=570
+Lost=407
+Draw=183
+Lame quits=30
+GP=548
+rank=1836
+Newdecks=5
+Level=27
+Exp=26130
+Next=27336
+Streak=1
+Choices=1
+SoldCards=173
+cardsgiven=0
+AP=91
+Wins=399
+SBLost=2
+[Newdecks]
+Last=04-10-2005
+[Totals]
+Level1=3
+Level2=1
+Level3=3
+Level4=4
+Level5=1
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Gargantua=0
+Caterchipillar=0
+Blue Dragon=0
+Glacial Eye=0
+Bite Bug=1
+Bomb=0
+Wendigo=1
+Tri-Point=0
+Ruby Dragon=0
+Oilboyle=0
+Fastitocalon=0
+Thrustaevis=1
+Trauma=0
+Blood Soul=0
+Iguion=0
+Fujin, Raijin=0
+Death Claw=0
+Elvoret=1
+Gerogero=1
+Granaldo=0
+PuPu=1
+Funguar=0
+Belhelmel=0
+Forbidden=1
+Malboro=0
+X-ATM092=0
+Iron Giant=0
+Ochu=0
+Torama=1
+Anacondaur=0
+T-Rexaur=1
+Armadodo=1
+Imp=1
+Snow Lion=1
+Gayla=1
+Abadon=1
+Gesper=1
+[AP]
+AAEXP=33
+PCT=0
+AAPOINTS=0
+TRAINED=3
+honor=2
+golden=1
+[Play]
+Playing=false
+GameID= 27894
+Versus=Razum
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Razum
+result=win
+score=13-7
+[Warnings]
+Warns=1
+Kicks=2

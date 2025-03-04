@@ -1,0 +1,17 @@
+[player]
+nickname=andresk
+password=496057211
+email=andres13a.@hot.ee
+signup_date=10/27/2005
+playerID=3048
+status=regular
+referal=andresk
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-27-2005

@@ -1,0 +1,41 @@
+[player]
+nickname=GeneSplice
+password=hajime
+email=kurifodo@u.washington.edu
+signup_date=9/19/2005
+playerID=2372
+status=regular
+referal=
+Verify=1
+Last IP=24.22.170.8
+id=23
+IP=24.22.170.8
+adminstatus=off
+match=09-20-2005
+[Stats]
+Win=3
+Lost=2
+Draw=0
+Lame quits=1
+Newdecks=1
+Level=2
+Exp=170
+Next=248
+Streak=1
+[Newdecks]
+Last=09-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 109545
+Versus=blinker616
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=isorae
+result=win
+score=13-7

@@ -1,0 +1,30 @@
+[player]
+nickname=TehEvilSeal
+password=445143639
+email=darkbonehead@hotmail.com
+signup_date=9/12/2005
+playerID=2250
+status=regular
+referal=
+Verify=1
+Last IP=172.188.102.9
+id=32
+IP=172.188.102.9
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=1

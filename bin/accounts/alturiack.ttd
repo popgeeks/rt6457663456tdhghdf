@@ -1,0 +1,24 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=19
+match=12-10-2005
+[Play]
+Playing=false
+GameID= 168122
+Versus=Wammo950
+Iam=2
+[Stats]
+Level=9
+Exp=3286
+Next=3346
+Streak=-11
+[Games]
+Playing=TT
+[game]
+opponent=Wammo950
+result=loss
+score=6-4
+[Warnings]
+Kicks=1

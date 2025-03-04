@@ -1,0 +1,17 @@
+[player]
+nickname=StrifeCard
+password=763899921
+email=thejoker@yahoo.com
+signup_date=10/1/2005
+playerID=2580
+status=regular
+referal=1
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-01-2005

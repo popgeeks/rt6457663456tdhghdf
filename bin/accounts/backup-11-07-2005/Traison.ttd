@@ -1,0 +1,45 @@
+[player]
+nickname=Traison
+password=782623945
+email=tom123233@hotmail.com
+signup_date=9/9/2005
+playerID=2196
+status=regular
+referal=Traison
+Verify=1
+Last IP=142.59.196.18
+id=26
+IP=142.59.196.18
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=6
+Lost=4
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=2
+Exp=221
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=-1
+SBWin=6
+SBLost=3
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102377
+Versus=nayuu
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=nayuu
+result=loss
+score=46-27

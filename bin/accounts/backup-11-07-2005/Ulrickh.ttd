@@ -1,0 +1,30 @@
+[player]
+nickname=Ulrickh
+password=91025054
+email=Ulrickh@hotmail.com
+signup_date=10/16/2005
+playerID=2879
+status=regular
+referal=Dragon
+Verify=1
+Last IP=201.230.96.64
+id=1
+IP=201.230.96.64
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

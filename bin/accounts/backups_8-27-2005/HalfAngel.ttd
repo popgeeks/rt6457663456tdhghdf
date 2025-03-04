@@ -1,0 +1,46 @@
+[player]
+nickname=HalfAngel
+password=622675179
+email=Selena489@yahoo.com
+signup_date=8/3/2005
+playerID=1659
+status=regular
+referal=
+Verify=1
+Last IP=68.206.72.184
+id=19
+IP=68.206.72.184
+adminstatus=off
+match=08-05-2005
+Last Played=08-05-2005
+[Stats]
+Win=16
+Lost=38
+Draw=4
+Lame quits=0
+GP=317
+Newdecks=1
+Level=5
+Exp=1047
+Next=1301
+AP=1879
+Streak=-1
+Choices=1
+[Newdecks]
+Last=08-03-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 79427
+Versus=Ac13
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Ac13
+result=loss
+score=12-8

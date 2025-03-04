@@ -1,0 +1,42 @@
+[player]
+nickname=mxtsgx
+password=742644547
+email=mxtrina@yahoo.com
+signup_date=10/3/2005
+playerID=2607
+status=regular
+referal=
+Verify=1
+Last IP=24.182.33.75
+id=22
+IP=24.182.33.75
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=23
+Lost=11
+Draw=6
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=1077
+Next=1301
+Streak=12
+[Newdecks]
+Last=10-03-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 130785
+Versus=gunknight
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=gunknight
+result=win
+score=12-8

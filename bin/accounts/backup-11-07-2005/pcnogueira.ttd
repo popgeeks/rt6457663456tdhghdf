@@ -1,0 +1,42 @@
+[player]
+nickname=pcnogueira
+password=183972239
+email=uchiha@netcabo.pt
+signup_date=10/22/2005
+playerID=2976
+status=regular
+referal=caradesapo
+Verify=1
+Last IP=213.228.183.50
+id=43
+IP=213.228.183.50
+adminstatus=off
+match=10-22-2005
+[Stats]
+Win=4
+Lost=2
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=114
+Next=248
+Streak=-1
+SBLost=1
+[Newdecks]
+Last=10-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 134485
+Versus=Linky
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Linky
+result=loss
+score=11-7

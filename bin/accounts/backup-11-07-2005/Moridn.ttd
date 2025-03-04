@@ -1,0 +1,50 @@
+[player]
+nickname=Moridn
+password=015641
+email=TheCowsKing@yahoo.com
+signup_date=7/4/2005
+playerID=1029
+status=regular
+referal=
+Verify=1
+Last IP=71.111.51.37
+id=24
+IP=71.111.51.37
+adminstatus=off
+match=07-18-2005
+Last Played=07-18-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=54
+Lost=54
+Draw=11
+Lame quits=0
+GP=1444
+Newdecks=1
+Level=8
+Exp=2203
+Next=2698
+AP=3653
+Streak=1
+Choices=1
+[Newdecks]
+Last=07-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 59658
+Versus=Gilgamesh
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=SSJCloud85
+result=win
+score=11-9

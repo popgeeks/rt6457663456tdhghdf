@@ -1,0 +1,55 @@
+[player]
+nickname=mrgako
+password=01111989
+email=alerob21@aliceposta.it
+signup_date=7/21/2005
+playerID=1413
+status=regular
+referal=
+Verify=1
+Last IP=82.51.169.246
+id=47
+IP=82.51.169.246
+adminstatus=off
+match=08-09-2005
+Last Played=08-09-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=60
+Lost=66
+Draw=23
+Lame quits=3
+GP=75
+Newdecks=13
+Level=8
+Exp=2365
+Next=2698
+AP=396
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=07-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 82759
+Versus=Bahamut
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Bahamut
+result=draw
+score=5-5
+[Warnings]
+Kicks=1

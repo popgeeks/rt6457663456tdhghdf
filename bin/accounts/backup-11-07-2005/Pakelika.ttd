@@ -1,0 +1,66 @@
+[player]
+nickname=Pakelika
+password=tifa17
+email=BleedingStatue@aol.com
+signup_date=5/3/2005
+playerID=268
+status=regular
+referal=Heathen
+Verify=1
+Last IP=172.164.70.40
+id=52
+IP=172.164.70.40
+adminstatus=off
+match=11-06-2005
+Last Played=08-27-2005
+surname=visualasasin
+guildmaster=2
+guild=Guild of Legends
+[Stats]
+Win=1363
+Lost=1339
+Draw=507
+Lame quits=27
+GP=164
+rank=2728
+Newdecks=60
+Level=38
+Exp=51204
+Next=54517
+SoldCards=60
+cardsgiven=0
+Streak=2
+Choices=1
+AP=1163
+SBLost=53
+Wins=33
+SBWin=50
+SBDraw=1
+[Newdecks]
+Last=06-29-2005
+[AP]
+AAEXP=161
+honor=2
+PCT=20
+AAPOINTS=1
+TRAINED=8
+high=2
+golden=1
+bountiful=1
+[Play]
+Playing=false
+GameID= 146222
+Versus=LagunaD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=LagunaD
+result=win
+score=14-6
+[Warnings]
+Kicks=5
+Warns=1

@@ -1,0 +1,87 @@
+[player]
+nickname=3wingedangel
+password=patrick
+email=tto3winger@yahoo.com
+signup_date=3/13/05
+playerID=6
+status=regular
+membership=power
+Verify=1
+Last IP=70.245.113.25
+id=17
+IP=70.245.113.25
+adminstatus=off
+Last Played=08-17-2005
+match=08-17-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+surname=issupersexy
+[Stats]
+Win=170
+Lost=220
+Draw=56
+Lame quits=4
+GP=480
+rank=1386
+Newdecks=1
+Level=18
+Exp=11645
+Next=12718
+Streak=-2
+Wins=1
+AP=207
+Choices=1
+SBLost=1
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=3
+Level4=3
+Level5=1
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blitz=1
+Oilboyle=1
+Iguion=1
+Bite Bug=1
+Tri-Face=1
+X-ATM092=2
+Glacial Eye=2
+Death Claw=2
+Elvoret=0
+Behemoth=1
+Blue Dragon=1
+Imp=1
+[AP]
+AAEXP=144
+honor=2
+PCT=50
+AAPOINTS=0
+TRAINED=4
+true=1
+darky's=1
+[Play]
+Playing=false
+GameID= 86853
+Versus=Eidolon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Eidolon
+result=loss
+score=15-5
+[Warnings]
+Warns=2

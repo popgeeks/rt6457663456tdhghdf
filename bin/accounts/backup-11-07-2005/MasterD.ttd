@@ -1,0 +1,63 @@
+[player]
+nickname=MasterD
+password=dino16
+email=dionoudespraakste@hotmail.com
+signup_date=7/15/2005
+playerID=1257
+status=regular
+referal=dino16
+Verify=1
+Last IP=83.116.119.135
+id=3
+IP=83.116.119.135
+adminstatus=off
+match=11-07-2005
+Last Played=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=Monoxide Children
+guildmaster=1
+[Stats]
+Win=2260
+Lost=1203
+Draw=611
+Lame quits=11
+GP=588
+Newdecks=5
+Level=32
+Exp=38174
+Next=38988
+AP=57263
+SoldCards=338
+cardsgiven=0
+Streak=1
+Choices=1
+SBLost=19
+SBWin=36
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=914
+honor=1
+PCT=30
+AAPOINTS=1
+TRAINED=42
+darky's=5
+high=5
+bountiful=3
+golden=5
+true=3
+[Play]
+Playing=false
+GameID= 146668
+Versus=J102Y
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Halfas
+result=win
+score=16-4

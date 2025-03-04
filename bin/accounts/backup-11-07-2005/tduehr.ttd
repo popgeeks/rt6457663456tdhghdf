@@ -1,0 +1,32 @@
+[player]
+nickname=tduehr
+password=coconut
+email=tyler_duehr@hotmail.com
+signup_date=9/22/2005
+playerID=2428
+status=regular
+referal=Vorpal
+Verify=1
+Last IP=69.210.47.100
+id=59
+IP=69.210.47.100
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

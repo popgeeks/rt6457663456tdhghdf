@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=16
+match=12-13-2005
+[Play]
+Playing=false
+GameID= 169869
+Versus=hitman
+Iam=1
+[Stats]
+Level=2
+Exp=142
+Next=248
+Streak=-2
+[Games]
+Playing=OTT
+[game]
+opponent=hitman
+result=loss
+score=16-4

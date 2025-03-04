@@ -1,0 +1,41 @@
+[player]
+nickname=Zenteczuken
+password=176106512
+email=dablackflowen@yahoo.com
+signup_date=10/15/2005
+playerID=2864
+status=regular
+referal=
+Verify=1
+Last IP=71.138.18.125
+id=42
+IP=71.138.18.125
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=1
+Lost=1
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=33
+Next=100
+Streak=2
+[Newdecks]
+Last=10-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 129592
+Versus=TreyBizzle
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=TreyBizzle
+result=draw
+score=5-5

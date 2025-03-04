@@ -1,0 +1,21 @@
+[player]
+nickname=maxred99221
+password=587773322
+email=redmax99221@yahoo.com
+signup_date=6/23/2005
+playerID=825
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-23-2005
+[password]
+failed=1

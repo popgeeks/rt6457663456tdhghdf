@@ -1,0 +1,46 @@
+[player]
+nickname=Centricus
+password=400259792
+email=haloinvader@socal.rr.com
+signup_date=8/14/2005
+playerID=1853
+status=regular
+referal=
+Verify=1
+Last IP=66.27.175.115
+id=14
+IP=66.27.175.115
+adminstatus=off
+match=08-14-2005
+Last Played=08-14-2005
+[Stats]
+Win=0
+Lost=7
+Draw=0
+Lame quits=0
+GP=10
+Newdecks=7
+Level=1
+Exp=60
+Next=100
+AP=20
+SoldCards=0
+cardsgiven=0
+Streak=-5
+[Newdecks]
+Last=08-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86610
+Versus=THeoNegod13
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=THeoNegod13
+result=loss
+score=9-1

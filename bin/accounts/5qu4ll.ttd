@@ -1,0 +1,17 @@
+[player]
+nickname=5qu4ll
+password=922900675
+email=a@libero.it
+signup_date=9/8/2005
+playerID=2172
+status=regular
+referal=anto
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-08-2005

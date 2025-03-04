@@ -1,0 +1,30 @@
+[player]
+nickname=xtrasux
+password=607434272
+email=xtrasux@gmail.com
+signup_date=9/19/2005
+playerID=2359
+status=regular
+referal=download.com
+Verify=1
+Last IP=203.118.191.83
+id=13
+IP=203.118.191.83
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

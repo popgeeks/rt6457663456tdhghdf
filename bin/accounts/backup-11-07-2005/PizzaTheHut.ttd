@@ -1,0 +1,47 @@
+[player]
+nickname=PizzaTheHut
+password=HD615Clyn
+email=pizzathehut@graffiti.net
+signup_date=9/25/2005
+playerID=2489
+status=regular
+referal=
+Verify=1
+Last IP=35.11.180.12
+id=29
+IP=35.11.180.12
+adminstatus=off
+match=10-19-2005
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=75
+Lost=51
+Draw=41
+Lame quits=0
+Newdecks=1
+Level=8
+Exp=2402
+Next=2698
+Streak=-3
+SBLost=1
+Choices=1
+[Newdecks]
+Last=09-25-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 132372
+Versus=Olorin
+Iam=2
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Olorin
+result=draw
+score=5-5

@@ -1,0 +1,46 @@
+[player]
+nickname=aushulz
+password=zarathustra
+email=baddan@37.com
+signup_date=7/22/2005
+playerID=1422
+status=regular
+referal=
+Verify=1
+Last IP=82.59.134.176
+id=43
+IP=82.59.134.176
+adminstatus=off
+match=07-25-2005
+Last Played=07-25-2005
+[Stats]
+Win=36
+Lost=40
+Draw=18
+Lame quits=2
+GP=1322
+Newdecks=1
+Level=6
+Exp=1465
+Next=1727
+AP=2799
+Streak=-6
+Choices=1
+[Newdecks]
+Last=07-22-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID=67554
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Patrix
+result=loss
+score=14-6

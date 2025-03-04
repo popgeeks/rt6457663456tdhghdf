@@ -1,0 +1,54 @@
+[player]
+nickname=Aerith
+password=210848986
+email=Comprajuegos@hotmail.com
+signup_date=7/12/2005
+playerID=1224
+status=regular
+referal=Tribal
+Verify=1
+Last IP=83.54.195.211
+id=17
+IP=83.54.195.211
+adminstatus=off
+match=08-18-2005
+Last Played=08-18-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=117
+Lost=171
+Draw=53
+Lame quits=6
+GP=835
+Newdecks=1
+Level=14
+Exp=6431
+Next=7520
+AP=15015
+Streak=-2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 87076
+Versus=OlinMercury
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=OlinMercury
+result=loss
+score=13-7
+[Warnings]
+Kicks=1

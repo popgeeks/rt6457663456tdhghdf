@@ -1,0 +1,43 @@
+[player]
+nickname=Bigpat23
+password=online
+email=kingdole23@yahoo.com
+signup_date=9/17/2005
+playerID=2337
+status=regular
+referal=friend
+Verify=1
+Last IP=24.218.241.228
+id=41
+IP=24.218.241.228
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=1
+Newdecks=3
+Level=1
+Exp=6
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107622
+Versus=karlozX
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Andrew
+result=loss
+score=6-4

@@ -1,0 +1,54 @@
+[player]
+nickname=DarkClould
+password=dunks
+email=clockworkorangekid@msn.com
+signup_date=7/10/2005
+playerID=1159
+status=regular
+referal=ColdWinter
+Verify=1
+Last IP=81.100.99.155
+id=19
+IP=81.100.99.155
+adminstatus=off
+match=07-17-2005
+Last Played=07-17-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=19
+Lost=76
+Draw=7
+Lame quits=0
+GP=130
+Newdecks=31
+Level=5
+Exp=1286
+Next=1301
+AP=397
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 58181
+Versus=ColdWinter
+Iam=1
+[password]
+failed=3
+[Games]
+Playing=MM
+[game]
+opponent=ColdWinter
+result=loss
+score=7-3
+[Warnings]
+Kicks=1

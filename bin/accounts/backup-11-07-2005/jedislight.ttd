@@ -1,0 +1,92 @@
+[player]
+nickname=jedislight
+password=saber
+email=jedislight@oczombies.net
+signup_date=4/13/05
+playerID=135
+status=regular
+referal=
+Verify=1
+Last IP=24.145.213.163
+id=10
+IP=24.145.213.163
+adminstatus=off
+match=04-16-2005
+Last Played=04-16-2005
+[Stats]
+Win=33
+Lost=39
+Draw=15
+Lame quits=0
+GP=10
+rank=1407
+Newdecks=7
+Level=7
+Exp=2024
+Next=2154
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=33
+[Newdecks]
+Last=04-18-2005
+[Totals]
+Level1=7
+Level2=5
+Level3=4
+Level4=7
+Level5=3
+Level6=3
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Death Claw=1
+Blobra=1
+Caterchipillar=0
+Torama=1
+Abadon=0
+Vysage=1
+Funguar=0
+Imp=2
+Fujin, Raijin=1
+Grendel=1
+Glacial Eye=1
+Tonberry King=1
+X-ATM092=1
+Belhelmel=0
+Mesmerize=3
+Bomb=2
+Jumbo Cactuar=2
+Gesper=0
+PuPu=0
+Cockatrice=2
+Wendigo=1
+Red Bat=3
+Cactuar=1
+Malboro=0
+Gargantua=0
+Iron Giant=1
+Wedge, Biggs=1
+Tri-Face=1
+Shumi Tribe=1
+Fastitocalon=1
+Gayla=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 6040
+Versus=uud2
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=uud2
+result=loss
+score=7-3

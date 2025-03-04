@@ -1,0 +1,43 @@
+[player]
+nickname=nipnoo
+password=266750573
+email=nipnoo@hotmail.com
+signup_date=9/23/2005
+playerID=2448
+status=regular
+referal=
+Verify=1
+Last IP=82.0.233.46
+id=42
+IP=82.0.233.46
+adminstatus=off
+match=09-23-2005
+[Stats]
+Win=0
+Lost=4
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=41
+Next=100
+Streak=-3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 111861
+Versus=Darksol
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=HItmAn
+result=loss
+score=7-3

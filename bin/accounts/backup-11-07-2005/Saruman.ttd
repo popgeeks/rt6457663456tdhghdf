@@ -1,0 +1,30 @@
+[player]
+nickname=Saruman
+password=483749687
+email=saruman_white@mail.ru
+signup_date=10/15/2005
+playerID=2850
+status=regular
+referal=cfhevfy
+Verify=1
+Last IP=81.195.25.99
+id=30
+IP=81.195.25.99
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-15-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

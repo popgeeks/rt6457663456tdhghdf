@@ -1,0 +1,41 @@
+[player]
+nickname=Rheno
+password=911175548
+email=tetra_master@hotmail.com
+signup_date=10/10/2005
+playerID=2755
+status=regular
+referal=
+Verify=1
+Last IP=202.1.205.139
+id=156
+IP=202.1.205.139
+adminstatus=off
+match=10-11-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=59
+Next=100
+Streak=-1
+[Newdecks]
+Last=10-10-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126134
+Versus=SHIVA
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=SHIVA
+result=loss
+score=16-4

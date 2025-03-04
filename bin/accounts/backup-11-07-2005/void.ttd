@@ -1,0 +1,50 @@
+[player]
+nickname=void
+password=odin
+email=void500@hotmail.com
+signup_date=9/12/2005
+playerID=2254
+status=regular
+referal=
+Verify=1
+Last IP=218.101.106.49
+id=76
+IP=218.101.106.49
+adminstatus=off
+match=09-27-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=41
+Lost=65
+Draw=12
+Lame quits=0
+Newdecks=11
+Level=8
+Exp=2300
+Next=2698
+SoldCards=0
+cardsgiven=0
+Streak=-4
+Choices=1
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 114848
+Versus=squll-typo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=squll-typo
+result=loss
+score=8-2

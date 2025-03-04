@@ -1,0 +1,30 @@
+[player]
+nickname=Nicobs
+password=114498019
+email=nicobs3@gmail.com
+signup_date=9/16/2005
+playerID=2305
+status=regular
+referal=nicobs
+Verify=1
+Last IP=213.214.33.236
+id=21
+IP=213.214.33.236
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

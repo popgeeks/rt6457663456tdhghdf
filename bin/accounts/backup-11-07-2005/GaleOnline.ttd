@@ -1,0 +1,48 @@
+[player]
+nickname=GaleOnline
+password=tetra1
+email=galeoftheblueblade@yahoo.com
+signup_date=8/25/2005
+playerID=1992
+status=regular
+referal=
+Verify=1
+Last IP=216.180.206.216
+id=33
+IP=216.180.206.216
+adminstatus=off
+match=09-02-2005
+Last Played=08-26-2005
+[Stats]
+Win=52
+Lost=54
+Draw=11
+Lame quits=0
+GP=487
+Newdecks=11
+Level=6
+Exp=1662
+Next=1727
+AP=531
+SoldCards=0
+cardsgiven=0
+Streak=-2
+Choices=1
+[Newdecks]
+Last=08-25-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 97433
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=rinoapereira
+result=loss
+score=11-9

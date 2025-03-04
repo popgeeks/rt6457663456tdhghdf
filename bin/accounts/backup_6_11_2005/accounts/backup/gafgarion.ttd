@@ -1,0 +1,101 @@
+[player]
+nickname=gafgarion
+password=tyson
+email=bkpsx@poczta.onet.pl
+signup_date=4/4/05
+playerID=89
+status=regular
+Verify=1
+Last IP=83.28.206.68
+id=17
+IP=83.28.206.68
+adminstatus=off
+Last Played=04-16-2005
+match=04-16-2005
+[Stats]
+Win=35
+Lost=25
+Draw=23
+Lame quits=4
+GP=130
+rank=1328
+Newdecks=3
+Level=6
+Exp=1478
+Next=1727
+Streak=-4
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=04-04-2005
+[Totals]
+Level1=2
+Level2=1
+Level3=3
+Level4=3
+Level5=1
+Level6=0
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blood Soul=1
+Bite Bug=0
+Red Bat=0
+Forbidden=0
+Behemoth=0
+Armadodo=0
+Snow Lion=1
+Trauma=0
+Death Claw=1
+Torama=2
+Fastitocalon=1
+X-ATM092=0
+Iron Giant=0
+Geezard=0
+Vysage=0
+Gerogero=0
+Gayla=0
+Ochu=0
+Fujin, Raijin=0
+Adamantoise=1
+Caterchipillar=0
+Imp=0
+Tri-Face=0
+Buel=0
+Elnoyle=0
+GIM47N=0
+Gargantua=0
+BGH251F2=0
+Abadon=0
+Ruby Dragon=0
+Iguion=0
+Creeps=0
+=0
+Funguar=0
+Propagator=0
+Elastoid=1
+Red Giant=0
+Gesper=1
+Belhelmel=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5902
+Versus=Spd
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=amy
+result=loss
+score=12-8
+[Warnings]
+Kicks=1

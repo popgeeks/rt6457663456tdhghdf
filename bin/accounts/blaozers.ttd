@@ -1,0 +1,44 @@
+[player]
+nickname=blaozers
+password=412996470
+email=sfblao5@hotmail.com
+signup_date=7/31/2005
+playerID=1616
+status=regular
+referal=qwerty
+Verify=1
+Last IP=65.25.114.10
+id=45
+IP=65.25.114.10
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+AP=40
+Streak=1
+[Newdecks]
+Last=07-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 75199
+Versus=MGdaGR8est
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MGdaGR8est
+result=loss
+score=7-3

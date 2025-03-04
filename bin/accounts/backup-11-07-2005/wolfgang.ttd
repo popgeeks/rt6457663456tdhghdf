@@ -1,0 +1,47 @@
+[player]
+nickname=wolfgang
+password=459997891
+email=jimmy_truman@yahoo.com
+signup_date=7/8/2005
+playerID=1121
+status=regular
+referal=
+Verify=1
+Last IP=68.52.163.160
+id=78
+IP=68.52.163.160
+adminstatus=off
+match=10-26-2005
+Last Played=07-30-2005
+[Stats]
+Win=1
+Lost=17
+Draw=4
+Lame quits=0
+GP=36
+Newdecks=5
+Level=2
+Exp=240
+Next=248
+AP=664
+Streak=-13
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-08-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 137637
+Iam=1
+Versus=utherbr
+[Games]
+Playing=TT
+[game]
+opponent=utherbr
+result=loss
+score=9-1

@@ -1,0 +1,19 @@
+[player]
+nickname=Swift
+password=922266482
+email=Darkchaosfury@gmail.com
+signup_date=9/4/2005
+playerID=2103
+status=regular
+referal=Google
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-04-2005
+[password]
+failed=1

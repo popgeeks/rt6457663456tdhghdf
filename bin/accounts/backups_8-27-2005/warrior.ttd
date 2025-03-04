@@ -1,0 +1,44 @@
+[player]
+nickname=warrior
+password=578149854
+email=littleadam1@hotmail.com
+signup_date=7/10/2005
+playerID=1157
+status=regular
+referal=warrior
+Verify=1
+Last IP=82.9.132.217
+id=41
+IP=82.9.132.217
+adminstatus=off
+match=07-10-2005
+Last Played=07-10-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=17
+Next=100
+AP=21
+Streak=-1
+[Newdecks]
+Last=07-10-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 52601
+Versus=GTMeteor
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=GTMeteor
+result=loss
+score=15-5

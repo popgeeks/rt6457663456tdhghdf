@@ -1,0 +1,43 @@
+[player]
+nickname=Jay
+password=123456
+email=jaythebong@yahoo.com
+signup_date=9/24/2005
+playerID=2463
+status=regular
+referal=Jay
+Verify=1
+Last IP=172.199.60.188
+id=31
+IP=172.199.60.188
+adminstatus=off
+match=09-24-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=36
+Next=100
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 112265
+Versus=Midnight
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Midnight
+result=loss
+score=11-9

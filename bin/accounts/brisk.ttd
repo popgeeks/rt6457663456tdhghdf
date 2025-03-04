@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=36
+match=11-15-2005
+[Play]
+Playing=false
+GameID= 151791
+Versus=trippensmurf
+Iam=2
+[Stats]
+Level=3
+Exp=438
+Next=476
+Streak=-28
+[Games]
+Playing=OTT
+[game]
+opponent=trippensmurf
+result=loss
+score=12-8

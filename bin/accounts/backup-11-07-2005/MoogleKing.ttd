@@ -1,0 +1,32 @@
+[player]
+nickname=MoogleKing
+password=768312215
+email=bjoern_korneli@web.de
+signup_date=7/12/2005
+playerID=1216
+status=regular
+referal=
+Verify=1
+Last IP=217.186.234.164
+id=21
+IP=217.186.234.164
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,475 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+j102y>> TEAMREADY
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+darklumina2>> TEAM_OTTPLACEAT 0
+j102y>> PING
+darklumina2>> PING
+sundragon>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> PING
+darklumina2>> PING
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+j102y>> TEAMREADY
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+darklumina2>> TEAM_OTTPLACEAT 19
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> PING
+darklumina2>> PING
+j102y>> PING
+sundragon>> PING
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+j102y>> TEAMREADY
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+j102y>> TEAM_OTTPLACEAT 3
+darklumina2>> TEAM_OTTPLACEAT 24
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> CREATETABLE4
+j102y>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+darklumina2>> JOINTABLE 1
+sundragon>> TEAMREADY
+darklumina2>> TEAMREADY
+j102y>> TEAMREADY
+darklumina>> TEAM_READY
+j102y>> TEAM_OTTPLACEAT 18
+darklumina2>> TEAM_OTTPLACEAT 23
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+darklumina2>> TEAMREADY
+j102y>> TEAMREADY
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+darklumina>> TEAM_READY
+darklumina>> TEAM_OTTPLACEAT 0
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> TEAM_READY
+darklumina2>> JOINTABLE 1
+darklumina2>> TEAMREADY
+j102y>> JOINTABLE 1
+j102y>> TEAMREADY
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+darklumina>> TEAM_OTTPLACEAT 24
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> PING
+darklumina2>> PING
+j102y>> PING
+sundragon>> PING
+darklumina>> CREATETABLE4
+j102y>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+darklumina2>> JOINTABLE 1
+darklumina2>> TEAMREADY
+sundragon>> TEAMREADY
+j102y>> TEAMREADY
+darklumina>> TEAM_READY
+sundragon>> TEAM_OTTPLACEAT 0
+j102y>> TEAM_OTTPLACEAT 5
+darklumina2>> TEAM_OTTPLACEAT 6
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> PING
+j102y>> PING
+darklumina2>> PING
+sundragon>> PING
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+j102y>> TEAMREADY
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+j102y>> TEAM_OTTPLACEAT 11
+darklumina2>> TEAM_OTTPLACEAT 6
+sundragon>> TEAM_OTTPLACEAT 5
+darklumina>> TEAM_OTTPLACEAT 15
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+j102y>> TEAM_OTTPLACEAT 21
+darklumina>> PING
+darklumina2>> PING
+j102y>> PING
+sundragon>> PING
+darklumina2>> TEAM_OTTPLACEAT 22
+sundragon>> TEAM_OTTPLACEAT 23
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+darklumina2>> TEAMREADY
+j102y>> JOINTABLE 1
+j102y>> TEAMREADY
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+darklumina>> TEAM_READY
+darklumina>> TEAM_OTTPLACEAT 0
+j102y>> TEAM_OTTPLACEAT 10
+darklumina2>> TEAM_OTTPLACEAT 24
+sundragon>> TEAM_OTTPLACEAT 20
+darklumina>> TEAM_OTTPLACEAT 4
+j102y>> TEAM_OTTPLACEAT 6
+darklumina2>> TEAM_OTTPLACEAT 21
+sundragon>> TEAM_OTTPLACEAT 23
+darklumina>> TEAM_OTTPLACEAT 18
+j102y>> TEAM_OTTPLACEAT 19
+darklumina2>> TEAM_OTTPLACEAT 14
+darklumina2>> PING
+darklumina>> PING
+sundragon>> PING
+j102y>> PING
+sundragon>> TEAM_OTTPLACEAT 17
+darklumina>> TEAM_OTTPLACEAT 16
+j102y>> TEAM_OTTPLACEAT 12
+darklumina2>> TEAM_OTTPLACEAT 13
+sundragon>> TEAM_OTTPLACEAT 9
+darklumina>> TEAM_OTTPLACEAT 1
+j102y>> TEAM_OTTPLACEAT 2
+darklumina2>> TEAM_OTTPLACEAT 8
+sundragon>> TEAM_OTTPLACEAT 7
+>> VERSION 1.5.9
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocenaria
+>> VERSION 1.5.9
+>> LOADGAME j102y orcania
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+darklumina>> PING
+sundragon>> JOINTABLE 1
+darklumina2>> PING
+j102y>> PING
+sundragon>> TEAMREADY
+sundragon>> PING
+j102y>> TEAMREADY
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+j102y>> TEAM_OTTPLACEAT 0
+darklumina2>> TEAM_OTTPLACEAT 9
+sundragon>> TEAM_OTTPLACEAT 15
+darklumina>> TEAM_OTTPLACEAT 20
+j102y>> TEAM_OTTPLACEAT 13
+darklumina2>> TEAM_OTTPLACEAT 8
+sundragon>> TEAM_OTTPLACEAT 7
+darklumina>> TEAM_OTTPLACEAT 10
+j102y>> TEAM_OTTPLACEAT 5
+darklumina2>> TEAM_OTTPLACEAT 11
+sundragon>> TEAM_OTTPLACEAT 16
+darklumina>> TEAM_OTTPLACEAT 21
+j102y>> TEAM_OTTPLACEAT 22
+darklumina2>> TEAM_OTTPLACEAT 17
+sundragon>> TEAM_OTTPLACEAT 18
+darklumina>> TEAM_OTTPLACEAT 23
+j102y>> TEAM_OTTPLACEAT 1
+darklumina2>> TEAM_OTTPLACEAT 2
+sundragon>> TEAM_OTTPLACEAT 19
+darklumina>> TEAM_OTTPLACEAT 24
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+j102y>> JOINTABLE 1
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+j102y>> TEAMREADY
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+j102y>> TEAM_OTTPLACEAT 13
+darklumina2>> TEAM_OTTPLACEAT 14
+sundragon>> TEAM_OTTPLACEAT 19
+darklumina>> TEAM_OTTPLACEAT 18
+j102y>> TEAM_OTTPLACEAT 12
+darklumina2>> TEAM_OTTPLACEAT 22
+sundragon>> TEAM_OTTPLACEAT 21
+darklumina>> TEAM_OTTPLACEAT 16
+j102y>> TEAM_OTTPLACEAT 15
+darklumina2>> TEAM_OTTPLACEAT 20
+sundragon>> TEAM_OTTPLACEAT 11
+darklumina>> TEAM_OTTPLACEAT 10
+j102y>> TEAM_OTTPLACEAT 6
+darklumina2>> TEAM_OTTPLACEAT 5
+sundragon>> TEAM_OTTPLACEAT 7
+darklumina>> TEAM_OTTPLACEAT 8
+j102y>> TEAM_OTTPLACEAT 2
+darklumina2>> TEAM_OTTPLACEAT 3
+sundragon>> TEAM_OTTPLACEAT 0
+darklumina>> TEAM_OTTPLACEAT 4
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+sundragon>> JOINTABLE 1
+sundragon>> TEAMREADY
+j102y>> JOINTABLE 1
+j102y>> TEAMREADY
+darklumina2>> JOINTABLE 1
+darklumina2>> TEAMREADY
+darklumina>> TEAM_READY
+sundragon>> TEAM_OTTPLACEAT 24
+darklumina2>> TEAM_OTTPLACEAT 23
+darklumina>> TEAM_OTTPLACEAT 20
+j102y>> TEAM_OTTPLACEAT 15
+sundragon>> TEAM_OTTPLACEAT 16
+darklumina2>> TEAM_OTTPLACEAT 17
+darklumina>> TEAM_OTTPLACEAT 18
+j102y>> TEAM_OTTPLACEAT 12
+sundragon>> TEAM_OTTPLACEAT 11
+darklumina2>> TEAM_OTTPLACEAT 13
+darklumina>> TEAM_OTTPLACEAT 14
+j102y>> TEAM_OTTPLACEAT 10
+sundragon>> TEAM_OTTPLACEAT 8
+darklumina2>> TEAM_OTTPLACEAT 9
+darklumina>> TEAM_OTTPLACEAT 6
+j102y>> TEAM_OTTPLACEAT 5
+sundragon>> TEAM_OTTPLACEAT 0
+darklumina2>> TEAM_OTTPLACEAT 1
+darklumina>> TEAM_OTTPLACEAT 3
+j102y>> TEAM_OTTPLACEAT 4
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina>> TEAM_READY
+>> VERSION 1.5.9
+>> LOADGAME sundragon qwerty
+sundragon>> QUERYTABLES 1
+sundragon>> EXTRACHECK
+sundragon>> JOINTABLE 1
+j102y>> JOINTABLE 1
+darklumina2>> JOINTABLE 1
+darklumina2>> TEAMREADY
+j102y>> TEAMREADY
+sundragon>> TEAMREADY
+j102y>> TEAM_OTTPLACEAT 14
+sundragon>> TEAM_OTTPLACEAT 23
+darklumina2>> TEAM_OTTPLACEAT 22
+darklumina>> TEAM_OTTPLACEAT 21
+j102y>> TEAM_OTTPLACEAT 18
+sundragon>> TEAM_OTTPLACEAT 17
+darklumina2>> TEAM_OTTPLACEAT 20
+darklumina>> TEAM_OTTPLACEAT 15
+j102y>> TEAM_OTTPLACEAT 12
+sundragon>> TEAM_OTTPLACEAT 11
+darklumina2>> TEAM_OTTPLACEAT 10
+darklumina>> TEAM_OTTPLACEAT 5
+j102y>> TEAM_OTTPLACEAT 6
+sundragon>> TEAM_OTTPLACEAT 7
+darklumina2>> TEAM_OTTPLACEAT 8
+darklumina>> TEAM_OTTPLACEAT 0
+j102y>> TEAM_OTTPLACEAT 1
+sundragon>> TEAM_OTTPLACEAT 3
+darklumina2>> TEAM_OTTPLACEAT 2
+darklumina>> TEAM_OTTPLACEAT 4
+darklumina2>> PING
+j102y>> PING
+sundragon>> PING
+darklumina>> PING

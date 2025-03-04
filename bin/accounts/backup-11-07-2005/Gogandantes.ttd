@@ -1,0 +1,44 @@
+[player]
+nickname=Gogandantes
+password=Gogandantes
+email=SimonBraeuner@gmx.de
+signup_date=6/14/2005
+playerID=701
+status=regular
+referal=Gogandantes
+Verify=1
+Last IP=84.167.131.247
+id=25
+IP=84.167.131.247
+adminstatus=off
+Last Played=06-14-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1482
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=12
+Streak=1
+[Newdecks]
+Last=06-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 32929
+Versus=Dilidonut3
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=esthar-bot
+result=win
+score=7-3

@@ -1,0 +1,32 @@
+[player]
+nickname=fightstar
+password=368190765
+email=badnat10@msn.com
+signup_date=7/23/2005
+playerID=1430
+status=regular
+referal=nathan
+Verify=1
+Last IP=82.18.195.69
+id=36
+IP=82.18.195.69
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=07-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

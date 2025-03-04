@@ -1,0 +1,30 @@
+[player]
+nickname=roronoa
+password=260095059
+email=ptetca@gmail.com
+signup_date=9/19/2005
+playerID=2366
+status=regular
+referal=
+Verify=1
+Last IP=165.146.144.186
+id=29
+IP=165.146.144.186
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

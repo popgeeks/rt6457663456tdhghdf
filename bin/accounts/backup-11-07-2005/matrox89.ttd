@@ -1,0 +1,41 @@
+[player]
+nickname=matrox89
+password=826376139
+email=matrox_368@hotmail.com
+signup_date=11/7/2005
+playerID=3189
+status=regular
+referal=
+Verify=1
+Last IP=85.225.18.148
+id=11
+IP=85.225.18.148
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=2
+Lost=5
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=107
+Next=248
+Streak=-2
+[Newdecks]
+Last=11-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146543
+Versus=marzpants
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=marzpants
+result=draw
+score=10-10

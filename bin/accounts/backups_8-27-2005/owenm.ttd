@@ -1,0 +1,47 @@
+[player]
+nickname=owenm
+password=435082971
+email=RageItalics@gmail.com
+signup_date=5/5/2005
+playerID=293
+status=regular
+referal=Website
+Verify=1
+Last IP=136.204.226.76
+id=13
+IP=136.204.226.76
+adminstatus=off
+match=05-13-2005
+Last Played=05-13-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+GP=4
+rank=1500
+Newdecks=1
+Level=1
+Exp=20
+Next=100
+Wins=0
+AP=93
+SBLost=2
+Streak=-1
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 15580
+Versus=bubbles
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=heathen
+result=loss
+score=52-4

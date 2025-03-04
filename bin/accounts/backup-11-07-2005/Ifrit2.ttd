@@ -1,0 +1,44 @@
+[player]
+nickname=Ifrit2
+password=squall
+email=guitar_devil1@hotmail.com
+signup_date=9/10/2005
+playerID=2208
+status=regular
+referal=
+Verify=1
+Last IP=82.1.154.47
+id=3
+IP=82.1.154.47
+adminstatus=off
+match=10-16-2005
+[Stats]
+Win=41
+Lost=81
+Draw=21
+Lame quits=0
+Newdecks=1
+Level=8
+Exp=2374
+Next=2698
+Streak=2
+SBLost=2
+SBWin=1
+[Newdecks]
+Last=09-10-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 129936
+Versus=Elorah
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Elorah
+result=draw
+score=10-10

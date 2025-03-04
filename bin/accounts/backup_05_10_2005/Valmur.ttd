@@ -1,0 +1,84 @@
+[player]
+nickname=Valmur
+password=299808621
+email=valmur@tzcrew.net
+signup_date=3/15/05
+playerID=14
+status=regular
+Verify=1
+Last IP=62.142.249.229
+id=6
+IP=62.142.249.229
+adminstatus=off
+Last Played=05-09-2005
+match=05-09-2005
+[Stats]
+Win=7
+Lost=20
+Draw=9
+Lame quits=1
+rank=1256
+Newdecks=7
+Level=4
+Exp=698
+Next=836
+Streak=-1
+GP=403
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-06-2005
+[Totals]
+Level1=0
+Level2=0
+Level3=0
+Level4=3
+Level5=1
+Level6=3
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Oilboyle=0
+Mesmerize=0
+Cactuar=0
+Gayla=0
+Red Bat=0
+Forbidden=0
+Vysage=0
+Buel=0
+Belhelmel=0
+Blitz=2
+Trauma=0
+PuPu=0
+Creeps=0
+Fujin, Raijin=0
+Elvoret=0
+Iguion=2
+Tri-Point=1
+Torama=0
+X-ATM092=1
+Ruby Dragon=0
+Imp=1
+Bomb=0
+GIM47N=1
+Turtapod=0
+Jumbo Cactuar=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 13480
+Versus=Irvine
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Irvine
+result=loss
+score=6-4

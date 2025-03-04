@@ -1,0 +1,19 @@
+[player]
+nickname=Forrest
+password=666675209
+email=cervantes@cox.net
+signup_date=9/8/2005
+playerID=2170
+status=regular
+referal=internet
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-08-2005
+[password]
+failed=4

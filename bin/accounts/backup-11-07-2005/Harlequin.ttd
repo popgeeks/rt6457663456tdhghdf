@@ -1,0 +1,43 @@
+[player]
+nickname=Harlequin
+password=punkin
+email=tehtigerlily@hotmail.com
+signup_date=10/30/2005
+playerID=3085
+status=regular
+referal=
+Verify=1
+Last IP=68.96.241.212
+id=88
+IP=68.96.241.212
+adminstatus=off
+match=10-30-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=24
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=10-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140599
+Versus=TheOneJesus7
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=TheOneJesus7
+result=loss
+score=9-1

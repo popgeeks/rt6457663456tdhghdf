@@ -1,0 +1,48 @@
+[player]
+nickname=Ghostie
+password=rikku1
+email=ghost_40@hotmail.com
+signup_date=7/11/2005
+playerID=1181
+status=regular
+referal=
+Verify=1
+Last IP=81.97.40.5
+id=60
+IP=81.97.40.5
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=41
+Lost=56
+Draw=11
+Lame quits=0
+GP=2152
+Newdecks=1
+Level=8
+Exp=2159
+Next=2698
+AP=223
+Streak=4
+Choices=1
+SBLost=9
+SBWin=9
+[Newdecks]
+Last=07-11-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 92776
+Versus=cryiford
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=cryiford
+result=win
+score=14-6

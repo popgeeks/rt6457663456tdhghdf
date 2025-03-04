@@ -1,0 +1,35 @@
+[player]
+nickname=bjorkken
+password=558778464
+email=ricardo.vespertine@gmail.com
+signup_date=6/2/2005
+playerID=591
+status=regular
+referal=vespertines
+Verify=1
+Last IP=200.165.22.71
+id=28
+IP=200.165.22.71
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=7
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

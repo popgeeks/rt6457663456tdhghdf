@@ -1,0 +1,49 @@
+[player]
+nickname=UltimaWeapon
+password=855799495
+email=patryk04@vp.pl
+signup_date=6/18/2005
+playerID=738
+status=regular
+referal=
+Verify=1
+Last IP=83.23.211.9
+id=23
+IP=83.23.211.9
+adminstatus=off
+match=06-29-2005
+Last Played=06-29-2005
+[Stats]
+Win=17
+Lost=30
+Draw=10
+Lame quits=1
+GP=365
+rank=822
+Newdecks=1
+Level=5
+Exp=1287
+Next=1301
+AP=1482
+Streak=-4
+Choices=1
+SBLost=4
+SBWin=4
+[Newdecks]
+Last=06-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 44622
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=13-7

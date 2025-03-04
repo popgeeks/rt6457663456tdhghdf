@@ -1,0 +1,42 @@
+[player]
+nickname=ViperBane
+password=274937391
+email=jesse24601@hotmail.com
+signup_date=10/10/2005
+playerID=2774
+status=regular
+referal=Vall
+Verify=1
+Last IP=64.241.37.140
+id=41
+IP=64.241.37.140
+adminstatus=off
+match=10-14-2005
+[Stats]
+Win=16
+Lost=10
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=561
+Next=836
+Streak=-2
+SBWin=1
+[Newdecks]
+Last=10-10-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 128835
+Versus=vall
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=solidsnake
+result=loss
+score=8-2

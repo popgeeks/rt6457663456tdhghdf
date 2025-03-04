@@ -1,0 +1,43 @@
+[player]
+nickname=Withmill
+password=manowar
+email=Withmill@gmail.com
+signup_date=9/6/2005
+playerID=2134
+status=regular
+referal=
+Verify=1
+Last IP=81.229.36.59
+id=87
+IP=81.229.36.59
+adminstatus=off
+match=10-28-2005
+[Stats]
+Win=39
+Lost=59
+Draw=15
+Lame quits=2
+Newdecks=1
+Level=5
+Exp=924
+Next=1301
+Streak=-2
+[Newdecks]
+Last=09-06-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 139265
+Versus=J102Y
+Iam=2
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=J102Y
+result=loss
+score=7-3

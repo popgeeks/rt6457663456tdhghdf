@@ -1,0 +1,38 @@
+[player]
+nickname=Dejen
+password=798631130
+email=red_star4@hotmail.com
+signup_date=7/6/2005
+playerID=1053
+status=regular
+referal=cnet
+Verify=1
+Last IP=65.61.111.129
+id=6
+IP=65.61.111.129
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=21
+Level=1
+Exp=0
+Next=100
+AP=46
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

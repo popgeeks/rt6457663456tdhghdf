@@ -1,0 +1,18 @@
+[player]
+nickname=Dejne
+password=343868493
+email=derekhimfan@yahoo.com
+signup_date=7/7/2005
+playerID=1081
+status=regular
+referal=cnet
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-07-2005

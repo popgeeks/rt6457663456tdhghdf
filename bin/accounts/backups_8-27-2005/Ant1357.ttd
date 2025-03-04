@@ -1,0 +1,44 @@
+[player]
+nickname=Ant1357
+password=47368705
+email=Packham53@hotmail.com
+signup_date=7/23/2005
+playerID=1432
+status=regular
+referal=gravy
+Verify=1
+Last IP=82.36.135.9
+id=13
+IP=82.36.135.9
+adminstatus=off
+match=07-23-2005
+Last Played=07-23-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=19
+Next=100
+AP=31
+Streak=1
+[Newdecks]
+Last=07-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 65210
+Versus=Raya
+Iam=2
+[password]
+failed=2
+[Games]
+Playing=OTT
+[game]
+opponent=Raya
+result=loss
+score=11-9

@@ -1,0 +1,32 @@
+[player]
+nickname=Etherael
+password=hacker
+email=krazill@comcast.net
+signup_date=6/28/2005
+playerID=909
+status=regular
+referal=Website
+Verify=1
+Last IP=68.46.85.173
+id=31
+IP=68.46.85.173
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=06-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

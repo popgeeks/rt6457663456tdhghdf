@@ -1,0 +1,40 @@
+[player]
+nickname=rash
+password=195936381
+email=rashit83@mail.ru
+signup_date=8/30/2005
+playerID=2017
+status=regular
+referal=01
+Verify=1
+Last IP=81.95.231.198
+id=16
+IP=81.95.231.198
+adminstatus=off
+match=08-30-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=08-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95040
+Versus=screech1
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=screech1
+result=draw
+score=10-10

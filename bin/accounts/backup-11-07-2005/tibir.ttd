@@ -1,0 +1,41 @@
+[player]
+nickname=tibir
+password=253639757
+email=tibir@tibir.net
+signup_date=10/30/2005
+playerID=3074
+status=regular
+referal=extibirtreme
+Verify=1
+Last IP=213.219.162.10
+id=33
+IP=213.219.162.10
+adminstatus=off
+match=10-30-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=36
+Next=100
+Streak=-1
+[Newdecks]
+Last=10-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140382
+Versus=phreakazoid
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=7-3

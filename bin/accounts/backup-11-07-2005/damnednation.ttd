@@ -1,0 +1,55 @@
+[player]
+nickname=damnednation
+password=spliff
+email=snapasynapse@yahoo.com
+signup_date=7/6/2005
+playerID=1080
+status=regular
+referal=pakelika
+Verify=1
+Last IP=64.78.71.50
+id=22
+IP=64.78.71.50
+adminstatus=off
+match=11-04-2005
+Last Played=08-19-2005
+guildinvite=
+guildinvite_name=
+guild=Guild of Legends
+guildmaster=3
+[Stats]
+Win=161
+Lost=233
+Draw=51
+Lame quits=2
+GP=551
+Newdecks=11
+Level=13
+Exp=5820
+Next=6316
+AP=1155
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=8
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=483
+honor=1
+PCT=30
+[Play]
+Playing=false
+GameID= 144417
+Iam=1
+Versus=LagunaD
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=LagunaD
+result=win
+score=12-8

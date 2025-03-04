@@ -1,0 +1,66 @@
+[player]
+nickname=Angelus
+password=braindead
+email=gimel666@hotmail.com
+signup_date=5/5/2005
+playerID=292
+status=regular
+referal=
+Verify=1
+Last IP=88.105.152.213
+id=92
+IP=88.105.152.213
+adminstatus=off
+match=10-29-2005
+Last Played=08-27-2005
+surname=daemonican
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=1
+[Stats]
+Win=580
+Lost=633
+Draw=208
+Lame quits=13
+GP=1008
+rank=1132
+Newdecks=9
+Level=29
+Exp=29854
+Next=31018
+Streak=-1
+Choices=1
+AP=10070
+SBLost=66
+SBWin=74
+Wins=64
+SoldCards=107
+cardsgiven=0
+SBDraw=3
+[Newdecks]
+Last=05-18-2005
+[AP]
+AAEXP=127
+honor=2
+PCT=0
+AAPOINTS=0
+TRAINED=2
+darky's=1
+[Play]
+Playing=false
+GameID= 139421
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=squll-typo
+result=draw
+score=10-10
+[Warnings]
+Kicks=30
+Warns=5

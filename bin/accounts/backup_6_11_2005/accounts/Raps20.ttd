@@ -1,0 +1,22 @@
+[player]
+nickname=Raps20
+password=316787898
+email=bru_staind@hotmail.com
+signup_date=4/21/05
+playerID=180
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-21-2005
+[password]
+failed=3

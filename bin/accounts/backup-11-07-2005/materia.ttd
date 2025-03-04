@@ -1,0 +1,18 @@
+[player]
+nickname=materia
+password=51774322
+email=jagisback@hotmail.com
+signup_date=8/25/2005
+playerID=1986
+status=regular
+referal=jag
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-25-2005

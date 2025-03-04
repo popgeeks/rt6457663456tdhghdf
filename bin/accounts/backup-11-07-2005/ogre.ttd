@@ -1,0 +1,41 @@
+[player]
+nickname=ogre
+password=829673647
+email=ogre_in_the_mist@hotmail.com
+signup_date=9/19/2005
+playerID=2360
+status=regular
+referal=yoda9726
+Verify=1
+Last IP=68.103.117.66
+id=41
+IP=68.103.117.66
+adminstatus=off
+match=09-24-2005
+[Stats]
+Win=2
+Lost=9
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=209
+Next=248
+Streak=-4
+[Newdecks]
+Last=09-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 112337
+Versus=Tsuru
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Tsuru
+result=loss
+score=15-5

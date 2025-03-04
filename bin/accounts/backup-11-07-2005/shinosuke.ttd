@@ -1,0 +1,44 @@
+[player]
+nickname=shinosuke
+password=gyoza
+email=martinee86@aol.com
+signup_date=5/29/2005
+playerID=540
+status=regular
+referal=
+Verify=1
+Last IP=66.91.242.136
+id=40
+IP=66.91.242.136
+adminstatus=off
+Last Played=05-30-2005
+[Stats]
+Win=4
+Lost=1
+Draw=1
+Lame quits=0
+GP=0
+rank=1499
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=31
+Streak=5
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 24702
+Versus=crab-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=crab-bot
+result=win
+score=6-4

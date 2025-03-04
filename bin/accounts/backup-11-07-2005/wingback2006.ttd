@@ -1,0 +1,44 @@
+[player]
+nickname=wingback2006
+password=newhope
+email=wingback2006@yahoo.com
+signup_date=10/29/2005
+playerID=3070
+status=regular
+referal=
+Verify=1
+Last IP=24.116.25.54
+id=26
+IP=24.116.25.54
+adminstatus=off
+match=10-31-2005
+[Stats]
+Win=3
+Lost=13
+Draw=5
+Lame quits=0
+Newdecks=5
+Level=3
+Exp=252
+Next=476
+Streak=-5
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-31-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 141165
+Versus=J102Y
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=J102Y
+result=draw
+score=10-10

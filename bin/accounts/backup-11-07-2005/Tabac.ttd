@@ -1,0 +1,41 @@
+[player]
+nickname=Tabac
+password=329579472
+email=chasedevine@hotmail.com
+signup_date=9/12/2005
+playerID=2239
+status=regular
+referal=
+Verify=1
+Last IP=70.65.26.192
+id=19
+IP=70.65.26.192
+adminstatus=off
+match=09-16-2005
+[Stats]
+Win=7
+Lost=14
+Draw=7
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=514
+Next=836
+Streak=-3
+[Newdecks]
+Last=09-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107002
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=J102Y
+result=loss
+score=11-9

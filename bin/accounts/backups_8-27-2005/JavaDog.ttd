@@ -1,0 +1,51 @@
+[player]
+nickname=JavaDog
+password=meatloaf5
+email=JavaDog@Gmail.com
+signup_date=6/7/2005
+playerID=646
+status=regular
+referal=Rith
+Verify=1
+Last IP=68.14.168.187
+id=21
+IP=68.14.168.187
+adminstatus=off
+match=07-12-2005
+Last Played=07-12-2005
+[Stats]
+Win=22
+Lost=47
+Draw=19
+Lame quits=0
+GP=806
+rank=1173
+Newdecks=11
+Level=5
+Exp=1248
+Next=1301
+AP=79
+Streak=-3
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=4
+SBDraw=1
+[Newdecks]
+Last=06-08-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 54643
+Versus=GTMeteor
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=GTMeteor
+result=loss
+score=6-4

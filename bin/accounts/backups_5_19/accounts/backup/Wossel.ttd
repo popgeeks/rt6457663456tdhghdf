@@ -1,0 +1,46 @@
+[player]
+nickname=Wossel
+password=124810039
+email=joetopo@msn.com
+signup_date=3/22/05
+playerID=42
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=03-22-2005
+[Totals]
+Level1=4
+Level2=1
+Level3=2
+Level4=4
+Level5=0
+Level6=2
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Imp=1
+Ochu=1
+Jumbo Cactuar=1
+Funguar=2
+Blitz=2
+Propagator=1
+Granaldo=1
+Snow Lion=1
+Blood Soul=1
+Creeps=1
+Vysage=1
+Bite Bug=1
+Gerogero=1
+[password]
+failed=1

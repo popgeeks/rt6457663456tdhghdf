@@ -1,0 +1,43 @@
+[player]
+nickname=Dragoth
+password=Zerg12
+email=TheDragoth@gmail.com
+signup_date=9/7/2005
+playerID=2158
+status=regular
+referal=
+Verify=1
+Last IP=68.66.161.86
+id=39
+IP=68.66.161.86
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=17
+Lost=38
+Draw=5
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=859
+Next=1301
+Streak=-2
+SBLost=1
+[Newdecks]
+Last=09-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 103083
+Versus=hitman
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=hitman
+result=loss
+score=11-9

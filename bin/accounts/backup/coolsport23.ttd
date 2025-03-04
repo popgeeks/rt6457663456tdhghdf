@@ -1,0 +1,95 @@
+[player]
+nickname=coolsport23
+password=greenday
+email=coolsport23@hotmail.com
+signup_date=4/11/05
+playerID=130
+status=regular
+referal=
+Verify=1
+Last IP=66.41.226.109
+id=17
+IP=66.41.226.109
+adminstatus=off
+match=04-15-2005
+Last Played=04-15-2005
+guildinvite=
+guildinvite_name=
+guild=SynamicD
+guildmaster=2
+[Stats]
+Win=63
+Lost=79
+Draw=16
+Lame quits=3
+GP=73
+rank=1655
+Newdecks=1
+Level=10
+Exp=3590
+Next=3936
+Streak=-1
+Choices=1
+SoldCards=2
+[Newdecks]
+Last=04-11-2005
+[Totals]
+Level1=4
+Level2=10
+Level3=7
+Level4=6
+Level5=3
+Level6=4
+Level7=2
+Level8=0
+Level9=1
+Level10=1
+Total=0
+[cards]
+Belhelmel=2
+Anacondaur=1
+Thrustaevis=1
+Glacial Eye=1
+SAM08G=3
+Behemoth=1
+Shumi Tribe=1
+Armadodo=1
+Ochu=1
+Oilboyle=2
+Mesmerize=1
+Elvoret=1
+Phoenix=1
+Grand Mantis=1
+Hexadragon=1
+Adamantoise=2
+Blobra=2
+Zell=1
+Wedge, Biggs=1
+Tonberry=1
+Sphinxara=1
+Grat=1
+GIM47N=1
+Creeps=2
+Bite Bug=1
+Cactuar=1
+Propagator=1
+Blitz=1
+Gayla=1
+T-Rexaur=1
+Bomb=1
+[AP]
+AAEXP=267
+PCT=50
+[Play]
+Playing=false
+GameID= 5676
+Versus=AJ666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=AJ666
+result=loss
+score=11-9

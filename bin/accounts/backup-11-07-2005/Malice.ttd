@@ -1,0 +1,30 @@
+[player]
+nickname=Malice
+password=839158712
+email=malicee@peoplepc.com
+signup_date=10/25/2005
+playerID=3007
+status=regular
+referal=Google
+Verify=1
+Last IP=4.248.34.184
+id=71
+IP=4.248.34.184
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

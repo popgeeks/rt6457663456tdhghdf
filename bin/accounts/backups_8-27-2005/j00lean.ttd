@@ -1,0 +1,32 @@
+[player]
+nickname=j00lean
+password=203605413
+email=down_lo15@hotmail.com
+signup_date=8/12/2005
+playerID=1817
+status=regular
+referal=
+Verify=1
+Last IP=24.153.2.134
+id=29
+IP=24.153.2.134
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=08-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

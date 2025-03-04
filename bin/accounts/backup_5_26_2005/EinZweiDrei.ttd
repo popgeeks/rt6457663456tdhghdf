@@ -1,0 +1,60 @@
+[player]
+nickname=EinZweiDrei
+password=205998599
+email=einzweidrei@wildmail.com
+signup_date=4/8/05
+playerID=113
+status=regular
+Verify=1
+Last IP=67.81.12.188
+id=5
+IP=67.81.12.188
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=04-08-2005
+[Totals]
+Level1=4
+Level2=4
+Level3=2
+Level4=1
+Level5=0
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Gerogero=1
+Gayla=1
+Torama=1
+Blobra=1
+Elvoret=1
+Anacondaur=1
+Grat=1
+Catoblepas=1
+Death Claw=1
+Bite Bug=1
+Glacial Eye=1
+Funguar=1
+Tonberry=1
+Mesmerize=1
+Abadon=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

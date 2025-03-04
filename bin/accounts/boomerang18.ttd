@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+[player]
+id=85
+match=01-04-2006
+[Play]
+Playing=false
+GameID= 190587
+Versus=Awatts18
+Iam=2
+[Stats]
+Level=4
+Exp=661
+Next=836
+Streak=-7
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Awatts18
+result=loss
+score=6-4

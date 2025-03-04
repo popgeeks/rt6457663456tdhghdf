@@ -1,0 +1,41 @@
+[player]
+nickname=MysticWolf
+password=850018977
+email=MysticWolf_@web.de
+signup_date=9/9/2005
+playerID=2183
+status=regular
+referal=
+Verify=1
+Last IP=84.180.202.129
+id=46
+IP=84.180.202.129
+adminstatus=off
+match=09-09-2005
+[Stats]
+Win=2
+Lost=6
+Draw=6
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=112
+Next=248
+Streak=-4
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 101953
+Versus=PaKeLiKa
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=PaKeLiKa
+result=loss
+score=12-8

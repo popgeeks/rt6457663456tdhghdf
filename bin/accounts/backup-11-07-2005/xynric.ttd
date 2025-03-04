@@ -1,0 +1,49 @@
+[player]
+nickname=xynric
+password=265489518
+email=Empire_Wizard_07@yahoo.com
+signup_date=10/17/2005
+playerID=2903
+status=regular
+referal=
+Verify=1
+Last IP=24.56.206.2
+id=25
+IP=24.56.206.2
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=3
+Lost=5
+Draw=4
+Lame quits=1
+Newdecks=1
+Level=1
+Exp=81
+Next=100
+Streak=1
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 131196
+Versus=xmvn
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=xmvn
+result=win
+score=7-3
+[Warnings]
+Kicks=1
+Bans=1
+Banned=true
+[Ban]
+Date=10-17-2005
+Admin=DarkJaxyChan
+Reason=ok i did warn you, I kicked you. I hope this works.

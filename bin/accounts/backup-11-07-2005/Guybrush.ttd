@@ -1,0 +1,32 @@
+[player]
+nickname=Guybrush
+password=534453272
+email=satanicpotato32@hotmail.com
+signup_date=7/31/2005
+playerID=1607
+status=regular
+referal=
+Verify=1
+Last IP=80.41.143.114
+id=32
+IP=80.41.143.114
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=07-31-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

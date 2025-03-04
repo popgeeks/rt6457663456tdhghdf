@@ -1,0 +1,44 @@
+[player]
+nickname=DarKiSh
+password=nowayjose
+email=Artubowzer@yahoo.com
+signup_date=10/25/2005
+playerID=3014
+status=regular
+referal=
+Verify=1
+Last IP=64.40.53.49
+id=86
+IP=64.40.53.49
+adminstatus=off
+match=10-30-2005
+[Stats]
+Win=9
+Lost=42
+Draw=16
+Lame quits=0
+Newdecks=11
+Level=4
+Exp=811
+Next=836
+Streak=-11
+SoldCards=0
+cardsgiven=0
+SBLost=1
+[Newdecks]
+Last=10-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140611
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=loss
+score=13-7

@@ -1,0 +1,41 @@
+[player]
+nickname=SidewindarG
+password=26156127
+email=twin_mirage@hotmail.com
+signup_date=11/4/2005
+playerID=3155
+status=regular
+referal=Tim-A
+Verify=1
+Last IP=202.74.218.56
+id=30
+IP=202.74.218.56
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=1
+Lost=5
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=72
+Next=100
+Streak=-2
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145063
+Versus=MixMasta
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MixMasta
+result=loss
+score=6-4

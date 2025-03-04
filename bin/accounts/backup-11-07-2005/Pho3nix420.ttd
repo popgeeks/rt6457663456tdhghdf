@@ -1,0 +1,50 @@
+[player]
+nickname=Pho3nix420
+password=waffle
+email=flamingaaz@aol.com
+signup_date=7/16/2005
+playerID=1304
+status=regular
+referal=
+Verify=1
+Last IP=68.210.38.21
+id=15
+IP=68.210.38.21
+adminstatus=off
+match=07-22-2005
+Last Played=07-22-2005
+[Stats]
+Win=29
+Lost=54
+Draw=18
+Lame quits=0
+GP=27
+Newdecks=31
+Level=7
+Exp=1727
+Next=2154
+AP=1867
+SoldCards=0
+cardsgiven=0
+Streak=-1
+SBLost=1
+Choices=1
+[Newdecks]
+Last=07-21-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 64583
+Versus=oniz
+Iam=1
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=oniz
+result=loss
+score=11-9

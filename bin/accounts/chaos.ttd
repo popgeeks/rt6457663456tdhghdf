@@ -1,0 +1,67 @@
+[player]
+nickname=chaos
+password=732841371
+email=burberry_killer@yahoo.com
+signup_date=4/7/05
+playerID=108
+status=regular
+Verify=1
+Last IP=84.66.133.60
+id=5
+IP=84.66.133.60
+adminstatus=off
+Last Played=04-07-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+rank=1240
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=2
+Wins=1
+[Newdecks]
+Last=04-07-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=2
+Level4=2
+Level5=2
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Tonberry=1
+Iron Giant=1
+Belhelmel=3
+Jelleye=1
+Funguar=2
+Gerogero=2
+Imp=1
+Fastitocalon=1
+Elastoid=1
+Turtapod=1
+Shumi Tribe=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4015
+Versus=mirage-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=mirage-bot
+result=win
+score=6-4

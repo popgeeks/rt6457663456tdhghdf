@@ -1,0 +1,45 @@
+[player]
+nickname=sephcloud
+password=6786
+email=sephcloud@gmail.com
+signup_date=7/1/2005
+playerID=940
+status=regular
+referal=
+Verify=1
+Last IP=200.208.143.82
+id=6
+IP=200.208.143.82
+adminstatus=off
+match=07-05-2005
+Last Played=07-05-2005
+[Stats]
+Win=13
+Lost=4
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=3
+Exp=359
+Next=476
+AP=709
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-01-2005
+[password]
+failed=2
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 49552
+Versus=Alvaro
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=alleniverson
+result=loss
+score=6-4

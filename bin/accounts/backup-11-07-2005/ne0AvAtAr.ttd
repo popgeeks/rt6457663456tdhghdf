@@ -1,0 +1,46 @@
+[player]
+nickname=ne0AvAtAr
+password=914095877
+email=ne0_avatar@hotmail.com
+signup_date=7/1/2005
+playerID=948
+status=regular
+referal=
+Verify=1
+Last IP=199.176.224.53
+id=31
+IP=199.176.224.53
+adminstatus=off
+match=07-01-2005
+Last Played=07-01-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=11
+Level=1
+Exp=17
+Next=100
+AP=38
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=07-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 46025
+Versus=Shannon
+Iam=1
+[password]
+failed=2
+[Games]
+Playing=OTT
+[game]
+opponent=Shannon
+result=loss
+score=14-10

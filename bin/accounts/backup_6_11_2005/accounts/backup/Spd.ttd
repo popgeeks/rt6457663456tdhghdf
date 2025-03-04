@@ -1,0 +1,117 @@
+[player]
+nickname=Spd
+password=staples
+email=badman1314@aol.com
+signup_date=4/2/05
+playerID=83
+status=regular
+Verify=1
+Last IP=24.223.165.220
+id=12
+IP=24.223.165.220
+adminstatus=off
+Last Played=04-17-2005
+match=04-17-2005
+[Stats]
+Win=127
+Lost=77
+Draw=50
+Lame quits=7
+GP=235
+rank=2475
+Newdecks=1
+Level=11
+Exp=4482
+Next=4838
+Streak=-3
+Choices=1
+SoldCards=63
+[Newdecks]
+Last=04-02-2005
+[Totals]
+Level1=1
+Level2=5
+Level3=4
+Level4=2
+Level5=2
+Level6=2
+Level7=0
+Level8=1
+Level9=1
+Level10=2
+Total=0
+[cards]
+Funguar=0
+Tri-Face=1
+Thrustaevis=0
+Turtapod=0
+Granaldo=0
+Jumbo Cactuar=0
+Iguion=0
+X-ATM092=0
+Elnoyle=0
+Gesper=0
+Wendigo=0
+Elvoret=0
+Ultima Weapon=0
+Malboro=0
+Fastitocalon=1
+Jelleye=0
+Alexander=1
+Snow Lion=1
+Elastoid=0
+Mesmerize=1
+Irvine=1
+Death Claw=0
+Vysage=0
+Trauma=0
+Grand Mantis=1
+Tri-Point=0
+Abyss Worm=0
+Bite Bug=0
+Fujin, Raijin=2
+Armadodo=0
+BGH251F2=0
+SAM08G=1
+Gerogero=0
+Blitz=0
+Shumi Tribe=0
+Cactuar=0
+Krysta=0
+Rinoa=1
+Blood Soul=0
+Oilboyle=0
+Behemoth=1
+Tiamat=0
+Chimera=0
+Fastitocalon-F=1
+Sphinxara=0
+Geezard=0
+Tonberry King=0
+Creeps=1
+T-Rexaur=0
+Ifrit=1
+Wedge, Biggs=1
+GIM47N=0
+Grat=1
+Torama=2
+Anacondaur=1
+[AP]
+AAEXP=0
+PCT=0
+[Play]
+Playing=false
+GameID= 6367
+Versus=Avelia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Avelia
+result=loss
+score=13-7
+[Warnings]
+Kicks=1

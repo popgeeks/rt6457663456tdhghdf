@@ -1,0 +1,44 @@
+[player]
+nickname=funcore87
+password=359393179
+email=asm_87_2@hotmail.com
+signup_date=8/26/2005
+playerID=2012
+status=regular
+referal=funcore87
+Verify=1
+Last IP=200.122.62.172
+id=29
+IP=200.122.62.172
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=18
+Next=100
+AP=48
+Streak=1
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92921
+Versus=daruso
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=daruso
+result=loss
+score=8-2

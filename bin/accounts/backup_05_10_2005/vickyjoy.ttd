@@ -1,0 +1,83 @@
+[player]
+nickname=vickyjoy
+password=letmein
+email=vidijoy@msn.com
+signup_date=4/2/05
+playerID=80
+status=subadmin
+Verify=1
+Last IP=69.138.45.76
+id=3
+IP=69.138.45.76
+adminstatus=off
+Last Played=05-11-2005
+match=05-11-2005
+membership=diamond
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+[Stats]
+Win=85
+Lost=242
+Draw=44
+Lame quits=20
+GP=6896
+rank=883
+Newdecks=3
+Level=14
+Exp=7486
+Next=7520
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-01-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=2
+Level4=3
+Level5=0
+Level6=0
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Fastitocalon=1
+Thrustaevis=1
+Elvoret=0
+Tiamat=0
+Bomb=2
+Red Bat=1
+Oilboyle=0
+Tonberry=0
+Ochu=1
+Glacial Eye=1
+Blitz=1
+Wendigo=0
+Turtapod=0
+=0
+Granaldo=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 14671
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=WhiteLight
+result=win
+score=11-9
+[Warnings]
+Kicks=12
+Warns=1

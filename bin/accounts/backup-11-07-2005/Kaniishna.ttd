@@ -1,0 +1,35 @@
+[player]
+nickname=Kaniishna
+password=908866642
+email=kaniishna@yahoo.com
+signup_date=9/9/2005
+playerID=2187
+status=regular
+referal=
+Verify=1
+Last IP=71.109.125.20
+id=44
+IP=71.109.125.20
+adminstatus=off
+[Stats]
+Win=23
+Lost=17
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102270
+Versus=Alliance
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN

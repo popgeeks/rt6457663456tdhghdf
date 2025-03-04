@@ -1,0 +1,123 @@
+[player]
+nickname=Andrew
+password=drexler22
+email=andrew.wilde@gmail.com
+signup_date=3/14/05
+playerID=10
+status=subadmin
+Verify=1
+Last IP=205.208.246.48
+id=14
+IP=205.208.246.48
+adminstatus=on
+Last Played=05-11-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+match=05-11-2005
+surname=(pupu200)
+[admin]
+passkey=92293301
+[Stats]
+Win=249
+Lost=101
+Draw=32
+Lame quits=8
+GP=10472
+rank=2429
+Newdecks=1
+Level=10
+Exp=3656
+Next=3936
+Streak=-1
+Choices=1
+[Newdecks]
+Last=03-14-2005
+[Totals]
+Level1=10
+Level2=5
+Level3=2
+Level4=10
+Level5=4
+Level6=12
+Level7=7
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blue Dragon=2
+Elvoret=1
+Caterchipillar=2
+Belhelmel=1
+Anacondaur=1
+Tonberry=0
+Thrustaevis=0
+Mesmerize=2
+Funguar=1
+Blitz=2
+Blood Soul=2
+X-ATM092=1
+Gayla=1
+Gerogero=1
+Snow Lion=1
+Shumi Tribe=0
+Wendigo=1
+Fujin, Raijin=3
+Red Bat=0
+Geezard=1
+Sphinxara=1
+Tiamat=1
+GIM47N=1
+Trauma=3
+Vysage=1
+Abadon=0
+Catoblepas=0
+Wedge, Biggs=1
+Adamantoise=2
+T-Rexaur=1
+Forbidden=1
+SAM08G=0
+Selphie=0
+Torama=0
+Bomb=1
+Red Giant=0
+Elastoid=0
+Chubby Chocobo=0
+Bite Bug=1
+Iguion=3
+PuPu=2
+Oilboyle=0
+Behemoth=0
+Shiva=0
+Jumbo Cactuar=2
+Armadodo=0
+Ultima Weapon=1
+Fastitocalon-F=1
+Tri-Point=1
+Mobile Type 8=1
+Grat=1
+Cockatrice=1
+[AP]
+AAEXP=19
+PCT=0
+AAPOINTS=2
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 14604
+Versus=bob-charley
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=bob-charley
+result=loss
+score=10-8
+[Warnings]
+Kicks=6

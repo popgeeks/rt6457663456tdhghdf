@@ -1,0 +1,32 @@
+[player]
+nickname=jetalichan2k
+password=829490064
+email=jetalichan2k@yahoo.com
+signup_date=7/17/2005
+playerID=1312
+status=regular
+referal=
+Verify=1
+Last IP=217.17.241.87
+id=16
+IP=217.17.241.87
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

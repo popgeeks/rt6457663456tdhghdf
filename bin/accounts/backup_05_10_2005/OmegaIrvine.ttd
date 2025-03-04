@@ -1,0 +1,47 @@
+[player]
+nickname=OmegaIrvine
+password=7786
+email=zieen@hotmail.com
+signup_date=4/22/05
+playerID=191
+status=regular
+referal=
+Verify=1
+Last IP=207.177.40.180
+id=15
+IP=207.177.40.180
+adminstatus=off
+match=04-24-2005
+Last Played=04-24-2005
+guildmaster=2
+guild=Triple Triad Legends
+[Stats]
+Win=12
+Lost=15
+Draw=8
+Lame quits=0
+GP=841
+rank=1494
+Newdecks=1
+Level=4
+Exp=761
+Next=836
+Streak=-3
+Choices=1
+[Newdecks]
+Last=04-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 7988
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=loss
+score=13-7

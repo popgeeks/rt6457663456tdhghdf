@@ -1,0 +1,30 @@
+[player]
+nickname=fr0z3n
+password=894150435
+email=cyprowski@gmail.com
+signup_date=9/13/2005
+playerID=2257
+status=regular
+referal=
+Verify=1
+Last IP=24.3.14.247
+id=29
+IP=24.3.14.247
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,59 @@
+[player]
+nickname=wastemiif
+password=931834041
+email=dragonfly_86@jippii.fi
+signup_date=4/10/05
+playerID=123
+status=regular
+referal=Valmur
+Verify=1
+Last IP=62.44.224.64
+id=10
+IP=62.44.224.64
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-10-2005
+[Totals]
+Level1=2
+Level2=1
+Level3=3
+Level4=4
+Level5=0
+Level6=5
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Armadodo=1
+Blue Dragon=1
+Forbidden=1
+Trauma=2
+Red Bat=1
+Vysage=1
+X-ATM092=1
+Abadon=1
+Gesper=1
+Imp=1
+Adamantoise=1
+Fujin, Raijin=1
+Thrustaevis=1
+Snow Lion=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

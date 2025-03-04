@@ -1,0 +1,759 @@
+
+>> VERSION 2.0.7>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 1.765625s
+darklumina>> EXTRACHECK>> 0.078125s
+darklumina>> CHAT :O>> 0.1875s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+admin-bot>> LOADGAME admin-bot pantyraid13>> 0.625s
+admin-bot>> QUERYTABLES 1>> 0.046875s
+admin-bot>> EXTRACHECK>> 0.03125s
+darklumina>> PING>> 0.03125s
+admin-bot>> PING>> 0.03125s
+darklumina>> CHAT yay?>> 0.28125s
+darklumina>> CHAT :O>> 0.203125s
+>> VERSION 2.0.7>> 0.046875s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.5s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+admin-bot>> LOADGAME admin-bot pantyraid13>> 0.46875s
+admin-bot>> QUERYTABLES 1>> 0.046875s
+admin-bot>> EXTRACHECK>> 0.015625s
+darklumina>> PING>> 0.03125s
+admin-bot>> PING>> 0.03125s
+darklumina>> WEBSERVICE>> 0.0625s
+darklumina>> CHAT :O>> 0.203125s
+darklumina>> PING>> 0.03125s
+admin-bot>> PING>> 0.03125s
+darklumina>> CHAT :O>> 24.03125s
+darklumina>> PING>> 0.03125s
+admin-bot>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.046875s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.53125s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TABLECREATE  TRADE@@Trade>> 0.171875s
+darklumina>> TABLECLOSE>> 0.125s
+darklumina>> TABLECREATE>> 0.3125s
+darklumina>> WEBSERVICE>> 0.359375s
+darklumina>> CHANGERULE 0 1 0 0 0 0 0 0 0 1 0 0 0 1 65 0 0 1 0 0 1 1 1 1 1 1 8 0 0 0 0 0 0 0 0 0 0 0 1 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.203125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> WEBSERVICE>> 0.15625s
+darklumina>> CHANGERULE 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.671875s
+darklumina>> QUIT 0 1>> 0.046875s
+darklumina>> TABLECLOSE>> 0.078125s
+>> QUIT 0 1>> 1.421875s
+>> VERSION 2.0.7>> 0.03125s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.421875s
+darklumina>> TABLEQUERY 1>> 0.078125s
+darklumina>> EXTRACHECK>> 0.03125s
+darklumina>> WEBSERVICE>> 0.09375s
+darklumina>> WEBSERVICE>> 0.046875s
+>> QUIT 0 1>> 0.515625s
+>> VERSION 2.0.7>> 0.046875s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.5s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+darklumina>> PM darklumina :O>> 0.265625s
+darklumina>> PING>> 0.046875s
+darklumina>> PING>> 0.03125s
+darklumina>> CHAT test 123>> 0.359375s
+darklumina>> PING>> 0.015625s
+darklumina>> PM darklumina :O>> 0.25s
+darklumina>> >> 0s
+darklumina>> PING>> 25.34375s
+darklumina>> PING>> 0.03125s
+darklumina>> CHAT :O>> 0.171875s
+darklumina>> WEBSERVICE>> 0.078125s
+darklumina>> WEBSERVICE>> 0.0625s
+darklumina>> TABLECREATE>> 0.34375s
+darklumina>> TABLECLOSE>> 0.078125s
+darklumina>> CHAT 2344124sdfasdfsd>> 0.140625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> CHAT :)>> 0.171875s
+darklumina>> CHAT :)>> 0.15625s
+>> VERSION 2.0.7>> 3.8125s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.4375s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+darklumina>> CHAT :D>> 0.171875s
+darklumina>> CHAT :D>> 0.234375s
+darklumina>> CHAT :O>> 0.171875s
+>> VERSION 2.0.7>> 0.390625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.421875s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> CHAT :O>> 0.1875s
+darklumina>> PING>> 0.03125s
+darklumina>> CHAT mary had a little lamb>> 0.15625s
+darklumina>> CHAT little lamb>> 0.15625s
+darklumina>> CHAT little lamb>> 0.15625s
+darklumina>> CHAT merry had a little lamb its fleece was white as snow>> 0.15625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+darklumina>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.046875s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.484375s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+darklumina>> PING>> 0.046875s
+darklumina>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> AWAY 1>> 0.34375s
+darklumina>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> AWAY 0>> 0.453125s
+>> QUIT 0 1>> 0.5s
+>> VERSION 2.0.7>> 0.03125s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.375s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.515625s
+darklumina2>> TABLEQUERY 1>> 0.03125s
+darklumina2>> EXTRACHECK>> 0.046875s
+darklumina>> PING>> 0.046875s
+darklumina2>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+>> LOADGAME darklumina3 pantyraid13>> 0.21875s
+>> VERSION 2.0.7>> 0.046875s
+atomsplit>> LOADGAME atomsplit notafatchange>> 0.515625s
+atomsplit>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+atomsplit>> PING>> 0.015625s
+darklumina>> PING>> 0.0625s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.046875s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.5s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.40625s
+darklumina2>> EXTRACHECK>> 0.046875s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+atomsplit>> LOADGAME atomsplit notafatchange>> 0.46875s
+atomsplit>> EXTRACHECK>> 0.0625s
+darklumina>> PING>> 0.015625s
+darklumina2>> PING>> 0.015625s
+atomsplit>> PING>> 0.03125s
+>> QUIT 0 1>> 0.46875s
+darklumina>> PING>> 0.03125s
+atomsplit>> PING>> 0.046875s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> AWAY 1>> 0.3125s
+darklumina>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.8>> 0.0625s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.765625s
+>> VERSION 2.0.8>> 0.03125s
+DarkJaxyChan>> TABLEQUERY 1>> 0.03125s
+DarkJaxyChan>> EXTRACHECK>> 0.03125s
+darklumina>> LOADGAME darklumina pantyraid13>> 1s
+darklumina>> EXTRACHECK>> 0.078125s
+darklumina>> >> 0s
+darklumina>> AWAY 0>> 0.625s
+DarkJaxyChan>> CHAT pwnd!!>> 0.15625s
+darklumina>> CHAT faggosaywha?>> 0.171875s
+DarkJaxyChan>> CHAT im ringo with the golden guns!!!>> 0.171875s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> CHAT golden nuns?>> 0.1875s
+DarkJaxyChan>> CHAT to sad that is really a movie =(>> 0.171875s
+DarkJaxyChan>> CHAT no nakey buns>> 0.1875s
+>> VERSION 2.0.8>> 0.046875s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.328125s
+DarkJaxyChan>> TABLEQUERY 1>> 0.03125s
+DarkJaxyChan>> EXTRACHECK>> 0.03125s
+>> VERSION 2.0.8>> 0.03125s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.390625s
+darklumina>> EXTRACHECK>> 0.078125s
+darklumina>> TABLECREATE>> 0.234375s
+DarkJaxyChan>> TABLEJOIN 1>> 0.8125s
+darklumina>> WEBSERVICE>> 0.15625s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> CHALLENGECHATS if we try SD activate open>> 0.078125s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.578125s
+darklumina>> GAMEREADY>> 0.125s
+DarkJaxyChan>> GAMEREADY>> 0.6875s
+DarkJaxyChan>> GAMECHAT ~@*~*or not>> 0.0625s
+DarkJaxyChan>> TT_PLACEAT 7 3>> 0.21875s
+darklumina>> TT_PLACEAT 8 0>> 0.140625s
+darklumina>> GAMECHAT ~@*~*fast draw>> 0.046875s
+DarkJaxyChan>> TT_PLACEAT 6 4>> 0.15625s
+darklumina>> TT_PLACEAT 3 4>> 0.15625s
+DarkJaxyChan>> TT_PLACEAT 0 0>> 0.15625s
+darklumina>> TT_PLACEAT 1 1>> 0.140625s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+darklumina>> GAMECHAT ~@*~*itll freeze at the end>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*i have a 6 bottom and 7 up>> 0.046875s
+DarkJaxyChan>> TT_PLACEAT 4 2>> 0.140625s
+darklumina>> TT_PLACEAT 5 2>> 0.15625s
+DarkJaxyChan>> GAMECHAT ~@*~*and A left>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*>_<>> 0.046875s
+DarkJaxyChan>> >> 0s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 210.375s
+darklumina>> TT_PLACEAT 2 3>> 0.28125s
+>> >> 0s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.578125s
+darklumina>> EXTRACHECK>> 0.109375s
+>> VERSION 2.0.8>> 0.03125s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 0.265625s
+darkjaxychan>> TABLEQUERY 1>> 0.03125s
+darkjaxychan>> EXTRACHECK>> 0.03125s
+darkjaxychan>> CHAT mreh i lost>> 15.53125s
+darklumina>> TABLECREATE>> 0.359375s
+darklumina>> WEBSERVICE>> 0.375s
+darkjaxychan>> TABLEJOIN 1>> 0.765625s
+darklumina>> >> 0s
+darklumina>> PING>> 1.734375s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> GAMEREADY>> 0.09375s
+darklumina>> GAMEREADY>> 1.625s
+darklumina>> GAMECHAT ~@*~*testee>> 13.546875s
+darklumina>> GAMECHAT ~@*~*:O>> 0.03125s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> PING>> 0.03125s
+>> VERSION 2.0.8>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.546875s
+darklumina>> EXTRACHECK>> 0.078125s
+>> VERSION 2.0.8>> 0.03125s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 0.28125s
+darkjaxychan>> TABLEQUERY 1>> 0.03125s
+darkjaxychan>> EXTRACHECK>> 0.03125s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TABLECREATE>> 0.34375s
+darklumina>> WEBSERVICE>> 0.390625s
+darkjaxychan>> TABLEJOIN 1>> 0.84375s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.4375s
+darkjaxychan>> GAMEREADY>> 0.71875s
+darklumina>> GAMEREADY>> 1.015625s
+darkjaxychan>> TT_PLACEAT 8 1>> 0.203125s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.046875s
+darklumina>> TT_PLACEAT 6 4>> 0.1875s
+darkjaxychan>> TT_PLACEAT 7 3>> 0.15625s
+darklumina>> TT_PLACEAT 4 2>> 0.140625s
+darkjaxychan>> GAMECHAT ~@*~*lmao>> 0.046875s
+darkjaxychan>> TT_PLACEAT 5 2>> 0.171875s
+darklumina>> TT_PLACEAT 3 0>> 0.21875s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> TT_PLACEAT 0 0>> 0.203125s
+darkjaxychan>> PING>> 0.046875s
+darklumina>> TT_PLACEAT 1 1>> 0.1875s
+darkjaxychan>> TT_PLACEAT 2 4>> 31.265625s
+darklumina>> TT_PLACEAT 4 2>> 0.21875s
+darklumina>> PING>> 0.0625s
+darkjaxychan>> PING>> 0.046875s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TT_STALEMATE>> 0.125s
+darkjaxychan>> TT_STALEMATE>> 0.140625s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TT_SURRENDER>> 0.25s
+darklumina>> TT_ENDGAME>> 0.125s
+darklumina>> ADMINLOGIN 41257448>> 0.34375s
+darklumina>> WEBSERVICE>> 0.046875s
+darklumina>> TABLEENDMATCH darkjaxychan>> 0.046875s
+>> >> 0s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.96875s
+darklumina>> EXTRACHECK>> 0.0625s
+darklumina>> TABLECREATE>> 0.53125s
+darklumina>> WEBSERVICE>> 0.25s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.265625s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.8>> 0.046875s
+Darkjaxychan>> LOADGAME Darkjaxychan ilikemilk>> 0.3125s
+Darkjaxychan>> TABLEQUERY 1>> 0.046875s
+Darkjaxychan>> EXTRACHECK>> 0.046875s
+Darkjaxychan>> TABLEJOIN 1>> 0.71875s
+Darkjaxychan>> GAMEREADY>> 0.078125s
+darklumina>> >> 0s
+darklumina>> PING>> 1.671875s
+darklumina>> TT_PLACEAT 6 4>> 0.203125s
+Darkjaxychan>> PING>> 0.046875s
+Darkjaxychan>> TT_PLACEAT 7 0>> 0.15625s
+darklumina>> TT_PLACEAT 4 3>> 0.15625s
+Darkjaxychan>> TT_PLACEAT 1 1>> 0.171875s
+darklumina>> TT_PLACEAT 0 0>> 0.140625s
+Darkjaxychan>> TT_PLACEAT 2 2>> 0.1875s
+darklumina>> TT_PLACEAT 3 1>> 0.171875s
+Darkjaxychan>> TT_PLACEAT 8 3>> 0.203125s
+darklumina>> TT_PLACEAT 5 2>> 4.5625s
+darklumina>> TT_PLACEAT 6 1>> 0.203125s
+>> >> 0s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.609375s
+darklumina>> EXTRACHECK>> 0.0625s
+>> VERSION 2.0.8>> 0.046875s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 0.25s
+darkjaxychan>> TABLEQUERY 1>> 0.03125s
+darkjaxychan>> EXTRACHECK>> 0.046875s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TABLECREATE  TRADE@@Trade>> 0.28125s
+darklumina>> TABLECLOSE>> 0.15625s
+darklumina>> TABLECREATE>> 0.34375s
+darklumina>> WEBSERVICE>> 0.078125s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.359375s
+darkjaxychan>> TABLEJOIN 1>> 0.984375s
+darkjaxychan>> GAMEREADY>> 0.09375s
+darklumina>> GAMEREADY>> 1.203125s
+darklumina>> TT_PLACEAT 6 4>> 0.203125s
+darkjaxychan>> TT_PLACEAT 7 0>> 0.15625s
+darklumina>> TT_PLACEAT 4 2>> 0.171875s
+darkjaxychan>> TT_PLACEAT 2 1>> 0.1875s
+darklumina>> >> 0s
+darklumina>> PING>> 0.828125s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> TT_PLACEAT 0 2>> 0.15625s
+darklumina>> TT_PLACEAT 3 1>> 0.171875s
+darkjaxychan>> TT_PLACEAT 1 3>> 0.1875s
+darklumina>> TT_PLACEAT 8 0>> 0.59375s
+darklumina>> TT_PLACEAT 2 4>> 0.1875s
+darkjaxychan>> GAMECHAT ~@*~*o.O>> 0.046875s
+darklumina>> PING>> 0.109375s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> TT_PLACEAT 1 0>> 0.171875s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 8 3>> 0.171875s
+darkjaxychan>> TT_PLACEAT 0 1>> 0.484375s
+darklumina>> TT_PLACEAT 3 0>> 0.15625s
+darkjaxychan>> TT_PLACEAT 6 2>> 0.203125s
+darklumina>> TT_PLACEAT 7 1>> 0.1875s
+darkjaxychan>> TT_PLACEAT 5 3>> 0.203125s
+darklumina>> TT_PLACEAT 4 2>> 0.515625s
+>> >> 0s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.65625s
+darklumina>> EXTRACHECK>> 0.0625s
+>> VERSION 2.0.8>> 0.03125s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 0.34375s
+darkjaxychan>> TABLEQUERY 1>> 0.03125s
+darkjaxychan>> EXTRACHECK>> 0.03125s
+darklumina>> >> 0s
+darklumina>> PING>> 1s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> WEBSERVICE>> 0.265625s
+darkjaxychan>> TABLEJOIN 1>> 2.390625s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 7.71875s
+darkjaxychan>> GAMEREADY>> 0.109375s
+darklumina>> GAMEREADY>> 2.09375s
+darklumina>> TT_PLACEAT 5 3>> 0.1875s
+darkjaxychan>> TT_PLACEAT 4 0>> 0.1875s
+darklumina>> TT_PLACEAT 1 4>> 0.15625s
+darkjaxychan>> TT_PLACEAT 6 4>> 0.203125s
+darklumina>> TT_PLACEAT 3 1>> 0.1875s
+darkjaxychan>> TT_PLACEAT 0 2>> 0.171875s
+darklumina>> TT_PLACEAT 2 0>> 0.171875s
+darkjaxychan>> TT_PLACEAT 8 1>> 0.15625s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 7 2>> 0.53125s
+darklumina>> TT_STALEMATE>> 4.15625s
+darkjaxychan>> TT_STALEMATE>> 0.453125s
+darklumina>> >> 0s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> PING>> 12.84375s
+darklumina>> TABLECREATE>> 0.46875s
+darklumina>> WEBSERVICE>> 0.71875s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.75s
+darkjaxychan>> TABLEJOIN 1>> 0.96875s
+darklumina>> GAMEREADY>> 0.125s
+darkjaxychan>> GAMEREADY>> 0.765625s
+darkjaxychan>> TT_PLACEAT 4 0>> 0.171875s
+darklumina>> TT_PLACEAT 6 4>> 0.171875s
+darkjaxychan>> TT_PLACEAT 8 3>> 0.171875s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 3 0>> 0.1875s
+darkjaxychan>> TT_PLACEAT 2 1>> 0.25s
+darklumina>> TT_PLACEAT 5 1>> 0.1875s
+darkjaxychan>> TT_PLACEAT 7 2>> 0.21875s
+darklumina>> TT_PLACEAT 1 2>> 0.171875s
+>> VERSION 2.0.8>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.515625s
+darklumina>> EXTRACHECK>> 0.078125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.8>> 0.046875s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 0.265625s
+darkjaxychan>> TABLEQUERY 1>> 0.03125s
+darkjaxychan>> EXTRACHECK>> 0.03125s
+darklumina>> TABLECREATE>> 0.390625s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.046875s
+darkjaxychan>> TABLEJOIN 1>> 0.859375s
+darklumina>> WEBSERVICE>> 0.140625s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.453125s
+darkjaxychan>> GAMEREADY>> 0.125s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> PING>> 0.234375s
+darklumina>> GAMEREADY>> 0.953125s
+darklumina>> TT_PLACEAT 3 2>> 0.453125s
+darkjaxychan>> TT_PLACEAT 8 1>> 0.3125s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.046875s
+darklumina>> TT_PLACEAT 6 4>> 0.25s
+darkjaxychan>> TT_PLACEAT 7 0>> 0.234375s
+darklumina>> TT_PLACEAT 4 3>> 0.28125s
+darkjaxychan>> TT_PLACEAT 2 2>> 0.265625s
+darklumina>> TT_PLACEAT 5 1>> 0.25s
+darkjaxychan>> TT_PLACEAT 0 4>> 0.328125s
+darklumina>> TT_PLACEAT 1 0>> 21.140625s
+darklumina>> TT_PLACEAT 0 4>> 0.265625s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> TT_PLACEAT 8 0>> 0.25s
+darklumina>> TT_PLACEAT 3 2>> 0.265625s
+darkjaxychan>> TT_PLACEAT 7 4>> 0.265625s
+darklumina>> TT_PLACEAT 6 1>> 0.25s
+darkjaxychan>> TT_PLACEAT 4 1>> 0.265625s
+darklumina>> TT_PLACEAT 5 0>> 0.25s
+darkjaxychan>> TT_PLACEAT 2 3>> 0.265625s
+darklumina>> TT_PLACEAT 1 3>> 0.71875s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 6 4>> 0.40625s
+darkjaxychan>> TT_PLACEAT 7 0>> 0.578125s
+darklumina>> TT_STALEMATE>> 40.046875s
+>> VERSION 2.0.8>> 0.0625s
+DarkJaxychan>> LOADGAME DarkJaxychan ilikemilk>> 0.328125s
+DarkJaxychan>> TABLEQUERY 1>> 0.046875s
+DarkJaxychan>> EXTRACHECK>> 0.046875s
+DarkJaxychan>> TABLECREATE>> 0.171875s
+DarkJaxychan>> WEBSERVICE>> 0.03125s
+DarkJaxychan>> WEBSERVICE>> 0.0625s
+DarkJaxychan>> PING>> 0.046875s
+>> VERSION 2.0.8>> 0.03125s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.453125s
+darklumina>> >> 0s
+darklumina>> EXTRACHECK>> 0.234375s
+darklumina>> TABLEJOIN 1>> 1.34375s
+DarkJaxychan>> WEBSERVICE>> 0.046875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> WEBSERVICE>> 0.046875s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+DarkJaxychan>> WEBSERVICE>> 0.046875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.0625s
+DarkJaxychan>> WEBSERVICE>> 0.0625s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+DarkJaxychan>> WEBSERVICE>> 0.03125s
+DarkJaxychan>> CHANGERULE 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.28125s
+DarkJaxychan>> GAMEREADY>> 0.078125s
+darklumina>> GAMEREADY>> 0.953125s
+darklumina>> TT_PLACEAT 0 0>> 0.25s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> TT_PLACEAT 7 0>> 0.234375s
+darklumina>> TT_PLACEAT 8 4>> 0.21875s
+DarkJaxychan>> TT_PLACEAT 6 1>> 0.203125s
+darklumina>> TT_PLACEAT 4 3>> 0.296875s
+DarkJaxychan>> TT_PLACEAT 3 2>> 0.203125s
+darklumina>> TT_PLACEAT 5 2>> 0.21875s
+DarkJaxychan>> TT_PLACEAT 1 3>> 0.21875s
+darklumina>> TT_PLACEAT 2 1>> 5.09375s
+DarkJaxychan>> CHAT yeah im a nub>> 0.1875s
+DarkJaxychan>> TABLECREATE>> 0.140625s
+darklumina>> CHAT -.->> 0.359375s
+DarkJaxychan>> WEBSERVICE>> 0.03125s
+darklumina>> TABLEJOIN 1>> 1.140625s
+DarkJaxychan>> CHANGERULE 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.25s
+darklumina>> GAMEREADY>> 0.421875s
+DarkJaxychan>> GAMEREADY>> 0.8125s
+darklumina>> TT_PLACEAT 5 2>> 0.328125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+DarkJaxychan>> TT_PLACEAT 7 0>> 0.21875s
+darklumina>> TT_PLACEAT 8 4>> 0.359375s
+DarkJaxychan>> TT_PLACEAT 6 4>> 0.21875s
+darklumina>> CHAT /me is listening to *  Steve Callaghan - Shelter * >> 0.171875s
+darklumina>> TT_PLACEAT 4 0>> 0.234375s
+DarkJaxychan>> TT_PLACEAT 3 3>> 0.234375s
+darklumina>> TT_PLACEAT 1 1>> 0.265625s
+DarkJaxychan>> TT_PLACEAT 0 1>> 0.21875s
+darklumina>> TT_PLACEAT 2 3>> 0.984375s
+DarkJaxychan>> CHAT /me is listening to *  Red Hot Chilli Peppers - Dosed * >> 0.15625s
+DarkJaxychan>> TT_PLACEAT 6 4>> 0.21875s
+darklumina>> TT_PLACEAT 5 3>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 7 3>> 0.21875s
+darklumina>> GAMECHAT ~@*~*perfectly clear board>> 0.046875s
+darklumina>> TT_PLACEAT 4 1>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 8 1>> 0.3125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> PING>> 1s
+DarkJaxychan>> TT_PLACEAT 0 0>> 0.234375s
+darklumina>> TT_PLACEAT 1 4>> 0.234375s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_STALEMATE>> 0.078125s
+DarkJaxychan>> TT_STALEMATE>> 0.59375s
+darklumina>> TABLECREATE>> 0.34375s
+darklumina>> WEBSERVICE>> 0.421875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> TABLEJOIN 1>> 0.859375s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 2 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.359375s
+DarkJaxychan>> GAMEREADY>> 0.109375s
+darklumina>> WEBSERVICE>> 0.171875s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 2 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.578125s
+DarkJaxychan>> GAMEREADY>> 0.09375s
+darklumina>> WEBSERVICE>> 0.171875s
+DarkJaxychan>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> PING>> 0.46875s
+DarkJaxychan>> GAMEREADY>> 0.078125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.078125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+darklumina>> GAMEREADY>> 1.140625s
+DarkJaxychan>> TT_PLACEAT 8 1>> 0.40625s
+darklumina>> TT_PLACEAT 7 2>> 0.234375s
+DarkJaxychan>> TT_PLACEAT 0 4>> 0.21875s
+darklumina>> TT_PLACEAT 6 4>> 0.21875s
+DarkJaxychan>> TT_PLACEAT 3 3>> 0.21875s
+darklumina>> TT_PLACEAT 4 1>> 0.21875s
+DarkJaxychan>> TT_PLACEAT 5 2>> 0.640625s
+darklumina>> TT_PLACEAT 1 0>> 0.296875s
+DarkJaxychan>> TT_PLACEAT 2 0>> 0.59375s
+DarkJaxychan>> TT_PLACEAT 6 0>> 0.21875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_STALEMATE>> 0.046875s
+DarkJaxychan>> TT_STALEMATE>> 0.625s
+darklumina>> TT_PLACEAT 0 0>> 0.328125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> TABLECREATE>> 0.3125s
+darklumina>> WEBSERVICE>> 0.15625s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.203125s
+DarkJaxychan>> TABLEJOIN 1>> 0.875s
+DarkJaxychan>> GAMEREADY>> 0.09375s
+darklumina>> GAMEREADY>> 0.828125s
+darklumina>> TT_PLACEAT 8 4>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 0 0>> 0.234375s
+darklumina>> TT_PLACEAT 3 3>> 0.234375s
+DarkJaxychan>> TT_PLACEAT 5 1>> 0.21875s
+darklumina>> TT_PLACEAT 2 2>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 6 2>> 0.21875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 7 1>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 1 4>> 0.21875s
+darklumina>> TT_PLACEAT 4 0>> 0.59375s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> PING>> 0.796875s
+DarkJaxychan>> TT_PLACEAT 6 0>> 0.546875s
+darklumina>> TT_STALEMATE>> 0.078125s
+DarkJaxychan>> TT_STALEMATE>> 0.671875s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> TABLECREATE>> 0.28125s
+darklumina>> WEBSERVICE>> 0.15625s
+DarkJaxychan>> TABLEJOIN 1>> 0.84375s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.28125s
+DarkJaxychan>> GAMEREADY>> 0.734375s
+darklumina>> GAMEREADY>> 1.15625s
+DarkJaxychan>> PING>> 0.046875s
+darklumina>> >> 0s
+darklumina>> PING>> 0.40625s
+DarkJaxychan>> TT_PLACEAT 7 0>> 0.21875s
+darklumina>> TT_PLACEAT 6 2>> 0.234375s
+DarkJaxychan>> TT_PLACEAT 2 1>> 0.234375s
+darklumina>> TT_PLACEAT 3 3>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 8 2>> 0.21875s
+darklumina>> TT_PLACEAT 4 4>> 0.21875s
+DarkJaxychan>> TT_PLACEAT 5 3>> 0.21875s
+darklumina>> TT_PLACEAT 1 0>> 0.546875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 0 0>> 0.265625s
+DarkJaxychan>> PING>> 0.03125s
+DarkJaxychan>> TT_PLACEAT 7 0>> 0.203125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 6 3>> 8.40625s
+DarkJaxychan>> TT_PLACEAT 8 4>> 0.265625s
+darklumina>> TT_PLACEAT 2 4>> 0.234375s
+DarkJaxychan>> TT_PLACEAT 4 3>> 0.21875s
+darklumina>> TT_PLACEAT 3 2>> 0.265625s
+DarkJaxychan>> TT_PLACEAT 5 2>> 0.234375s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 1 1>> 23.5625s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> PING>> 60.28125s
+DarkJaxychan>> >> 0s
+darklumina>> PING>> 0.046875s
+DarkJaxychan>> PING>> 27.484375s
+darklumina>> TT_STALEMATE>> 0.078125s
+DarkJaxychan>> TT_STALEMATE>> 0.609375s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> TABLECREATE>> 0.75s
+darklumina>> WEBSERVICE>> 0.796875s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 2 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.21875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> TABLEJOIN 1>> 1.25s
+DarkJaxychan>> GAMEREADY>> 0.09375s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> PING>> 1.78125s
+DarkJaxychan>> TT_PLACEAT 8 2>> 0.203125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 7 4>> 0.265625s
+DarkJaxychan>> TT_PLACEAT 1 3>> 0.21875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 3 0>> 0.203125s
+DarkJaxychan>> TT_PLACEAT 6 1>> 0.1875s
+darklumina>> TT_PLACEAT 0 1>> 0.234375s
+DarkJaxychan>> TT_PLACEAT 5 0>> 0.1875s
+DarkJaxychan>> PING>> 0.046875s
+darklumina>> PING>> 0.03125s
+darklumina>> TT_PLACEAT 2 2>> 0.171875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+DarkJaxychan>> TT_PLACEAT 4 4>> 0.34375s
+DarkJaxychan>> TT_PLACEAT 8 4>> 0.171875s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxychan>> PING>> 0.046875s
+darklumina>> TT_PLACEAT 7 3>> 0.21875s
+>> VERSION 2.0.8>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.5625s
+darklumina>> EXTRACHECK>> 0.0625s
+>> VERSION 2.0.8>> 0.03125s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 0.3125s
+darkjaxychan>> TABLEQUERY 1>> 0.046875s
+darkjaxychan>> EXTRACHECK>> 0.03125s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.03125s
+darklumina>> TABLECREATE>> 0.375s
+darklumina>> WEBSERVICE>> 0.171875s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 2 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.234375s
+darkjaxychan>> TABLEJOIN 1>> 0.90625s
+darkjaxychan>> GAMEREADY>> 0.125s
+darklumina>> GAMEREADY>> 0.9375s
+darkjaxychan>> TT_PLACEAT 4 3>> 0.21875s
+darklumina>> TT_PLACEAT 3 0>> 0.1875s
+darkjaxychan>> TT_PLACEAT 8 4>> 0.203125s
+darklumina>> TT_PLACEAT 6 4>> 0.1875s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> TT_PLACEAT 7 2>> 0.203125s
+darklumina>> TT_PLACEAT 5 3>> 0.1875s
+darkjaxychan>> TT_PLACEAT 0 0>> 0.1875s
+darklumina>> TT_PLACEAT 1 2>> 0.203125s
+darkjaxychan>> TT_PLACEAT 2 1>> 0.53125s
+darkjaxychan>> TT_PLACEAT 6 4>> 0.21875s
+darklumina>> TT_PLACEAT 4 3>> 0.296875s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.046875s
+darkjaxychan>> TT_PLACEAT 7 3>> 0.203125s
+darklumina>> TT_STALEMATE>> 0.0625s
+darkjaxychan>> TT_STALEMATE>> 0.890625s
+darklumina>> TABLECREATE>> 0.34375s
+darklumina>> WEBSERVICE>> 0.15625s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> >> 0s
+darkjaxychan>> PING>> 0.890625s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.28125s
+darklumina>> GAMEREADY>> 0.203125s
+darkjaxychan>> GAMEREADY>> 0.71875s
+darklumina>> TT_PLACEAT 7 0>> 0.21875s
+darkjaxychan>> TT_PLACEAT 8 4>> 0.671875s
+darklumina>> TT_PLACEAT 6 4>> 0.203125s
+darkjaxychan>> TT_PLACEAT 3 3>> 0.203125s
+darklumina>> TT_PLACEAT 4 1>> 0.21875s
+darkjaxychan>> TT_PLACEAT 5 2>> 0.203125s
+darklumina>> TT_PLACEAT 2 2>> 0.25s
+darkjaxychan>> TT_PLACEAT 0 1>> 0.1875s
+darklumina>> TT_PLACEAT 1 3>> 0.625s
+darklumina>> PING>> 0.03125s
+darkjaxychan>> PING>> 0.046875s
+darklumina>> TT_PLACEAT 4 0>> 0.1875s
+darkjaxychan>> TT_PLACEAT 6 4>> 0.203125s
+darklumina>> TT_PLACEAT 7 2>> 0.234375s
+darkjaxychan>> TT_PLACEAT 8 3>> 0.203125s
+darklumina>> TT_PLACEAT 5 4>> 0.1875s
+darkjaxychan>> TT_PLACEAT 3 2>> 0.453125s
+darklumina>> TT_PLACEAT 0 1>> 0.1875s
+darkjaxychan>> TT_PLACEAT 1 0>> 0.1875s
+>> VERSION 2.0.8>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 1.046875s
+darklumina>> EXTRACHECK>> 0.078125s
+darklumina>> TABLECREATE>> 0.34375s
+darklumina>> WEBSERVICE>> 0.15625s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.1875s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.8>> 0.0625s
+darkjaxychan>> LOADGAME darkjaxychan ilikemilk>> 1.46875s
+darkjaxychan>> TABLEQUERY 1>> 0.046875s
+darkjaxychan>> EXTRACHECK>> 0.15625s
+darklumina>> PING>> 0.046875s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> TABLEJOIN 1>> 0.84375s
+darkjaxychan>> GAMEREADY>> 0.078125s
+darklumina>> GAMEREADY>> 0.78125s
+darklumina>> TT_PLACEAT 7 4>> 0.265625s
+darkjaxychan>> TT_PLACEAT 4 0>> 0.3125s
+darklumina>> TT_PLACEAT 8 2>> 0.203125s
+darkjaxychan>> TT_PLACEAT 5 1>> 0.21875s
+darklumina>> >> 0s
+darklumina>> PING>> 0.6875s
+darkjaxychan>> PING>> 0.03125s
+darkjaxychan>> TT_PLACEAT 3 2>> 0.203125s
+darklumina>> TT_PLACEAT 0 1>> 0.203125s
+darkjaxychan>> TT_PLACEAT 1 3>> 0.1875s
+darklumina>> TT_PLACEAT 2 0>> 0.578125s
+darklumina>> TT_PLACEAT 8 4>> 0.203125s
+darkjaxychan>> TT_PLACEAT 7 4>> 0.21875s

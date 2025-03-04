@@ -1,0 +1,55 @@
+[player]
+nickname=DaBrain
+password=SmallV1v1
+email=DaBrainCoC@hotmail.com
+signup_date=5/6/2005
+playerID=307
+status=regular
+referal=
+Verify=1
+Last IP=69.248.35.73
+id=2
+IP=69.248.35.73
+adminstatus=off
+match=05-18-2005
+Last Played=05-18-2005
+[Stats]
+Win=97
+Lost=104
+Draw=30
+Lame quits=2
+GP=2251
+rank=1148
+Newdecks=1
+Level=16
+Exp=8762
+Next=9651
+Streak=3
+Choices=1
+AP=176
+SBWin=14
+SBLost=4
+Wins=38
+SoldCards=2
+[Newdecks]
+Last=05-06-2005
+[AP]
+AAEXP=559
+honor=1
+PCT=50
+[Play]
+Playing=false
+GameID= 18236
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Lucrecia
+result=win
+score=11-7
+[Warnings]
+Warns=2
+Kicks=1

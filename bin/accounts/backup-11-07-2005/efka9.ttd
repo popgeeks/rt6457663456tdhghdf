@@ -1,0 +1,52 @@
+[player]
+nickname=efka9
+password=9999999
+email=evaldasw@takas.lt
+signup_date=8/10/2005
+playerID=1777
+status=regular
+referal=9999999
+Verify=1
+Last IP=84.55.7.54
+id=14
+IP=84.55.7.54
+adminstatus=off
+match=08-31-2005
+Last Played=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=1
+[Stats]
+Win=31
+Lost=37
+Draw=14
+Lame quits=1
+GP=1031
+Newdecks=11
+Level=6
+Exp=1546
+Next=1727
+AP=2642
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 95868
+Versus=crazyelf48
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=crazyelf48
+result=loss
+score=13-7

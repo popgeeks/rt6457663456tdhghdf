@@ -1,0 +1,32 @@
+[player]
+nickname=Lamael
+password=170877814
+email=seraph3387@hotmail.com
+signup_date=8/29/2005
+playerID=2000
+status=regular
+referal=
+Verify=1
+Last IP=68.38.35.224
+id=1
+IP=68.38.35.224
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-29-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

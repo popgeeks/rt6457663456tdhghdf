@@ -1,0 +1,49 @@
+[player]
+nickname=RinoASquall
+password=331713258
+email=twiztidlillette@verizon.net
+signup_date=8/1/2005
+playerID=1642
+status=regular
+referal=freakshow
+Verify=1
+Last IP=151.201.233.119
+id=7
+IP=151.201.233.119
+adminstatus=off
+match=08-08-2005
+Last Played=08-08-2005
+[Stats]
+Win=20
+Lost=35
+Draw=10
+Lame quits=0
+GP=10
+Newdecks=31
+Level=5
+Exp=900
+Next=1301
+AP=1053
+Streak=-6
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-08-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 81753
+Versus=squll-typo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=11-7

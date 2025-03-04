@@ -1,0 +1,48 @@
+[player]
+nickname=Xion
+password=gd7rkb08
+email=Kolibri@turbo.at
+signup_date=6/10/2005
+playerID=669
+status=regular
+referal=
+Verify=1
+Last IP=62.218.23.177
+id=8
+IP=62.218.23.177
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+[Stats]
+Win=1
+Lost=12
+Draw=2
+Lame quits=0
+GP=391
+rank=1193
+Newdecks=5
+Level=3
+Exp=248
+Next=476
+AP=328
+SoldCards=0
+cardsgiven=0
+Streak=-6
+Choices=1
+[Newdecks]
+Last=06-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 31351
+Versus=crab-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=crab-bot
+result=draw
+score=5-5

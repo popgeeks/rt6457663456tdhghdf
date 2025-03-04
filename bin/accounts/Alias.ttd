@@ -1,0 +1,41 @@
+[player]
+nickname=Alias
+password=271789967
+email=Grace25295@msn.com
+signup_date=11/5/2005
+playerID=3157
+status=regular
+referal=none
+Verify=1
+Last IP=65.9.87.182
+id=44
+IP=65.9.87.182
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=1
+[Newdecks]
+Last=11-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 144489
+Versus=Crono22002
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Crono22002
+result=loss
+score=9-1

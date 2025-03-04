@@ -1,0 +1,44 @@
+[player]
+nickname=jose162005
+password=690092384
+email=josefelix_200@hotmail.com
+signup_date=7/16/2005
+playerID=1309
+status=regular
+referal=
+Verify=1
+Last IP=63.24.67.1
+id=27
+IP=201.248.104.189
+adminstatus=off
+match=07-16-2005
+Last Played=07-16-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+AP=27
+Streak=1
+[Newdecks]
+Last=07-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 57713
+Versus=Eidolon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Eidolon
+result=loss
+score=7-3

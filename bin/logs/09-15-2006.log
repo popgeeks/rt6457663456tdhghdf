@@ -1,0 +1,73 @@
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.8
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> PING
+darklumina2>> PING
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE Basic Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> PSTATS darklumina2
+darklumina2>> ABNEWDECK Anime
+darklumina2>> ABNEWDECK XenoTrigger
+darklumina2>> ABNEWDECK FF7
+darklumina2>> JOINTABLE 1
+darklumina>> CHANGERULE Basic Normal 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MYCARD 0 Donkey%20Kong
+darklumina>> MYCARD 1 Yoshi
+darklumina>> MYCARD 2 Samus
+darklumina>> MYCARD 3 Captain%20Olimar
+darklumina>> MYCARD 4 Ice%20Climbers
+darklumina>> READY darklumina
+darklumina2>> MYCARD 0 Fiona
+darklumina2>> MYCARD 1 Gigas
+darklumina2>> MYCARD 2 Kahn%20Wong
+darklumina2>> MYCARD 3 Mover
+darklumina2>> MYCARD 4 Allemange
+darklumina2>> READY darklumina2
+darklumina>> PLACEAT 6 0 darklumina2
+darklumina2>> PLACEAT 8 4 darklumina
+darklumina>> PLACEAT 2 4 darklumina2
+darklumina2>> PLACEAT 5 3 darklumina
+darklumina2>> PING
+darklumina>> PING
+darklumina>> PLACEAT 7 2 darklumina2
+darklumina2>> PLACEAT 4 1 darklumina
+darklumina>> PLACEAT 3 3 darklumina2
+darklumina2>> PLACEAT 0 0 darklumina
+darklumina>> PLACEAT 1 1 darklumina2
+darklumina>> PSTATS darklumina
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.8
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE Basic Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina>> CHANGERULE Basic Random 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina>> PING
+darklumina2>> PING
+darklumina2>> TABLECLOSE
+darklumina>> TABLECLOSE
+darklumina>> QUIT 0 1
+darklumina2>> QUIT 0 1
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> TREASUREHUNTER
+darklumina>> TREASUREHUNTER
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING

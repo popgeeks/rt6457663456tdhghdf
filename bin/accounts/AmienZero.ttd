@@ -1,0 +1,41 @@
+[player]
+nickname=AmienZero
+password=laili
+email=aminzero@tm.net.my
+signup_date=10/5/2005
+playerID=2654
+status=regular
+referal=
+Verify=1
+Last IP=200.65.13.81
+id=60
+IP=210.186.172.51
+adminstatus=off
+match=01-17-2006
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=30
+Next=100
+Streak=-1
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 201084
+Versus=Tim1
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Tim1
+result=loss
+score=7-3

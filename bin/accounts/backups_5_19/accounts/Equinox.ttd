@@ -1,0 +1,49 @@
+[player]
+nickname=Equinox
+password=670671998
+email=andrewcreagh1972@yahoo.co.uk
+signup_date=5/9/2005
+playerID=346
+status=regular
+referal=
+Verify=1
+Last IP=81.102.119.143
+id=18
+IP=81.102.119.143
+adminstatus=off
+match=05-16-2005
+Last Played=05-16-2005
+[Stats]
+Win=3
+Lost=8
+Draw=0
+Lame quits=0
+GP=0
+rank=1287
+Newdecks=9
+Level=2
+Exp=236
+Next=248
+Streak=1
+Choices=1
+Wins=2
+AP=52
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17141
+Versus=Jin
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Angelus
+result=win
+score=12-8

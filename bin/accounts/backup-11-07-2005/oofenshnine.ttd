@@ -1,0 +1,47 @@
+[player]
+nickname=oofenshnine
+password=439087330
+email=oofenshnine@hotmail.com
+signup_date=6/14/2005
+playerID=699
+status=regular
+referal=
+Verify=1
+Last IP=211.27.29.59
+id=34
+IP=211.27.29.59
+adminstatus=off
+match=06-20-2005
+Last Played=06-20-2005
+[Stats]
+Win=3
+Lost=8
+Draw=1
+Lame quits=0
+GP=441
+rank=1500
+Newdecks=1
+Level=3
+Exp=254
+Next=476
+AP=636
+Streak=2
+Choices=1
+[Newdecks]
+Last=06-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 38219
+Versus=bubbles
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=crazyelf48
+result=win
+score=12-10

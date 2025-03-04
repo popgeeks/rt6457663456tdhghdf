@@ -1,0 +1,49 @@
+[player]
+nickname=pushmeaway
+password=14d10b88
+email=yin_yang05@hotmail.com
+signup_date=4/30/2005
+playerID=230
+status=regular
+referal=
+Verify=1
+Last IP=172.213.185.92
+id=9
+IP=172.213.185.92
+adminstatus=off
+match=05-17-2005
+Last Played=05-17-2005
+[Stats]
+Win=12
+Lost=13
+Draw=8
+Lame quits=3
+GP=1350
+rank=979
+Newdecks=1
+Level=5
+Exp=882
+Next=1301
+Streak=-2
+Choices=1
+Wins=9
+AP=244
+SBLost=2
+[Newdecks]
+Last=04-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 17817
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Spik3
+result=draw
+score=10-10

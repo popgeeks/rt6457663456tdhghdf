@@ -1,0 +1,32 @@
+[player]
+nickname=Smurfage
+password=38227021
+email=sunnydaykid@msn.com
+signup_date=8/24/2005
+playerID=1971
+status=regular
+referal=
+Verify=1
+Last IP=141.238.106.37
+id=29
+IP=141.238.106.37
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,46 @@
+[player]
+nickname=Brok
+password=278816997
+email=neo_Sephiroth@ffonline.zzn.com
+signup_date=5/16/2005
+playerID=402
+status=regular
+referal=Irvine
+Verify=1
+Last IP=70.105.87.5
+id=21
+IP=70.105.87.5
+adminstatus=off
+match=05-17-2005
+Last Played=05-17-2005
+[Stats]
+Win=3
+Lost=0
+Draw=3
+Lame quits=0
+GP=162
+rank=1456
+Newdecks=1
+Level=2
+Exp=111
+Next=248
+AP=197
+Streak=3
+Choices=1
+[Newdecks]
+Last=05-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17565
+Versus=mirage-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=mirage-bot
+result=win
+score=6-4

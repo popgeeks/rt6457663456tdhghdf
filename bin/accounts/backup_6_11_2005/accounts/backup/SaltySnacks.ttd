@@ -1,0 +1,44 @@
+[player]
+nickname=SaltySnacks
+password=714652656
+email=Grimmy@darkwindonline.com
+signup_date=4/5/05
+playerID=98
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=04-05-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=2
+Level4=3
+Level5=2
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+SAM08G=1
+Gerogero=2
+Torama=1
+Tonberry King=1
+Gayla=1
+Belhelmel=2
+Bomb=1
+Blue Dragon=1
+Snow Lion=1
+BGH251F2=1
+Glacial Eye=1
+Elastoid=1
+Funguar=1

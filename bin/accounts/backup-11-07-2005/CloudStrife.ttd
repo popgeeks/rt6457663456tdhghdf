@@ -1,0 +1,47 @@
+[player]
+nickname=CloudStrife
+password=mongoose
+email=Opaypalo@aol.com
+signup_date=6/25/2005
+playerID=836
+status=regular
+referal=Sephiroth
+Verify=1
+Last IP=172.216.16.33
+id=7
+IP=172.216.16.33
+adminstatus=off
+match=06-26-2005
+Last Played=06-26-2005
+[Stats]
+Win=2
+Lost=5
+Draw=3
+Lame quits=0
+GP=224
+rank=1418
+Newdecks=1
+Level=2
+Exp=192
+Next=248
+AP=346
+SBLost=1
+Streak=-4
+Choices=1
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Jinx
+Iam=2
+[password]
+failed=18
+[Games]
+Playing=TT
+[game]
+opponent=Jinx
+result=loss
+score=8-2

@@ -1,0 +1,33 @@
+[player]
+nickname=sexyshinobu
+password=sasami
+email=hot_little_hotaru@hotmail.com
+signup_date=6/7/2005
+playerID=648
+status=regular
+referal=
+Verify=1
+Last IP=209.52.121.44
+id=28
+IP=209.52.121.44
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=40
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=519
+[Newdecks]
+Last=06-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

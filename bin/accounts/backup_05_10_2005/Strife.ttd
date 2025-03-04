@@ -1,0 +1,87 @@
+[player]
+nickname=Strife
+password=icebrand
+email=rtdsephiroth@aol.com
+signup_date=4/4/05
+playerID=94
+status=regular
+Verify=1
+Last IP=24.223.165.220
+id=3
+IP=24.223.165.220
+adminstatus=off
+Last Played=04-04-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+GP=10
+rank=1239
+Newdecks=5
+Level=1
+Exp=20
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=04-04-2005
+[Totals]
+Level1=1
+Level2=4
+Level3=2
+Level4=2
+Level5=1
+Level6=4
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Abadon=1
+Anacondaur=1
+BGH251F2=0
+Armadodo=0
+Red Bat=0
+Fujin, Raijin=1
+Buel=0
+Wendigo=1
+Forbidden=1
+Cactuar=1
+Fastitocalon=0
+SAM08G=0
+Vysage=1
+Funguar=0
+Shumi Tribe=0
+Granaldo=0
+Torama=0
+Catoblepas=0
+Caterchipillar=0
+Ochu=0
+Adamantoise=0
+Behemoth=0
+Gayla=1
+Gerogero=1
+Chimera=1
+Mobile Type 8=1
+Belhelmel=1
+Glacial Eye=1
+Trauma=1
+Thrustaevis=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 3316
+Versus=Gaffer
+Iam=2
+[password]
+failed=1
+[Games]
+Playing=TT
+[game]
+opponent=Gaffer
+result=loss
+score=7-3

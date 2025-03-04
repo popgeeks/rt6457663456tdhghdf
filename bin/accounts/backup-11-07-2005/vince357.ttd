@@ -1,0 +1,41 @@
+[player]
+nickname=vince357
+password=670899748
+email=vincentli_8@hotmail.com
+signup_date=8/30/2005
+playerID=2029
+status=regular
+referal=
+Verify=1
+Last IP=24.85.142.176
+id=30
+IP=24.85.142.176
+adminstatus=off
+match=08-30-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=23
+Next=100
+Streak=-1
+[Newdecks]
+Last=08-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95293
+Versus=ukimaro
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=ukimaro
+result=loss
+score=8-2

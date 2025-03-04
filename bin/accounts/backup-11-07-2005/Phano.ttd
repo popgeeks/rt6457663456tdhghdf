@@ -1,0 +1,44 @@
+[player]
+nickname=Phano
+password=duderino
+email=phanraven@hotmail.com
+signup_date=8/1/2005
+playerID=1632
+status=regular
+referal=
+Verify=1
+Last IP=172.178.52.5
+id=43
+IP=172.178.52.5
+adminstatus=off
+match=08-01-2005
+Last Played=08-01-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+AP=25
+Streak=1
+[Newdecks]
+Last=08-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=mrgako
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=mrgako
+result=loss
+score=7-3

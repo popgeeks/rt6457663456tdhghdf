@@ -1,0 +1,44 @@
+[player]
+nickname=Auron
+password=834360360
+email=snyezana01@hotmail.com
+signup_date=3/17/05
+playerID=28
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=03-17-2005
+[Totals]
+Level1=0
+Level2=1
+Level3=3
+Level4=3
+Level5=3
+Level6=5
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+GIM47N=1
+Granaldo=1
+Fujin, Raijin=3
+Torama=2
+Death Claw=1
+Blitz=1
+Behemoth=2
+Creeps=1
+Iguion=1
+Tri-Face=1
+Forbidden=1
+[password]
+failed=5

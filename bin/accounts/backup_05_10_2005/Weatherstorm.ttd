@@ -1,0 +1,70 @@
+[player]
+nickname=Weatherstorm
+password=679999648
+email=Jace312@hotmail.com
+signup_date=4/11/05
+playerID=129
+status=regular
+referal=
+Verify=1
+Last IP=66.60.160.7
+id=19
+IP=66.60.160.7
+adminstatus=off
+match=04-12-2005
+Last Played=04-12-2005
+[Stats]
+Win=3
+Lost=1
+Draw=0
+Lame quits=0
+GP=130
+rank=1500
+Newdecks=1
+Level=1
+Exp=90
+Next=100
+Streak=-1
+[Newdecks]
+Last=04-11-2005
+[Totals]
+Level1=1
+Level2=4
+Level3=1
+Level4=1
+Level5=0
+Level6=5
+Level7=3
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Jumbo Cactuar=1
+Abadon=1
+Blitz=1
+Mesmerize=1
+Tri-Point=1
+Fastitocalon=1
+Oilboyle=1
+Shumi Tribe=1
+Red Bat=1
+Buel=2
+Iguion=2
+Grat=1
+Red Giant=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5962
+Versus=BloodLust
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=coolsport23
+result=loss
+score=7-3

@@ -1,0 +1,51 @@
+[player]
+nickname=Stonesaur
+password=208250939
+email=michael_fudgie@hotmail.com
+signup_date=5/20/2005
+playerID=427
+status=regular
+referal=
+Verify=1
+Last IP=61.69.9.33
+id=13
+IP=61.69.9.33
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=9
+Lost=28
+Draw=2
+Lame quits=0
+GP=972
+rank=951
+Newdecks=1
+Level=4
+Exp=718
+Next=836
+AP=289
+Streak=1
+Choices=1
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 22178
+Versus=alvaro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=MisterRictus
+result=win
+score=10-8

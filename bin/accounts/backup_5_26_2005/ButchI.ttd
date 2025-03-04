@@ -1,0 +1,54 @@
+[player]
+nickname=ButchI
+password=007767
+email=linkeleven@web.de
+signup_date=5/15/2005
+playerID=390
+status=regular
+referal=ButchI
+Verify=1
+Last IP=82.140.58.126
+id=9
+IP=82.140.58.126
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+guildinvite=
+guildinvite_name=
+guild=Revenge of Getro
+guildmaster=3
+[Stats]
+Win=56
+Lost=118
+Draw=40
+Lame quits=1
+GP=331
+rank=1138
+Newdecks=1
+Level=11
+Exp=4172
+Next=4838
+AP=154
+Streak=3
+Choices=1
+SBLost=4
+SoldCards=4
+[Newdecks]
+Last=05-15-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 22502
+Versus=FrEaKiD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=FrEaKiD
+result=win
+score=6-4

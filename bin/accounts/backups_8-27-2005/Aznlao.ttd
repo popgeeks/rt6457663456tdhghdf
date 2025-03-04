@@ -1,0 +1,49 @@
+[player]
+nickname=Aznlao
+password=498143195
+email=aznstyle77600@yahoo.fr
+signup_date=8/26/2005
+playerID=1998
+status=regular
+referal=lumbk
+Verify=1
+Last IP=82.238.17.243
+id=31
+IP=82.238.17.243
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=15
+Lost=35
+Draw=6
+Lame quits=2
+GP=333
+Newdecks=1
+Level=5
+Exp=860
+Next=1301
+AP=1874
+Streak=2
+Choices=1
+[Newdecks]
+Last=08-26-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 93275
+Versus=Ishizaki
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=Ishizaki
+result=win
+score=13-7
+[Warnings]
+Kicks=1
+Warns=1

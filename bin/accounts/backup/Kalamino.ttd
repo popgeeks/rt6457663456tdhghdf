@@ -1,0 +1,80 @@
+[player]
+nickname=Kalamino
+password=psycho
+email=Tifa_Lockheart@Hotmail.co.uk
+signup_date=4/5/05
+playerID=100
+status=regular
+Verify=1
+Last IP=172.216.157.55
+id=13
+IP=172.216.157.55
+adminstatus=off
+Last Played=04-14-2005
+match=04-14-2005
+[Stats]
+Win=17
+Lost=20
+Draw=5
+Lame quits=0
+GP=830
+rank=1758
+Newdecks=1
+Level=5
+Exp=984
+Next=1301
+Streak=-3
+Choices=1
+[Newdecks]
+Last=04-05-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=4
+Level4=6
+Level5=3
+Level6=5
+Level7=0
+Level8=0
+Level9=1
+Level10=1
+Total=0
+[cards]
+Glacial Eye=1
+Belhelmel=1
+Geezard=1
+Wendigo=2
+BGH251F2=0
+Elnoyle=1
+Oilboyle=2
+Funguar=1
+Red Bat=1
+Trauma=1
+Iguion=1
+Armadodo=1
+Ruby Dragon=1
+Forbidden=1
+Blitz=2
+Adamantoise=1
+Death Claw=1
+Shumi Tribe=1
+Elastoid=1
+Tonberry=1
+Ward=1
+Imp=1
+Carbuncle=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5514
+Versus=Jimmy3000
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=loss
+score=12-8

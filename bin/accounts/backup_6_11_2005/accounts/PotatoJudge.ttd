@@ -1,0 +1,33 @@
+[player]
+nickname=PotatoJudge
+password=314075469
+email=avatarofhell0000@yahoo.com
+signup_date=5/17/2005
+playerID=405
+status=regular
+referal=
+Verify=1
+Last IP=70.59.211.111
+id=26
+IP=70.59.211.111
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+[Newdecks]
+Last=05-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,54 @@
+[player]
+nickname=LagunaD
+password=759210287
+email=batu_k27@yahoo.com
+signup_date=10/19/2005
+playerID=2927
+status=regular
+referal=LagunaD
+Verify=1
+Last IP=201.218.99.188
+id=49
+IP=201.218.99.188
+adminstatus=off
+match=11-07-2005
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+surname=traveler
+[Stats]
+Win=107
+Lost=128
+Draw=43
+Lame quits=3
+Newdecks=3
+Level=13
+Exp=5753
+Next=6316
+Streak=-2
+Choices=1
+SoldCards=2
+cardsgiven=0
+SBWin=1
+[Newdecks]
+Last=10-25-2005
+[AP]
+AAEXP=73
+honor=2
+PCT=0
+[Play]
+Playing=false
+GameID= 146658
+Iam=2
+Versus=howabe
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=loss
+score=12-8
+[Warnings]
+Kicks=1

@@ -1,0 +1,44 @@
+[player]
+nickname=cocacolafool
+password=717657863
+email=markusblair@gmail.com
+signup_date=9/26/2005
+playerID=2505
+status=regular
+referal=
+Verify=1
+Last IP=35.11.180.41
+id=124
+IP=35.11.180.41
+adminstatus=off
+match=10-04-2005
+[Stats]
+Win=6
+Lost=15
+Draw=4
+Lame quits=0
+Newdecks=3
+Level=3
+Exp=448
+Next=476
+Streak=-3
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 120023
+Versus=utherbr
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=utherbr
+result=loss
+score=13-7

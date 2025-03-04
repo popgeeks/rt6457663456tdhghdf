@@ -1,0 +1,50 @@
+[player]
+nickname=Razum
+password=RICKYD
+email=RDBLANZY@AOL.com
+signup_date=5/28/2005
+playerID=535
+status=regular
+referal=None
+Verify=1
+Last IP=172.162.68.94
+id=27
+IP=172.162.68.94
+adminstatus=off
+match=06-19-2005
+Last Played=06-19-2005
+[Stats]
+Win=24
+Lost=47
+Draw=10
+Lame quits=1
+GP=602
+rank=1223
+Newdecks=1
+Level=7
+Exp=1801
+Next=2154
+AP=449
+Streak=2
+Choices=1
+SBLost=1
+SoldCards=3
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 36969
+Versus=Shannon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Shannon
+result=win
+score=10-8

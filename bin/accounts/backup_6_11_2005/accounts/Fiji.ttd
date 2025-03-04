@@ -1,0 +1,44 @@
+[player]
+nickname=Fiji
+password=247555732
+email=gogeta_the_omgea_ssj@hotmail.com
+signup_date=4/6/05
+playerID=104
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-06-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=1
+Level4=0
+Level5=2
+Level6=7
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Iron Giant=1
+Geezard=2
+X-ATM092=2
+Abadon=1
+Buel=1
+Iguion=1
+Shumi Tribe=2
+Anacondaur=1
+Ruby Dragon=1
+Caterchipillar=1
+Elvoret=1
+Ochu=1

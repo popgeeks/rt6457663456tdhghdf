@@ -1,0 +1,47 @@
+[player]
+nickname=infinito
+password=926264761
+email=infinito19840521@yahoo.com
+signup_date=8/10/2005
+playerID=1778
+status=regular
+referal=
+Verify=1
+Last IP=81.7.65.75
+id=40
+IP=81.7.65.75
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+[Stats]
+Win=6
+Lost=23
+Draw=3
+Lame quits=1
+GP=36
+Newdecks=5
+Level=3
+Exp=402
+Next=476
+AP=1009
+Streak=-7
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 85905
+Versus=x22bcn
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Kotino
+result=loss
+score=7-3

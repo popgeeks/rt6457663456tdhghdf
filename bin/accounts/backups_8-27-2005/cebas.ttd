@@ -1,0 +1,21 @@
+[player]
+nickname=cebas
+password=78673183
+email=cebas@wanadoo.fr
+signup_date=6/25/2005
+playerID=839
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-25-2005
+[password]
+failed=1

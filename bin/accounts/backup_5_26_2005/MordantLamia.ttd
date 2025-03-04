@@ -1,0 +1,45 @@
+[player]
+nickname=MordantLamia
+password=@redwings98
+email=predatorsredwings@hotmail.com
+signup_date=4/30/2005
+playerID=240
+status=regular
+referal=Aaron
+Verify=1
+Last IP=69.138.52.130
+id=19
+IP=69.138.52.130
+adminstatus=off
+match=05-01-2005
+Last Played=05-01-2005
+[Stats]
+Win=0
+Lost=5
+Draw=1
+Lame quits=0
+GP=35
+rank=1436
+Newdecks=1
+Level=1
+Exp=86
+Next=100
+Streak=-4
+Wins=0
+[Newdecks]
+Last=04-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 9959
+Versus=Midnight
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Midnight
+result=loss
+score=12-6

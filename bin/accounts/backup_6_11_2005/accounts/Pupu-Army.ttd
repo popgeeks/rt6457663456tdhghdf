@@ -1,0 +1,44 @@
+[player]
+nickname=Pupu-Army
+password=eternalpupu
+email=andrewlwilde@hotmail.com
+signup_date=5/22/2005
+playerID=508
+status=regular
+referal=
+Verify=1
+Last IP=205.208.246.48
+id=6
+IP=205.208.246.48
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=50
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=551
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 31529
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Challenged=
+[Warnings]
+Kicks=1

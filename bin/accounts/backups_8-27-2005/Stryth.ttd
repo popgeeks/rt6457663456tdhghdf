@@ -1,0 +1,45 @@
+[player]
+nickname=Stryth
+password=985772310
+email=motorcrossdd@yahoo.com
+signup_date=5/15/2005
+playerID=391
+status=regular
+referal=Stryth
+Verify=1
+Last IP=68.196.127.209
+id=26
+IP=68.196.127.209
+adminstatus=off
+match=05-15-2005
+Last Played=05-15-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+GP=15
+rank=1059
+Newdecks=1
+Level=1
+Exp=42
+Next=100
+AP=74
+Streak=-2
+[Newdecks]
+Last=05-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 16827
+Versus=DamnImGood
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=DamnImGood
+result=loss
+score=8-2

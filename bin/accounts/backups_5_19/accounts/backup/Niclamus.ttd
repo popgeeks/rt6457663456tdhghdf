@@ -1,0 +1,70 @@
+[player]
+nickname=Niclamus
+password=45678123
+email=niclamus@namelesshost.net
+signup_date=3/25/05
+playerID=53
+status=regular
+Verify=1
+Last IP=199.176.224.54
+id=15
+IP=199.176.224.54
+adminstatus=off
+Last Played=03-25-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+GP=30
+rank=1635
+Newdecks=1
+Level=1
+Exp=24
+Next=100
+Streak=2
+[Newdecks]
+Last=03-25-2005
+[Totals]
+Level1=1
+Level2=4
+Level3=4
+Level4=0
+Level5=1
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Grat=1
+Death Claw=1
+Shumi Tribe=2
+Ochu=1
+Gerogero=1
+Cactuar=1
+Gesper=1
+Iguion=0
+Tiamat=1
+PuPu=1
+Glacial Eye=1
+Belhelmel=2
+Tri-Face=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 1314
+Versus=AJ666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=AJ666
+result=win
+score=6-4
+[Warnings]
+Kicks=1

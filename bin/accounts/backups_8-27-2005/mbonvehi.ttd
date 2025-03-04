@@ -1,0 +1,20 @@
+[player]
+nickname=mbonvehi
+password=938468693
+email=mbonvehi@telefonica.net
+signup_date=7/16/2005
+playerID=1296
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-16-2005
+[password]
+failed=1

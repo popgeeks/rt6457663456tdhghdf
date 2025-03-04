@@ -1,0 +1,45 @@
+[player]
+nickname=Bryan1987
+password=bryn12
+email=Bryn1987@comcast.net
+signup_date=9/26/2005
+playerID=2508
+status=regular
+referal=
+Verify=1
+Last IP=65.34.148.18
+id=83
+IP=65.34.148.18
+adminstatus=off
+match=10-04-2005
+[Stats]
+Win=51
+Lost=50
+Draw=11
+Lame quits=0
+Newdecks=1
+Level=8
+Exp=2261
+Next=2698
+Streak=3
+SBWin=35
+SBLost=14
+SBDraw=1
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 120175
+Versus=tahtd00d
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=tahtd00d
+result=win
+score=52-30

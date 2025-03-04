@@ -1,0 +1,36 @@
+[Play]
+Playing=false
+GameID= 146513
+Versus=TheFuzz
+Iam=2
+[Stats]
+Wins=
+Lost=12
+Draw=2818
+Win=58
+GP=16955
+Level=2
+Exp=208
+Next=248
+Streak=2
+AP=351
+Choices=1
+Lame quits=1
+[player]
+guildinvite=3
+guildinvite_name=Night Breed
+Last IP=192.168.0.2
+status=regular
+id=1
+IP=192.168.0.2
+adminstatus=off
+match=11-07-2005
+Last Played=08-20-2005
+[AP]
+AAEXP=0
+[game]
+opponent=blackcat
+result=win
+score=15-5
+[Games]
+Playing=OTT

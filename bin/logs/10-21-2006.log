@@ -1,0 +1,417 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+darklumina>> PING
+darklumina>> PANDORAGUESS 8 10 9 3
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PANDORAGUESS 10 9 8 6
+darklumina>> PANDORAGUESS 10 9 5 6
+darklumina>> PANDORAGUESS 8 9 8 6
+darklumina>> PANDORAGUESS 9 9 8 6
+darklumina>> PANDORAGUESS 7 9 8 6
+darklumina>> PANDORAGUESS 5 9 8 6
+darklumina>> PANDORAGUESS 4 9 8 6
+darklumina>> PANDORAGUESS 3 9 8 6
+darklumina>> PANDORAGUESS 2 9 8 6
+darklumina>> PANDORAGUESS 1 9 8 6
+darklumina>> PANDORAGUESS 1 9 8 8
+darklumina>> PANDORAGUESS 1 9 8 9
+darklumina>> PANDORAGUESS 1 9 8 10
+darklumina>> PANDORAGUESS 1 9 8 5
+darklumina>> PANDORAGUESS 1 9 8 4
+darklumina>> PANDORAGUESS 1 9 8 3
+darklumina>> PANDORAGUESS 1 9 8 1
+darklumina>> PANDORAGUESS 1 9 8 2
+darklumina>> PANDORAGUESS 1 9 8 7
+darklumina>> PANDORAGUESS 1 6 8 7
+darklumina>> PANDORAGUESS 1 5 8 7
+darklumina>> PANDORAGUESS 1 4 8 7
+darklumina>> PANDORAGUESS 1 3 8 7
+darklumina>> PANDORAGUESS 1 2 8 7
+darklumina>> PANDORAGUESS 1 1 8 7
+darklumina>> PANDORAGUESS 1 1 8 7
+darklumina>> PING
+darklumina>> PANDORAGUESS 5 5 4 3
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PANDORAGUESS 4 7 2 6
+darklumina>> PANDORAGUESS 6 7 2 6
+darklumina>> PANDORAGUESS 6 7 2 6
+darklumina>> PANDORAGUESS 4 7 2 6
+darklumina>> PANDORAGUESS 3 7 2 6
+darklumina>> PANDORAGUESS 2 7 2 6
+darklumina>> PANDORAGUESS 1 7 2 6
+darklumina>> PANDORAGUESS 10 7 2 6
+darklumina>> PANDORAGUESS 9 7 2 6
+darklumina>> PANDORAGUESS 9 7 4 6
+darklumina>> PANDORAGUESS 9 7 4 8
+darklumina>> PANDORAGUESS 9 7 4 6
+darklumina>> PANDORAGUESS 9 7 4 10
+darklumina>> PANDORAGUESS 9 4 4 10
+darklumina>> PANDORAGUESS 9 3 4 10
+darklumina>> PANDORAGUESS 9 2 4 10
+darklumina>> PANDORAGUESS 9 8 4 10
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PANDORAGUESS 5 7 10 6
+darklumina>> PANDORAGUESS 6 7 10 6
+darklumina>> PANDORAGUESS 7 7 10 6
+darklumina>> PANDORAGUESS 8 7 10 6
+darklumina>> PANDORAGUESS 9 7 10 6
+darklumina>> PANDORAGUESS 10 7 10 6
+darklumina>> PANDORAGUESS 5 7 10 6
+darklumina>> PANDORAGUESS 4 7 10 6
+darklumina>> PANDORAGUESS 3 7 10 6
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PANDORAGUESS 10 4 5 6
+darklumina>> PANDORAGUESS 8 4 5 6
+darklumina>> PANDORAGUESS 9 4 5 6
+darklumina>> PANDORAGUESS 6 4 5 6
+darklumina>> PANDORAGUESS 5 4 5 6
+darklumina>> PANDORAGUESS 4 4 5 6
+darklumina>> PANDORAGUESS 7 4 5 6
+darklumina>> PANDORAGUESS 3 4 5 6
+darklumina>> PANDORAGUESS 3 4 8 6
+darklumina>> PANDORAGUESS 3 4 9 6
+darklumina>> PANDORAGUESS 3 4 10 6
+darklumina>> PANDORAGUESS 3 4 6 6
+darklumina>> PANDORAGUESS 3 4 5 6
+darklumina>> PANDORAGUESS 3 4 4 6
+darklumina>> PANDORAGUESS 3 4 4 5
+darklumina>> PANDORAGUESS 3 4 4 7
+darklumina>> PANDORAGUESS 3 4 4 5
+darklumina>> PANDORAGUESS 3 4 4 4
+darklumina>> PANDORAGUESS 3 6 4 4
+darklumina>> PANDORAGUESS 3 7 4 4
+darklumina>> PANDORAGUESS 3 8 4 4
+darklumina>> PANDORAGUESS 3 9 4 4
+darklumina>> PANDORAGUESS 3 9 4 4
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE CHINCHIN
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina>> PING
+darklumina2>> PING
+darklumina>> QUIT 0 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina2>> PING
+darklumina2>> CHAT /me is away.  Reason: Idle
+darklumina2>> AWAY 1
+darklumina>> CREATETABLE CHINCHIN
+darklumina>> PING
+darklumina2>> CHAT /me is back.
+darklumina2>> AWAY 0
+darklumina2>> JOINTABLE 1
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina2>> CHINCHINROLL
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE CHINCHIN
+darklumina2>> JOINTABLE 1
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina2>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina2>> CHINCHINROLL
+darklumina2>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina2>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina2>> CHINCHINROLL
+darklumina2>> PING
+darklumina>> PING
+darklumina>> CHINCHINROLL
+darklumina2>> CHINCHINROLL
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE CHINCHIN
+darklumina2>> CHAT /me is back.
+darklumina2>> JOINTABLE 1
+darklumina2>> AWAY 0
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina2>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina2>> CHINCHINROLL
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE CHINCHIN
+darklumina2>> JOINTABLE 1
+darklumina2>> CHANGERULE CHINCHIN 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+darklumina>> CHINCHINROLL
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> OTTPLACEAT 0
+darklumina>> ERRORHANDLER Object%20required 400
+darklumina>> QUITERROR
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina>> TABLECLOSE
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> PING
+darklumina2>> PING
+darklumina>> OTTPLACEAT 20
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> OTTPLACEAT 12
+darklumina>> PING
+darklumina2>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> OTTPLACEAT 24
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> OTTPLACEAT 0
+darklumina>> ERRORHANDLER Object%20doesn't%20support%20this%20property%20or%20method 120
+darklumina>> QUITERROR
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina>> OTTPLACEAT 2
+darklumina2>> OTTPLACEAT 5
+darklumina>> OTTPLACEAT 0
+darklumina2>> PING
+darklumina>> PING
+darklumina2>> OTTPLACEAT 6
+darklumina>> OTTPLACEAT 1
+darklumina2>> OTTPLACEAT 11
+darklumina>> OTTPLACEAT 10
+darklumina2>> OTTPLACEAT 16
+darklumina>> OTTPLACEAT 15
+darklumina2>> OTTPLACEAT 17
+darklumina>> OTTPLACEAT 22
+darklumina2>> OTTPLACEAT 23
+darklumina>> OTTPLACEAT 21
+darklumina2>> OTTPLACEAT 20
+darklumina>> OTTPLACEAT 18
+darklumina2>> OTTPLACEAT 12
+darklumina>> OTTPLACEAT 13
+darklumina2>> OTTPLACEAT 7
+darklumina>> OTTPLACEAT 8
+darklumina2>> OTTPLACEAT 14
+darklumina>> OTTPLACEAT 24
+darklumina2>> OTTPLACEAT 19
+darklumina>> OTTPLACEAT 9
+darklumina2>> OTTPLACEAT 4
+darklumina>> OTTPLACEAT 3
+darklumina>> QUIT 0 1
+darklumina2>> QUIT 0 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina2>> OTTPLACEAT 20
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> OTTPLACEAT 2
+darklumina2>> OTTPLACEAT 18
+darklumina>> OTTPLACEAT 24
+darklumina2>> OTTPLACEAT 19
+darklumina>> OTTPLACEAT 1
+darklumina2>> OTTPLACEAT 0
+darklumina>> OTTPLACEAT 5
+darklumina2>> OTTPLACEAT 10
+darklumina>> OTTPLACEAT 6
+darklumina2>> OTTPLACEAT 20
+darklumina>> OTTPLACEAT 15
+darklumina2>> OTTPLACEAT 21
+darklumina>> OTTPLACEAT 16
+darklumina2>> OTTPLACEAT 22
+darklumina>> OTTPLACEAT 17
+darklumina2>> OTTPLACEAT 12
+darklumina>> OTTPLACEAT 11
+darklumina2>> OTTPLACEAT 13
+darklumina>> OTTPLACEAT 23
+darklumina2>> OTTPLACEAT 14
+darklumina>> OTTPLACEAT 8
+darklumina2>> OTTPLACEAT 7
+darklumina>> OTTPLACEAT 3
+darklumina2>> OTTPLACEAT 9
+darklumina>> OTTPLACEAT 4
+darklumina2>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina>> OTTPLACEAT 13
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+darklumina2>> OTTPLACEAT 12
+darklumina>> OTTCARDDISCARD
+darklumina>> OTTPLACEAT 11
+darklumina2>> OTTPLACEAT 17
+darklumina>> OTTPLACEAT 16
+darklumina2>> OTTPLACEAT 15
+darklumina>> OTTPLACEAT 22
+darklumina2>> OTTPLACEAT 23
+darklumina>> OTTPLACEAT 21
+darklumina2>> OTTPLACEAT 18
+darklumina>> OTTPLACEAT 20
+darklumina2>> OTTPLACEAT 19

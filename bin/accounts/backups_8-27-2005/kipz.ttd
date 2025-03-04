@@ -1,0 +1,46 @@
+[player]
+nickname=kipz
+password=833870767
+email=stewy_grif@yahoo.com
+signup_date=6/22/2005
+playerID=816
+status=regular
+referal=
+Verify=1
+Last IP=68.104.96.31
+id=41
+IP=68.104.96.31
+adminstatus=off
+Last Played=06-22-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1496
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=5
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=06-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 39472
+Versus=mirage-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=mirage-bot
+result=win
+score=8-2

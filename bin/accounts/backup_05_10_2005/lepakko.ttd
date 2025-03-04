@@ -1,0 +1,19 @@
+[player]
+nickname=lepakko
+password=923615991
+email=joopajoojoo@kukkuu.com
+signup_date=5/7/2005
+playerID=325
+status=regular
+referal=jotain
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-07-2005

@@ -1,0 +1,45 @@
+[player]
+nickname=Tasak
+password=782934843
+email=adam.hi@buziaczek.pl
+signup_date=8/20/2005
+playerID=1892
+status=regular
+referal=
+Verify=1
+Last IP=82.160.252.229
+id=10
+IP=82.160.252.229
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=1
+Lost=10
+Draw=9
+Lame quits=1
+GP=242
+Newdecks=1
+Level=2
+Exp=131
+Next=248
+AP=586
+Streak=-4
+Choices=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 88459
+Versus=Rikriel
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Rikriel
+result=loss
+score=6-4

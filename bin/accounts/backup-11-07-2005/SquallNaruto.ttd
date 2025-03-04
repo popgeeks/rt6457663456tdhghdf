@@ -1,0 +1,46 @@
+[player]
+nickname=SquallNaruto
+password=rinoa
+email=philipp0016@gmx.de
+signup_date=10/3/2005
+playerID=2608
+status=regular
+referal=Leonhart
+Verify=1
+Last IP=84.60.150.63
+id=20
+IP=84.60.150.63
+adminstatus=off
+match=11-01-2005
+[Stats]
+Win=34
+Lost=39
+Draw=12
+Lame quits=1
+Newdecks=1
+Level=7
+Exp=1881
+Next=2154
+Streak=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=10-03-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 141648
+Versus=hybre
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=hybre
+result=win
+score=8-2
+[Warnings]
+Warns=1

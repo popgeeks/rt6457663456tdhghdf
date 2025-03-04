@@ -1,0 +1,57 @@
+[player]
+nickname=AdinsX
+password=vtcvega
+email=TwiztidJuggalo667@hotmail.com
+signup_date=7/19/2005
+playerID=1373
+status=regular
+referal=
+Verify=1
+Last IP=71.240.197.65
+id=162
+IP=71.240.197.65
+adminstatus=off
+match=03-30-2006
+Last Played=08-26-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+surname=starman
+[Stats]
+Win=110
+Lost=180
+Draw=71
+Lame quits=0
+GP=145
+Newdecks=9
+Level=11
+Exp=4830
+Next=4838
+AP=2931
+Streak=-2
+SoldCards=7
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-19-2005
+[AP]
+AAEXP=169
+honor=2
+PCT=10
+[Play]
+Playing=false
+GameID= 439968
+Versus=raptor
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=vjbakira
+result=loss
+score=18-2
+[Warnings]
+Warns=1

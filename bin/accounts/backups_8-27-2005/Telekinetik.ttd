@@ -1,0 +1,33 @@
+[player]
+nickname=Telekinetik
+password=859639345
+email=telekinetik@gmail.com
+signup_date=5/28/2005
+playerID=528
+status=regular
+referal=BOB
+Verify=1
+Last IP=82.42.96.16
+id=28
+IP=82.42.96.16
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=10
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

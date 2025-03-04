@@ -1,0 +1,40 @@
+[player]
+nickname=JadakissGSG9
+password=689847647
+email=ali_sakar@arcor.de
+signup_date=9/13/2005
+playerID=2262
+status=regular
+referal=Hisoka
+Verify=1
+Last IP=84.62.7.44
+id=16
+IP=84.62.7.44
+adminstatus=off
+match=09-13-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+[Newdecks]
+Last=09-13-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104779
+Versus=Blackwing
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=Blackwing
+result=draw
+score=5-5

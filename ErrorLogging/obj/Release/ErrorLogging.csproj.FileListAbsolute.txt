@@ -1,0 +1,14 @@
+Z:\Certification\Live Update 05\Server\ErrorLogging\bin\Release\ErrorLogging.dll
+Z:\Certification\Live Update 05\Server\ErrorLogging\bin\Release\ErrorLogging.pdb
+Z:\Certification\Live Update 05\Server\ErrorLogging\bin\Release\MySQLFactory.dll
+Z:\Certification\Live Update 05\Server\ErrorLogging\bin\Release\MySQLFactory.pdb
+Z:\Certification\Live Update 05\Server\ErrorLogging\obj\Release\ErrorLogging.csprojResolveAssemblyReference.cache
+Z:\Certification\Live Update 05\Server\ErrorLogging\obj\Release\ErrorLogging.dll
+Z:\Certification\Live Update 05\Server\ErrorLogging\obj\Release\ErrorLogging.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\bin\Release\ErrorLogging.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\bin\Release\ErrorLogging.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\bin\Release\MySQLFactory.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\bin\Release\MySQLFactory.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\obj\Release\ErrorLogging.csprojResolveAssemblyReference.cache
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\obj\Release\ErrorLogging.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\ErrorLogging\obj\Release\ErrorLogging.pdb

@@ -1,0 +1,43 @@
+[player]
+nickname=radb0d
+password=767838417
+email=radb0d@gmail.com
+signup_date=7/19/2005
+playerID=1367
+status=regular
+referal=
+Verify=1
+Last IP=80.116.187.69
+id=35
+IP=80.116.187.69
+adminstatus=off
+match=07-19-2005
+Last Played=07-19-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=10
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+AP=31
+[Newdecks]
+Last=07-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 60395
+Versus=GTMeteor
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=GTMeteor
+result=draw
+score=10-10

@@ -1,0 +1,111 @@
+[player]
+nickname=ColdArmy
+password=484701632
+email=xcure_my_tragedyx@yahoo.com
+signup_date=4/3/05
+playerID=85
+status=regular
+Verify=1
+Last IP=69.134.69.211
+id=24
+IP=69.134.69.211
+adminstatus=off
+Last Played=06-11-2005
+match=06-11-2005
+[Stats]
+Win=583
+Lost=576
+Draw=184
+Lame quits=27
+GP=350
+rank=2718
+Newdecks=1
+Level=26
+Exp=24811
+Next=25932
+Streak=-2
+Choices=1
+SoldCards=94
+AP=5683
+SBLost=2
+Wins=295
+[Newdecks]
+Last=04-03-2005
+[Totals]
+Level1=5
+Level2=7
+Level3=3
+Level4=7
+Level5=1
+Level6=4
+Level7=6
+Level8=0
+Level9=1
+Level10=0
+Total=0
+[cards]
+Gesper=0
+SAM08G=0
+Blood Soul=1
+Shumi Tribe=0
+GIM47N=0
+Belhelmel=0
+Wendigo=1
+PuPu=0
+Turtapod=1
+Thrustaevis=1
+Trauma=1
+Adamantoise=1
+Elnoyle=0
+Anacondaur=1
+Gargantua=1
+Vysage=1
+Imp=1
+Oilboyle=1
+Creeps=1
+Mesmerize=0
+Elvoret=1
+Ochu=1
+Iguion=1
+Jelleye=1
+Tiamat=1
+Blobra=1
+Red Giant=1
+BGH251F2=1
+Jumbo Cactuar=1
+Fastitocalon-F=1
+Tonberry King=1
+Glacial Eye=1
+Blue Dragon=1
+Cockatrice=1
+Grand Mantis=1
+Caterchipillar=1
+Mobile Type 8=1
+Cactuar=1
+Grendel=1
+Eden=1
+Abyss Worm=1
+Torama=1
+[AP]
+AAEXP=597
+PCT=30
+AAPOINTS=2
+TRAINED=2
+high=1
+[Play]
+Playing=false
+GameID= 31517
+Versus=Jimmy3000
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Jimmy3000
+result=loss
+score=16-6
+[Warnings]
+Kicks=6
+Warns=1

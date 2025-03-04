@@ -1,0 +1,43 @@
+[player]
+nickname=playakilla
+password=67631661
+email=james52688@hotmail.com
+signup_date=10/5/2005
+playerID=2649
+status=regular
+referal=
+Verify=1
+Last IP=207.255.212.76
+id=14
+IP=207.255.212.76
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=30
+Next=100
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 129249
+Versus=playajames
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=playajames
+result=loss
+score=8-2

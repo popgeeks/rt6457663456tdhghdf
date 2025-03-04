@@ -1,0 +1,44 @@
+[player]
+nickname=Pifu
+password=301711857
+email=steveharris1991@hotmail.com
+signup_date=7/20/2005
+playerID=1391
+status=regular
+referal=zell
+Verify=1
+Last IP=81.60.232.28
+id=5
+IP=81.60.232.28
+adminstatus=off
+match=07-20-2005
+Last Played=07-20-2005
+[Stats]
+Win=1
+Lost=2
+Draw=0
+Lame quits=0
+GP=35
+Newdecks=1
+Level=1
+Exp=25
+Next=100
+AP=145
+Streak=1
+[Newdecks]
+Last=07-20-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 62000
+Versus=MGdaGR8est
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=MGdaGR8est
+result=win
+score=6-4

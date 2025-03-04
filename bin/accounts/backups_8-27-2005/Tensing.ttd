@@ -1,0 +1,18 @@
+[player]
+nickname=Tensing
+password=838478564
+email=tensing14@gmail.com
+signup_date=8/6/2005
+playerID=1719
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-06-2005

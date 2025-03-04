@@ -1,0 +1,46 @@
+[player]
+nickname=ZelZanza
+password=753853320
+email=ZelZanza@gmail.com
+signup_date=7/9/2005
+playerID=1139
+status=regular
+referal=
+Verify=1
+Last IP=67.142.19.97
+id=59
+IP=67.142.19.97
+adminstatus=off
+match=08-04-2005
+Last Played=08-04-2005
+[Stats]
+Win=19
+Lost=31
+Draw=4
+Lame quits=0
+GP=722
+Newdecks=1
+Level=5
+Exp=863
+Next=1301
+AP=2090
+Streak=-3
+Choices=1
+[Newdecks]
+Last=07-09-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 78987
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Lucrecia
+result=loss
+score=15-5

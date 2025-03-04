@@ -1,0 +1,46 @@
+[player]
+nickname=asukaex
+password=828605531
+email=holy_knights_order@hotmail.com
+signup_date=3/13/05
+playerID=7
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=1
+Level4=4
+Level5=1
+Level6=2
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+SAM08G=1
+Blobra=1
+Blood Soul=1
+Torama=1
+Bomb=1
+Vysage=1
+Shumi Tribe=1
+Fujin, Raijin=1
+Buel=1
+Grendel=1
+Sphinxara=1
+Imp=1
+Iron Giant=1
+Gayla=1
+Tri-Point=1

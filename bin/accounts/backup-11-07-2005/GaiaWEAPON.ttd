@@ -1,0 +1,30 @@
+[player]
+nickname=GaiaWEAPON
+password=28980970
+email=peterlove20002003@yahoo.com
+signup_date=11/3/2005
+playerID=3122
+status=regular
+referal=123456789
+Verify=1
+Last IP=82.41.152.179
+id=2
+IP=82.41.152.179
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=11-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

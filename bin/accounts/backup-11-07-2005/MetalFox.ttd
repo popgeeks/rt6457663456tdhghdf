@@ -1,0 +1,46 @@
+[player]
+nickname=MetalFox
+password=634405016
+email=patrix5@vp.pl
+signup_date=6/13/2005
+playerID=690
+status=regular
+referal=
+Verify=1
+Last IP=83.17.58.2
+id=7
+IP=83.17.58.2
+adminstatus=off
+match=06-15-2005
+Last Played=06-15-2005
+[Stats]
+Win=7
+Lost=8
+Draw=3
+Lame quits=0
+GP=550
+rank=1169
+Newdecks=1
+Level=3
+Exp=443
+Next=476
+AP=664
+Streak=-2
+Choices=1
+[Newdecks]
+Last=06-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=ageos
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ageos
+result=loss
+score=8-2

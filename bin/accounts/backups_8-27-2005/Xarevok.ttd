@@ -1,0 +1,37 @@
+[player]
+nickname=Xarevok
+password=136632799
+email=pedroxarevok@hotmail.com
+signup_date=7/8/2005
+playerID=1111
+status=regular
+referal=Sir
+Verify=1
+Last IP=83.37.108.229
+id=44
+IP=83.37.108.229
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=16
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 51364
+Versus=Preditor
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

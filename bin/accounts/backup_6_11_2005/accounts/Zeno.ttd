@@ -1,0 +1,53 @@
+[player]
+nickname=Zeno
+password=plook
+email=Zeno_Bludgain@Hotmail.com
+signup_date=5/28/2005
+playerID=534
+status=regular
+referal=
+Verify=1
+Last IP=24.43.101.7
+id=32
+IP=24.43.101.7
+adminstatus=off
+Last Played=06-06-2005
+match=06-06-2005
+surname=carzy
+[Stats]
+Win=164
+Lost=182
+Draw=59
+Lame quits=2
+GP=45
+rank=1501
+Newdecks=29
+Level=17
+Exp=9789
+Next=11368
+AP=11863
+Streak=2
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=2
+SBWin=2
+[Newdecks]
+Last=06-03-2005
+[password]
+failed=0
+[AP]
+AAEXP=205
+honor=2
+PCT=20
+[Play]
+Playing=false
+GameID= 29408
+Versus=Russell101
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=Russell101
+result=win
+score=10-8

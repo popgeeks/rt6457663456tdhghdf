@@ -1,0 +1,20 @@
+[player]
+nickname=abood
+password=479464530
+email=abdallah-a13@hotmail.com
+signup_date=7/19/2005
+playerID=1369
+status=regular
+referal=abood
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-19-2005
+[password]
+failed=2

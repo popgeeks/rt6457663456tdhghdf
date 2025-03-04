@@ -1,0 +1,56 @@
+[player]
+nickname=juanosaudron
+password=cegadora8
+email=juanos_audron@btinternet.com
+signup_date=7/9/2005
+playerID=1146
+status=regular
+referal=diosantiguo
+Verify=1
+Last IP=200.65.13.231
+id=129
+IP=200.65.13.231
+adminstatus=off
+match=10-02-2005
+Last Played=08-17-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+surname=guapo
+[Stats]
+Win=60
+Lost=136
+Draw=46
+Lame quits=1
+GP=0
+Newdecks=5
+Level=11
+Exp=4051
+Next=4838
+AP=6855
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=07-16-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=2
+[Play]
+Playing=false
+GameID= 119233
+Versus=PizzaTheHut
+Iam=1
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=PizzaTheHut
+result=loss
+score=13-7
+[Warnings]
+Kicks=1

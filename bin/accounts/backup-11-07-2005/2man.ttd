@@ -1,0 +1,35 @@
+[player]
+nickname=2man
+password=428541063
+email=jkaraflas@yahoo.com
+signup_date=10/24/2005
+playerID=3000
+status=regular
+referal=2manidis
+Verify=1
+Last IP=212.89.182.231
+id=37
+IP=212.89.182.231
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=1
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 136019
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT

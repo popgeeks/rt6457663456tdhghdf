@@ -1,0 +1,46 @@
+[player]
+nickname=zeusmorphase
+password=735457717
+email=ditano4@hotmail.com
+signup_date=6/25/2005
+playerID=835
+status=regular
+referal=zeusmorphase
+Verify=1
+Last IP=82.51.26.241
+id=29
+IP=82.51.26.241
+adminstatus=off
+match=06-25-2005
+Last Played=06-25-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=12
+rank=1500
+Newdecks=1
+Level=1
+Exp=30
+Next=100
+AP=62
+SBWin=1
+Streak=1
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 41080
+Versus=CloudStrife
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=CloudStrife
+result=win
+score=1-0

@@ -1,0 +1,17 @@
+[player]
+nickname=andres
+password=179410576
+email=andre507@hot.ee
+signup_date=10/27/2005
+playerID=3046
+status=regular
+referal=andres
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-27-2005

@@ -1,0 +1,30 @@
+[player]
+nickname=manino90
+password=414103507
+email=gorka90@mixmail.com
+signup_date=10/14/2005
+playerID=2837
+status=regular
+referal=manino90
+Verify=1
+Last IP=81.36.38.212
+id=30
+IP=81.36.38.212
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

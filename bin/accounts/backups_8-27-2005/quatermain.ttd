@@ -1,0 +1,44 @@
+[player]
+nickname=quatermain
+password=326142787
+email=allanbriffa@hotmail.com
+signup_date=7/2/2005
+playerID=973
+status=regular
+referal=
+Verify=1
+Last IP=195.158.85.77
+id=25
+IP=195.158.85.77
+adminstatus=off
+match=07-02-2005
+Last Played=07-02-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=9
+Streak=1
+[Newdecks]
+Last=07-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 46752
+Versus=Kevin8523
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Kevin8523
+result=loss
+score=9-1

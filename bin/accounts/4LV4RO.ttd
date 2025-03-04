@@ -1,0 +1,42 @@
+[player]
+nickname=4LV4RO
+password=z93bdhxef
+email=alvaro.shiokawa@gmail.com
+signup_date=10/23/2005
+playerID=2988
+status=regular
+referal=
+Verify=1
+Last IP=200.158.77.105
+id=50
+IP=200.158.77.105
+adminstatus=off
+match=10-23-2005
+[Stats]
+Win=0
+Lost=1
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=11
+Next=100
+SBLost=1
+Streak=1
+[Newdecks]
+Last=10-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 135219
+Versus=neowarrior12
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=neowarrior12
+result=loss
+score=8-7

@@ -1,0 +1,32 @@
+[player]
+nickname=celld
+password=344408571
+email=celld@supereva.it
+signup_date=6/27/2005
+playerID=879
+status=regular
+referal=tidus86
+Verify=1
+Last IP=82.49.162.249
+id=28
+IP=82.49.162.249
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=33
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

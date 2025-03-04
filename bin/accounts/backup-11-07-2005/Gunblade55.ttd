@@ -1,0 +1,46 @@
+[player]
+nickname=Gunblade55
+password=658290385
+email=guzek4@adelphia.net
+signup_date=6/7/2005
+playerID=645
+status=regular
+referal=
+Verify=1
+Last IP=67.23.146.238
+id=26
+IP=67.23.146.238
+adminstatus=off
+match=06-08-2005
+Last Played=06-08-2005
+[Stats]
+Win=2
+Lost=4
+Draw=0
+Lame quits=0
+GP=190
+rank=1350
+Newdecks=1
+Level=2
+Exp=157
+Next=248
+AP=234
+Streak=-1
+Choices=1
+[Newdecks]
+Last=06-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 30270
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=loss
+score=17-3

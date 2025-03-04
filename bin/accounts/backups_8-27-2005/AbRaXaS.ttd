@@ -1,0 +1,89 @@
+[player]
+nickname=AbRaXaS
+password=60112953
+email=XellDincht999@t-online.de
+signup_date=3/16/05
+playerID=22
+status=regular
+Verify=1
+Last IP=80.133.83.4
+id=39
+IP=80.133.83.4
+adminstatus=off
+Last Played=07-17-2005
+match=07-17-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=71
+Lost=49
+Draw=18
+Lame quits=0
+GP=78
+rank=1487
+Newdecks=15
+Level=8
+Exp=2288
+Next=2698
+Streak=3
+Choices=1
+Wins=26
+AP=3474
+SoldCards=0
+cardsgiven=0
+SBLost=5
+SBWin=3
+SBDraw=1
+[Newdecks]
+Last=06-30-2005
+[Totals]
+Level1=2
+Level2=2
+Level3=2
+Level4=4
+Level5=1
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Thrustaevis=1
+Blood Soul=0
+Death Claw=1
+Turtapod=1
+Shumi Tribe=1
+Trauma=1
+Gayla=1
+Sphinxara=0
+Ultima Weapon=0
+Fujin, Raijin=0
+Wendigo=1
+PuPu=1
+Blobra=1
+Fastitocalon=1
+Blitz=1
+Tri-Point=1
+Elvoret=1
+Creeps=1
+Bomb=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 58499
+Versus=Gilgamesh
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Gilgamesh
+result=win
+score=50-44

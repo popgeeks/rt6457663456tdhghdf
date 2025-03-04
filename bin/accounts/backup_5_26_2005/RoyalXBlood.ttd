@@ -1,0 +1,57 @@
+[player]
+nickname=RoyalXBlood
+password=611251711
+email=royal_x_blood@yahoo.com
+signup_date=3/31/05
+playerID=74
+status=regular
+Verify=1
+Last IP=69.134.69.211
+id=10
+IP=69.134.69.211
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=03-31-2005
+[Totals]
+Level1=5
+Level2=4
+Level3=0
+Level4=2
+Level5=0
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Gayla=3
+Granaldo=1
+Elvoret=1
+Caterchipillar=1
+Buel=1
+Vysage=2
+Oilboyle=1
+Thrustaevis=1
+Shumi Tribe=1
+Glacial Eye=1
+Red Bat=1
+Grat=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=1

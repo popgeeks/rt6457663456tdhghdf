@@ -1,0 +1,41 @@
+[player]
+nickname=Lightyellow
+password=259445070
+email=canary_yellow0076@hotmail.com
+signup_date=11/1/2005
+playerID=3108
+status=regular
+referal=
+Verify=1
+Last IP=172.213.133.120
+id=16
+IP=172.213.133.120
+adminstatus=off
+match=11-03-2005
+[Stats]
+Win=6
+Lost=19
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=504
+Next=836
+Streak=-1
+[Newdecks]
+Last=11-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 142882
+Versus=Alvaro
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alvaro
+result=loss
+score=12-8

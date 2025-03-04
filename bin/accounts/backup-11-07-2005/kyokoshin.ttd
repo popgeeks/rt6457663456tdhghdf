@@ -1,0 +1,30 @@
+[player]
+nickname=kyokoshin
+password=779083728
+email=dan_baldino@yahoo.com
+signup_date=10/15/2005
+playerID=2861
+status=regular
+referal=scotty1
+Verify=1
+Last IP=67.169.216.70
+id=4
+IP=67.169.216.70
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-15-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

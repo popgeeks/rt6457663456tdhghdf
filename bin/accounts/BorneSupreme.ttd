@@ -1,0 +1,63 @@
+[player]
+nickname=BorneSupreme
+password=lcfclcfc
+email=jamesdf37@hotmail.com
+signup_date=5/20/2005
+playerID=433
+status=regular
+referal=
+Verify=1
+Last IP=84.67.158.134
+id=20
+IP=84.67.158.134
+adminstatus=off
+match=04-24-2006
+Last Played=08-26-2005
+surname=space
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=708
+Lost=220
+Draw=175
+Lame quits=6
+GP=8969
+rank=2353
+Newdecks=9
+Level=18
+Exp=11643
+Next=12718
+AP=25845
+SoldCards=92
+cardsgiven=0
+Streak=3
+Choices=1
+SBWin=3
+SBLost=5
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=1160
+honor=2
+PCT=80
+AAPOINTS=0
+TRAINED=6
+darky's=3
+[Play]
+Playing=false
+GameID= 498464
+Versus=Endevour
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=PaKeLiKa
+result=draw
+score=5-5
+[Warnings]
+Kicks=1

@@ -1,0 +1,46 @@
+[player]
+nickname=Lezard
+password=319427013
+email=randychallini@yahoo.com
+signup_date=11/4/2005
+playerID=3152
+status=regular
+referal=
+Verify=1
+Last IP=209.51.89.198
+id=58
+IP=209.51.89.198
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=147
+Lost=138
+Draw=87
+Lame quits=2
+Newdecks=1
+Level=11
+Exp=4083
+Next=4838
+Streak=-2
+SBLost=1
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146759
+Versus=Quicksilver
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Quicksilver
+result=draw
+score=5-5
+[Warnings]
+Warns=1
+Kicks=1

@@ -1,0 +1,52 @@
+[player]
+nickname=mystery323x
+password=324713706
+email=mystery323x@aol.com
+signup_date=6/22/2005
+playerID=814
+status=regular
+referal=
+Verify=1
+Last IP=70.105.197.190
+id=24
+IP=70.105.197.190
+adminstatus=off
+Last Played=07-03-2005
+match=07-03-2005
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=17
+Lost=18
+Draw=8
+Lame quits=1
+GP=84
+rank=1613
+Newdecks=21
+Level=3
+Exp=313
+Next=476
+AP=351
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 47845
+Versus=Konvict
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Konvict
+result=win
+score=12-8

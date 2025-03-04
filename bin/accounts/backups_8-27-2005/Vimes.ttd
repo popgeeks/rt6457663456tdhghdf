@@ -1,0 +1,48 @@
+[player]
+nickname=Vimes
+password=shadow
+email=tavendale@gmail.com
+signup_date=4/18/05
+playerID=161
+status=regular
+referal=
+Verify=1
+Last IP=82.40.96.145
+id=25
+IP=82.40.96.145
+adminstatus=off
+match=06-21-2005
+Last Played=06-21-2005
+[Stats]
+Win=21
+Lost=28
+Draw=6
+Lame quits=0
+GP=123
+rank=1475
+Newdecks=1
+Level=5
+Exp=1264
+Next=1301
+Streak=-1
+Choices=1
+Wins=20
+AP=64
+[Newdecks]
+Last=04-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 38395
+Versus=Willyham
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Willyham
+result=loss
+score=17-5

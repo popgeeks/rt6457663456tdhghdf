@@ -1,0 +1,46 @@
+[player]
+nickname=Ejecution
+password=931187628
+email=VamperJarod@msn.com
+signup_date=7/8/2005
+playerID=1124
+status=regular
+referal=
+Verify=1
+Last IP=83.45.64.30
+id=140
+IP=83.45.64.30
+adminstatus=off
+match=10-10-2005
+Last Played=08-13-2005
+[Stats]
+Win=29
+Lost=68
+Draw=16
+Lame quits=2
+GP=1628
+Newdecks=1
+Level=8
+Exp=2265
+Next=2698
+AP=3378
+Streak=-2
+Choices=1
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 125563
+Versus=shnyder21
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=shnyder21
+result=loss
+score=11-9

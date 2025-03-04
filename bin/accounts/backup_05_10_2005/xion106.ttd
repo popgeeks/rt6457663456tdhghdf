@@ -1,0 +1,49 @@
+[player]
+nickname=xion106
+password=games7
+email=Secondstar559271@aol.com
+signup_date=5/2/2005
+playerID=261
+status=regular
+referal=darklumina
+Verify=1
+Last IP=172.202.178.164
+id=16
+IP=172.202.178.164
+adminstatus=off
+match=05-10-2005
+Last Played=05-10-2005
+[Stats]
+Win=16
+Lost=56
+Draw=11
+Lame quits=9
+GP=63
+rank=907
+Newdecks=1
+Level=6
+Exp=1529
+Next=1727
+Streak=-3
+Choices=1
+[Newdecks]
+Last=05-02-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 14478
+Versus=Shoxxx
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=14-6
+[Warnings]
+Kicks=4
+Warns=1

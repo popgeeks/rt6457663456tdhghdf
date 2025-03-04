@@ -1,0 +1,43 @@
+[player]
+nickname=Magit3k
+password=647281228
+email=Rorec.x@gmail.com
+signup_date=10/4/2005
+playerID=2618
+status=regular
+referal=
+Verify=1
+Last IP=24.177.38.76
+id=47
+IP=24.177.38.76
+adminstatus=off
+match=10-04-2005
+[Stats]
+Win=1
+Lost=7
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=2
+Exp=120
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=-6
+[Newdecks]
+Last=10-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 120069
+Versus=Jimmy3000
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=loss
+score=12-8

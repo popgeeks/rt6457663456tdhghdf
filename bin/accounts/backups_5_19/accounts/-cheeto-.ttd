@@ -1,0 +1,74 @@
+[player]
+nickname=-cheeto-
+password=jtc123
+email=xcheetox16@yahoo.com
+signup_date=3/16/05
+playerID=23
+status=regular
+Verify=1
+Last IP=24.250.193.101
+id=9
+IP=24.250.193.101
+adminstatus=off
+Last Played=03-27-2005
+guildinvite=
+guildinvite_name=
+guild=Dark Creation
+guildmaster=3
+[Stats]
+Win=7
+Lost=5
+Draw=5
+Lame quits=1
+GP=170
+rank=1202
+Newdecks=1
+Level=2
+Exp=207
+Next=248
+Streak=-1
+Choices=1
+Wins=7
+[Newdecks]
+Last=03-16-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=3
+Level4=1
+Level5=2
+Level6=4
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Glacial Eye=2
+Blitz=1
+Chimera=2
+Tonberry=1
+Elvoret=2
+Blood Soul=1
+Grat=0
+Fastitocalon=1
+Buel=1
+Shumi Tribe=1
+Tri-Face=1
+Iguion=1
+Jumbo Cactuar=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 1527
+Versus=esthar-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=esthar-bot
+result=loss
+score=9-1

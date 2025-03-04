@@ -1,0 +1,24 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=115
+match=06-16-2006
+[Play]
+Playing=false
+GameID= 612400
+Versus=Lee768
+Iam=1
+[Stats]
+Level=6
+Exp=1333
+Next=1727
+Streak=-2
+[Games]
+Playing=OTT
+[game]
+opponent=blackcat
+result=loss
+score=14-6
+[Warnings]
+Kicks=1

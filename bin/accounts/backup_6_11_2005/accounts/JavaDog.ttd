@@ -1,0 +1,51 @@
+[player]
+nickname=JavaDog
+password=meatloaf5
+email=JavaDog@Gmail.com
+signup_date=6/7/2005
+playerID=646
+status=regular
+referal=Rith
+Verify=1
+Last IP=68.14.168.187
+id=8
+IP=68.14.168.187
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+[Stats]
+Win=20
+Lost=38
+Draw=17
+Lame quits=0
+GP=191
+rank=1257
+Newdecks=11
+Level=5
+Exp=1018
+Next=1301
+AP=26
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=4
+SBDraw=1
+[Newdecks]
+Last=06-08-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 31545
+Versus=kidlover1
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=kidlover1
+result=draw
+score=5-5

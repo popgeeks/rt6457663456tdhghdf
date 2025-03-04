@@ -1,0 +1,51 @@
+[player]
+nickname=Beastay
+password=taxied99
+email=bladejohnst@hotmail.com
+signup_date=7/7/2005
+playerID=1100
+status=regular
+referal=BloodLust
+Verify=1
+Last IP=84.69.79.140
+id=132
+IP=84.69.79.140
+adminstatus=off
+match=02-09-2006
+Last Played=07-16-2005
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=10
+Lost=7
+Draw=6
+Lame quits=0
+GP=425
+Newdecks=5
+Level=9
+Exp=2855
+Next=3346
+AP=600
+SoldCards=0
+cardsgiven=0
+Streak=2
+Choices=1
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 336729
+Versus=freamy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Awatts18
+result=draw
+score=5-5

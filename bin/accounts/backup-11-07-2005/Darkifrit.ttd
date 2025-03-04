@@ -1,0 +1,17 @@
+[player]
+nickname=Darkifrit
+password=809556960
+email=Basketball_blitz@hotmail.com
+signup_date=10/26/2005
+playerID=3019
+status=regular
+referal=DAMAN
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-26-2005

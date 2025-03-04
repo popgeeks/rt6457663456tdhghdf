@@ -1,0 +1,57 @@
+[player]
+nickname=xzellx
+password=simpsons
+email=partyboy691@hotmail.com
+signup_date=6/12/2005
+playerID=685
+status=regular
+referal=
+Verify=1
+Last IP=82.37.0.95
+id=43
+IP=82.37.0.95
+adminstatus=off
+match=08-01-2005
+Last Played=08-01-2005
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+surname=(cardmaster)
+[Stats]
+Win=219
+Lost=304
+Draw=133
+Lame quits=2
+GP=174
+rank=2265
+Newdecks=13
+Level=16
+Exp=9161
+Next=9651
+AP=68
+Streak=-2
+SoldCards=2
+cardsgiven=0
+Choices=1
+SBLost=2
+[Newdecks]
+Last=06-13-2005
+[AP]
+AAEXP=1423
+honor=2
+PCT=30
+[Play]
+Playing=false
+GameID= 75441
+Versus=pharoah
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=pharoah
+result=draw
+score=5-5

@@ -1,0 +1,44 @@
+[player]
+nickname=muteking
+password=complimenti
+email=reyzambo2@hotmail.com
+signup_date=9/26/2005
+playerID=2498
+status=regular
+referal=reyzambo
+Verify=1
+Last IP=62.211.181.87
+id=118
+IP=62.211.181.87
+adminstatus=off
+match=09-28-2005
+[Stats]
+Win=36
+Lost=45
+Draw=17
+Lame quits=0
+Newdecks=5
+Level=8
+Exp=2318
+Next=2698
+Streak=-3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 115860
+Versus=sefiroth
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sefiroth
+result=loss
+score=13-7

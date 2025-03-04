@@ -1,0 +1,46 @@
+[player]
+nickname=Mindorf
+password=paddy
+email=russellmowatt_999@hotmail.com
+signup_date=6/25/2005
+playerID=834
+status=regular
+referal=
+Verify=1
+Last IP=86.128.66.21
+id=30
+IP=86.128.66.21
+adminstatus=off
+Last Played=06-26-2005
+match=06-26-2005
+[Stats]
+Win=12
+Lost=16
+Draw=3
+Lame quits=0
+GP=883
+rank=1456
+Newdecks=1
+Level=4
+Exp=580
+Next=836
+AP=913
+Streak=1
+Choices=1
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 41572
+Versus=phace
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phace
+result=win
+score=6-4

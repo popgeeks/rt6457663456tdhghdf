@@ -1,0 +1,49 @@
+[player]
+nickname=pushmeaway
+password=14d10b88
+email=yin_yang05@hotmail.com
+signup_date=4/30/2005
+playerID=230
+status=regular
+referal=
+Verify=1
+Last IP=172.203.66.190
+id=35
+IP=172.203.66.190
+adminstatus=off
+match=05-25-2005
+Last Played=05-25-2005
+[Stats]
+Win=14
+Lost=15
+Draw=9
+Lame quits=3
+GP=1420
+rank=979
+Newdecks=1
+Level=5
+Exp=1018
+Next=1301
+Streak=-1
+Choices=1
+Wins=9
+AP=381
+SBLost=2
+[Newdecks]
+Last=04-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 21983
+Versus=Thanatos
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Thanatos
+result=draw
+score=10-10

@@ -1,0 +1,38 @@
+[player]
+nickname=totoreto
+password=760748326
+email=brith_sergio@hotmail.com
+signup_date=6/14/2005
+playerID=703
+status=regular
+referal=totoretito
+Verify=1
+Last IP=200.124.25.202
+id=30
+IP=200.124.25.202
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=15
+[Newdecks]
+Last=06-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 33128
+Versus=DarKgLorY
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT

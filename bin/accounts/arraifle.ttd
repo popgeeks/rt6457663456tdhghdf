@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=132
+match=02-10-2006
+[Play]
+Playing=true
+GameID= 342468
+Versus=SS4Sephiroth
+Iam=1
+[Stats]
+Level=4
+Exp=832
+Next=836
+Streak=-1
+[Games]
+Playing=OTT
+[game]
+opponent=coldhearts
+result=loss
+score=12-8

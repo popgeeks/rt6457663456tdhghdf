@@ -1,0 +1,47 @@
+[player]
+nickname=Leonheart
+password=16121989
+email=rolespain@gmail.com
+signup_date=9/14/2005
+playerID=2283
+status=regular
+referal=
+Verify=1
+Last IP=81.184.24.124
+id=77
+IP=81.184.24.124
+adminstatus=off
+match=10-30-2005
+[Stats]
+Win=80
+Lost=93
+Draw=24
+Lame quits=0
+Newdecks=3
+Level=10
+Exp=3362
+Next=3936
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+SBWin=1
+[Newdecks]
+Last=09-14-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 140443
+Versus=trippensmurf
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=trippensmurf
+result=win
+score=14-6

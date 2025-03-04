@@ -1,0 +1,42 @@
+[player]
+nickname=wizard
+password=1556932
+email=the.ruly@gmail.com
+signup_date=11/4/2005
+playerID=3136
+status=regular
+referal=barcelona
+Verify=1
+Last IP=62.117.173.234
+id=33
+IP=62.117.173.234
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=13
+Lost=16
+Draw=5
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=735
+Next=836
+Streak=-2
+SBLost=1
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146667
+Versus=Andrew
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Andrew
+result=draw
+score=10-10

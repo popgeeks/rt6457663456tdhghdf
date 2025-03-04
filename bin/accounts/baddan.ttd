@@ -1,0 +1,45 @@
+[player]
+nickname=baddan
+password=892103432
+email=aushulz@yahoo.it
+signup_date=7/23/2005
+playerID=1437
+status=regular
+referal=
+Verify=1
+Last IP=82.59.134.176
+id=75
+IP=82.59.134.176
+adminstatus=off
+match=07-25-2005
+Last Played=07-25-2005
+[Stats]
+Win=4
+Lost=3
+Draw=2
+Lame quits=1
+GP=247
+Newdecks=1
+Level=2
+Exp=140
+Next=248
+AP=358
+Streak=1
+Choices=1
+[Newdecks]
+Last=07-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 67563
+Versus=Alex8905
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=WolfBenW
+result=win
+score=14-6

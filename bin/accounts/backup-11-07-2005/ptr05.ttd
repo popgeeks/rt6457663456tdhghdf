@@ -1,0 +1,55 @@
+[player]
+nickname=ptr05
+password=boko
+email=p_c_onions@hotmail.com
+signup_date=9/15/2005
+playerID=2295
+status=regular
+referal=
+Verify=1
+Last IP=81.153.53.153
+id=6
+IP=81.153.53.153
+adminstatus=off
+match=10-08-2005
+guildinvite=
+guildinvite_name=
+guild=Sephiroth Clones
+guildmaster=3
+[Stats]
+Win=85
+Lost=158
+Draw=56
+Lame quits=2
+Newdecks=13
+Level=11
+Exp=4158
+Next=4838
+Streak=-2
+SoldCards=1
+cardsgiven=0
+Choices=1
+SBLost=1
+[Newdecks]
+Last=09-18-2005
+[AP]
+AAEXP=50
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 123045
+Versus=phreakazoid
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=phreakazoid
+result=loss
+score=13-7
+[Warnings]
+Warns=2
+Kicks=1

@@ -1,0 +1,47 @@
+[player]
+nickname=Cassy
+password=graal
+email=CassyTAW@gmail.com
+signup_date=4/19/05
+playerID=166
+status=regular
+referal=
+Verify=1
+Last IP=129.219.6.205
+id=4
+IP=129.219.6.205
+adminstatus=off
+Last Played=04-27-2005
+match=04-27-2005
+[Stats]
+Win=19
+Lost=31
+Draw=10
+Lame quits=3
+GP=1742
+rank=1149
+Newdecks=1
+Level=5
+Exp=885
+Next=1301
+Streak=-8
+Choices=1
+[Newdecks]
+Last=04-19-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 8687
+Versus=Irvine
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=JamesFate
+result=loss
+score=7-3

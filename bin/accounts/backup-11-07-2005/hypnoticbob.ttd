@@ -1,0 +1,44 @@
+[player]
+nickname=hypnoticbob
+password=000000
+email=hypnoticbob@netscape.net
+signup_date=10/30/2005
+playerID=3092
+status=regular
+referal=
+Verify=1
+Last IP=68.228.219.199
+id=17
+IP=68.228.219.199
+adminstatus=off
+match=11-04-2005
+[Stats]
+Win=18
+Lost=21
+Draw=4
+Lame quits=0
+Newdecks=5
+Level=4
+Exp=586
+Next=836
+Streak=1
+SoldCards=0
+cardsgiven=0
+SBLost=2
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 143601
+Versus=amwhitehead
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=amwhitehead
+result=win
+score=7-3

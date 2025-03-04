@@ -1,0 +1,23 @@
+[AP]
+AAEXP=0
+[player]
+id=5
+guildinvite=
+guildinvite_name=
+match=11-23-2005
+[Play]
+Playing=false
+GameID= 156474
+Versus=pted
+Iam=1
+[Stats]
+Level=2
+Exp=213
+Next=248
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=pted
+result=win
+score=9-1

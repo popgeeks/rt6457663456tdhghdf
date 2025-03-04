@@ -1,0 +1,41 @@
+[player]
+nickname=Alaka
+password=650492190
+email=alakazamhp@yahoo.com.br
+signup_date=9/9/2005
+playerID=2193
+status=regular
+referal=
+Verify=1
+Last IP=201.26.31.95
+id=40
+IP=201.26.31.95
+adminstatus=off
+match=09-09-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102186
+Versus=Darksol
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Darksol
+result=loss
+score=7-3

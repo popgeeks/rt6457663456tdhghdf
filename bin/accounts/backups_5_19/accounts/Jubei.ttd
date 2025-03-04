@@ -1,0 +1,72 @@
+[player]
+nickname=Jubei
+password=hajime
+email=sjc4ever03@hotmail.com
+signup_date=3/26/05
+playerID=57
+status=regular
+Verify=1
+Last IP=24.19.185.73
+id=23
+IP=24.19.185.73
+adminstatus=off
+Last Played=05-17-2005
+match=05-17-2005
+[Stats]
+Win=5
+Lost=10
+Draw=1
+Lame quits=0
+GP=423
+rank=1311
+Newdecks=1
+Level=3
+Exp=370
+Next=476
+Streak=-1
+Choices=1
+Wins=2
+AP=510
+[Newdecks]
+Last=03-26-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=3
+Level4=2
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Behemoth=0
+Grendel=2
+Tonberry King=1
+SAM08G=2
+Armadodo=1
+Bite Bug=1
+Oilboyle=0
+Blitz=1
+Mesmerize=0
+Creeps=1
+T-Rexaur=1
+Abadon=1
+Fujin, Raijin=1
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17859
+Versus=Alliance
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=Alliance
+result=loss
+score=7-3

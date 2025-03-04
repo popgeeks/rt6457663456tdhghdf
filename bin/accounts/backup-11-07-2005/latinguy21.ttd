@@ -1,0 +1,19 @@
+[player]
+nickname=latinguy21
+password=641711651
+email=soccer23rules2004@yahho.com
+signup_date=10/21/2005
+playerID=2957
+status=regular
+referal=soccer
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-21-2005
+[password]
+failed=1

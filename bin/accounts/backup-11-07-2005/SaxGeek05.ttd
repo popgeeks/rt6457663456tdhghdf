@@ -1,0 +1,20 @@
+[player]
+nickname=SaxGeek05
+password=5319654
+email=skm1226@earthlink.net
+signup_date=8/27/2005
+playerID=2025
+status=regular
+referal=Corey
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-27-2005
+[password]
+failed=7

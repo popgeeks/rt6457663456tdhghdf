@@ -1,0 +1,44 @@
+[player]
+nickname=HipHopHater
+password=12345678
+email=marius_muffin@web.de
+signup_date=10/6/2005
+playerID=2675
+status=regular
+referal=Pokey
+Verify=1
+Last IP=84.154.200.16
+id=24
+IP=84.154.200.16
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=14
+Lost=26
+Draw=4
+Lame quits=0
+Newdecks=9
+Level=3
+Exp=370
+Next=476
+Streak=-11
+SBLost=2
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 122115
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=squll-typo
+result=loss
+score=14-5

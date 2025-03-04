@@ -1,0 +1,58 @@
+[player]
+nickname=collimat
+password=404711484
+email=mattsdvds@hotmail.com
+signup_date=4/5/05
+playerID=96
+status=regular
+Verify=1
+Last IP=68.118.73.196
+id=13
+IP=68.118.73.196
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-05-2005
+[Totals]
+Level1=4
+Level2=5
+Level3=1
+Level4=1
+Level5=0
+Level6=2
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blood Soul=1
+Gargantua=1
+Buel=2
+Fastitocalon-F=1
+Wendigo=1
+Tiamat=1
+Thrustaevis=1
+Gayla=1
+Grendel=1
+Red Bat=1
+Oilboyle=1
+Glacial Eye=1
+Ochu=1
+Elvoret=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

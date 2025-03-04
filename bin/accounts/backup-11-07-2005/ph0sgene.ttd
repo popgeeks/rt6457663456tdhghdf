@@ -1,0 +1,30 @@
+[player]
+nickname=ph0sgene
+password=877354084
+email=sit_thomas@hotmail.com
+signup_date=9/21/2005
+playerID=2392
+status=regular
+referal=
+Verify=1
+Last IP=24.84.233.91
+id=10
+IP=24.84.233.91
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

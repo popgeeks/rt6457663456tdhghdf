@@ -1,0 +1,33 @@
+[player]
+nickname=leemachine
+password=296681761
+email=leeodyssey15@yahoo.com
+signup_date=6/20/2005
+playerID=773
+status=regular
+referal=
+Verify=1
+Last IP=210.213.199.166
+id=33
+IP=210.213.199.166
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=4
+[Newdecks]
+Last=06-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

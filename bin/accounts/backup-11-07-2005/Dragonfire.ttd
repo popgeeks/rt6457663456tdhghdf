@@ -1,0 +1,44 @@
+[player]
+nickname=Dragonfire
+password=63807725
+email=davido@1st.net
+signup_date=8/6/2005
+playerID=1722
+status=regular
+referal=
+Verify=1
+Last IP=161.38.222.14
+id=118
+IP=161.38.222.14
+adminstatus=off
+match=09-01-2005
+Last Played=08-08-2005
+[Stats]
+Win=4
+Lost=3
+Draw=4
+Lame quits=0
+GP=10
+Newdecks=1
+Level=2
+Exp=153
+Next=248
+AP=94
+Streak=3
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 96563
+Versus=utherbr
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=utherbr
+result=draw
+score=5-5

@@ -1,0 +1,51 @@
+[player]
+nickname=retard
+password=407363235
+email=thenoobinthegame@hotmail.com
+signup_date=7/5/2005
+playerID=1038
+status=regular
+referal=
+Verify=1
+Last IP=81.82.95.191
+id=26
+IP=81.82.95.191
+adminstatus=off
+match=07-26-2005
+Last Played=07-26-2005
+[Stats]
+Win=1
+Lost=6
+Draw=0
+Lame quits=0
+GP=170
+Newdecks=9
+Level=2
+Exp=132
+Next=248
+AP=261
+Streak=-5
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 68654
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Lucrecia
+result=loss
+score=12-8
+[Warnings]
+Warns=1
+Kicks=1

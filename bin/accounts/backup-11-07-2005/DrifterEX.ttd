@@ -1,0 +1,41 @@
+[player]
+nickname=DrifterEX
+password=633741616
+email=ssjgoten89@hotmail.com
+signup_date=9/10/2005
+playerID=2198
+status=regular
+referal=
+Verify=1
+Last IP=66.126.231.52
+id=40
+IP=66.126.231.52
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=1
+Lost=6
+Draw=4
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=55
+Next=100
+Streak=1
+[Newdecks]
+Last=09-10-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102692
+Versus=cardking
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=cardking
+result=win
+score=9-1

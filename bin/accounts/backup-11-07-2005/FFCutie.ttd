@@ -1,0 +1,57 @@
+[player]
+nickname=FFCutie
+password=77r244
+email=ffcutie@hotmail.com
+signup_date=8/22/2005
+playerID=1941
+status=regular
+referal=
+Verify=1
+Last IP=172.216.195.224
+id=79
+IP=172.216.195.224
+adminstatus=off
+match=10-27-2005
+Last Played=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=
+guildmaster=
+surname=pendragon
+[Stats]
+Win=203
+Lost=196
+Draw=75
+Lame quits=1
+GP=849
+Newdecks=3
+Level=14
+Exp=6786
+Next=7520
+AP=971
+Streak=1
+SoldCards=10
+cardsgiven=0
+Choices=1
+SBLost=3
+SBWin=2
+[Newdecks]
+Last=08-22-2005
+[AP]
+AAEXP=260
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 138266
+Versus=hybre
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=hybre
+result=win
+score=12-8

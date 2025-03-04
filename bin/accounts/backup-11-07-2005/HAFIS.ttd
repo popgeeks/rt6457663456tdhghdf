@@ -1,0 +1,18 @@
+[player]
+nickname=HAFIS
+password=229836582
+email=BULLDOG_006@HOTMAIL.COM
+signup_date=7/11/2005
+playerID=1183
+status=regular
+referal=HAFIS
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-11-2005

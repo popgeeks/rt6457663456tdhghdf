@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="DarkWind_Server.exe" version="2.1.0.3" publicKeyToken="64b620ef14f6e037" language="en" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Icons\DarkWind_Server.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DarkWind_Server" version="2.1.1004.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="DarkWind_Server.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.InetCtlsObjects.dll" size="9728">
+      <assemblyIdentity name="AxInterop.InetCtlsObjects" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>m45YJj+4iLDBlHfMtnC2/dbazJk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.MSWinsockLib.dll" size="12288">
+      <assemblyIdentity name="AxInterop.MSWinsockLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>DwOVGccsQuJfLHVI9jHxSAPvSD4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxWinsockArray.dll" size="11776">
+      <assemblyIdentity name="AxWinsockArray" version="1.0.2149.42728" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dn3ANkEKMt+wFaFAYW18KFblyt0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DarkWind_Server.exe" size="782336">
+      <assemblyIdentity name="DarkWind_Server" version="2.1.1004.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>TC4KwfIg9Q3rU7I2MLUGgUnywXY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.DAO.dll" size="65536">
+      <assemblyIdentity name="Interop.DAO" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jmdL4pwfSrDv84nq3/BW9eQL37E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.InetCtlsObjects.dll" size="14848">
+      <assemblyIdentity name="Interop.InetCtlsObjects" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>BLMv4rYM8bIvujwa8sV2k/9dYkc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.MSWinsockLib.dll" size="16384">
+      <assemblyIdentity name="Interop.MSWinsockLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ACKfgtCA8/s0y1aCuHqqSrQU3kM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MSDATASRC.dll" size="13312">
+      <assemblyIdentity name="MSDATASRC" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>o54mf04VNPgTjTAAudlxK/+RTCQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="266240">
+      <assemblyIdentity name="MySql.Data" version="5.0.7.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>U2/Tfz9tEiXXyv+sDYRwE4yVdtM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySqlDBHelper.dll" size="10752">
+      <assemblyIdentity name="MySqlDBHelper" version="1.0.0.17" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>AZ/7MZkRsYy1Q4AhzMRyCsXSxGI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="16384">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>4LeDsR7hwDDHM5cg+XRu7/OhgwM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DarkWind_Server.exe.config" size="1786">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xFJJOS+AjyeccXDOE3UWa5holzk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Icons\DarkWind_Server.ico" size="1886">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MFgTZTU8Eu4XpJiv1lMgnE+VQRw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="My Project\Application.myapp" size="469">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SQnF0VxdEi+mRafMFsOZeyf/SEI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DARK_LAPVISTA\test" issuerKeyHash="7e15e1582cabb3670fc7cfa8aa96722ba530074c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>tjMLtY9xKILXGkaZtQ+6vnkpsT8=</DigestValue></Reference></SignedInfo><SignatureValue>jEdRFX6Rn+Ha0At9yoaU0Kuv7dfiZnWVGp4Mlq4KDUMFlz2G1QPsrJIcuI4R1T9JiQauNPt6/i6rlFt9nZp7D8vHc3u9twzTY2GSFxqdG0Fy+iwM4Ih1bgywcA2cKMv8ooC21tootU8HDIiAkou1IF8jbsfaZXcXXXuAhvJh08g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qsUG8JjzzB06pT9ODBek/mxhl6aeZpm7dnX4WF/XEoCuTkpO+2y6Tlx7LiDz10WLNtoFdIU1kkRE1o7ZDMb5O5SBXPnvJAaBVe1JC2OoymhSF2+LGXIhwuQJ1ibQ8TPiMypIOXqYq3SqgodCO580OdIt570OeXV8VLQb1nqfQjM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3fb12979beba0fb599461ad78228718fb50b33b6" Description="" Url=""><as:assemblyIdentity name="DarkWind_Server.exe" version="2.1.0.3" publicKeyToken="64b620ef14f6e037" language="en" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DARK_LAPVISTA\test</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>F1jfM/OxAjhcsxkc9xiIyxbEidY=</DigestValue></Reference></SignedInfo><SignatureValue>GH/hhXdpsfwInT37k0vAJZnbfGCb9eA6eGLQMcBKrFpERD2Rrh/7lOvJ465fePbjg1Mhjc+lqGsJqNoyPbJOHjl9MpameNWGi19vMgqNvFQ3CnpQMSWP4qIIo1og4vxYXQWmdXBS+AFcRko0RLu69ycydK9DrZpe7lsPhzVUhfg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qsUG8JjzzB06pT9ODBek/mxhl6aeZpm7dnX4WF/XEoCuTkpO+2y6Tlx7LiDz10WLNtoFdIU1kkRE1o7ZDMb5O5SBXPnvJAaBVe1JC2OoymhSF2+LGXIhwuQJ1ibQ8TPiMypIOXqYq3SqgodCO580OdIt570OeXV8VLQb1nqfQjM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQnLf1Z0rjlIlEeVFp/Dh72zANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQARABBAFIASwBfAEwAQQBQAFYASQBTAFQAQQBcAHQAZQBzAHQwHhcNMDgwNjIwMjAzNDI5WhcNMDkwNjIxMDIzNDI5WjAvMS0wKwYDVQQDHiQARABBAFIASwBfAEwAQQBQAFYASQBTAFQAQQBcAHQAZQBzAHQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKrFBvCY88wdOqU/TgwXpP5sYZemnmaZu3Z1+Fhf1xKArk5KTvtsuk5cey4g89dFizbaBXSFNZJERNaO2QzG+TuUgVz57yQGgVXtSQtjqMpoUhdvixlyIcLkCdYm0PEz4jMqSDl6mKt0qoKHQjufNDnSLee9Dnl1fFS0G9Z6n0IzAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAEI1MMqE0jHFEmmFR0ZjovneK91Wy7s5vYScVWrdwL4j9E0twGqd4QNFWY4C3Vkx4Kamkw6jzq/UZ3NtPS+pdwrlFAYCVG3iVjYjjsLyE9/mEiND2sdZkYbdUt0gIc3zBqyEBJclae4S1lf5E7v5x/x93Fbnob/if3gJkfEhiEUY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,19 @@
+[player]
+nickname=Fenrir
+password=423442720
+email=joshlovesdogs@hotmail.com
+signup_date=5/22/2005
+playerID=450
+status=regular
+referal=Fenrir
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-22-2005

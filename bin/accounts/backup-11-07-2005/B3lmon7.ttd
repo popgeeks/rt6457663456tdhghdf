@@ -1,0 +1,43 @@
+[player]
+nickname=B3lmon7
+password=windows
+email=B3lmon7@gmail.com
+signup_date=9/22/2005
+playerID=2429
+status=regular
+referal=windows
+Verify=1
+Last IP=68.34.180.201
+id=47
+IP=68.34.180.201
+adminstatus=off
+match=10-01-2005
+[Stats]
+Win=1
+Lost=4
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=24
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-3
+[Newdecks]
+Last=09-22-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 118143
+Versus=squll-typo
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=squll-typo
+result=loss
+score=6-4

@@ -1,0 +1,43 @@
+[player]
+nickname=Mars
+password=681931137
+email=lukehanleia@hotmail.com
+signup_date=11/4/2005
+playerID=3141
+status=regular
+referal=
+Verify=1
+Last IP=82.172.123.87
+id=49
+IP=82.172.123.87
+adminstatus=off
+match=11-04-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=7
+Level=1
+Exp=12
+Next=100
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 143999
+Versus=ismhawk
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ismhawk
+result=loss
+score=7-3

@@ -1,0 +1,59 @@
+[player]
+nickname=Alex8905
+password=09051989
+email=alerob21@gmail.com
+signup_date=7/20/2005
+playerID=1390
+status=regular
+referal=
+Verify=1
+Last IP=82.59.173.214
+id=38
+IP=82.59.173.214
+adminstatus=off
+match=07-28-2006
+Last Played=08-12-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+surname=themaster
+[Stats]
+Win=485
+Lost=383
+Draw=177
+Lame quits=13
+GP=269
+Newdecks=9
+Level=20
+Exp=13753
+Next=15166
+AP=17319
+Streak=2
+Choices=1
+SBWin=2
+SBLost=2
+SoldCards=33
+cardsgiven=0
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+honor=2
+PCT=0
+[Play]
+Playing=false
+GameID= 715821
+Versus=kamilbio112
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=shizo
+result=win
+score=14-6
+[Warnings]
+Kicks=2

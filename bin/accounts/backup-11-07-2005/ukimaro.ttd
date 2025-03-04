@@ -1,0 +1,59 @@
+[player]
+nickname=ukimaro
+password=godsmack85
+email=sepultura_tool_2002@yahoo.com
+signup_date=4/27/2005
+playerID=204
+status=regular
+referal=
+Verify=1
+Last IP=71.2.146.39
+id=131
+IP=71.2.146.39
+adminstatus=off
+match=10-01-2005
+Last Played=08-26-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=625
+Lost=258
+Draw=161
+Lame quits=4
+GP=179
+rank=1489
+Newdecks=5
+Level=24
+Exp=20800
+Next=22950
+Streak=-1
+Choices=1
+Wins=71
+AP=3221
+SoldCards=186
+cardsgiven=0
+[Newdecks]
+Last=08-28-2005
+[AP]
+AAEXP=1829
+honor=1
+PCT=90
+AAPOINTS=0
+TRAINED=2
+high=1
+[Play]
+Playing=false
+GameID= 119445
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=MasterD
+result=draw
+score=10-10

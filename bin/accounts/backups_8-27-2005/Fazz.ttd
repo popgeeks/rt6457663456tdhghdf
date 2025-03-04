@@ -1,0 +1,46 @@
+[player]
+nickname=Fazz
+password=332996010
+email=fazzshion@gmail.com
+signup_date=6/4/2005
+playerID=620
+status=regular
+referal=Velius
+Verify=1
+Last IP=67.121.203.233
+id=10
+IP=67.121.203.233
+adminstatus=off
+Last Played=06-05-2005
+match=06-05-2005
+[Stats]
+Win=3
+Lost=1
+Draw=1
+Lame quits=0
+GP=185
+rank=1456
+Newdecks=1
+Level=2
+Exp=112
+Next=248
+AP=221
+Streak=2
+Choices=1
+[Newdecks]
+Last=06-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 28295
+Versus=KIAxel
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=KIAxel
+result=win
+score=11-9

@@ -1,0 +1,44 @@
+[player]
+nickname=BrettTosti
+password=385353982
+email=Squall3@gmx.net
+signup_date=8/11/2005
+playerID=1810
+status=regular
+referal=Squall3@gmx.net
+Verify=1
+Last IP=85.178.195.108
+id=199
+IP=85.178.195.108
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+[Stats]
+Win=1
+Lost=0
+Draw=5
+Lame quits=1
+GP=40
+Newdecks=1
+Level=1
+Exp=37
+Next=100
+AP=141
+Streak=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 85424
+Versus=BorneSupreme
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=BorneSupreme
+result=draw
+score=5-5

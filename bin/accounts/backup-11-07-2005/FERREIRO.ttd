@@ -1,0 +1,45 @@
+[player]
+nickname=FERREIRO
+password=585765182
+email=d.ferreiro@wp.pl
+signup_date=7/13/2005
+playerID=1230
+status=regular
+referal=kowal
+Verify=1
+Last IP=80.54.246.166
+id=25
+IP=80.54.246.166
+adminstatus=off
+match=07-15-2005
+Last Played=07-15-2005
+[Stats]
+Win=2
+Lost=11
+Draw=0
+Lame quits=0
+GP=28
+Newdecks=1
+Level=2
+Exp=170
+Next=248
+AP=350
+Streak=-7
+Choices=1
+[Newdecks]
+Last=07-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=HitMan
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=HitMan
+result=loss
+score=8-2

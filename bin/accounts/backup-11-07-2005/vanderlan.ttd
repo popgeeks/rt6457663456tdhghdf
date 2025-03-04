@@ -1,0 +1,30 @@
+[player]
+nickname=vanderlan
+password=hiei
+email=rianedreams@yahoo.com
+signup_date=10/30/2005
+playerID=3081
+status=regular
+referal=Vanderlan
+Verify=1
+Last IP=210.4.12.143
+id=68
+IP=210.4.12.143
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

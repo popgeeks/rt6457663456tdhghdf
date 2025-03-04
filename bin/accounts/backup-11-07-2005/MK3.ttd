@@ -1,0 +1,20 @@
+[player]
+nickname=MK3
+password=543482958
+email=yojisone.com@one.lt
+signup_date=7/27/2005
+playerID=1542
+status=regular
+referal=xxxxxx
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-27-2005
+[password]
+failed=4

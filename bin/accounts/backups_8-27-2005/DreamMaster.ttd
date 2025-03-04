@@ -1,0 +1,56 @@
+[player]
+nickname=DreamMaster
+password=magicdreams
+email=magicaldreamer@gmail.com
+signup_date=5/28/2005
+playerID=522
+status=regular
+referal=
+Verify=1
+Last IP=172.134.6.159
+id=48
+IP=172.134.6.159
+adminstatus=off
+Last Played=08-27-2005
+match=08-27-2005
+[Stats]
+Win=224
+Lost=147
+Draw=95
+Lame quits=8
+GP=35
+rank=3637
+Newdecks=17
+Level=16
+Exp=8788
+Next=9651
+AP=15542
+Streak=1
+SoldCards=0
+cardsgiven=0
+SBLost=3
+Choices=1
+SBWin=1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 93061
+Versus=blackcat
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=blackcat
+result=win
+score=6-4
+[Warnings]
+Kicks=2
+Warns=1

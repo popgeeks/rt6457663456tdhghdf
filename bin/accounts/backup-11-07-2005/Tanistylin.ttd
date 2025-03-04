@@ -1,0 +1,32 @@
+[player]
+nickname=Tanistylin
+password=978436051
+email=Tanistylin@yahoo.com
+signup_date=9/5/2005
+playerID=2108
+status=regular
+referal=Zakeri
+Verify=1
+Last IP=24.236.240.5
+id=134
+IP=24.236.240.5
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-06-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

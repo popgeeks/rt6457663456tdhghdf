@@ -1,0 +1,47 @@
+[player]
+nickname=Vimes
+password=shadow
+email=tavendale@gmail.com
+signup_date=4/18/05
+playerID=161
+status=regular
+referal=
+Verify=1
+Last IP=82.40.98.66
+id=14
+IP=82.40.98.66
+adminstatus=off
+match=04-21-2005
+Last Played=04-21-2005
+[Stats]
+Win=20
+Lost=27
+Draw=6
+Lame quits=0
+GP=93
+rank=1475
+Newdecks=1
+Level=5
+Exp=1217
+Next=1301
+Streak=1
+Choices=1
+Wins=20
+[Newdecks]
+Last=04-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 7028
+Versus=Mr-Tiddles
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Mr-Tiddles
+result=win
+score=12-8

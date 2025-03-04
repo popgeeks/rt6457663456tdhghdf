@@ -1,0 +1,44 @@
+[player]
+nickname=DarkSquall
+password=203029513
+email=der_Bode@gmx.net
+signup_date=8/25/2005
+playerID=1978
+status=regular
+referal=Dark
+Verify=1
+Last IP=62.143.61.46
+id=31
+IP=62.143.61.46
+adminstatus=off
+match=08-25-2005
+Last Played=08-25-2005
+[Stats]
+Win=3
+Lost=2
+Draw=0
+Lame quits=0
+GP=30
+Newdecks=1
+Level=1
+Exp=31
+Next=100
+AP=181
+Streak=1
+[Newdecks]
+Last=08-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92060
+Versus=Dreakon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Dreakon
+result=win
+score=6-4

@@ -1,0 +1,41 @@
+[player]
+nickname=PlayaJames
+password=356020509
+email=jameym_2006@hotmail.com
+signup_date=10/5/2005
+playerID=2651
+status=regular
+referal=Dark
+Verify=1
+Last IP=207.255.212.76
+id=17
+IP=207.255.212.76
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=10
+Lost=7
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=290
+Next=476
+Streak=2
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 129249
+Versus=playakilla
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=playakilla
+result=win
+score=8-2

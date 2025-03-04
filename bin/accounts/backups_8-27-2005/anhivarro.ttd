@@ -1,0 +1,32 @@
+[player]
+nickname=anhivarro
+password=908867477
+email=anhivarro@yahoo.es
+signup_date=8/24/2005
+playerID=1960
+status=regular
+referal=
+Verify=1
+Last IP=62.42.52.163
+id=16
+IP=62.42.52.163
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=9
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

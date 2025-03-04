@@ -1,0 +1,76 @@
+[player]
+nickname=Niclamus
+password=45678123
+email=niclamus@namelesshost.net
+signup_date=3/25/05
+playerID=53
+status=regular
+Verify=1
+Last IP=199.176.224.54
+id=32
+IP=199.176.224.54
+adminstatus=off
+Last Played=06-30-2005
+match=06-30-2005
+[Stats]
+Win=12
+Lost=9
+Draw=2
+Lame quits=1
+GP=518
+rank=1492
+Newdecks=1
+Level=3
+Exp=475
+Next=476
+Streak=-1
+Wins=1
+AP=850
+SBLost=5
+SBWin=9
+Choices=1
+[Newdecks]
+Last=03-25-2005
+[Totals]
+Level1=1
+Level2=4
+Level3=4
+Level4=0
+Level5=1
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Grat=1
+Death Claw=1
+Shumi Tribe=2
+Ochu=1
+Gerogero=1
+Cactuar=1
+Gesper=1
+Iguion=0
+Tiamat=1
+PuPu=1
+Glacial Eye=1
+Belhelmel=2
+Tri-Face=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 56850
+Versus=LaraCroft
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=AJ666
+result=loss
+score=54-31
+[Warnings]
+Kicks=1

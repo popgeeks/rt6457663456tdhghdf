@@ -1,0 +1,43 @@
+[player]
+nickname=advent
+password=862649082
+email=adawongy@hotmail.co.uk
+signup_date=10/25/2005
+playerID=3010
+status=regular
+referal=
+Verify=1
+Last IP=86.135.101.231
+id=32
+IP=86.135.101.231
+adminstatus=off
+match=10-25-2005
+[Stats]
+Win=0
+Lost=5
+Draw=1
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=73
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-4
+[Newdecks]
+Last=10-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 136465
+Versus=Elorah
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Elorah
+result=draw
+score=10-10

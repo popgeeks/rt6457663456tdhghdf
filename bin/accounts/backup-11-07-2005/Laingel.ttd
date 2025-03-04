@@ -1,0 +1,42 @@
+[player]
+nickname=Laingel
+password=301492154
+email=soteot@hotmail.com
+signup_date=9/10/2005
+playerID=2217
+status=regular
+referal=calibur
+Verify=1
+Last IP=148.221.221.180
+id=14
+IP=148.221.221.180
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=7
+Lost=6
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=247
+Next=248
+SBDraw=1
+Streak=-2
+[Newdecks]
+Last=09-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 103082
+Versus=blinker616
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=blinker616
+result=loss
+score=11-9

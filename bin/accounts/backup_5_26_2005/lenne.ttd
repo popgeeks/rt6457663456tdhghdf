@@ -1,0 +1,46 @@
+[player]
+nickname=lenne
+password=yunie
+email=amy_yuna@hotmail.com
+signup_date=5/26/2005
+playerID=501
+status=regular
+referal=lenne
+Verify=1
+Last IP=219.94.60.32
+id=2
+IP=219.94.60.32
+adminstatus=off
+Last Played=05-26-2005
+match=05-26-2005
+[Stats]
+Win=4
+Lost=2
+Draw=2
+Lame quits=1
+GP=202
+rank=1646
+Newdecks=1
+Level=2
+Exp=128
+Next=248
+AP=270
+Streak=1
+Choices=1
+[Newdecks]
+Last=05-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 22355
+Versus=Trepie
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Trepie
+result=win
+score=14-10

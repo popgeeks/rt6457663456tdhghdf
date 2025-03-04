@@ -1,0 +1,20 @@
+[player]
+nickname=Jester
+password=871688484
+email=thedevlin04@shaw.ca
+signup_date=8/5/2005
+playerID=1700
+status=regular
+referal=Fantasy
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-05-2005
+[password]
+failed=3

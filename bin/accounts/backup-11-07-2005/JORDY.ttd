@@ -1,0 +1,45 @@
+[player]
+nickname=JORDY
+password=377252101
+email=j0rdis@hotmail.com
+signup_date=7/15/2005
+playerID=1259
+status=regular
+referal=LIAR
+Verify=1
+Last IP=83.32.229.234
+id=30
+IP=83.32.229.234
+adminstatus=off
+match=09-21-2005
+Last Played=07-18-2005
+[Stats]
+Win=2
+Lost=6
+Draw=3
+Lame quits=0
+GP=182
+Newdecks=1
+Level=2
+Exp=202
+Next=248
+AP=70
+Streak=2
+Choices=1
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 110079
+Versus=NeoSephiroth
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=NeoSephiroth
+result=win
+score=14-6

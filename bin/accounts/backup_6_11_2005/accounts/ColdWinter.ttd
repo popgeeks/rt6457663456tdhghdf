@@ -1,0 +1,49 @@
+[player]
+nickname=ColdWinter
+password=bmargera
+email=mrseganbyrne@hotmail.com
+signup_date=4/23/05
+playerID=194
+status=regular
+referal=Rain
+Verify=1
+Last IP=86.131.60.112
+id=23
+IP=86.131.60.112
+adminstatus=off
+match=06-08-2005
+Last Played=06-08-2005
+[Stats]
+Win=71
+Lost=71
+Draw=22
+Lame quits=0
+GP=910
+rank=1506
+Newdecks=1
+Level=11
+Exp=4071
+Next=4838
+Streak=-3
+Choices=1
+Wins=10
+AP=40
+SBLost=2
+[Newdecks]
+Last=04-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 30650
+Versus=amy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=3wingedangel
+result=draw
+score=10-10

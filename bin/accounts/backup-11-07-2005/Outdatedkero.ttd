@@ -1,0 +1,43 @@
+[player]
+nickname=Outdatedkero
+password=zackeria
+email=Outdatedkero@yahoo.com
+signup_date=11/5/2005
+playerID=3164
+status=regular
+referal=NONE
+Verify=1
+Last IP=172.198.114.21
+id=31
+IP=172.198.114.21
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=2
+Lost=13
+Draw=7
+Lame quits=0
+Newdecks=11
+Level=3
+Exp=298
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146137
+Versus=sefiroth
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sefiroth
+result=win
+score=15-5

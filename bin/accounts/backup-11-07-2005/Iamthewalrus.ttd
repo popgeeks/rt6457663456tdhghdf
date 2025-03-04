@@ -1,0 +1,43 @@
+[player]
+nickname=Iamthewalrus
+password=608061491
+email=iheartmartha@yahoo.com
+signup_date=8/27/2005
+playerID=2026
+status=regular
+referal=corey
+Verify=1
+Last IP=71.50.250.209
+id=115
+IP=71.50.250.209
+adminstatus=off
+match=09-30-2005
+[Stats]
+Win=1
+Lost=7
+Draw=2
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=86
+Next=100
+AP=2
+Streak=-7
+[Newdecks]
+Last=08-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 117658
+Versus=howabe
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=loss
+score=15-7

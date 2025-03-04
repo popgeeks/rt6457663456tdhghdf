@@ -1,0 +1,18 @@
+[player]
+nickname=martin
+password=74065804
+email=m.hanusch@gmx.de
+signup_date=8/3/2005
+playerID=1665
+status=regular
+referal=leti
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-03-2005

@@ -1,0 +1,45 @@
+[player]
+nickname=Chaz
+password=477941691
+email=FFCutie03@aol.com
+signup_date=8/27/2005
+playerID=2021
+status=regular
+referal=FFCutie
+Verify=1
+Last IP=172.188.164.211
+id=48
+IP=172.188.164.211
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=4
+Lost=4
+Draw=0
+Lame quits=0
+GP=237
+Newdecks=1
+Level=2
+Exp=186
+Next=248
+AP=245
+Streak=3
+Choices=1
+[Newdecks]
+Last=08-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 93376
+Versus=ZypherX
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=ZypherX
+result=win
+score=6-4

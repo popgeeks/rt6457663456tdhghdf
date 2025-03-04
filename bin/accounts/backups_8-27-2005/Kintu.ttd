@@ -1,0 +1,79 @@
+[player]
+nickname=Kintu
+password=remrem
+email=tfosterps@hotmail.com
+signup_date=4/10/05
+playerID=122
+status=regular
+Verify=1
+Last IP=24.253.206.236
+id=1
+IP=24.253.206.236
+adminstatus=off
+Last Played=06-20-2005
+match=06-20-2005
+[Stats]
+Win=14
+Lost=29
+Draw=18
+Lame quits=1
+GP=396
+rank=1171
+Newdecks=11
+Level=5
+Exp=1199
+Next=1301
+Streak=-3
+Choices=1
+Wins=1
+AP=868
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-14-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=1
+Level4=0
+Level5=0
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Grat=1
+Mesmerize=1
+Caterchipillar=1
+Belhelmel=1
+Fastitocalon-F=0
+Tonberry=0
+Bite Bug=1
+SAM08G=1
+Gerogero=1
+Blobra=0
+Grendel=1
+Imp=0
+Death Claw=0
+Blue Dragon=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 37407
+Versus=hitman
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=hitman
+result=draw
+score=5-5
+[Warnings]
+Warns=1

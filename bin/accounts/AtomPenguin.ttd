@@ -1,0 +1,48 @@
+[player]
+nickname=AtomPenguin
+password=14560
+email=kellcommand@hotmail.com
+signup_date=10/16/2005
+playerID=2883
+status=regular
+referal=14560
+Verify=1
+Last IP=69.221.237.204
+id=27
+IP=69.221.237.204
+adminstatus=off
+match=10-16-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=1
+Newdecks=1
+Level=1
+Exp=19
+Next=100
+Streak=1
+[Newdecks]
+Last=10-16-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 131003
+Versus=hitchen
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=meh2
+result=loss
+score=10-8
+[Warnings]
+Bans=1
+Banned=true
+[Ban]
+Date=10-17-2005
+Admin=DarkJaxyChan
+Reason=evading.. perm ban

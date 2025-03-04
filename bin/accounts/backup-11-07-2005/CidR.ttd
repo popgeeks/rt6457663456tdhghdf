@@ -1,0 +1,30 @@
+[player]
+nickname=CidR
+password=472605823
+email=echavesm2@hotmail.com
+signup_date=10/10/2005
+playerID=2767
+status=regular
+referal=Mega
+Verify=1
+Last IP=200.149.97.235
+id=166
+IP=200.149.97.235
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,49 @@
+[player]
+nickname=Diabolo
+password=36105997
+email=T.Weber@hotmail.de
+signup_date=6/28/2005
+playerID=904
+status=regular
+referal=
+Verify=1
+Last IP=80.133.114.82
+id=22
+IP=80.133.114.82
+adminstatus=off
+match=10-29-2005
+guildinvite=
+guildinvite_name=
+guild=Synamic Darkness
+guildmaster=3
+[Stats]
+Win=18
+Lost=22
+Draw=13
+Lame quits=0
+GP=0
+Newdecks=11
+Level=5
+Exp=856
+Next=1301
+SoldCards=0
+cardsgiven=0
+Streak=2
+[Newdecks]
+Last=10-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 139876
+Versus=critical2388
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=critical2388
+result=draw
+score=10-10

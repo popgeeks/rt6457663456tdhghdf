@@ -1,0 +1,47 @@
+[player]
+nickname=Twist
+password=774584948
+email=twist360@comcast.net
+signup_date=7/25/2005
+playerID=1502
+status=regular
+referal=Twist360
+Verify=1
+Last IP=65.96.137.41
+id=21
+IP=65.96.137.41
+adminstatus=off
+match=07-30-2005
+Last Played=07-30-2005
+[Stats]
+Win=27
+Lost=33
+Draw=8
+Lame quits=0
+GP=125
+Newdecks=1
+Level=5
+Exp=1164
+Next=1301
+AP=1978
+Streak=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-25-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 73508
+Versus=Kotino
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Kotino
+result=draw
+score=5-5

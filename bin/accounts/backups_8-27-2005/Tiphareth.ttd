@@ -1,0 +1,43 @@
+[player]
+nickname=Tiphareth
+password=772099374
+email=amandal.woods@gmail.com
+signup_date=6/22/2005
+playerID=808
+status=regular
+referal=DreamMaster
+Verify=1
+Last IP=65.65.221.88
+id=48
+IP=65.65.221.88
+adminstatus=off
+Last Played=06-22-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=38
+[Newdecks]
+Last=06-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 39262
+Versus=Jinx
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ashley-bot
+result=draw
+score=5-5

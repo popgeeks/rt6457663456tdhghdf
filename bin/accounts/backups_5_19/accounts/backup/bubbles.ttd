@@ -1,0 +1,109 @@
+[player]
+nickname=bubbles
+password=nyfr13nds
+email=earthie_flower@hotmail.com
+signup_date=3/16/05
+playerID=24
+status=subadmin
+Verify=1
+Last IP=68.108.140.158
+id=13
+IP=68.108.140.158
+adminstatus=off
+Last Played=04-17-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+surname=goes-pop
+match=04-17-2005
+[Stats]
+Win=67
+Lost=230
+Draw=46
+Lame quits=2
+GP=4857
+rank=987
+Newdecks=1
+Level=11
+Exp=3944
+Next=4838
+Streak=-1
+Choices=1
+[Newdecks]
+Last=03-16-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=2
+Level4=2
+Level5=3
+Level6=2
+Level7=3
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Fujin, Raijin=0
+Forbidden=0
+Armadodo=1
+Glacial Eye=0
+Trauma=0
+Blitz=0
+Chimera=0
+Caterchipillar=0
+Buel=0
+Granaldo=0
+Red Bat=0
+Ruby Dragon=0
+Funguar=0
+Bomb=0
+Mesmerize=0
+Grendel=1
+Abadon=0
+Turtapod=0
+Blue Dragon=0
+Wendigo=1
+PuPu=0
+T-Rexaur=1
+Mobile Type 8=1
+Oilboyle=0
+Cactuar=1
+Fastitocalon-F=1
+Belhelmel=1
+Malboro=0
+Torama=0
+Tri-Point=1
+Jumbo Cactuar=0
+Behemoth=1
+Shumi Tribe=1
+Grat=0
+Krysta=1
+Cockatrice=1
+Elnoyle=1
+Sphinxara=1
+Elastoid=1
+Gesper=1
+[AP]
+AAEXP=1138
+PCT=50
+AAPOINTS=0
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 6365
+Versus=Lex
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Lex
+result=loss
+score=6-4
+[Warnings]
+Kicks=2

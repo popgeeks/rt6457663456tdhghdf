@@ -1,0 +1,51 @@
+[player]
+nickname=Leviathan
+password=skater
+email=EternallBleeding@gmail.com
+signup_date=8/7/2005
+playerID=1734
+status=regular
+referal=no
+Verify=1
+Last IP=141.152.49.99
+id=52
+IP=141.152.49.99
+adminstatus=off
+match=08-23-2005
+Last Played=08-23-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=3
+[Stats]
+Win=22
+Lost=37
+Draw=15
+Lame quits=0
+GP=1325
+Newdecks=1
+Level=5
+Exp=1035
+Next=1301
+AP=4726
+SBLost=2
+Streak=2
+Choices=1
+[Newdecks]
+Last=08-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 91120
+Versus=NikolaTesla
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=NikolaTesla
+result=win
+score=13-9

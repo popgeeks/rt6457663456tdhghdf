@@ -1,0 +1,45 @@
+[player]
+nickname=advenr
+password=42782545
+email=john_scatman@hotmail.co.uk
+signup_date=10/7/2005
+playerID=2687
+status=regular
+referal=
+Verify=1
+Last IP=86.135.97.1
+id=122
+IP=86.135.97.1
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=2
+Lost=14
+Draw=2
+Lame quits=1
+Newdecks=7
+Level=2
+Exp=219
+Next=248
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 122410
+Versus=guitardude86
+Iam=2
+[password]
+failed=1
+[Games]
+Playing=TT
+[game]
+opponent=guitardude86
+result=win
+score=7-3
+[Warnings]
+Kicks=1

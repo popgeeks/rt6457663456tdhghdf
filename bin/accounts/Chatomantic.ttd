@@ -1,0 +1,46 @@
+[player]
+nickname=Chatomantic
+password=704763471
+email=Dylan@Masterdata.com
+signup_date=7/25/2005
+playerID=1482
+status=regular
+referal=
+Verify=1
+Last IP=24.199.55.85
+id=63
+IP=24.199.55.85
+adminstatus=off
+match=11-06-2005
+Last Played=07-25-2005
+[Stats]
+Win=5
+Lost=6
+Draw=3
+Lame quits=0
+GP=0
+Newdecks=7
+Level=2
+Exp=180
+Next=248
+AP=65
+SoldCards=0
+cardsgiven=0
+Streak=2
+[Newdecks]
+Last=11-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=146197
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=RinoaH
+result=win
+score=11-9

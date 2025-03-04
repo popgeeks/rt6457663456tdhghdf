@@ -1,0 +1,67 @@
+[player]
+nickname=Midnight
+password=CyberJ
+email=cyberjazz9@hotmail.com
+signup_date=4/29/2005
+playerID=216
+status=regular
+referal=Mid
+Verify=1
+Last IP=203.164.13.109
+id=21
+IP=203.164.13.109
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+surname=cc
+[Stats]
+Win=206
+Lost=192
+Draw=71
+Lame quits=14
+GP=1
+rank=2075
+Newdecks=43
+Level=15
+Exp=7903
+Next=8675
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=27
+AP=3466
+SBWin=13
+SBLost=8
+[Newdecks]
+Last=07-10-2005
+[AP]
+AAEXP=687
+honor=2
+PCT=30
+[Play]
+Playing=false
+GameID= 92559
+Versus=oniz
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Lucrecia
+result=win
+score=13-7
+[Warnings]
+Kicks=1
+Bans=1
+Banned=false
+[Ban]
+Date=
+Admin=
+Reason=

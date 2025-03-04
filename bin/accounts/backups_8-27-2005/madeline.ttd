@@ -1,0 +1,18 @@
+[player]
+nickname=madeline
+password=1507341
+email=fayemcbride@yahoo.com
+signup_date=7/12/2005
+playerID=1211
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-12-2005

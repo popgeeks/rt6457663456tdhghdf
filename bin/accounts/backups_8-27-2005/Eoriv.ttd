@@ -1,0 +1,46 @@
+[player]
+nickname=Eoriv
+password=761793076
+email=Divinity13591@Yahoo.com
+signup_date=5/22/2005
+playerID=449
+status=regular
+referal=Eoriv
+Verify=1
+Last IP=67.176.109.196
+id=77
+IP=67.176.109.196
+adminstatus=off
+Last Played=05-22-2005
+match=05-22-2005
+[Stats]
+Win=7
+Lost=5
+Draw=3
+Lame quits=1
+GP=297
+rank=1456
+Newdecks=1
+Level=2
+Exp=211
+Next=248
+AP=161
+Streak=-1
+Choices=1
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 20025
+Versus=Tenrok
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Alliance
+result=loss
+score=7-3

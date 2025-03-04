@@ -1,0 +1,42 @@
+[player]
+nickname=Tank14
+password=mushroom
+email=TTOTank@yahoo.com
+signup_date=11/2/2005
+playerID=3117
+status=regular
+referal=Kevin
+Verify=1
+Last IP=130.111.251.32
+id=20
+IP=130.111.251.32
+adminstatus=off
+match=11-02-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=30
+Next=100
+SBLost=3
+Streak=-2
+[Newdecks]
+Last=11-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 142468
+Versus=DarkJaxyChan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=58-6

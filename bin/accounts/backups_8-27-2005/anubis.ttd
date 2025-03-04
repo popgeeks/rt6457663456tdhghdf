@@ -1,0 +1,43 @@
+[player]
+nickname=anubis
+password=19597828
+email=initialdbrother1@yahoo.com
+signup_date=7/20/2005
+playerID=1400
+status=regular
+referal=anubis
+Verify=1
+Last IP=68.7.60.78
+id=35
+IP=68.7.60.78
+adminstatus=off
+match=07-20-2005
+Last Played=07-20-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+AP=37
+[Newdecks]
+Last=07-20-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 62704
+Versus=vivimage666
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=vivimage666
+result=draw
+score=5-5

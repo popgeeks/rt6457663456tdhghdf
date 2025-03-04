@@ -1,0 +1,33 @@
+[player]
+nickname=Legoboy725
+password=821185349
+email=Legoboy725@yahoo.com
+signup_date=5/27/2005
+playerID=520
+status=regular
+referal=
+Verify=1
+Last IP=66.27.186.254
+id=13
+IP=66.27.186.254
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=05-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

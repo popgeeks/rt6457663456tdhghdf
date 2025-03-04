@@ -1,0 +1,23 @@
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+darklumina>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> PING
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina2>> JOINTABLE 1
+darklumina2>> PING
+darklumina>> PING
+darklumina>> CLOSETABLE
+darklumina>> CREATETABLE
+darklumina2>> QUIT 0 1
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+darklumina>> QUIT 0 1

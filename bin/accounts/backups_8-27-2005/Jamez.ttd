@@ -1,0 +1,49 @@
+[player]
+nickname=Jamez
+password=Parasite
+email=jamesnoble1@hotmail.com
+signup_date=7/30/2005
+playerID=1593
+status=regular
+referal=
+Verify=1
+Last IP=81.174.184.173
+id=52
+IP=81.174.184.173
+adminstatus=off
+match=08-08-2005
+Last Played=08-08-2005
+[Stats]
+Win=42
+Lost=67
+Draw=29
+Lame quits=1
+GP=58
+Newdecks=1
+Level=6
+Exp=1518
+Next=1727
+AP=73
+Streak=-3
+SBLost=4
+SBWin=2
+Choices=1
+SBDraw=1
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 82131
+Versus=BorneSupreme
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=BorneSupreme
+result=loss
+score=13-9

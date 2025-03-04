@@ -1,0 +1,46 @@
+[player]
+nickname=Zlev
+password=913345037
+email=dreaded_zlev@hotmail.com
+signup_date=4/2/05
+playerID=78
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-02-2005
+[Totals]
+Level1=4
+Level2=3
+Level3=2
+Level4=3
+Level5=0
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Red Bat=1
+Gayla=1
+Death Claw=1
+Shumi Tribe=1
+Buel=2
+Blobra=1
+Sphinxara=1
+Creeps=1
+Wendigo=1
+Geezard=1
+Blitz=1
+Oilboyle=1
+Blue Dragon=1
+Tri-Face=1

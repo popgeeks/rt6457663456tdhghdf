@@ -1,0 +1,45 @@
+[player]
+nickname=Morgen
+password=wonton
+email=morning.lemon@gmail.com
+signup_date=9/17/2005
+playerID=2333
+status=regular
+referal=
+Verify=1
+Last IP=67.64.114.46
+id=24
+IP=67.64.114.46
+adminstatus=off
+match=09-25-2005
+[Stats]
+Win=12
+Lost=15
+Draw=2
+Lame quits=0
+Newdecks=11
+Level=4
+Exp=605
+Next=836
+SoldCards=0
+cardsgiven=0
+Streak=1
+SBWin=4
+SBLost=1
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 113038
+Versus=Paprik
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Paprik
+result=win
+score=11-9

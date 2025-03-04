@@ -1,0 +1,21 @@
+[player]
+nickname=crazymanu
+password=815848647
+email=recoletosmb@hotmali.com
+signup_date=6/13/2005
+playerID=691
+status=regular
+referal=bgch
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-13-2005
+[password]
+failed=1

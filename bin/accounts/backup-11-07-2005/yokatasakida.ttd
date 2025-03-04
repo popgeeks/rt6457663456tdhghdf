@@ -1,0 +1,17 @@
+[player]
+nickname=yokatasakida
+password=226399540
+email=poorman997@hotmail.com
+signup_date=10/9/2005
+playerID=2746
+status=regular
+referal=poorman997
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-09-2005

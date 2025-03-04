@@ -1,0 +1,41 @@
+[player]
+nickname=guts29
+password=47711849
+email=guts_29@hotmail.com
+signup_date=9/17/2005
+playerID=2324
+status=regular
+referal=
+Verify=1
+Last IP=66.241.130.66
+id=41
+IP=66.241.130.66
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=6
+Next=100
+Streak=-1
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107321
+Versus=howabe
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=howabe
+result=loss
+score=9-1

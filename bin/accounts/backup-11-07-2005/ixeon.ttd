@@ -1,0 +1,45 @@
+[player]
+nickname=ixeon
+password=795614718
+email=mikk.puustusmaa@mail.ee
+signup_date=10/30/2005
+playerID=3079
+status=regular
+referal=ixeon
+Verify=1
+Last IP=84.50.164.120
+id=3
+IP=84.50.164.120
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=52
+Lost=55
+Draw=8
+Lame quits=1
+Newdecks=1
+Level=9
+Exp=2776
+Next=3346
+Streak=1
+SBLost=1
+Choices=1
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 145657
+Iam=1
+Versus=Crispin
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Crispin
+result=win
+score=12-8

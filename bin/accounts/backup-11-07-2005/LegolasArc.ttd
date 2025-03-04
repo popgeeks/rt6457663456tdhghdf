@@ -1,0 +1,46 @@
+[player]
+nickname=LegolasArc
+password=224143624
+email=legolas.arc@gmail.com
+signup_date=8/11/2005
+playerID=1807
+status=regular
+referal=leviosa
+Verify=1
+Last IP=213.97.236.133
+id=204
+IP=213.97.236.133
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+[Stats]
+Win=6
+Lost=14
+Draw=2
+Lame quits=0
+GP=289
+Newdecks=1
+Level=3
+Exp=343
+Next=476
+AP=405
+Streak=-4
+SBLost=1
+Choices=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86186
+Versus=AleSKK
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=AleSKK
+result=loss
+score=12-8

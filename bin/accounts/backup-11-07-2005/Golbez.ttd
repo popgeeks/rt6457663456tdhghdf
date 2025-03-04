@@ -1,0 +1,17 @@
+[player]
+nickname=Golbez
+password=303554534
+email=peregrinodanoite@hotmail.com
+signup_date=11/6/2005
+playerID=3175
+status=regular
+referal=blackstar
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=11-06-2005

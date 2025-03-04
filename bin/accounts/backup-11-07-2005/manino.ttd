@@ -1,0 +1,19 @@
+[player]
+nickname=manino
+password=63661098
+email=gorka_90@mixmail.com
+signup_date=10/14/2005
+playerID=2836
+status=regular
+referal=manino90
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-14-2005
+[password]
+failed=1

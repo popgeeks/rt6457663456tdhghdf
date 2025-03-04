@@ -1,0 +1,45 @@
+[player]
+nickname=aerolight
+password=swatcat
+email=aerolight_18@msn.com
+signup_date=7/7/2005
+playerID=1107
+status=regular
+referal=
+Verify=1
+Last IP=64.157.35.146
+id=25
+IP=64.157.35.146
+adminstatus=off
+match=07-25-2005
+Last Played=07-25-2005
+[Stats]
+Win=6
+Lost=7
+Draw=5
+Lame quits=0
+GP=431
+Newdecks=1
+Level=3
+Exp=275
+Next=476
+AP=705
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 67658
+Versus=AleSKK
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=AleSKK
+result=draw
+score=10-10

@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=152
+match=01-18-2006
+[Play]
+Playing=false
+GameID= 202059
+Versus=Robotori
+Iam=2
+[Stats]
+Level=1
+Exp=62
+Next=100
+Streak=-1
+[Games]
+Playing=TT
+[game]
+opponent=Robotori
+result=draw
+score=5-5

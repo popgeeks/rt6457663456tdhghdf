@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=22
+match=12-03-2005
+[Play]
+Playing=false
+GameID= 163037
+Versus=Tim1
+Iam=2
+[Stats]
+Level=1
+Exp=7
+Next=100
+Streak=1
+[Games]
+Playing=OTT
+[game]
+opponent=Tim1
+result=draw
+score=10-10

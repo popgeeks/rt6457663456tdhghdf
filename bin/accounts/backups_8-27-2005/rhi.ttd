@@ -1,0 +1,18 @@
+[player]
+nickname=rhi
+password=594096779
+email=tsm13@bol.com.br
+signup_date=7/20/2005
+playerID=1392
+status=regular
+referal=aderfee
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-20-2005

@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=18
+match=12-02-2005
+[Play]
+Playing=false
+GameID= 162122
+Versus=PhatRabbit
+Iam=2
+[Stats]
+Level=2
+Exp=180
+Next=248
+Streak=-4
+[Games]
+Playing=MM
+[game]
+opponent=Kadajiroth
+result=loss
+score=9-1

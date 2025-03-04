@@ -1,0 +1,26 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=22
+match=12-31-2005
+guildinvite=
+guildinvite_name=
+[Play]
+Playing=false
+GameID= 186718
+Versus=MixMasta
+Iam=1
+[Stats]
+Level=8
+Exp=2495
+Next=2698
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=MixMasta
+result=win
+score=6-4
+[Warnings]
+Kicks=1

@@ -1,0 +1,32 @@
+[player]
+nickname=Gredson
+password=946240841
+email=gredsonmoraes@hotmail.com
+signup_date=7/31/2005
+playerID=1599
+status=regular
+referal=
+Verify=1
+Last IP=200.148.230.219
+id=45
+IP=200.148.230.219
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=07-31-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

@@ -1,0 +1,30 @@
+[player]
+nickname=Cloud43
+password=396307944
+email=JimmorrFan@yahoo.com
+signup_date=9/28/2005
+playerID=2535
+status=regular
+referal=
+Verify=1
+Last IP=64.58.193.76
+id=130
+IP=64.58.193.76
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

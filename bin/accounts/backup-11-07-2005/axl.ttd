@@ -1,0 +1,17 @@
+[player]
+nickname=axl
+password=807664989
+email=banbe_u20@yahoo.com
+signup_date=10/15/2005
+playerID=2866
+status=regular
+referal=202020
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-15-2005

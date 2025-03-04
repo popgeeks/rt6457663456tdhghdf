@@ -1,0 +1,30 @@
+[player]
+nickname=Chaops
+password=12345
+email=Chaops@hotmail.com
+signup_date=9/22/2005
+playerID=2431
+status=regular
+referal=
+Verify=1
+Last IP=68.45.95.71
+id=58
+IP=68.45.95.71
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

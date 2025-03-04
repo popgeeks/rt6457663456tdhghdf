@@ -1,0 +1,30 @@
+[player]
+nickname=will41981
+password=792110144
+email=will41981@yahoo.com
+signup_date=9/13/2005
+playerID=2255
+status=regular
+referal=download.com
+Verify=1
+Last IP=65.182.56.13
+id=27
+IP=65.182.56.13
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

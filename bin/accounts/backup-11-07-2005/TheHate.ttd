@@ -1,0 +1,30 @@
+[player]
+nickname=TheHate
+password=944014190
+email=thehate@takas.lt
+signup_date=9/25/2005
+playerID=2476
+status=regular
+referal=i..i
+Verify=1
+Last IP=84.240.21.1
+id=24
+IP=84.240.21.1
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,19 @@
+[player]
+nickname=Kaniisha
+password=349714040
+email=anamecool@yahoo.com
+signup_date=9/9/2005
+playerID=2186
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-09-2005
+[password]
+failed=1

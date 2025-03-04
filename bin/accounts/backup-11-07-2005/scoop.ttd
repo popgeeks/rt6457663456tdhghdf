@@ -1,0 +1,44 @@
+[player]
+nickname=scoop
+password=37866949
+email=watchdog@hot.ee
+signup_date=9/12/2005
+playerID=2244
+status=regular
+referal=
+Verify=1
+Last IP=80.235.35.29
+id=26
+IP=80.235.35.29
+adminstatus=off
+match=09-12-2005
+[Stats]
+Win=1
+Lost=5
+Draw=2
+Lame quits=0
+Newdecks=5
+Level=2
+Exp=125
+Next=248
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=09-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104171
+Versus=Epyon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Epyon
+result=draw
+score=5-5

@@ -1,0 +1,45 @@
+[player]
+nickname=cwd
+password=633255659
+email=cwd@dsl.pipex.com
+signup_date=8/20/2005
+playerID=1894
+status=regular
+referal=http://www.trip
+Verify=1
+Last IP=81.86.166.57
+id=19
+IP=81.86.166.57
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=4
+Lost=10
+Draw=5
+Lame quits=0
+GP=288
+Newdecks=1
+Level=2
+Exp=192
+Next=248
+AP=186
+Streak=-3
+Choices=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 88529
+Versus=exist
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=exist
+result=loss
+score=9-1

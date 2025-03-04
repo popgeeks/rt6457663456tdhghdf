@@ -1,0 +1,66 @@
+[player]
+nickname=Alvaro
+password=44103720
+email=alvarormn@gmail.com
+signup_date=4/23/2005
+playerID=189
+status=regular
+referal=
+Verify=1
+Last IP=200.231.152.2
+id=14
+IP=200.231.152.2
+adminstatus=off
+match=07-01-2006
+Last Played=08-27-2005
+guildmaster=3
+guild=Guild of Legends
+surname=neto
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=3313
+Lost=2025
+Draw=951
+Lame quits=51
+GP=3889
+rank=1990
+Newdecks=7
+Level=54
+Exp=118572
+Next=121414
+Streak=3
+Choices=1
+SoldCards=306
+cardsgiven=0
+Wins=331
+AP=499
+SBDraw=1
+SBLost=9
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=400
+honor=2
+PCT=0
+AAPOINTS=1
+TRAINED=18
+golden=5
+high=4
+[Play]
+Playing=false
+GameID= 644679
+Versus=Setsunael
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=redevilchild
+result=win
+score=11-9
+[Warnings]
+Warns=3
+Kicks=31

@@ -1,0 +1,57 @@
+[player]
+nickname=Ortew
+password=burrada
+email=lorted@hotmail.com
+signup_date=5/22/2005
+playerID=453
+status=regular
+referal=
+Verify=1
+Last IP=81.40.226.18
+id=19
+IP=81.40.226.18
+adminstatus=off
+match=08-10-2005
+Last Played=08-10-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=236
+Lost=167
+Draw=63
+Lame quits=5
+GP=720
+rank=1462
+Newdecks=1
+Level=17
+Exp=11025
+Next=11368
+AP=13937
+Streak=-1
+Choices=1
+SBDraw=1
+SBWin=1
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=202
+honor=1
+PCT=20
+[Play]
+Playing=false
+GameID= 83498
+Versus=vivimage666
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=vivimage666
+result=loss
+score=13-7
+[Warnings]
+Kicks=2

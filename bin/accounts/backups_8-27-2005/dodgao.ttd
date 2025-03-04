@@ -1,0 +1,18 @@
+[player]
+nickname=dodgao
+password=860648869
+email=dodgao@hotmail.com
+signup_date=8/26/2005
+playerID=2013
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-26-2005

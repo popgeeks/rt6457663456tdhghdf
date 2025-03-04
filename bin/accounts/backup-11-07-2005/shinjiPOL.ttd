@@ -1,0 +1,41 @@
+[player]
+nickname=shinjiPOL
+password=721662759
+email=shinji16@o2.pl
+signup_date=9/17/2005
+playerID=2325
+status=regular
+referal=shinji16
+Verify=1
+Last IP=83.26.97.35
+id=13
+IP=83.26.97.35
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=92
+Next=100
+Streak=-2
+[Newdecks]
+Last=09-17-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107328
+Versus=MasterD
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=8-2

@@ -1,0 +1,31 @@
+[player]
+nickname=Zen4t5
+password=233891784
+email=Zen5t4@hotmail.com
+signup_date=6/30/2005
+playerID=927
+status=regular
+referal=
+Verify=1
+Last IP=67.83.173.40
+id=8
+IP=67.83.173.40
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=06-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

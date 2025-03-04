@@ -1,0 +1,110 @@
+[player]
+nickname=AJ666
+password=RAGERAGE
+email=heartless06660@hotmail.com
+signup_date=3/23/05
+playerID=49
+status=regular
+Verify=1
+Last IP=80.4.57.41
+id=24
+IP=80.4.57.41
+adminstatus=off
+Last Played=04-17-2005
+guildmaster=2
+guild=End of All Hope
+surname=heartless
+match=04-17-2005
+[Stats]
+Win=263
+Lost=187
+Draw=73
+Lame quits=2
+GP=1581
+rank=1267
+Newdecks=1
+Level=14
+Exp=6838
+Next=7520
+Streak=-1
+Choices=1
+SoldCards=9
+[Newdecks]
+Last=03-23-2005
+[Totals]
+Level1=3
+Level2=1
+Level3=5
+Level4=7
+Level5=5
+Level6=5
+Level7=7
+Level8=3
+Level9=2
+Level10=2
+Total=0
+[cards]
+Cactuar=1
+Bite Bug=0
+Grat=0
+Red Bat=0
+Wendigo=2
+Abadon=0
+Mesmerize=0
+Bomb=2
+Buel=0
+Oilboyle=1
+Elastoid=1
+Trauma=0
+Jelleye=0
+Chimera=0
+Wedge, Biggs=2
+BGH251F2=2
+Iron Giant=0
+Glacial Eye=0
+Behemoth=0
+Propagator=1
+Tri-Point=1
+T-Rexaur=1
+Blue Dragon=1
+Red Giant=1
+Chicobo=0
+Sacred=1
+Fujin, Raijin=2
+Krysta=1
+Armadodo=2
+Elvoret=1
+Adamantoise=1
+Funguar=1
+Creeps=1
+Snow Lion=2
+Geezard=1
+Malboro=2
+Cerberus=1
+Mobile Type 8=2
+Gilgamesh=1
+Rinoa=1
+Kiros=1
+Blood Soul=1
+Angelo=1
+Pandemona=1
+[AP]
+AAEXP=822
+PCT=20
+AAPOINTS=0
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 6368
+Versus=ColdArmy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=ColdArmy
+result=loss
+score=11-9

@@ -1,0 +1,85 @@
+[player]
+nickname=SeanFury
+password=635149180
+email=twisted_papaya@hotmail.com
+signup_date=3/24/05
+playerID=50
+status=regular
+Verify=1
+Last IP=138.89.244.105
+id=12
+IP=138.89.244.105
+adminstatus=off
+Last Played=03-24-2005
+[Stats]
+Win=1
+Lost=2
+Draw=0
+Lame quits=0
+GP=35
+rank=1173
+Newdecks=3
+Level=1
+Exp=60
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-2
+Wins=1
+[Newdecks]
+Last=03-24-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=3
+Level4=4
+Level5=0
+Level6=1
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Death Claw=0
+Shumi Tribe=0
+Elnoyle=0
+BGH251F2=0
+Funguar=0
+Torama=0
+Turtapod=0
+Tri-Face=0
+Glacial Eye=0
+Creeps=0
+Fastitocalon=0
+Iguion=0
+Gayla=0
+Blood Soul=1
+Blitz=1
+Geezard=1
+Blue Dragon=1
+Gerogero=1
+Buel=1
+Imp=1
+Tonberry=1
+Tiamat=1
+Anacondaur=1
+Blobra=1
+Fujin, Raijin=0
+Cactuar=2
+Bomb=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Ragnarok
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Ragnarok
+result=loss
+score=7-3

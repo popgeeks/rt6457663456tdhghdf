@@ -1,0 +1,47 @@
+[player]
+nickname=tianya00
+password=96647233
+email=tianlun00@yahoo.com.sg
+signup_date=7/25/2005
+playerID=1487
+status=regular
+referal=96647233
+Verify=1
+Last IP=218.186.20.169
+id=10
+IP=218.186.20.169
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+[Stats]
+Win=14
+Lost=22
+Draw=9
+Lame quits=1
+GP=45
+Newdecks=1
+Level=4
+Exp=708
+Next=836
+AP=983
+Streak=-6
+Choices=1
+[Newdecks]
+Last=07-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 74212
+Versus=Shoxxx
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Shoxxx
+result=loss
+score=12-8
+[Warnings]
+Warns=1

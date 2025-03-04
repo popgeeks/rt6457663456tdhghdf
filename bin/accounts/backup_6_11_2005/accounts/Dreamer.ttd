@@ -1,0 +1,33 @@
+[player]
+nickname=Dreamer
+password=81192612
+email=charleskim012@hotmail.com
+signup_date=6/6/2005
+playerID=628
+status=regular
+referal=
+Verify=1
+Last IP=68.4.2.194
+id=25
+IP=68.4.2.194
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=06-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

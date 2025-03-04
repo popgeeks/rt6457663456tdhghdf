@@ -1,0 +1,355 @@
+
+>> VERSION 2.0.7>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 1.140625s
+darklumina>> EXTRACHECK>> 0.046875s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.5s
+darklumina2>> TABLEQUERY 1>> 0.03125s
+darklumina2>> EXTRACHECK>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.015625s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.015625s
+darklumina2>> PING>> 0.453125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.015625s
+darklumina>> PING>> 0.015625s
+darklumina2>> PING>> 0.4375s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> AWAY 1>> 0.328125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.453125s
+darklumina2>> >> 0s
+darklumina2>> AWAY 1>> 0.25s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.15625s
+darklumina>> >> 0s
+darklumina>> AWAY 0>> 0.34375s
+darklumina>> TABLECREATE>> 0.28125s
+darklumina>> GAMEREADY>> 0.296875s
+darklumina2>> >> 0s
+darklumina2>> AWAY 0>> 0.25s
+darklumina2>> TABLEJOIN 1>> 0.953125s
+darklumina2>> GAMEREADY>> 1.109375s
+darklumina>> WEBSERVICE>> 0.046875s
+darklumina>> TT_MYCARD Balamb%20Garden Bomb Carbuncle Catoblepas Catoblepas>> 0.984375s
+darklumina>> PING>> 0.046875s
+darklumina2>> WEBSERVICE>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> ADMINLOGIN 41257448>> 0.359375s
+darklumina>> WEBSERVICE>> 0.046875s
+darklumina>> TABLEKILL darklumina>> 0.140625s
+darklumina>> TABLECREATE>> 0.296875s
+darklumina>> WEBSERVICE>> 0.359375s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.328125s
+darklumina2>> TABLEJOIN 1>> 1.171875s
+darklumina2>> GAMEREADY>> 0.265625s
+darklumina>> GAMEREADY>> 1.1875s
+darklumina>> TT_PLACEAT 0 1>> 0.171875s
+darklumina2>> TT_PLACEAT 7 4>> 0.171875s
+darklumina>> TT_PLACEAT 4 4>> 0.15625s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.015625s
+darklumina2>> TT_PLACEAT 3 0>> 0.296875s
+darklumina>> TT_PLACEAT 1 2>> 0.328125s
+darklumina2>> TT_PLACEAT 6 1>> 0.15625s
+darklumina>> TT_PLACEAT 8 3>> 0.171875s
+darklumina2>> TT_PLACEAT 5 2>> 0.265625s
+darklumina>> TT_PLACEAT 2 0>> 1.296875s
+darklumina>> TABLECREATE>> 0.3125s
+darklumina>> WEBSERVICE>> 0.1875s
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.28125s
+darklumina2>> TABLEJOIN 1>> 1.015625s
+darklumina2>> GAMEREADY>> 0.21875s
+darklumina2>> GAMEREADY>> 0.203125s
+darklumina2>> GAMEREADY>> 0.09375s
+darklumina>> GAMEREADY>> 0.78125s
+darklumina>> PING>> 0.015625s
+darklumina2>> TT_PLACEAT 1 0>> 0.28125s
+darklumina2>> PING>> 0.015625s
+darklumina>> TT_PLACEAT 6 2>> 0.15625s
+darklumina2>> TT_PLACEAT 0 1>> 0.15625s
+darklumina>> TT_PLACEAT 3 3>> 0.234375s
+darklumina2>> TT_PLACEAT 4 2>> 0.1875s
+darklumina>> TT_PLACEAT 7 0>> 0.21875s
+darklumina2>> TT_PLACEAT 8 3>> 0.265625s
+darklumina>> TT_PLACEAT 5 1>> 0.21875s
+>> VERSION 2.0.7>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.515625s
+darklumina>> EXTRACHECK>> 0.0625s
+>> VERSION 2.0.7>> 0.03125s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.40625s
+darklumina2>> TABLEQUERY 1>> 0.078125s
+darklumina2>> EXTRACHECK>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> TABLECREATE2 OMNITT_RANDOM 5>> 0.390625s
+darklumina2>> TABLEJOIN 1>> 1.046875s
+darklumina2>> GAMEREADY>> 0.21875s
+darklumina2>> GAMEREADY>> 0.25s
+darklumina2>> GAMEREADY>> 0.359375s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.015625s
+darklumina>> >> 0s
+darklumina>> GAMEREADY>> 1.453125s
+darklumina2>> OTTENDGAME>> 0.078125s
+darklumina>> OTTSTALEMATE>> 0.0625s
+darklumina2>> OTTSTALEMATE>> 0.5625s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> AWAY 1>> 0.34375s
+darklumina>> TABLECREATE2 OMNITT_RANDOM 5>> 0.28125s
+darklumina>> PING>> 0.015625s
+darklumina2>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina2>> PING>> 0.03125s
+darklumina2>> TABLEJOIN 1>> 0.953125s
+darklumina2>> GAMEREADY>> 0.109375s
+darklumina>> >> 0s
+darklumina>> GAMEREADY>> 1.390625s
+>> VERSION 2.0.7>> 0.046875s
+>> LOADGAME darklumina pantyraid13>> 5s
+>> VERSION 2.0.7>> 0.03125s
+>> LOADGAME darklumina pantyraid13>> 3.515625s
+>> VERSION 2.0.7>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.609375s
+darklumina>> EXTRACHECK>> 0.109375s
+darklumina>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+>> LOADGAME DarkJaxyChan ilikebaboon>> 0.25s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+>> LOADGAME DarkJaxyChan ilikebaboon>> 0.1875s
+darklumina>> TABLECREATE2 OMNITT_RANDOM 5>> 0.359375s
+>> VERSION 2.0.7>> 0.03125s
+>> LOADGAME DarkJaxyChan ilikediablo>> 0.234375s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.046875s
+>> LOADGAME DarkJaxyChan ilikebaboon>> 0.1875s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+>> LOADGAME DarkJaxyChan ilikediablo>> 1.8125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.046875s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.4375s
+darklumina>> >> 0s
+darklumina>> AWAY 1>> 0.375s
+darklumina>> PING>> 0.03125s
+darklumina>> >> 0s
+darklumina>> AWAY 0>> 0.359375s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.671875s
+darklumina>> WEBSERVICE>> 0.0625s
+darklumina>> WEBSERVICE>> 0.078125s
+darklumina>> TOKENREDEEM Balamb%20Garden>> 0.46875s
+darklumina>> TOKENREDEEM Blood%20Of%20The%20Innocent>> 0.46875s
+darklumina>> TOKENREDEEM Cait%20Sith>> 0.421875s
+darklumina>> TOKENREDEEM Camus>> 0.484375s
+darklumina>> CHAT join the game>> 0.21875s
+darklumina>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+MixMasta>> LOADGAME MixMasta Chip4041>> 0.671875s
+MixMasta>> TABLEQUERY 1>> 0.03125s
+MixMasta>> EXTRACHECK>> 0.03125s
+MixMasta>> TABLEJOIN 1>> 0.921875s
+MixMasta>> GAMEREADY>> 0.125s
+darklumina>> CHAT join my game>> 0.390625s
+>> VERSION 2.0.7>> 0.03125s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.34375s
+darklumina>> GAMEREADY>> 1.921875s
+darklumina>> OTTPLACEAT 0>> 0.46875s
+MixMasta>> OTTPLACEAT 1>> 0.5625s
+darklumina>> OTTPLACEAT 2>> 0.640625s
+darklumina>> PING>> 0.03125s
+MixMasta>> >> 0s
+MixMasta>> PING>> 0.6875s
+darklumina>> OTTPLACEAT 5>> 0.5625s
+MixMasta>> OTTPLACEAT 8>> 0.734375s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 4>> 0.46875s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTPLACEAT 14>> 0.5625s
+darklumina>> OTTPLACEAT 11>> 0.78125s
+darklumina>> PING>> 0.046875s
+MixMasta>> OTTPLACEAT 10>> 57.96875s
+MixMasta>> PING>> 0.046875s
+darklumina>> >> 0s
+darklumina>> PING>> 19.890625s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTPLACEAT 16>> 0.890625s
+darklumina>> OTTPLACEAT 21>> 22.984375s
+MixMasta>> OTTPLACEAT 17>> 1.3125s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 18>> 0.796875s
+MixMasta>> OTTPLACEAT 19>> 0.703125s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 24>> 0.4375s
+MixMasta>> OTTPLACEAT 23>> 0.734375s
+darklumina>> OTTPLACEAT 20>> 0.515625s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTPLACEAT 22>> 9.484375s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+darklumina>> PING>> 0.203125s
+MixMasta>> PING>> 0.03125s
+darklumina>> PING>> 0.046875s
+MixMasta>> PING>> 0.03125s
+darklumina>> TABLECREATE2 OMNITT_RANDOM 5>> 1.09375s
+darklumina>> PING>> 0.1875s
+MixMasta>> >> 0s
+darklumina>> GAMEREADY>> 1.328125s
+MixMasta>> GAMEREADY>> 28.859375s
+MixMasta>> OTTPLACEAT 0>> 3.53125s
+darklumina>> OTTPLACEAT 4>> 5.046875s
+MixMasta>> OTTPLACEAT 8>> 17s
+darklumina>> OTTPLACEAT 9>> 11s
+MixMasta>> OTTPLACEAT 14>> 9.9375s
+MixMasta>> PING>> 0.234375s
+darklumina>> PING>> 0.21875s
+darklumina>> OTTPLACEAT 20>> 5.09375s
+darklumina>> PING>> 0.0625s
+MixMasta>> PING>> 0.046875s
+MixMasta>> OTTPLACEAT 3>> 0.71875s
+darklumina>> OTTPLACEAT 2>> 0.59375s
+MixMasta>> OTTPLACEAT 7>> 0.90625s
+darklumina>> OTTPLACEAT 12>> 0.8125s
+darklumina>> PING>> 0.015625s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTPLACEAT 11>> 0.859375s
+darklumina>> OTTPLACEAT 6>> 0.90625s
+MixMasta>> OTTPLACEAT 5>> 0.703125s
+darklumina>> OTTPLACEAT 10>> 0.734375s
+darklumina>> PING>> 0.140625s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTPLACEAT 15>> 0.75s
+darklumina>> OTTPLACEAT 16>> 0.90625s
+darklumina>> ADMINLOGIN 41257448>> 0.265625s
+darklumina>> WEBSERVICE>> 0.0625s
+darklumina>> TABLEENDMATCH MixMasta>> 0.046875s
+>> VERSION 2.0.7>> 0.046875s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.59375s
+darklumina>> TABLEQUERY 1>> 0.0625s
+darklumina>> EXTRACHECK>> 0.03125s
+>> VERSION 2.0.7>> 0.03125s
+MixMasta>> LOADGAME MixMasta Chip4041>> 0.390625s
+darklumina>> CHAT save the queer!>> 0.0625s
+MixMasta>> EXTRACHECK>> 0.046875s
+darklumina>> TABLECREATE2 OMNITT_RANDOM 5>> 0.34375s
+MixMasta>> TABLEJOIN 1>> 1s
+darklumina>> GAMEREADY>> 0.1875s
+MixMasta>> GAMEREADY>> 1.21875s
+MixMasta>> OTTPLACEAT 3>> 0.59375s
+darklumina>> OTTPLACEAT 23>> 0.484375s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTPLACEAT 20>> 0.484375s
+darklumina>> OTTPLACEAT 2>> 0.640625s
+MixMasta>> OTTPLACEAT 7>> 0.828125s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+MixMasta>> OTTSTALEMATE>> 0.09375s
+darklumina>> PING>> 0.03125s
+MixMasta>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 0>> 0.421875s
+darklumina>> OTTSTALEMATE>> 0.6875s
+>> VERSION 2.0.7>> 0.0625s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.65625s
+darklumina>> EXTRACHECK>> 0.0625s
+>> VERSION 2.0.7>> 0.046875s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.71875s
+DarkJaxyChan>> TABLEQUERY 1>> 0.03125s
+DarkJaxyChan>> EXTRACHECK>> 0.046875s
+DarkJaxyChan>> CHAT k im on x.X>> 0.21875s
+darklumina>> TABLECREATE2 OMNITT_RANDOM 5>> 0.375s
+DarkJaxyChan>> TABLEJOIN 1>> 1.015625s
+DarkJaxyChan>> GAMEREADY>> 0.140625s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> GAMEREADY>> 4.078125s
+darklumina>> OTTPLACEAT 0>> 0.5625s
+DarkJaxyChan>> OTTPLACEAT 11>> 0.84375s
+darklumina>> OTTPLACEAT 16>> 0.984375s
+DarkJaxyChan>> OTTPLACEAT 6>> 1.4375s
+DarkJaxyChan>> CHAT works fine>> 0.25s
+darklumina>> OTTPLACEAT 12>> 0.984375s
+DarkJaxyChan>> OTTPLACEAT 17>> 1.140625s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 7>> 1.078125s
+DarkJaxyChan>> OTTPLACEAT 5>> 0.71875s
+darklumina>> OTTPLACEAT 10>> 0.75s
+DarkJaxyChan>> OTTPLACEAT 2>> 0.59375s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 15>> 0.703125s
+DarkJaxyChan>> OTTPLACEAT 21>> 0.53125s
+darklumina>> OTTPLACEAT 18>> 0.8125s
+DarkJaxyChan>> OTTPLACEAT 13>> 0.875s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.015625s
+darklumina>> OTTPLACEAT 3>> 0.578125s
+DarkJaxyChan>> OTTPLACEAT 23>> 0.5625s
+darklumina>> OTTPLACEAT 24>> 0.40625s
+DarkJaxyChan>> OTTPLACEAT 19>> 0.671875s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> OTTPLACEAT 9>> 0.53125s
+DarkJaxyChan>> OTTPLACEAT 4>> 6.03125s
+darklumina>> CHAT no idea>> 0.25s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+DarkJaxyChan>> CHAT sec lemme try a game on v2>> 0.21875s
+darklumina>> PING>> 0.015625s
+DarkJaxyChan>> PING>> 0.015625s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.015625s
+DarkJaxyChan>> CHAT omg>> 0.203125s
+DarkJaxyChan>> CHAT it works fine there>> 0.234375s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+darklumina>> PING>> 0.015625s
+DarkJaxyChan>> PING>> 0.03125s
+>> QUIT 0 1>> 1.390625s
+>> QUIT 0 1>> 0.28125s

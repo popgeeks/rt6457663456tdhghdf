@@ -1,0 +1,20 @@
+[player]
+nickname=xxGorminxx
+password=785755037
+email=jaxondo_16@hotmail.com
+signup_date=6/28/2005
+playerID=908
+status=regular
+referal=19872810
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-28-2005
+[password]
+failed=1

@@ -1,0 +1,33 @@
+[player]
+nickname=MrPeePsIE2
+password=733645498
+email=mrpeepsie@yahoo.com
+signup_date=6/21/2005
+playerID=791
+status=regular
+referal=haze
+Verify=1
+Last IP=24.168.230.242
+id=8
+IP=24.168.230.242
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=9
+[Newdecks]
+Last=06-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

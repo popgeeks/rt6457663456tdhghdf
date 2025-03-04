@@ -1,0 +1,53 @@
+[player]
+nickname=ThaKilla
+password=282669484
+email=SpaceSkatr1@yahoo.com
+signup_date=7/31/2005
+playerID=1609
+status=regular
+referal=killa
+Verify=1
+Last IP=80.7.111.135
+id=41
+IP=69.19.175.199
+adminstatus=off
+match=08-01-2005
+Last Played=08-01-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=5
+Lost=16
+Draw=3
+Lame quits=2
+GP=23
+Newdecks=3
+Level=3
+Exp=343
+Next=476
+AP=198
+SoldCards=0
+cardsgiven=0
+Streak=-10
+Choices=1
+[Newdecks]
+Last=07-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 75406
+Versus=Konvict
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Konvict
+result=loss
+score=11-7
+[Warnings]
+Kicks=3

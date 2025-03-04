@@ -1,0 +1,30 @@
+[player]
+nickname=TheVault
+password=36550164
+email=shinigamivault@yahoo.com
+signup_date=11/6/2005
+playerID=3182
+status=regular
+referal=
+Verify=1
+Last IP=70.236.76.66
+id=33
+IP=70.236.76.66
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

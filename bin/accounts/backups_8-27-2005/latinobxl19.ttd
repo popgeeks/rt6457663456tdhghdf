@@ -1,0 +1,33 @@
+[player]
+nickname=latinobxl19
+password=173373699
+email=latinobxl19@hotmail.com
+signup_date=6/19/2005
+playerID=746
+status=regular
+referal=loco
+Verify=1
+Last IP=62.205.79.226
+id=26
+IP=62.205.79.226
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=9
+[Newdecks]
+Last=06-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

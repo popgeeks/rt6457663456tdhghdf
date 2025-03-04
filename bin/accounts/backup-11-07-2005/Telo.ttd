@@ -1,0 +1,43 @@
+[player]
+nickname=Telo
+password=227335691
+email=jdhopper84@yahoo.com
+signup_date=10/25/2005
+playerID=3018
+status=regular
+referal=
+Verify=1
+Last IP=68.12.246.161
+id=64
+IP=68.12.246.161
+adminstatus=off
+match=10-26-2005
+[Stats]
+Win=7
+Lost=24
+Draw=4
+Lame quits=0
+Newdecks=9
+Level=4
+Exp=530
+Next=836
+Streak=2
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 137238
+Versus=andre507
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=andre507
+result=win
+score=16-4

@@ -1,0 +1,49 @@
+[player]
+nickname=creamyninja
+password=7734206
+email=creampuffninja5150@yahoo.com
+signup_date=7/30/2005
+playerID=1575
+status=regular
+referal=
+Verify=1
+Last IP=66.205.137.111
+id=34
+IP=66.205.137.111
+adminstatus=off
+match=08-11-2005
+Last Played=08-11-2005
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=20
+Lost=55
+Draw=13
+Lame quits=0
+GP=610
+Newdecks=1
+Level=4
+Exp=508
+Next=836
+AP=4193
+Streak=-6
+Choices=1
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86965
+Versus=Eidolon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=BorneSupreme
+result=loss
+score=7-3

@@ -1,0 +1,49 @@
+[player]
+nickname=Silveira
+password=toranja
+email=manuelss@portugalmail.pt
+signup_date=7/24/2005
+playerID=1458
+status=regular
+referal=
+Verify=1
+Last IP=83.132.53.218
+id=19
+IP=83.132.53.218
+adminstatus=off
+match=07-26-2005
+Last Played=07-26-2005
+[Stats]
+Win=38
+Lost=62
+Draw=32
+Lame quits=3
+GP=254
+Newdecks=1
+Level=5
+Exp=1226
+Next=1301
+AP=4463
+Streak=-3
+SBWin=1
+Choices=1
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 69331
+Versus=Kotino
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Kotino
+result=loss
+score=15-9
+[Warnings]
+Kicks=2

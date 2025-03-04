@@ -1,0 +1,35 @@
+[player]
+nickname=grevances
+password=locsin123
+email=grevances@gmail.com
+signup_date=6/1/2005
+playerID=577
+status=regular
+referal=
+Verify=1
+Last IP=210.213.82.40
+id=9
+IP=210.213.82.40
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+AP=36
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

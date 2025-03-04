@@ -1,0 +1,19 @@
+[player]
+nickname=elvis
+password=557794331
+email=darkkman666@yahoo.com
+signup_date=6/22/2005
+playerID=801
+status=regular
+referal=levisano
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-22-2005

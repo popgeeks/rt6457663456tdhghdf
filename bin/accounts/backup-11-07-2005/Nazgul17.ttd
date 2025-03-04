@@ -1,0 +1,41 @@
+[player]
+nickname=Nazgul17
+password=qmp1690f
+email=nazgul17@gmail.com
+signup_date=9/13/2005
+playerID=2264
+status=regular
+referal=
+Verify=1
+Last IP=213.169.100.133
+id=15
+IP=213.169.100.133
+adminstatus=off
+match=09-13-2005
+[Stats]
+Win=0
+Lost=1
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=7
+Next=100
+Streak=1
+[Newdecks]
+Last=09-13-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104849
+Versus=howabe
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=howabe
+result=loss
+score=6-4

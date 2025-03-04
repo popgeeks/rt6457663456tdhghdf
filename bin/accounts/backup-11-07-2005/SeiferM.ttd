@@ -1,0 +1,54 @@
+[player]
+nickname=SeiferM
+password=mihai
+email=Seifermihai@yahoo.com
+signup_date=9/11/2005
+playerID=2232
+status=regular
+referal=SeiferM
+Verify=1
+Last IP=80.97.109.135
+id=29
+IP=80.97.109.135
+adminstatus=off
+match=10-24-2005
+guildinvite=
+guildinvite_name=
+guild=Monoxide Children
+guildmaster=3
+[Stats]
+Win=137
+Lost=168
+Draw=47
+Lame quits=5
+Newdecks=3
+Level=15
+Exp=8385
+Next=8675
+Streak=-3
+SBLost=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=09-12-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 135609
+Versus=Tim1
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alliance
+result=loss
+score=13-5
+[Warnings]
+Warns=1
+Kicks=1

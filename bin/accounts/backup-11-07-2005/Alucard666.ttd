@@ -1,0 +1,41 @@
+[player]
+nickname=Alucard666
+password=butterfly
+email=ichithakilla@gmail.com
+signup_date=9/25/2005
+playerID=2479
+status=regular
+referal=
+Verify=1
+Last IP=67.137.68.9
+id=124
+IP=67.137.68.9
+adminstatus=off
+match=09-25-2005
+[Stats]
+Win=1
+Lost=4
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=89
+Next=100
+Streak=-4
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 114006
+Versus=TheOne
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=TheOne
+result=loss
+score=18-4

@@ -1,0 +1,20 @@
+[player]
+nickname=ramigriberg
+password=778620421
+email=perolof.griberg@tele.se
+signup_date=7/8/2005
+playerID=1115
+status=regular
+referal=griberg
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-08-2005
+[password]
+failed=1

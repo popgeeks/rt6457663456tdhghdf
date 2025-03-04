@@ -1,0 +1,41 @@
+[player]
+nickname=RinoaAngelo
+password=teasharae
+email=ravendunn@earthlink.net
+signup_date=9/24/2005
+playerID=2468
+status=regular
+referal=Google
+Verify=1
+Last IP=69.22.20.101
+id=15
+IP=69.22.20.101
+adminstatus=off
+match=09-24-2005
+[Stats]
+Win=2
+Lost=3
+Draw=6
+Lame quits=1
+Newdecks=1
+Level=1
+Exp=72
+Next=100
+Streak=-2
+[Newdecks]
+Last=09-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 112903
+Versus=Eidolon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=draw
+score=5-5

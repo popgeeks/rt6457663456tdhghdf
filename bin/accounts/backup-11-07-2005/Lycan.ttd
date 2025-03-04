@@ -1,0 +1,44 @@
+[player]
+nickname=Lycan
+password=466866433
+email=raulgodoy@msn.com
+signup_date=8/20/2005
+playerID=1911
+status=regular
+referal=Lycan
+Verify=1
+Last IP=200.210.49.7
+id=27
+IP=200.210.49.7
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+GP=20
+Newdecks=1
+Level=1
+Exp=19
+Next=100
+AP=90
+Streak=-1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 88911
+Versus=laguna
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=laguna
+result=draw
+score=10-10

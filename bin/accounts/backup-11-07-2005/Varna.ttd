@@ -1,0 +1,17 @@
+[player]
+nickname=Varna
+password=73587894
+email=arngrim7@aol.com
+signup_date=11/4/2005
+playerID=3143
+status=regular
+referal=ben
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=11-04-2005

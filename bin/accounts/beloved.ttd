@@ -1,0 +1,23 @@
+[AP]
+AAEXP=0
+[player]
+id=32
+match=11-20-2005
+guildinvite=
+guildinvite_name=
+[Play]
+Playing=false
+GameID= 155062
+Versus=suikodonii
+Iam=2
+[Stats]
+Level=3
+Exp=470
+Next=476
+Streak=-8
+[Games]
+Playing=OTT
+[game]
+opponent=suikodonii
+result=loss
+score=12-8

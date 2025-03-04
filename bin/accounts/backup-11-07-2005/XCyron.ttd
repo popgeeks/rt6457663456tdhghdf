@@ -1,0 +1,41 @@
+[player]
+nickname=XCyron
+password=782615422
+email=xcyron@gmx.de
+signup_date=9/11/2005
+playerID=2222
+status=regular
+referal=neovivi12
+Verify=1
+Last IP=87.193.5.172
+id=13
+IP=87.193.5.172
+adminstatus=off
+match=09-16-2005
+[Stats]
+Win=2
+Lost=3
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=118
+Next=248
+Streak=-2
+[Newdecks]
+Last=09-11-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 106643
+Versus=amy
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=amy
+result=loss
+score=14-6

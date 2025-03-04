@@ -1,0 +1,42 @@
+[player]
+nickname=PowerkeithGX
+password=timmy22
+email=warnerk7@msu.edu
+signup_date=9/26/2005
+playerID=2496
+status=regular
+referal=
+Verify=1
+Last IP=35.11.176.57
+id=12
+IP=35.11.176.57
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=24
+Lost=49
+Draw=24
+Lame quits=0
+Newdecks=1
+Level=6
+Exp=1303
+Next=1727
+Streak=-2
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 115313
+Versus=Saffiru111
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Saffiru111
+result=loss
+score=6-4

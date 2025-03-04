@@ -1,0 +1,35 @@
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> QUIT 0 1
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+darklumina>> QUIT 0 1
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> QUIT 0 1
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> APGPCONV 1500
+darklumina>> APGPCONV 600000
+darklumina>> PING
+darklumina>> APGPCONV 600000
+darklumina>> APGPCONV 649330
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> APGPCONV 600000
+darklumina>> QUIT 0 1

@@ -1,0 +1,33 @@
+[player]
+nickname=dizzyhalfer
+password=49595892
+email=renzoramil@yahoo.com
+signup_date=6/20/2005
+playerID=766
+status=regular
+referal=net
+Verify=1
+Last IP=203.213.222.237
+id=8
+IP=203.213.222.237
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=10
+[Newdecks]
+Last=06-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

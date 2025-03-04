@@ -1,0 +1,48 @@
+[player]
+nickname=Thorintar
+password=terroncito
+email=jorgeyalicia20@hotmail.com
+signup_date=8/12/2005
+playerID=1837
+status=regular
+referal=terroncito
+Verify=1
+Last IP=81.32.128.152
+id=52
+IP=81.32.128.152
+adminstatus=off
+match=08-24-2005
+Last Played=08-24-2005
+[Stats]
+Win=24
+Lost=34
+Draw=7
+Lame quits=0
+GP=1513
+Newdecks=1
+Level=5
+Exp=1281
+Next=1301
+AP=197
+Streak=-1
+Choices=1
+SBWin=4
+SBLost=9
+[Newdecks]
+Last=08-12-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 91584
+Versus=SuKo
+Iam=1
+[Games]
+Playing=SB
+[game]
+opponent=SuKo
+result=loss
+score=7-0

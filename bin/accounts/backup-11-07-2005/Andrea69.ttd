@@ -1,0 +1,45 @@
+[player]
+nickname=Andrea69
+password=146422207
+email=magic-a@tiscali.it
+signup_date=9/25/2005
+playerID=2481
+status=regular
+referal=
+Verify=1
+Last IP=83.225.187.147
+id=119
+IP=83.225.187.147
+adminstatus=off
+match=09-28-2005
+[Stats]
+Win=5
+Lost=14
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=312
+Next=476
+Streak=-5
+SBLost=2
+Choices=1
+[Newdecks]
+Last=09-25-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 115845
+Versus=squll-typo
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=ukimaro
+result=loss
+score=7-3
+[Warnings]
+Kicks=1

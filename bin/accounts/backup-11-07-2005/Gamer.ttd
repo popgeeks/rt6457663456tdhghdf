@@ -1,0 +1,18 @@
+[player]
+nickname=Gamer
+password=438442289
+email=rofl@sofort-mail.de
+signup_date=7/21/2005
+playerID=1409
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-21-2005

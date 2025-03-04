@@ -1,0 +1,17 @@
+[player]
+nickname=steveo88
+password=434702097
+email=steveo8823@yahoo.com
+signup_date=10/12/2005
+playerID=2796
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-12-2005

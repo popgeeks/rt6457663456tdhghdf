@@ -1,0 +1,75 @@
+[player]
+nickname=Combat-Sole
+password=saraha
+email=Jason_007@juno.com
+signup_date=3/30/05
+playerID=70
+status=regular
+Verify=1
+Last IP=70.58.100.76
+id=27
+IP=70.58.100.76
+adminstatus=off
+match=06-07-2005
+Last Played=06-07-2005
+[Stats]
+Win=19
+Lost=28
+Draw=1
+Lame quits=0
+GP=388
+rank=1214
+Newdecks=1
+Level=5
+Exp=913
+Next=1301
+Wins=0
+AP=1366
+SBLost=10
+Streak=1
+Choices=1
+SBWin=4
+[Newdecks]
+Last=03-30-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=6
+Level4=2
+Level5=0
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Grendel=1
+Forbidden=1
+Adamantoise=1
+Fujin, Raijin=1
+Death Claw=2
+Cactuar=1
+Buel=1
+Ochu=1
+Caterchipillar=1
+Tri-Face=1
+Granaldo=1
+Oilboyle=2
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 29802
+Versus=Rith
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Rith
+result=win
+score=15-5

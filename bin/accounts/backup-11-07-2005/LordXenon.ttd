@@ -1,0 +1,30 @@
+[player]
+nickname=LordXenon
+password=shadday
+email=xenon54xe@yahoo.com
+signup_date=10/17/2005
+playerID=2904
+status=regular
+referal=
+Verify=1
+Last IP=69.208.157.96
+id=12
+IP=69.208.157.96
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

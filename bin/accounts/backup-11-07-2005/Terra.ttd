@@ -1,0 +1,49 @@
+[player]
+nickname=Terra
+password=164237260
+email=fors544@hotmail.com
+signup_date=5/28/2005
+playerID=525
+status=regular
+referal=
+Verify=1
+Last IP=217.208.75.34
+id=26
+IP=217.208.75.34
+adminstatus=off
+match=06-21-2005
+Last Played=06-21-2005
+[Stats]
+Win=19
+Lost=28
+Draw=12
+Lame quits=3
+GP=1966
+rank=1345
+Newdecks=1
+Level=6
+Exp=1458
+Next=1727
+AP=1795
+SBWin=2
+Streak=-3
+Choices=1
+SBLost=3
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 38199
+Versus=pakelika
+Iam=2
+[password]
+failed=1
+[Games]
+Playing=OTT
+[game]
+opponent=pakelika
+result=draw
+score=10-10

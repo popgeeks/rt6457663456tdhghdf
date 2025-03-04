@@ -1,0 +1,57 @@
+[player]
+nickname=RubyWeapon
+password=356440066
+email=RubyWeapon614@hotmail.com
+signup_date=3/22/05
+playerID=41
+status=regular
+Verify=1
+Last IP=4.245.188.177
+id=16
+IP=4.245.188.177
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=03-22-2005
+[Totals]
+Level1=2
+Level2=1
+Level3=2
+Level4=7
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Iron Giant=1
+Blitz=1
+Wendigo=1
+Adamantoise=1
+Geezard=1
+Bomb=1
+Thrustaevis=1
+Vysage=2
+Shumi Tribe=2
+Forbidden=1
+Blue Dragon=1
+Tri-Face=1
+Blobra=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

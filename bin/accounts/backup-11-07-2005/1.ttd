@@ -1,0 +1,23 @@
+[Play]
+Playing=false
+GameID= 5142
+Versus=darklumina
+Iam=1
+[Games]
+Playing=SB
+[cards]
+Laguna=1
+[player]
+Last IP=58.6.0.105
+status=regular
+id=83
+IP=58.6.0.105
+adminstatus=off
+[AP]
+AAEXP=0
+[Stats]
+Level=1
+Exp=0
+Next=100
+[password]
+failed=0

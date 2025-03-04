@@ -1,0 +1,210 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina>> PING
+darklumina2>> PING
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> JOINTABLE 1
+>> VERSION 1.5.9
+>> LOADGAME kasumi mien123
+>> VERSION 1.5.9
+>> LOADGAME kasumi mine123
+kasumi>> QUERYTABLES 1
+kasumi>> EXTRACHECK
+kasumi>> JOINTABLE 1
+kasumi>> TEAMREADY
+darklumina>> TEAM_READY
+kasumi>> CHALLENGECHAT eww, twins :P
+darklumina2>> TEAMREADY
+darklumina>> CHALLENGECHAT gilgy is a noob
+kasumi>> CHALLENGECHAT *pokes gilgy w/ jay's rubber ducky*
+kasumi>> CHALLENGECHAT wake up o.o
+Gilgamesh>> TEAMREADY
+darklumina2>> TEAM_OTTPLACEAT 24
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME kasumi mine123
+kasumi>> QUERYTABLES 1
+kasumi>> EXTRACHECK
+kasumi>> CHAT here :P
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+kasumi>> JOINTABLE 1
+kasumi>> TEAMREADY
+kasumi>> CHALLENGECHAT btw, u got way too many members on the main server, it's starting to lag :P
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> JOINTABLE 1
+Gilgamesh>> TEAMREADY
+Gilgamesh>> CHALLENGECHAT I wonder...
+Gilgamesh>> CHALLENGECHAT *tries changing his surname*
+darklumina>> TEAM_READY
+darklumina2>> TEAMREADY
+darklumina2>> TEAM_OTTPLACEAT 12
+>> VERSION 1.5.9
+>> LOADGAME kasumi mien123
+>> VERSION 1.5.9
+>> LOADGAME kasumi mine123
+kasumi>> QUERYTABLES 1
+kasumi>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+kasumi>> JOINTABLE 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> JOINTABLE 1
+Gilgamesh>> TEAMREADY
+kasumi>> TEAMREADY
+darklumina>> TEAM_READY
+darklumina2>> TEAMREADY
+kasumi>> CHALLENGECHAT hmm
+darklumina>> PING
+DECRYPTION ERROR: kasumi>> -27-3417-1162167160
+kasumi>> Error decrypting string
+Gilgamesh>> PING
+darklumina2>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME ashley-bot pantyraid13
+ashley-bot>> QUERYTABLES 1
+ashley-bot>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME mirage-bot pantyraid13
+mirage-bot>> QUERYTABLES 1
+mirage-bot>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina2>> JOINTABLE 1
+ashley-bot>> JOINTABLE 1
+mirage-bot>> JOINTABLE 1
+mirage-bot>> QUIT 0 1
+ashley-bot>> QUIT 0 1
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> JOINTABLE 1
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+Gilgamesh>> CHAT liek omg
+j102y>> CHAT ;o
+j102y>> CHAT i r been haxore
+j102y>> JOINTABLE 1
+Gilgamesh>> CHAT harhar
+j102y>> TEAMREADY
+darklumina>> TEAM_READY
+Gilgamesh>> TEAMREADY
+darklumina2>> TEAMREADY
+Gilgamesh>> TEAM_OTTPLACEAT 4
+darklumina>> PING
+darklumina2>> PING
+j102y>> PING
+darklumina2>> CHAT sec
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina>> TEAM_READY
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME j102y orcaina
+>> VERSION 1.5.9
+>> LOADGAME j102y orcaina
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+darklumina>> CREATETABLE4
+darklumina>> TEAM_READY
+Gilgamesh>> CHAT Jay, not on MSN?
+darklumina2>> JOINTABLE 1
+Gilgamesh>> JOINTABLE 1
+darklumina2>> CHAT i haxed him
+j102y>> JOINTABLE 1
+j102y>> TEAMREADY
+darklumina2>> TEAMREADY
+Gilgamesh>> TEAMREADY
+Gilgamesh>> CHAT =O
+darklumina2>> TEAM_OTTPLACEAT 0
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+darklumina>> PING
+Gilgamesh>> PING
+darklumina>> CREATETABLE4
+Gilgamesh>> JOINTABLE 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+Gilgamesh>> TEAMREADY
+>> VERSION 1.5.9
+>> LOADGAME j102y ocarina
+j102y>> QUERYTABLES 1
+j102y>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina2>> TEAMREADY
+j102y>> JOINTABLE 1
+j102y>> TEAMREADY
+darklumina>> CHALLENGECHAT tally me banana!
+darklumina>> TEAM_READY
+darklumina>> TEAM_OTTPLACEAT 24

@@ -1,0 +1,32 @@
+[player]
+nickname=Cobracous
+password=251551389
+email=Magic_Venom@hotmail.com
+signup_date=5/30/2005
+playerID=559
+status=regular
+referal=none
+Verify=1
+Last IP=24.230.41.216
+id=2
+IP=24.230.41.216
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=05-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

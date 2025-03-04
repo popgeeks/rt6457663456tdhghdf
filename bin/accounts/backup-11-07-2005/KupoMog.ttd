@@ -1,0 +1,41 @@
+[player]
+nickname=KupoMog
+password=Puffyone
+email=walbeed2@gmail.com
+signup_date=9/7/2005
+playerID=2157
+status=regular
+referal=
+Verify=1
+Last IP=24.75.176.5
+id=50
+IP=24.75.176.5
+adminstatus=off
+match=09-21-2005
+[Stats]
+Win=4
+Lost=10
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=322
+Next=476
+Streak=-4
+[Newdecks]
+Last=09-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 109942
+Versus=Anacondaur
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Anacondaur
+result=loss
+score=12-10

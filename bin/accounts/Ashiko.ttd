@@ -1,0 +1,17 @@
+[player]
+nickname=Ashiko
+password=722873567
+email=cervixus@gmail.com
+signup_date=9/5/2005
+playerID=2111
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-05-2005

@@ -1,0 +1,45 @@
+[player]
+nickname=blackcosmos
+password=150316417
+email=beanoblaster911@hotmail.com
+signup_date=8/3/2005
+playerID=1675
+status=regular
+referal=
+Verify=1
+Last IP=67.185.41.24
+id=41
+IP=67.185.41.24
+adminstatus=off
+match=08-04-2005
+Last Played=08-04-2005
+[Stats]
+Win=4
+Lost=6
+Draw=1
+Lame quits=0
+GP=251
+Newdecks=1
+Level=2
+Exp=206
+Next=248
+AP=102
+Streak=-2
+Choices=1
+[Newdecks]
+Last=08-03-2005
+[password]
+failed=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 78087
+Versus=HalfAngel
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=HalfAngel
+result=loss
+score=15-5

@@ -1,0 +1,30 @@
+[player]
+nickname=Yamabushi
+password=447474717
+email=masakari@gazeta.pl
+signup_date=9/22/2005
+playerID=2412
+status=regular
+referal=
+Verify=1
+Last IP=85.193.221.92
+id=16
+IP=85.193.221.92
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

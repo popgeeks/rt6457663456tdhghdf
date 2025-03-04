@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=50
+match=12-12-2005
+[Play]
+Playing=false
+GameID= 178501
+Versus=3md
+Iam=2
+[Stats]
+Level=2
+Exp=143
+Next=248
+Streak=-3
+[Games]
+Playing=OTT
+[game]
+opponent=card-pker
+result=loss
+score=13-7

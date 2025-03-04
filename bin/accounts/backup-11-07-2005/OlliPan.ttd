@@ -1,0 +1,40 @@
+[player]
+nickname=OlliPan
+password=eiffel65
+email=olisolid@hotmail.com
+signup_date=9/26/2005
+playerID=2504
+status=regular
+referal=
+Verify=1
+Last IP=84.161.249.150
+id=119
+IP=84.161.249.150
+adminstatus=off
+match=09-26-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 114413
+Versus=PowerkeithGX
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=PowerkeithGX
+result=draw
+score=5-5

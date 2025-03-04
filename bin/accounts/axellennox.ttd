@@ -1,0 +1,41 @@
+[player]
+nickname=axellennox
+password=813196360
+email=aygunalkaya@yahoo.com
+signup_date=10/24/2005
+playerID=2999
+status=regular
+referal=
+Verify=1
+Last IP=85.101.190.243
+id=57
+IP=85.101.190.243
+adminstatus=off
+match=10-24-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=6
+Next=100
+Streak=1
+[Newdecks]
+Last=10-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 135984
+Versus=Deleviathan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Deleviathan
+result=loss
+score=6-4

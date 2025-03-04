@@ -1,0 +1,47 @@
+[player]
+nickname=corn
+password=hotdogg
+email=smurfling@gmail.com
+signup_date=7/20/2005
+playerID=1398
+status=regular
+referal=Google
+Verify=1
+Last IP=12.218.38.221
+id=25
+IP=12.218.38.221
+adminstatus=off
+match=07-22-2005
+Last Played=07-22-2005
+[Stats]
+Win=28
+Lost=74
+Draw=30
+Lame quits=0
+GP=356
+Newdecks=1
+Level=5
+Exp=1186
+Next=1301
+AP=2482
+Streak=-1
+Choices=1
+SBWin=1
+[Newdecks]
+Last=07-20-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 64884
+Versus=toxicbob
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=toxicbob
+result=loss
+score=7-3

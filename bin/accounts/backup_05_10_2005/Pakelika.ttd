@@ -1,0 +1,48 @@
+[player]
+nickname=Pakelika
+password=tifa17
+email=BleedingStatue@aol.com
+signup_date=5/3/2005
+playerID=268
+status=regular
+referal=Heathen
+Verify=1
+Last IP=172.172.81.106
+id=2
+IP=172.172.81.106
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=33
+Lost=53
+Draw=24
+Lame quits=3
+GP=917
+rank=2160
+Newdecks=17
+Level=8
+Exp=2367
+Next=2698
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=05-11-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 14623
+Versus=ColdArmy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=ColdArmy
+result=loss
+score=15-7

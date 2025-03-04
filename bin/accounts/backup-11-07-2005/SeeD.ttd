@@ -1,0 +1,19 @@
+[player]
+nickname=SeeD
+password=289264738
+email=ffpower@svetjinak.net
+signup_date=9/21/2005
+playerID=2401
+status=regular
+referal=zidaneeeee
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-21-2005
+[password]
+failed=2

@@ -1,0 +1,46 @@
+[player]
+nickname=eggstreme
+password=speedo
+email=thomas_beta@hotmail.co.uk
+signup_date=9/9/2005
+playerID=2182
+status=regular
+referal=eggstreme
+Verify=1
+Last IP=86.139.39.23
+id=3
+IP=86.139.39.23
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=93
+Lost=163
+Draw=37
+Lame quits=2
+Newdecks=1
+Level=15
+Exp=8077
+Next=8675
+Streak=1
+SBDraw=1
+SBLost=1
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=90
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 145646
+Versus=HitMan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=HitMan
+result=win
+score=6-4

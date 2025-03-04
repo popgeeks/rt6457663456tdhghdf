@@ -1,0 +1,45 @@
+[player]
+nickname=wasteven
+password=stupid
+email=wasteven@samford.edu
+signup_date=8/18/2005
+playerID=1865
+status=regular
+referal=
+Verify=1
+Last IP=207.157.117.92
+id=29
+IP=207.157.117.92
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=24
+Lost=18
+Draw=15
+Lame quits=0
+GP=28
+Newdecks=1
+Level=4
+Exp=762
+Next=836
+AP=1842
+Streak=-1
+Choices=1
+[Newdecks]
+Last=08-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92676
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=squll-typo
+result=loss
+score=8-2

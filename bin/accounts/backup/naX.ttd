@@ -1,0 +1,58 @@
+[player]
+nickname=naX
+password=iceman
+email=dr.franken_joe@comcast.net
+signup_date=3/26/05
+playerID=59
+status=regular
+Verify=1
+Last IP=68.35.66.241
+id=15
+IP=68.35.66.241
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=03-26-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=2
+Level4=3
+Level5=1
+Level6=4
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Glacial Eye=1
+Tri-Point=1
+Shumi Tribe=2
+SAM08G=1
+Grat=1
+Vysage=1
+Abadon=1
+Grendel=1
+Blood Soul=1
+Imp=1
+Iron Giant=1
+Ochu=1
+Blue Dragon=1
+Elvoret=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

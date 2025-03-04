@@ -1,0 +1,42 @@
+[player]
+nickname=amwhirehead
+password=MANDA
+email=amwhitehead@hotmail.com
+signup_date=11/1/2005
+playerID=3101
+status=regular
+referal=Scott
+Verify=1
+Last IP=70.177.4.76
+id=53
+IP=70.177.4.76
+adminstatus=off
+match=11-02-2005
+[Stats]
+Win=11
+Lost=14
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=335
+Next=476
+Streak=1
+SBWin=2
+[Newdecks]
+Last=11-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 142015
+Versus=hypnoticbob
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=hypnoticbob
+result=win
+score=5-4

@@ -1,0 +1,50 @@
+[player]
+nickname=Stradivaeri
+password=remrem
+email=bob3@mailinator.com
+signup_date=6/13/2005
+playerID=695
+status=regular
+referal=Jinx
+Verify=1
+Last IP=24.253.206.236
+id=26
+IP=24.253.206.236
+adminstatus=off
+match=06-14-2005
+Last Played=06-14-2005
+[Stats]
+Win=3
+Lost=13
+Draw=5
+Lame quits=0
+GP=284
+rank=1211
+Newdecks=11
+Level=3
+Exp=349
+Next=476
+AP=343
+SoldCards=0
+cardsgiven=0
+Streak=-3
+Choices=1
+SBLost=1
+[Newdecks]
+Last=06-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 33231
+Versus=GaretJax
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=GaretJax
+result=loss
+score=10-6

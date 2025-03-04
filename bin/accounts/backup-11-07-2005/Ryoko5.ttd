@@ -1,0 +1,42 @@
+[player]
+nickname=Ryoko5
+password=715900897
+email=uriko5@poczta.fm
+signup_date=10/23/2005
+playerID=2985
+status=regular
+referal=uriko
+Verify=1
+Last IP=83.30.37.104
+id=16
+IP=83.30.37.104
+adminstatus=off
+match=11-03-2005
+[Stats]
+Win=25
+Lost=47
+Draw=9
+Lame quits=0
+Newdecks=1
+Level=7
+Exp=1860
+Next=2154
+Streak=-1
+[Newdecks]
+Last=10-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 143124
+Versus=amy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=amy
+result=loss
+score=11-9

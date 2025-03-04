@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=32
+match=11-26-2005
+[Play]
+Playing=false
+GameID= 158750
+Versus=AAMica
+Iam=2
+[Stats]
+Level=5
+Exp=1006
+Next=1301
+Streak=-2
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=kon
+result=loss
+score=12-8

@@ -1,0 +1,42 @@
+[player]
+nickname=simeon
+password=414178132
+email=jpech2003@yahoo.com
+signup_date=10/9/2005
+playerID=2736
+status=regular
+referal=
+Verify=1
+Last IP=64.252.223.6
+id=16
+IP=64.252.223.6
+adminstatus=off
+match=11-03-2005
+[Stats]
+Win=7
+Lost=13
+Draw=7
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=464
+Next=476
+Streak=-4
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 142794
+Versus=SoCalTrojan
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=SoCalTrojan
+result=loss
+score=14-6

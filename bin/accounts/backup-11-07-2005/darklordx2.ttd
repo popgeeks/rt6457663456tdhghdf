@@ -1,0 +1,46 @@
+[player]
+nickname=darklordx2
+password=888812839
+email=riku_930@hotmail.com
+signup_date=8/26/2005
+playerID=1994
+status=regular
+referal=
+Verify=1
+Last IP=218.103.192.21
+id=55
+IP=218.103.192.21
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=1
+Lost=3
+Draw=3
+Lame quits=1
+GP=10
+Newdecks=5
+Level=1
+Exp=71
+Next=100
+AP=317
+Streak=-3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92443
+Versus=shuriken00
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=shuriken00
+result=loss
+score=6-4

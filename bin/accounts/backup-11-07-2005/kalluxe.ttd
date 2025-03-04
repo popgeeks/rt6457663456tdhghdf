@@ -1,0 +1,37 @@
+[player]
+nickname=kalluxe
+password=C1tr03n128
+email=kalluxe@slash.net
+signup_date=7/26/2005
+playerID=1523
+status=regular
+referal=
+Verify=1
+Last IP=67.79.229.141
+id=22
+IP=67.79.229.141
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+[Newdecks]
+Last=07-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 69394
+Versus=vivimage666
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN

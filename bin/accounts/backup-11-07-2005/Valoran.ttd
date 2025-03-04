@@ -1,0 +1,30 @@
+[player]
+nickname=Valoran
+password=845245241
+email=Pineappleshoes@gmail.com
+signup_date=10/25/2005
+playerID=3003
+status=regular
+referal=
+Verify=1
+Last IP=67.166.153.32
+id=32
+IP=67.166.153.32
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,41 @@
+[player]
+nickname=dragonste
+password=347242354
+email=dragonste89@hotmail.com
+signup_date=11/3/2005
+playerID=3123
+status=regular
+referal=
+Verify=1
+Last IP=86.140.50.23
+id=51
+IP=86.140.50.23
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=3
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=95
+Next=100
+Streak=2
+[Newdecks]
+Last=11-03-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146584
+Versus=suikodonii
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=suikodonii
+result=win
+score=9-1

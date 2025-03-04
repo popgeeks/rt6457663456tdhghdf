@@ -1,0 +1,46 @@
+[player]
+nickname=Roli
+password=594584106
+email=Rolimeister@web.de
+signup_date=7/3/2005
+playerID=993
+status=regular
+referal=
+Verify=1
+Last IP=80.131.233.6
+id=28
+IP=80.131.233.6
+adminstatus=off
+match=07-03-2005
+Last Played=07-03-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+GP=0
+Newdecks=7
+Level=1
+Exp=12
+Next=100
+AP=93
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=07-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=xzellx
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=xzellx
+result=loss
+score=6-4

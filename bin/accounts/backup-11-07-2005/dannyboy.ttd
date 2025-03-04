@@ -1,0 +1,44 @@
+[player]
+nickname=dannyboy
+password=598087429
+email=dannyboydavis@hotmail.com
+signup_date=8/30/2005
+playerID=2028
+status=regular
+referal=FinalFucker
+Verify=1
+Last IP=172.215.119.57
+id=21
+IP=172.215.119.57
+adminstatus=off
+match=09-12-2005
+[Stats]
+Win=31
+Lost=55
+Draw=6
+Lame quits=0
+Newdecks=1
+Level=7
+Exp=1769
+Next=2154
+Streak=-2
+[Newdecks]
+Last=08-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 104041
+Versus=oniz
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=oniz
+result=loss
+score=15-5
+[Warnings]
+Warns=1

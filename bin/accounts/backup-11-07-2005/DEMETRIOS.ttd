@@ -1,0 +1,44 @@
+[player]
+nickname=DEMETRIOS
+password=s1s1s1
+email=tactical@tlen.pl
+signup_date=9/13/2005
+playerID=2263
+status=regular
+referal=
+Verify=1
+Last IP=83.30.159.172
+id=33
+IP=83.30.159.172
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=8
+Lost=29
+Draw=4
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=427
+Next=476
+Streak=-2
+SBLost=10
+SBWin=2
+SBDraw=2
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 144553
+Versus=Alucardian
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alucardian
+result=loss
+score=12-8

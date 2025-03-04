@@ -1,0 +1,41 @@
+[player]
+nickname=Viviatus
+password=777271210
+email=Chaos_Lan@gmx.de
+signup_date=11/6/2005
+playerID=3180
+status=regular
+referal=Lan_XIII
+Verify=1
+Last IP=80.143.51.34
+id=64
+IP=80.143.51.34
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=0
+Lost=6
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=98
+Next=100
+Streak=-5
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145980
+Versus=Lezard
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Lezard
+result=loss
+score=7-3

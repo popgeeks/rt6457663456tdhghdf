@@ -1,0 +1,40 @@
+[player]
+nickname=all
+password=418353318
+email=emmanuel.nir@gmail.com
+signup_date=10/8/2005
+playerID=2714
+status=regular
+referal=301086
+Verify=1
+Last IP=84.100.51.232
+id=118
+IP=84.100.51.232
+adminstatus=off
+match=10-08-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+[Newdecks]
+Last=10-08-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 123441
+Versus=andul
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=andul
+result=draw
+score=5-5

@@ -1,0 +1,46 @@
+[player]
+nickname=Dremora
+password=786812423
+email=NeoTidus@web.de
+signup_date=6/1/2005
+playerID=580
+status=regular
+referal=Dremora
+Verify=1
+Last IP=85.72.34.244
+id=18
+IP=85.72.34.244
+adminstatus=off
+match=06-01-2005
+Last Played=06-01-2005
+[Stats]
+Win=2
+Lost=2
+Draw=1
+Lame quits=0
+GP=192
+rank=1500
+Newdecks=1
+Level=2
+Exp=140
+Next=248
+AP=142
+Streak=2
+Choices=1
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 26204
+Versus=Glenn45
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Glenn45
+result=win
+score=12-6

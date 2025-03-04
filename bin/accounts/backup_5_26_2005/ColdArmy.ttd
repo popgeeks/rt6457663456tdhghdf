@@ -1,0 +1,109 @@
+[player]
+nickname=ColdArmy
+password=484701632
+email=xcure_my_tragedyx@yahoo.com
+signup_date=4/3/05
+playerID=85
+status=regular
+Verify=1
+Last IP=69.132.43.41
+id=19
+IP=69.132.43.41
+adminstatus=off
+Last Played=05-26-2005
+match=05-26-2005
+[Stats]
+Win=433
+Lost=436
+Draw=154
+Lame quits=26
+GP=894
+rank=2603
+Newdecks=1
+Level=23
+Exp=18513
+Next=20718
+Streak=3
+Choices=1
+SoldCards=75
+AP=22
+SBLost=2
+Wins=295
+[Newdecks]
+Last=04-03-2005
+[Totals]
+Level1=5
+Level2=7
+Level3=3
+Level4=7
+Level5=1
+Level6=4
+Level7=6
+Level8=0
+Level9=1
+Level10=0
+Total=0
+[cards]
+Gesper=0
+SAM08G=0
+Blood Soul=1
+Shumi Tribe=0
+GIM47N=0
+Belhelmel=0
+Wendigo=1
+PuPu=0
+Turtapod=1
+Thrustaevis=1
+Trauma=1
+Adamantoise=1
+Elnoyle=0
+Anacondaur=1
+Gargantua=1
+Vysage=1
+Imp=1
+Oilboyle=1
+Creeps=1
+Mesmerize=0
+Elvoret=1
+Ochu=1
+Iguion=1
+Jelleye=1
+Tiamat=1
+Blobra=1
+Red Giant=1
+BGH251F2=1
+Jumbo Cactuar=1
+Fastitocalon-F=1
+Tonberry King=1
+Glacial Eye=1
+Blue Dragon=1
+Cockatrice=1
+Grand Mantis=1
+Caterchipillar=1
+Mobile Type 8=1
+Cactuar=1
+Grendel=1
+Eden=1
+Abyss Worm=1
+Torama=1
+[AP]
+AAEXP=1916
+PCT=30
+AAPOINTS=2
+[Play]
+Playing=false
+GameID= 22588
+Versus=Boko
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=AJ666
+result=win
+score=13-9
+[Warnings]
+Kicks=3
+Warns=1

@@ -1,0 +1,46 @@
+[player]
+nickname=CNash
+password=26739776
+email=cnash.mail@gmail.com
+signup_date=8/4/2005
+playerID=1689
+status=regular
+referal=
+Verify=1
+Last IP=80.2.216.226
+id=45
+IP=80.2.216.226
+adminstatus=off
+match=08-08-2005
+Last Played=08-08-2005
+[Stats]
+Win=9
+Lost=11
+Draw=2
+Lame quits=0
+GP=585
+Newdecks=1
+Level=3
+Exp=385
+Next=476
+AP=526
+Streak=-1
+Choices=1
+SBWin=1
+[Newdecks]
+Last=08-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 82447
+Versus=EvilMulder
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=EvilMulder
+result=loss
+score=14-6

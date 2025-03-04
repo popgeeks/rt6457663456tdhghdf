@@ -1,0 +1,38 @@
+[player]
+nickname=josephkain
+password=585319458
+email=josephkain@gmail.com
+signup_date=5/5/2005
+playerID=288
+status=regular
+referal=
+Verify=1
+Last IP=69.144.181.204
+id=12
+IP=69.144.181.204
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 11290
+Versus=Trepie
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

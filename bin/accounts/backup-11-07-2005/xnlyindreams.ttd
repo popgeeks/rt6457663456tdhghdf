@@ -1,0 +1,35 @@
+[player]
+nickname=xnlyindreams
+password=496468245
+email=shio.chan@gmail.com
+signup_date=9/29/2005
+playerID=2537
+status=regular
+referal=
+Verify=1
+Last IP=24.18.96.249
+id=25
+IP=24.18.96.249
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 116261
+Versus=ukimaro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

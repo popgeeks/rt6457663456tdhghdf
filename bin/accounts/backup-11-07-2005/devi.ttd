@@ -1,0 +1,42 @@
+[player]
+nickname=devi
+password=742420434
+email=duoofwildfire@yahoo.com
+signup_date=10/4/2005
+playerID=2640
+status=regular
+referal=n/a
+Verify=1
+Last IP=65.10.228.45
+id=22
+IP=65.10.228.45
+adminstatus=off
+match=10-12-2005
+[Stats]
+Win=14
+Lost=16
+Draw=9
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=477
+Next=836
+Streak=2
+SBWin=1
+[Newdecks]
+Last=10-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 127350
+Versus=KieranCarden
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=seabass
+result=win
+score=7-3

@@ -1,0 +1,47 @@
+[player]
+nickname=Loire2004
+password=dougall9
+email=bob_ff7@yahoo.co.uk
+signup_date=8/20/2005
+playerID=1902
+status=regular
+referal=google
+Verify=1
+Last IP=82.38.240.38
+id=6
+IP=82.38.240.38
+adminstatus=off
+match=10-31-2005
+Last Played=08-21-2005
+[Stats]
+Win=49
+Lost=71
+Draw=34
+Lame quits=0
+GP=256
+Newdecks=1
+Level=9
+Exp=2734
+Next=3346
+AP=475
+Streak=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 140996
+Versus=Darksol
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Darksol
+result=win
+score=7-3

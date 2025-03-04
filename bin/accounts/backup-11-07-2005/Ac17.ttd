@@ -1,0 +1,20 @@
+[player]
+nickname=Ac17
+password=958060740
+email=dcervantes@sbcglobal.net
+signup_date=7/16/2005
+playerID=1276
+status=regular
+referal=kitty
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-16-2005
+[password]
+failed=57

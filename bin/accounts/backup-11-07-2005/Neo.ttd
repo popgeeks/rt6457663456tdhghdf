@@ -1,0 +1,47 @@
+[player]
+nickname=Neo
+password=725827872
+email=chaosneosky@hotmail.com
+signup_date=8/11/2005
+playerID=1797
+status=regular
+referal=Seraph
+Verify=1
+Last IP=220.255.96.75
+id=204
+IP=220.255.96.75
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+[Stats]
+Win=10
+Lost=2
+Draw=3
+Lame quits=0
+GP=636
+Newdecks=11
+Level=2
+Exp=238
+Next=248
+AP=454
+SoldCards=0
+cardsgiven=0
+Streak=4
+Choices=1
+[Newdecks]
+Last=08-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Someonew
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Someonew
+result=win
+score=6-4

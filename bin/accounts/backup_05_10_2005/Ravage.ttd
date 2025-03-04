@@ -1,0 +1,69 @@
+[player]
+nickname=Ravage
+password=599459468
+email=cool.rek@web.de
+signup_date=4/2/05
+playerID=79
+status=regular
+Verify=1
+Last IP=80.142.254.26
+id=14
+IP=80.142.254.26
+adminstatus=off
+Last Played=04-08-2005
+[Stats]
+Win=21
+Lost=8
+Draw=1
+Lame quits=0
+GP=460
+rank=1445
+Newdecks=1
+Level=3
+Exp=264
+Next=476
+Streak=-1
+Choices=1
+[Newdecks]
+Last=04-02-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=2
+Level4=1
+Level5=1
+Level6=4
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Forbidden=1
+Tonberry=1
+Buel=1
+Iguion=1
+Glacial Eye=2
+Elnoyle=1
+Fastitocalon-F=1
+Fujin, Raijin=2
+Blue Dragon=1
+Catoblepas=1
+X-ATM092=1
+Caterchipillar=1
+Ultima Weapon=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4208
+Versus=Master
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Master
+result=loss
+score=6-4

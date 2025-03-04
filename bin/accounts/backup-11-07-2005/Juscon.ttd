@@ -1,0 +1,40 @@
+[player]
+nickname=Juscon
+password=364133774
+email=mzobel@new.rr.com
+signup_date=9/7/2005
+playerID=2144
+status=regular
+referal=
+Verify=1
+Last IP=69.23.101.221
+id=37
+IP=69.23.101.221
+adminstatus=off
+match=09-08-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+[Newdecks]
+Last=09-07-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 101327
+Versus=ukimaro
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=ukimaro
+result=draw
+score=5-5

@@ -1,0 +1,33 @@
+[player]
+nickname=milliardo
+password=409543752
+email=bryanh000@yahoo.com
+signup_date=6/12/2005
+playerID=687
+status=regular
+referal=
+Verify=1
+Last IP=69.141.198.116
+id=25
+IP=69.141.198.116
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=5
+[Newdecks]
+Last=06-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,47 @@
+[player]
+nickname=Ghulghail
+password=31948
+email=ghulghail@poczta.onet.pl
+signup_date=8/1/2005
+playerID=1638
+status=regular
+referal=Veltis
+Verify=1
+Last IP=83.25.82.41
+id=9
+IP=83.25.82.41
+adminstatus=off
+match=08-03-2005
+Last Played=08-03-2005
+[Stats]
+Win=21
+Lost=25
+Draw=8
+Lame quits=1
+GP=380
+Newdecks=1
+Level=5
+Exp=968
+Next=1301
+AP=1599
+Streak=4
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-01-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 77192
+Versus=Veltis
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Veltis
+result=win
+score=12-8

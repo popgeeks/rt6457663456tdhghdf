@@ -1,0 +1,49 @@
+[player]
+nickname=Ginni
+password=cyberwolf
+email=G_patpatia@hotmail.com
+signup_date=7/30/2005
+playerID=1577
+status=regular
+referal=
+Verify=1
+Last IP=80.202.145.194
+id=16
+IP=80.202.145.194
+adminstatus=off
+match=08-11-2005
+Last Played=08-11-2005
+[Stats]
+Win=21
+Lost=30
+Draw=4
+Lame quits=0
+GP=1872
+Newdecks=1
+Level=6
+Exp=1352
+Next=1727
+AP=2150
+Streak=1
+Choices=1
+SBWin=1
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 84014
+Versus=Albanchurro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Albanchurro
+result=win
+score=14-8
+[Warnings]
+Kicks=1

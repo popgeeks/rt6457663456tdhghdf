@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+[player]
+id=12
+match=02-19-2006
+[Play]
+Playing=false
+GameID= 362101
+Versus=lucy
+Iam=2
+[Stats]
+Level=3
+Exp=347
+Next=476
+Streak=-2
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=kidlover1
+result=loss
+score=15-5

@@ -1,0 +1,148 @@
+>> VERSION 1.5.7
+>> LOADGAME darkjaxychan ilikemilk
+darkjaxychan>> QUERYTABLES 1
+darkjaxychan>> EXTRACHECK
+darkjaxychan>> UNLOCKSHOP
+darkjaxychan>> SHOPADD Fujin,%20Raijin 5666
+darkjaxychan>> SHOPADD Anacondaur 5666
+darkjaxychan>> CHAT ...
+darkjaxychan>> CHAT ,,,
+darkjaxychan>> SHOPMINUS Fujin,%20Raijin
+darkjaxychan>> SHOPMINUS Anacondaur
+darkjaxychan>> SHOPMINUS Anacondaur
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> UNLOCKSHOP
+darklumina>> SHOPADD Oulan 80
+darklumina>> SHOPMINUS Oulan
+darklumina>> SHOPMINUS Oulan
+darklumina>> SHOPMINUS Oulan
+darklumina>> SHOPMINUS Oulan
+darklumina>> UNLOCKSHOP
+darklumina>> SHOPADD Super%20Tiamat 100
+darklumina>> SHOPMINUS Super%20Tiamat
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> UNLOCKSHOP
+darklumina>> SHOPADD Dancer%20Female 34
+darklumina>> SHOPMINUS Dancer%20Female
+darklumina>> SHOPMINUS Dancer%20Female
+darklumina>> SHOPMINUS Dancer%20Female
+darklumina>> SHOPADD Lede 34
+darklumina>> SHOPMINUS Lede
+darklumina>> SHOPMINUS Lede
+darklumina>> SHOPMINUS Lede
+darklumina>> SHOPMINUS Lede
+darklumina>> SHOPMINUS Lede
+>> VERSION 1.5.7
+>> LOADGAME DarkJaxyChan ilikemilk
+DarkJaxyChan>> QUERYTABLES 1
+DarkJaxyChan>> EXTRACHECK
+DarkJaxyChan>> UNLOCKSHOP
+DarkJaxyChan>> SHOPADD Timothy 6666
+DarkJaxyChan>> SHOPADD Timothy 6666
+DarkJaxyChan>> SHOPMINUS Timothy
+DarkJaxyChan>> SHOPMINUS Timothy
+DarkJaxyChan>> PSTATS DarkJaxyChan
+DarkJaxyChan>> SHOPMINUS Timothy
+DarkJaxyChan>> CHAT ahhh
+DarkJaxyChan>> SHOPMINUS Timothy
+DarkJaxyChan>> SHOPADD Hammer 6666
+DarkJaxyChan>> SHOPMINUS Hammer
+DarkJaxyChan>> SHOPADD Masa 6666
+darklumina>> PING
+DarkJaxyChan>> SHOPMINUS Masa
+DarkJaxyChan>> SHOPMINUS Masa
+DarkJaxyChan>> SHOPMINUS Masa
+DarkJaxyChan>> PING
+darklumina>> CHAT got to press the remove button really fast
+DarkJaxyChan>> CHAT i did
+DarkJaxyChan>> SHOPMINUS Timothy
+darklumina>> CHAT i saw for masa u did
+DarkJaxyChan>> UNLOCKSHOP
+darklumina>> CHAT u only got 1 right?
+DarkJaxyChan>> SHOPADD Lebrante 77
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+darklumina>> CHAT i got the dupe before my fix, but my fix didnt let me get a 2nd Lede
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Kinnison 777
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Kinnison
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPADD Lebrante 777
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> SHOPMINUS Lebrante
+DarkJaxyChan>> CHAT woah
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> UNLOCKSHOP
+darklumina>> UNLOCKSHOP
+darklumina>> UNLOCKSHOP
+darklumina>> UNLOCKSHOP
+darklumina>> SHOPADD Oracle%20Male 100
+darklumina>> UNLOCKSHOP
+>> VERSION 1.5.7
+>> LOADGAME darkjaxychan ilikemilk
+darkjaxychan>> QUERYTABLES 1
+darkjaxychan>> EXTRACHECK
+darkjaxychan>> SHOPGET darklumina
+darkjaxychan>> SHOPCARDBUY darklumina Oracle%20Male 100
+darkjaxychan>> SHOPCARDBUY darklumina Oracle%20Male 100
+darkjaxychan>> SHOPGET darkjaxychan
+darklumina>> CHAT grrr
+darkjaxychan>> CHAT rofl
+darkjaxychan>> SHOPGET darklumina
+darklumina>> UNLOCKSHOP
+darklumina>> SHOPADD Priest%20Male 100
+darkjaxychan>> SHOPGET darklumina
+darkjaxychan>> SHOPCARDBUY darklumina Priest%20Male 100
+darkjaxychan>> SHOPCARDBUY darklumina Priest%20Male 100
+darkjaxychan>> SHOPCARDBUY darklumina Priest%20Male 100
+darklumina>> CHAT GDI
+darklumina>> PING
+darkjaxychan>> PING
+darklumina>> CHAT wait a sec
+darklumina>> CHAT lol
+darklumina>> UNLOCKSHOP
+darklumina>> SHOPADD Archer%20Male 100
+darklumina>> CHAT okay now
+darkjaxychan>> SHOPGET darklumina
+darkjaxychan>> SHOPCARDBUY darklumina Archer%20Male 100
+darkjaxychan>> SHOPCARDBUY darklumina Archer%20Male 100
+darkjaxychan>> CHAT meanie
+darkjaxychan>> SHOPCARDBUY darklumina Archer%20Male 100
+darklumina>> QUIT 0 1

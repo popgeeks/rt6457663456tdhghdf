@@ -1,0 +1,32 @@
+[player]
+nickname=Santiago
+password=432592689
+email=Santiago_gato@mail.pt
+signup_date=7/12/2005
+playerID=1227
+status=regular
+referal=mariana
+Verify=1
+Last IP=81.193.48.71
+id=5
+IP=81.193.48.71
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=58
+[Newdecks]
+Last=07-12-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

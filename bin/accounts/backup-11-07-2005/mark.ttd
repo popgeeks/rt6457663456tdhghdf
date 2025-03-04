@@ -1,0 +1,38 @@
+[player]
+nickname=mark
+password=183036446
+email=Dionne_Milne@hotmail.co.uk
+signup_date=6/9/2005
+playerID=656
+status=regular
+referal=
+Verify=1
+Last IP=86.131.125.62
+id=11
+IP=86.131.125.62
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=19
+[Newdecks]
+Last=06-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 30557
+Versus=crab-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

@@ -1,0 +1,54 @@
+[player]
+nickname=LeonSKennedy
+password=407884299
+email=leon_scott_kennedy@hotmail.com
+signup_date=6/27/2005
+playerID=883
+status=regular
+referal=Jean
+Verify=1
+Last IP=200.101.142.124
+id=29
+IP=200.101.142.124
+adminstatus=off
+match=08-21-2005
+Last Played=08-21-2005
+guildinvite=
+guildinvite_name=
+guild=
+guildmaster=
+[Stats]
+Win=282
+Lost=182
+Draw=79
+Lame quits=4
+GP=2412
+Newdecks=1
+Level=17
+Exp=11223
+Next=11368
+AP=8746
+Streak=-2
+Choices=1
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=1122
+honor=1
+PCT=20
+[Play]
+Playing=false
+GameID= 89740
+Versus=ColdArmy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=ColdArmy
+result=loss
+score=11-9
+[Warnings]
+Kicks=1

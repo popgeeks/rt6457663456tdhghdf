@@ -1,0 +1,33 @@
+[player]
+nickname=panzer
+password=268100023
+email=tricycledemon@hotmail.com
+signup_date=6/19/2005
+playerID=761
+status=regular
+referal=
+Verify=1
+Last IP=24.71.145.94
+id=24
+IP=24.71.145.94
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=06-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

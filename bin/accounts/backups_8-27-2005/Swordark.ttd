@@ -1,0 +1,47 @@
+[player]
+nickname=Swordark
+password=paparaul
+email=swordark@gmail.com
+signup_date=8/6/2005
+playerID=1718
+status=regular
+referal=
+Verify=1
+Last IP=85.60.69.129
+id=28
+IP=85.60.69.129
+adminstatus=off
+match=08-09-2005
+Last Played=08-09-2005
+[Stats]
+Win=10
+Lost=14
+Draw=5
+Lame quits=0
+GP=876
+Newdecks=1
+Level=4
+Exp=529
+Next=836
+AP=381
+Streak=-1
+SBDraw=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 83003
+Versus=DudeCaim
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=DudeCaim
+result=loss
+score=81-21

@@ -1,0 +1,44 @@
+[player]
+nickname=ripxxkurdt
+password=41763663
+email=ripxxkurdt@yahoo.com
+signup_date=6/26/2005
+playerID=863
+status=regular
+referal=
+Verify=1
+Last IP=67.185.217.225
+id=23
+IP=67.185.217.225
+adminstatus=off
+match=06-27-2005
+Last Played=06-27-2005
+[Stats]
+Win=2
+Lost=4
+Draw=1
+Lame quits=0
+GP=75
+Newdecks=1
+Level=1
+Exp=99
+Next=100
+AP=29
+Streak=-1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Zophar
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Zophar
+result=loss
+score=7-3

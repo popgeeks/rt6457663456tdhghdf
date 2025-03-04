@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=165
+match=01-15-2006
+[Play]
+Playing=false
+GameID= 199998
+Versus=Tranvinh
+Iam=2
+[Stats]
+Level=3
+Exp=428
+Next=476
+Streak=-3
+[Games]
+Playing=TT
+[game]
+opponent=Tranvinh
+result=draw
+score=5-5

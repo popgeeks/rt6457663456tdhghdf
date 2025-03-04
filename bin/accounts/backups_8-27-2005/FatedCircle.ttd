@@ -1,0 +1,43 @@
+[player]
+nickname=FatedCircle
+password=fatedness
+email=FatedCircle2000@hotmail.com
+signup_date=7/19/2005
+playerID=1372
+status=regular
+referal=
+Verify=1
+Last IP=82.36.224.160
+id=35
+IP=82.36.224.160
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=90
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=205
+[Newdecks]
+Last=07-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 74058
+Versus=Gilgamesh
+Iam=2
+[password]
+failed=0
+[Warnings]
+Warns=1
+[Games]
+Challenged=

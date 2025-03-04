@@ -1,0 +1,17 @@
+[player]
+nickname=RingOfTruth
+password=977019726
+email=tarja_mail@yahoo.com.br
+signup_date=8/28/2005
+playerID=1994
+status=regular
+referal=Ring
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=08-28-2005

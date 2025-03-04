@@ -1,0 +1,45 @@
+[player]
+nickname=Cubsfan0817
+password=770672499
+email=cubsfan0817@hotmail.com
+signup_date=7/17/2005
+playerID=1331
+status=regular
+referal=
+Verify=1
+Last IP=71.97.190.130
+id=42
+IP=71.97.190.130
+adminstatus=off
+match=07-17-2005
+Last Played=07-17-2005
+[Stats]
+Win=2
+Lost=4
+Draw=0
+Lame quits=0
+GP=22
+Newdecks=1
+Level=1
+Exp=66
+Next=100
+AP=109
+Streak=1
+SBWin=1
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 58766
+Versus=vickyjoy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=vickyjoy
+result=win
+score=13-11

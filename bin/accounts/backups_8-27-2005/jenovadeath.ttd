@@ -1,0 +1,21 @@
+[player]
+nickname=jenovadeath
+password=626409351
+email=jenovadeth@mail.ru
+signup_date=6/14/2005
+playerID=704
+status=regular
+referal=supernova
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-14-2005
+[password]
+failed=1

@@ -1,0 +1,43 @@
+[player]
+nickname=flik333
+password=992843567
+email=pesmerga@hotmail.com
+signup_date=11/6/2005
+playerID=3177
+status=regular
+referal=bruno
+Verify=1
+Last IP=201.32.144.196
+id=52
+IP=201.32.144.196
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=3
+Lost=13
+Draw=4
+Lame quits=0
+Newdecks=3
+Level=2
+Exp=198
+Next=248
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145886
+Versus=Ruglia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Ruglia
+result=win
+score=6-4

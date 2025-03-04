@@ -1,0 +1,37 @@
+[player]
+nickname=Kuji
+password=998527823
+email=kuji_77@yahoo.fr
+signup_date=8/27/2005
+playerID=2019
+status=regular
+referal=
+Verify=1
+Last IP=82.238.17.243
+id=14
+IP=82.238.17.243
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=08-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 93279
+Versus=exist
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT

@@ -1,0 +1,20 @@
+[player]
+nickname=bluntcid
+password=927347122
+email=tatertot@rock.com
+signup_date=8/20/2005
+playerID=1905
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-20-2005
+[password]
+failed=2

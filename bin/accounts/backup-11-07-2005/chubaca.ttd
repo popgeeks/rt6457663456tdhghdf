@@ -1,0 +1,44 @@
+[player]
+nickname=chubaca
+password=494972288
+email=erickctsang2@hotmail.co.uk
+signup_date=7/17/2005
+playerID=1318
+status=regular
+referal=qcgewr
+Verify=1
+Last IP=84.9.50.17
+id=35
+IP=84.9.50.17
+adminstatus=off
+match=07-17-2005
+Last Played=07-17-2005
+[Stats]
+Win=0
+Lost=4
+Draw=0
+Lame quits=0
+GP=20
+Newdecks=1
+Level=1
+Exp=60
+Next=100
+AP=76
+Streak=-3
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=gawain187
+Iam=1
+[password]
+failed=1
+[Games]
+Playing=TT
+[game]
+opponent=gawain187
+result=loss
+score=8-2

@@ -1,0 +1,45 @@
+[player]
+nickname=Alexander
+password=153757810
+email=Zell_kachi@hotmail.com
+signup_date=9/12/2005
+playerID=2246
+status=regular
+referal=Diemus
+Verify=1
+Last IP=84.122.105.0
+id=120
+IP=84.122.105.0
+adminstatus=off
+match=10-02-2005
+[Stats]
+Win=0
+Lost=3
+Draw=1
+Lame quits=0
+Newdecks=7
+Level=1
+Exp=33
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=10-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 118729
+Versus=MILAMBER
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Lucian
+result=loss
+score=8-2
+[Warnings]
+Kicks=1

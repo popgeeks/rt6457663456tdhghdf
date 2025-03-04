@@ -1,0 +1,41 @@
+[player]
+nickname=Kadaj
+password=zidaneeeee
+email=ffpower@seznam.cz
+signup_date=9/21/2005
+playerID=2402
+status=regular
+referal=zidaneeeee
+Verify=1
+Last IP=83.240.1.248
+id=140
+IP=83.240.1.248
+adminstatus=off
+match=10-09-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=24
+Next=100
+Streak=-1
+[Newdecks]
+Last=09-21-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 124550
+Versus=phreakazoid
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=7-3

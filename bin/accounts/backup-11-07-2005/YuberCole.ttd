@@ -1,0 +1,41 @@
+[player]
+nickname=YuberCole
+password=441535830
+email=locke325@hotmail.com
+signup_date=10/15/2005
+playerID=2865
+status=regular
+referal=blade2k.net
+Verify=1
+Last IP=65.23.197.155
+id=40
+IP=65.23.197.155
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=3
+Lost=4
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=128
+Next=248
+Streak=-2
+[Newdecks]
+Last=10-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 129674
+Versus=LennethVP
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=LennethVP
+result=loss
+score=7-3

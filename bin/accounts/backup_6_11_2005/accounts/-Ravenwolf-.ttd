@@ -1,0 +1,48 @@
+[player]
+nickname=-Ravenwolf-
+password=luna987
+email=ravenwolf_zero@hotmail.com
+signup_date=6/3/2005
+playerID=599
+status=regular
+referal=Kojiro777
+Verify=1
+Last IP=24.229.162.15
+id=30
+IP=24.229.162.15
+adminstatus=off
+Last Played=06-06-2005
+match=06-06-2005
+[Stats]
+Win=6
+Lost=12
+Draw=1
+Lame quits=0
+GP=10
+rank=1295
+Newdecks=3
+Level=3
+Exp=319
+Next=476
+AP=222
+Streak=-3
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 29386
+Versus=amy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=amy
+result=loss
+score=12-8

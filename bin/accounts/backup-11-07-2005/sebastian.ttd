@@ -1,0 +1,30 @@
+[player]
+nickname=sebastian
+password=728417515
+email=dorso1987@hotmail.com
+signup_date=8/31/2005
+playerID=2041
+status=regular
+referal=trincado
+Verify=1
+Last IP=201.246.162.247
+id=19
+IP=201.246.162.247
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=08-31-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

@@ -1,0 +1,19 @@
+[player]
+nickname=Javok
+password=167223155
+email=j1vok@o2.pl
+signup_date=5/15/2005
+playerID=385
+status=regular
+referal=javok@o2.pl
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-15-2005

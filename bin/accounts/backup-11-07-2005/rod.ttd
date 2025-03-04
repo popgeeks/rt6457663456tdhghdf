@@ -1,0 +1,33 @@
+[player]
+nickname=rod
+password=82786977
+email=malboro_rod_10@yahoo.com.mx
+signup_date=4/30/2005
+playerID=235
+status=regular
+referal=
+Verify=1
+Last IP=201.128.58.218
+id=29
+IP=201.128.58.218
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=04-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

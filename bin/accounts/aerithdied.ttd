@@ -1,0 +1,32 @@
+[player]
+nickname=aerithdied
+password=aragorn
+email=murderousmother@yahoo.com
+signup_date=7/10/2005
+playerID=1150
+status=regular
+referal=Wraith
+Verify=1
+Last IP=12.214.195.188
+id=26
+IP=12.214.195.188
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=33
+[Newdecks]
+Last=07-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

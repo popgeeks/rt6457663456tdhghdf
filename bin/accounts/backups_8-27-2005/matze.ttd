@@ -1,0 +1,20 @@
+[player]
+nickname=matze
+password=62943518
+email=007@007.de
+signup_date=7/1/2005
+playerID=945
+status=regular
+referal=matze
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-01-2005
+[password]
+failed=1

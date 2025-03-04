@@ -1,0 +1,43 @@
+[player]
+nickname=pelk
+password=435128509
+email=pelkje@hotmail.com
+signup_date=10/16/2005
+playerID=2874
+status=regular
+referal=
+Verify=1
+Last IP=81.164.23.246
+id=23
+IP=81.164.23.246
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=15
+Lost=21
+Draw=12
+Lame quits=0
+Newdecks=3
+Level=4
+Exp=477
+Next=836
+Streak=-4
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130952
+Versus=darkfire
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=darkfire
+result=loss
+score=9-1

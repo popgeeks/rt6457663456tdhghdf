@@ -1,0 +1,46 @@
+[player]
+nickname=Kaydos
+password=rainbow
+email=thekaydos@hotmail.com
+signup_date=5/4/2005
+playerID=282
+status=regular
+referal=
+Verify=1
+Last IP=131.217.220.216
+id=5
+IP=131.217.220.216
+adminstatus=off
+match=05-06-2005
+Last Played=05-06-2005
+[Stats]
+Win=5
+Lost=3
+Draw=3
+Lame quits=0
+GP=493
+rank=1490
+Newdecks=1
+Level=3
+Exp=275
+Next=476
+Streak=1
+Choices=1
+Wins=5
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=JamesFate
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=JamesFate
+result=win
+score=9-1

@@ -1,0 +1,20 @@
+[player]
+nickname=Artemis
+password=586665391
+email=staring2breathe@gmail.com
+signup_date=7/15/2005
+playerID=1266
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-15-2005
+[password]
+failed=10

@@ -1,0 +1,44 @@
+[player]
+nickname=JesusOfBC
+password=pie123
+email=celmerri@msu.edu
+signup_date=10/11/2005
+playerID=2789
+status=regular
+referal=Keith
+Verify=1
+Last IP=35.11.182.120
+id=22
+IP=35.11.182.120
+adminstatus=off
+match=10-31-2005
+[Stats]
+Win=34
+Lost=40
+Draw=22
+Lame quits=1
+Newdecks=3
+Level=7
+Exp=2001
+Next=2154
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=10-11-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 140731
+Versus=taliesin2943
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=taliesin2943
+result=win
+score=6-4

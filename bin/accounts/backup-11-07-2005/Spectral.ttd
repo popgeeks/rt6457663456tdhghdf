@@ -1,0 +1,30 @@
+[player]
+nickname=Spectral
+password=221294462
+email=killer_puppy666@hotmail.com
+signup_date=9/2/2005
+playerID=2059
+status=regular
+referal=Spectral
+Verify=1
+Last IP=64.4.232.219
+id=20
+IP=64.4.232.219
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-02-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=38
+match=12-03-2005
+[Play]
+Playing=false
+GameID= 168726
+Versus=phreakazoid
+Iam=2
+[Stats]
+Level=2
+Exp=162
+Next=248
+Streak=-15
+[Games]
+Playing=TT
+[game]
+opponent=phoenix243
+result=loss
+score=13-7

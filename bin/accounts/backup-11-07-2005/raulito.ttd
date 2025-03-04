@@ -1,0 +1,41 @@
+[player]
+nickname=raulito
+password=64541995
+email=raulmercadojr@hotmail.com
+signup_date=9/14/2005
+playerID=2281
+status=regular
+referal=friend
+Verify=1
+Last IP=66.253.156.239
+id=12
+IP=66.253.156.239
+adminstatus=off
+match=09-14-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=1
+[Newdecks]
+Last=09-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 105344
+Versus=Aoshi
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Aoshi
+result=win
+score=15-5

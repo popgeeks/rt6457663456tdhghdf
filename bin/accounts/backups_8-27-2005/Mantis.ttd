@@ -1,0 +1,18 @@
+[player]
+nickname=Mantis
+password=498853623
+email=user@web.de
+signup_date=7/3/2005
+playerID=990
+status=regular
+referal=Mantis
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-03-2005

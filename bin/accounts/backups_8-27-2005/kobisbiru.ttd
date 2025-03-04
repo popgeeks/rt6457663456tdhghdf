@@ -1,0 +1,32 @@
+[player]
+nickname=kobisbiru
+password=170755386
+email=kobisbiru@yahoo.com
+signup_date=7/6/2005
+playerID=1055
+status=regular
+referal=kobis
+Verify=1
+Last IP=219.95.237.232
+id=14
+IP=219.95.237.232
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=07-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,44 @@
+[player]
+nickname=overtake
+password=4291873
+email=marcio_catujal15@hotmail.com
+signup_date=7/17/2005
+playerID=1329
+status=regular
+referal=overtake
+Verify=1
+Last IP=85.138.56.181
+id=1
+IP=85.138.56.181
+adminstatus=off
+match=07-17-2005
+Last Played=07-17-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=19
+Next=100
+AP=26
+Streak=1
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 58703
+Versus=Yojimbo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Yojimbo
+result=loss
+score=11-9

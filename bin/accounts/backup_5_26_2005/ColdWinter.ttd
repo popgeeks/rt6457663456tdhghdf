@@ -1,0 +1,49 @@
+[player]
+nickname=ColdWinter
+password=bmargera
+email=mrseganbyrne@hotmail.com
+signup_date=4/23/05
+playerID=194
+status=regular
+referal=Rain
+Verify=1
+Last IP=86.131.52.251
+id=1
+IP=86.131.52.251
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+[Stats]
+Win=34
+Lost=47
+Draw=14
+Lame quits=0
+GP=532
+rank=942
+Newdecks=1
+Level=8
+Exp=2356
+Next=2698
+Streak=-1
+Choices=1
+Wins=10
+AP=2094
+SBLost=2
+[Newdecks]
+Last=04-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 22490
+Versus=warhead
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=warhead
+result=loss
+score=10-8

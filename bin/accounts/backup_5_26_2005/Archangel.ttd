@@ -1,0 +1,49 @@
+[player]
+nickname=Archangel
+password=swordfish
+email=transient_perfection@hotmail.com
+signup_date=5/5/2005
+playerID=286
+status=regular
+referal=BloodLust
+Verify=1
+Last IP=70.105.87.5
+id=18
+IP=70.105.87.5
+adminstatus=off
+Last Played=05-16-2005
+match=05-16-2005
+[Stats]
+Win=23
+Lost=3
+Draw=3
+Lame quits=0
+GP=284
+rank=2406
+Newdecks=1
+Level=4
+Exp=478
+Next=836
+Streak=-1
+Choices=1
+AP=222
+Wins=16
+SBLost=1
+SoldCards=2
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17452
+Versus=PlayForKeeps
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=PlayForKeeps
+result=loss
+score=7-3

@@ -1,0 +1,41 @@
+[player]
+nickname=jonask2
+password=543406247
+email=joel.okembia@comhem.se
+signup_date=10/20/2005
+playerID=2942
+status=regular
+referal=hades2
+Verify=1
+Last IP=83.253.20.234
+id=22
+IP=83.253.20.234
+adminstatus=off
+match=10-20-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=1
+[Newdecks]
+Last=10-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 132967
+Versus=meh2
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=meh2
+result=loss
+score=15-5

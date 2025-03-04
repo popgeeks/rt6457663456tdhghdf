@@ -1,0 +1,47 @@
+[player]
+nickname=D33F0L7
+password=350074171
+email=mjmdg2000@hotmail.com
+signup_date=8/9/2005
+playerID=1765
+status=regular
+referal=
+Verify=1
+Last IP=210.84.25.181
+id=214
+IP=210.84.25.181
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+[Stats]
+Win=3
+Lost=6
+Draw=4
+Lame quits=0
+GP=215
+Newdecks=3
+Level=2
+Exp=187
+Next=248
+AP=416
+Streak=-1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=08-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 85535
+Versus=ColdArmy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ColdArmy
+result=loss
+score=6-4

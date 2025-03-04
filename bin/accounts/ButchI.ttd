@@ -1,0 +1,54 @@
+[player]
+nickname=ButchI
+password=007767
+email=linkeleven@web.de
+signup_date=5/15/2005
+playerID=390
+status=regular
+referal=ButchI
+Verify=1
+Last IP=212.204.4.20
+id=36
+IP=212.204.4.20
+adminstatus=off
+match=03-02-2006
+Last Played=05-28-2005
+guildinvite=
+guildinvite_name=
+guild=Revenge of Getro
+guildmaster=3
+[Stats]
+Win=59
+Lost=120
+Draw=40
+Lame quits=1
+GP=546
+rank=1333
+Newdecks=1
+Level=11
+Exp=4265
+Next=4838
+AP=859
+Streak=-1
+Choices=1
+SBLost=4
+SoldCards=15
+[Newdecks]
+Last=05-15-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 383400
+Versus=bigmanufan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=damian377
+result=loss
+score=16-8

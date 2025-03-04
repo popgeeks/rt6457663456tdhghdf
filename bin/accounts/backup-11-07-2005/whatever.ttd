@@ -1,0 +1,41 @@
+[player]
+nickname=whatever
+password=471155523
+email=alan_turatti@hotmail.com
+signup_date=9/9/2005
+playerID=2185
+status=regular
+referal=alan
+Verify=1
+Last IP=200.180.79.239
+id=18
+IP=200.180.79.239
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=6
+Lost=9
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=199
+Next=248
+Streak=-4
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102563
+Versus=blinker616
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=blinker616
+result=loss
+score=6-4

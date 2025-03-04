@@ -1,0 +1,19 @@
+[player]
+nickname=Stormward
+password=529261946
+email=city_light@usa.com
+signup_date=9/5/2005
+playerID=2117
+status=regular
+referal=Mike
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-05-2005
+[password]
+failed=12

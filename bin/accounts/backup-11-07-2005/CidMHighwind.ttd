@@ -1,0 +1,43 @@
+[player]
+nickname=CidMHighwind
+password=766490637
+email=Craig_Carpenter122@hotmail.com
+signup_date=10/9/2005
+playerID=2740
+status=regular
+referal=Craig
+Verify=1
+Last IP=67.140.9.141
+id=21
+IP=67.140.9.141
+adminstatus=off
+match=10-13-2005
+[Stats]
+Win=2
+Lost=5
+Draw=1
+Lame quits=1
+Newdecks=1
+Level=1
+Exp=76
+Next=100
+Streak=-5
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 127709
+Versus=amy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=blackcat
+result=loss
+score=7-3
+[Warnings]
+Kicks=1

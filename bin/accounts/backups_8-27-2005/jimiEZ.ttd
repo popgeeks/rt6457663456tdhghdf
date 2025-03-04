@@ -1,0 +1,32 @@
+[player]
+nickname=jimiEZ
+password=880265950
+email=mullahishere@hotmail.com
+signup_date=8/19/2005
+playerID=1883
+status=regular
+referal=
+Verify=1
+Last IP=81.155.227.94
+id=10
+IP=81.155.227.94
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=5
+[Newdecks]
+Last=08-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

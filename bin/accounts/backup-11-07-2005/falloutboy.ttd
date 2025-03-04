@@ -1,0 +1,46 @@
+[player]
+nickname=falloutboy
+password=258805274
+email=g0n3_f0r3v3r@msn.com
+signup_date=7/29/2005
+playerID=1572
+status=regular
+referal=
+Verify=1
+Last IP=82.42.123.28
+id=4
+IP=82.42.123.28
+adminstatus=off
+match=07-29-2005
+Last Played=07-29-2005
+[Stats]
+Win=4
+Lost=6
+Draw=4
+Lame quits=0
+GP=447
+Newdecks=1
+Level=3
+Exp=268
+Next=476
+AP=472
+Streak=2
+Choices=1
+SBDraw=1
+[Newdecks]
+Last=07-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 72515
+Versus=sig0n
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sig0n
+result=win
+score=13-7

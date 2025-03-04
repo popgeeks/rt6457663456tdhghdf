@@ -1,0 +1,49 @@
+[player]
+nickname=Babygirl
+password=letmein
+email=lollabunny247@yahoo.com
+signup_date=5/2/2005
+playerID=267
+status=regular
+referal=Vicky
+Verify=1
+Last IP=69.138.45.76
+id=43
+IP=69.138.45.76
+adminstatus=off
+match=07-10-2005
+Last Played=07-10-2005
+[Stats]
+Win=6
+Lost=7
+Draw=4
+Lame quits=1
+GP=225
+rank=1500
+Newdecks=1
+Level=2
+Exp=240
+Next=248
+Streak=-3
+Choices=1
+Wins=2
+AP=405
+[Newdecks]
+Last=05-02-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 52726
+Versus=vickyjoy
+Iam=1
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=Konvict
+result=loss
+score=12-8
+[Warnings]
+Kicks=1

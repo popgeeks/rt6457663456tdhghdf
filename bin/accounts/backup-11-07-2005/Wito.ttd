@@ -1,0 +1,46 @@
+[player]
+nickname=Wito
+password=258292376
+email=magik.wito@op.pl
+signup_date=9/24/2005
+playerID=2461
+status=regular
+referal=bdmsk
+Verify=1
+Last IP=213.17.152.122
+id=122
+IP=213.17.152.122
+adminstatus=off
+match=10-01-2005
+[Stats]
+Win=15
+Lost=39
+Draw=10
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=972
+Next=1301
+Streak=1
+SBWin=1
+SBLost=1
+[Newdecks]
+Last=09-24-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 118088
+Versus=debussy
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=debussy
+result=win
+score=6-4
+[Warnings]
+Warns=1

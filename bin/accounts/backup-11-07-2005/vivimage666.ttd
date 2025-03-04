@@ -1,0 +1,64 @@
+[player]
+nickname=vivimage666
+password=mp
+email=michael123@kaxy.com
+signup_date=7/16/2005
+playerID=1308
+status=regular
+referal=
+Verify=1
+Last IP=63.24.68.184
+id=124
+IP=63.24.68.184
+adminstatus=off
+match=09-25-2005
+Last Played=08-19-2005
+membership=platinum
+guildmaster=2
+guild=Diablos Guild
+
+[Stats]
+Win=420
+Lost=653
+Draw=211
+Lame quits=13
+GP=133
+Newdecks=7
+Level=21
+Exp=16008
+Next=16552
+AP=83594
+Streak=1
+Choices=1
+SoldCards=11
+cardsgiven=0
+SBLost=2
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=542
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 113918
+Versus=phreakazoid
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=phreakazoid
+result=win
+score=10-8
+[Warnings]
+Warns=8
+Kicks=6
+Bans=1
+Banned=false
+[Ban]
+Date=
+Admin=
+Reason= 

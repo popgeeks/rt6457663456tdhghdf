@@ -1,0 +1,46 @@
+[player]
+nickname=Crimson
+password=Dragon
+email=crimson_divine@hotmail.co.uk
+signup_date=6/3/2005
+playerID=603
+status=regular
+referal=
+Verify=1
+Last IP=80.7.26.14
+id=40
+IP=80.7.26.14
+adminstatus=off
+Last Played=06-03-2005
+[Stats]
+Win=2
+Lost=0
+Draw=0
+Lame quits=1
+GP=0
+rank=1472
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=52
+Streak=2
+[Newdecks]
+Last=06-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 27424
+Versus=mirage-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=mirage-bot
+result=win
+score=7-3
+[Warnings]
+Kicks=1

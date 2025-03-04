@@ -1,0 +1,44 @@
+[player]
+nickname=Vash
+password=88356256
+email=jallison@tricountyi.net
+signup_date=6/30/2005
+playerID=926
+status=regular
+referal=cloud13
+Verify=1
+Last IP=207.15.196.206
+id=40
+IP=207.15.196.206
+adminstatus=off
+match=06-30-2005
+Last Played=06-30-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=11
+Next=100
+AP=117
+Streak=1
+[Newdecks]
+Last=06-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 45298
+Versus=GTMeteor
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=GTMeteor
+result=loss
+score=6-4

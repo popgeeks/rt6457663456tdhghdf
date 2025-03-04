@@ -1,0 +1,43 @@
+[player]
+nickname=Pila
+password=11death
+email=tpila1@wp.pl
+signup_date=9/25/2005
+playerID=2483
+status=regular
+referal=
+Verify=1
+Last IP=84.234.36.113
+id=127
+IP=84.234.36.113
+adminstatus=off
+match=10-01-2005
+[Stats]
+Win=6
+Lost=4
+Draw=6
+Lame quits=1
+Newdecks=3
+Level=3
+Exp=312
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 118058
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=squll-typo
+result=draw
+score=5-5

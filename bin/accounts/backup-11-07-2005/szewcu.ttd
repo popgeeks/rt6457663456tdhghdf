@@ -1,0 +1,32 @@
+[player]
+nickname=szewcu
+password=822565733
+email=hitman2008@wp.pl
+signup_date=9/14/2005
+playerID=2285
+status=regular
+referal=
+Verify=1
+Last IP=80.55.210.10
+id=22
+IP=80.55.210.10
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

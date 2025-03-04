@@ -1,0 +1,46 @@
+[player]
+nickname=Radogost
+password=614502190
+email=qrakis@tlen.pl
+signup_date=6/1/2005
+playerID=576
+status=regular
+referal=
+Verify=1
+Last IP=83.24.114.242
+id=19
+IP=83.24.114.242
+adminstatus=off
+match=06-05-2005
+Last Played=06-05-2005
+[Stats]
+Win=9
+Lost=5
+Draw=5
+Lame quits=0
+GP=793
+rank=1477
+Newdecks=1
+Level=4
+Exp=495
+Next=836
+AP=556
+Streak=-1
+Choices=1
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 28493
+Versus=kellpeel
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=kellpeel
+result=draw
+score=10-10

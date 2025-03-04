@@ -1,0 +1,62 @@
+[player]
+nickname=Alvaro
+password=44103720
+email=alvarormn@gmail.com
+signup_date=4/23/2005
+playerID=189
+status=regular
+referal=
+Verify=1
+Last IP=200.210.190.48
+id=6
+IP=200.210.190.48
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+guildmaster=2
+guild=Sith Lords
+[Stats]
+Win=834
+Lost=615
+Draw=253
+Lame quits=14
+GP=1663
+rank=2484
+Newdecks=7
+Level=31
+Exp=33938
+Next=35948
+Streak=2
+Choices=1
+SoldCards=15
+cardsgiven=0
+Wins=331
+AP=1564
+SBDraw=1
+SBLost=3
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=1134
+honor=1
+PCT=50
+AAPOINTS=1
+TRAINED=4
+golden=2
+[Play]
+Playing=false
+GameID= 31514
+Versus=ColdArmy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=ColdArmy
+result=win
+score=13-9
+[Warnings]
+Warns=1
+Kicks=3

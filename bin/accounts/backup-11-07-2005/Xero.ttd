@@ -1,0 +1,17 @@
+[player]
+nickname=Xero
+password=123272001
+email=mds_66@blueyonder.com
+signup_date=10/5/2005
+playerID=2650
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-05-2005

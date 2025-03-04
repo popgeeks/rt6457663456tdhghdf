@@ -1,0 +1,20 @@
+[player]
+nickname=thechilds
+password=209767102
+email=gottalovethatoneeightytwo@msn.com
+signup_date=8/4/2005
+playerID=1695
+status=regular
+referal=thechilds
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-04-2005
+[password]
+failed=4

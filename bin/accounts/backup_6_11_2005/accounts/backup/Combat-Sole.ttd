@@ -1,0 +1,57 @@
+[player]
+nickname=Combat-Sole
+password=saraha
+email=Jason_007@juno.com
+signup_date=3/30/05
+playerID=70
+status=regular
+Verify=1
+Last IP=63.228.195.51
+id=13
+IP=63.228.195.51
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=03-30-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=6
+Level4=2
+Level5=0
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Grendel=1
+Forbidden=1
+Adamantoise=1
+Fujin, Raijin=1
+Death Claw=2
+Cactuar=1
+Buel=1
+Ochu=1
+Caterchipillar=1
+Tri-Face=1
+Granaldo=1
+Oilboyle=2
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

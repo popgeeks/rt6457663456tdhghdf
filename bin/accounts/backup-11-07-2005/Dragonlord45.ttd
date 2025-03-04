@@ -1,0 +1,42 @@
+[player]
+nickname=Dragonlord45
+password=66731929
+email=Dragon_lord4@msn.com
+signup_date=10/27/2005
+playerID=3044
+status=regular
+referal=
+Verify=1
+Last IP=82.17.141.67
+id=82
+IP=82.17.141.67
+adminstatus=off
+match=10-27-2005
+[Stats]
+Win=0
+Lost=10
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=80
+Next=100
+SBLost=8
+Streak=-9
+[Newdecks]
+Last=10-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 138224
+Iam=2
+Versus=iakingdom
+[password]
+failed=1
+[Games]
+Playing=OTT
+[game]
+opponent=iakingdom
+result=loss
+score=15-5

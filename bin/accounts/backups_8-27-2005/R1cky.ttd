@@ -1,0 +1,55 @@
+[player]
+nickname=R1cky
+password=203869879
+email=Tru_Playa240@hotmail.com
+signup_date=7/2/2005
+playerID=966
+status=regular
+referal=
+Verify=1
+Last IP=82.46.151.130
+id=22
+IP=82.46.151.130
+adminstatus=off
+match=08-07-2005
+Last Played=08-07-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=165
+Lost=127
+Draw=69
+Lame quits=3
+GP=887
+Newdecks=11
+Level=14
+Exp=6829
+Next=7520
+AP=13966
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-02-2005
+[AP]
+AAEXP=552
+honor=1
+PCT=50
+[Play]
+Playing=false
+GameID= 80893
+Versus=Cloudst
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Cloudst
+result=loss
+score=15-7

@@ -1,0 +1,53 @@
+[player]
+nickname=lenne
+password=yunie
+email=amy_yuna@hotmail.com
+signup_date=5/26/2005
+playerID=501
+status=regular
+referal=lenne
+Verify=1
+Last IP=218.208.205.94
+id=12
+IP=218.208.205.94
+adminstatus=off
+Last Played=07-15-2005
+match=07-15-2005
+[Stats]
+Win=81
+Lost=88
+Draw=26
+Lame quits=11
+GP=412
+rank=1173
+Newdecks=11
+Level=12
+Exp=5170
+Next=5510
+AP=229
+Streak=2
+Choices=1
+SBLost=5
+SBWin=4
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 55908
+Versus=Moridn
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Moridn
+result=win
+score=13-7
+[Warnings]
+Kicks=1

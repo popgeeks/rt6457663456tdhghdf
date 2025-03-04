@@ -1,0 +1,20 @@
+[player]
+nickname=Crono2000
+password=674366056
+email=Rododu221@netzero.net
+signup_date=8/19/2005
+playerID=1885
+status=regular
+referal=FFonline
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-19-2005
+[password]
+failed=3

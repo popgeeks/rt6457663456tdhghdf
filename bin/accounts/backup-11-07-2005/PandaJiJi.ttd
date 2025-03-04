@@ -1,0 +1,44 @@
+[player]
+nickname=PandaJiJi
+password=582600116
+email=yuri_vc1@hotmail.com
+signup_date=8/26/2005
+playerID=2004
+status=regular
+referal=
+Verify=1
+Last IP=200.165.98.83
+id=40
+IP=200.165.98.83
+adminstatus=off
+match=09-06-2005
+[Stats]
+Win=20
+Lost=26
+Draw=3
+Lame quits=0
+GP=0
+Newdecks=1
+Level=5
+Exp=1220
+Next=1301
+AP=8
+Streak=2
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 99797
+Versus=Someonew
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Someonew
+result=win
+score=11-9

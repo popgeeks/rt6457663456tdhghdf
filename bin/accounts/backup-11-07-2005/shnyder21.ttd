@@ -1,0 +1,55 @@
+[player]
+nickname=shnyder21
+password=eldoran
+email=dark_shnyder17@hotmail.com
+signup_date=10/10/2005
+playerID=2750
+status=regular
+referal=eldoran
+Verify=1
+Last IP=24.37.38.139
+id=14
+IP=24.37.38.139
+adminstatus=off
+match=11-05-2005
+guildinvite=
+guildinvite_name=
+guild=Monoxide Children
+guildmaster=3
+[Stats]
+Win=246
+Lost=222
+Draw=106
+Lame quits=6
+Newdecks=11
+Level=17
+Exp=9684
+Next=11368
+Streak=3
+SoldCards=18
+cardsgiven=0
+SBLost=1
+SBDraw=1
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=165
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 144564
+Versus=solidsnake
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=solidsnake
+result=draw
+score=5-5
+[Warnings]
+Kicks=1
+Warns=2

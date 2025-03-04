@@ -1,0 +1,41 @@
+[player]
+nickname=F2J
+password=GARNET
+email=zidane2889@hotmail.com
+signup_date=9/10/2005
+playerID=2205
+status=regular
+referal=GARNET
+Verify=1
+Last IP=69.79.23.143
+id=27
+IP=69.79.23.143
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=2
+Lost=9
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=131
+Next=248
+Streak=-1
+[Newdecks]
+Last=09-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107180
+Versus=MasterD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Anacondaur
+result=loss
+score=13-7

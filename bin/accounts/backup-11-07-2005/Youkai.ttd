@@ -1,0 +1,41 @@
+[player]
+nickname=Youkai
+password=jasmere
+email=youkai541@yahoo.com
+signup_date=9/28/2005
+playerID=2536
+status=regular
+referal=
+Verify=1
+Last IP=66.67.205.19
+id=112
+IP=66.67.205.19
+adminstatus=off
+match=09-29-2005
+[Stats]
+Win=7
+Lost=17
+Draw=4
+Lame quits=1
+Newdecks=1
+Level=4
+Exp=566
+Next=836
+Streak=1
+[Newdecks]
+Last=09-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 116933
+Versus=meh2
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=meh2
+result=win
+score=11-7

@@ -1,0 +1,45 @@
+[player]
+nickname=Thesounds
+password=
+email=Sound_Wave106@yahoo.se
+signup_date=7/31/2005
+playerID=1612
+status=regular
+referal=Thesounds
+Verify=1
+Last IP=213.164.197.201
+id=64
+IP=213.164.197.201
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+[Stats]
+Win=2
+Lost=7
+Draw=1
+Lame quits=0
+GP=213
+Newdecks=1
+Level=2
+Exp=156
+Next=248
+AP=357
+Streak=-5
+Choices=1
+[Newdecks]
+Last=07-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 74792
+Versus=Darkshadow81
+Iam=2
+[password]
+failed=17
+[Games]
+Playing=OTT
+[game]
+opponent=Darkshadow81
+result=loss
+score=13-7

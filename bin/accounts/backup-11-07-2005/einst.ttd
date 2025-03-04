@@ -1,0 +1,43 @@
+[player]
+nickname=einst
+password=69192588
+email=blackmage_xxv@yahoo.com
+signup_date=9/27/2005
+playerID=2515
+status=regular
+referal=
+Verify=1
+Last IP=210.213.193.243
+id=47
+IP=210.213.193.243
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=0
+Lost=8
+Draw=2
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=91
+Next=100
+Streak=-7
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 114995
+Versus=dark-wing
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=dark-wing
+result=loss
+score=7-3

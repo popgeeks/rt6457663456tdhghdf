@@ -1,0 +1,20 @@
+[player]
+nickname=zetsuna
+password=237532973
+email=g@wanadoo.fr
+signup_date=7/10/2005
+playerID=1165
+status=regular
+referal=trigun
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-10-2005
+[password]
+failed=1

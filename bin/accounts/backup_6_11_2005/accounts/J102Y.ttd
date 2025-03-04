@@ -1,0 +1,61 @@
+[player]
+nickname=J102Y
+password=ocarina
+email=RetroKamasi@hotmail.co.uk
+signup_date=5/5/2005
+playerID=299
+status=regular
+referal=Lucrecia
+Verify=1
+Last IP=82.36.224.160
+id=27
+IP=82.36.224.160
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+surname=gamma
+guildmaster=2
+guild=Fated Circle
+[Stats]
+Win=547
+Lost=563
+Draw=182
+Lame quits=21
+GP=476
+rank=2368
+Newdecks=13
+Level=28
+Exp=27934
+Next=28988
+Streak=-3
+Choices=1
+SoldCards=8
+cardsgiven=0
+AP=25714
+SBWin=15
+Wins=173
+SBLost=19
+[Newdecks]
+Last=05-31-2005
+[AP]
+AAEXP=934
+honor=3
+PCT=10
+AAPOINTS=1
+TRAINED=1
+[Play]
+Playing=false
+GameID= 31306
+Versus=Alvaro
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Alvaro
+result=loss
+score=13-7
+[Warnings]
+Kicks=5

@@ -1,0 +1,10 @@
+Z:\Certification\Live Update 05\Server\FMWK\bin\Release\FMWK.dll
+Z:\Certification\Live Update 05\Server\FMWK\bin\Release\FMWK.pdb
+Z:\Certification\Live Update 05\Server\FMWK\obj\Release\FMWK.csprojResolveAssemblyReference.cache
+Z:\Certification\Live Update 05\Server\FMWK\obj\Release\FMWK.dll
+Z:\Certification\Live Update 05\Server\FMWK\obj\Release\FMWK.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\bin\Release\FMWK.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\bin\Release\FMWK.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\obj\Release\FMWK.csprojResolveAssemblyReference.cache
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\obj\Release\FMWK.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\obj\Release\FMWK.pdb

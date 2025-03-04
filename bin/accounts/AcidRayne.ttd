@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=56
+match=12-20-2005
+[Play]
+Playing=false
+GameID= 176795
+Versus=Gilgamesh
+Iam=2
+[Stats]
+Level=2
+Exp=208
+Next=248
+Streak=2
+[Games]
+Playing=OTT
+[game]
+opponent=Gilgamesh
+result=draw
+score=10-10

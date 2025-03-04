@@ -1,0 +1,47 @@
+[player]
+nickname=sg1
+password=635571300
+email=rafa_lpk@hotmail.com
+signup_date=8/1/2005
+playerID=1640
+status=regular
+referal=Rafael
+Verify=1
+Last IP=201.1.4.91
+id=42
+IP=201.1.4.91
+adminstatus=off
+match=08-06-2005
+Last Played=08-06-2005
+[Stats]
+Win=3
+Lost=5
+Draw=7
+Lame quits=2
+GP=224
+Newdecks=1
+Level=2
+Exp=157
+Next=248
+AP=294
+Streak=1
+SBWin=1
+Choices=1
+SBDraw=1
+[Newdecks]
+Last=08-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 80157
+Versus=Shannon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Zakeri
+result=win
+score=13-7

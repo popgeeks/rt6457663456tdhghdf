@@ -1,0 +1,53 @@
+[player]
+nickname=pho3nix
+password=potluck
+email=waddlaw2000@aol.com
+signup_date=7/18/2005
+playerID=1354
+status=regular
+referal=
+Verify=1
+Last IP=65.33.189.150
+id=46
+IP=65.33.189.150
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=79
+Lost=144
+Draw=54
+Lame quits=3
+GP=24
+Newdecks=3
+Level=11
+Exp=4225
+Next=4838
+AP=408
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 89529
+Versus=Boko
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=exist
+result=win
+score=11-9

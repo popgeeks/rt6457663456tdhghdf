@@ -1,0 +1,47 @@
+[player]
+nickname=NoobSaibot
+password=lamp25
+email=silox13@yahoo.com
+signup_date=7/27/2005
+playerID=1538
+status=regular
+referal=Alliance
+Verify=1
+Last IP=68.189.51.180
+id=23
+IP=68.189.51.180
+adminstatus=off
+match=07-28-2005
+Last Played=07-28-2005
+[Stats]
+Win=6
+Lost=5
+Draw=3
+Lame quits=0
+GP=442
+Newdecks=3
+Level=3
+Exp=257
+Next=476
+AP=543
+Streak=-1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 71156
+Versus=DreamMaster
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=DreamMaster
+result=loss
+score=11-9

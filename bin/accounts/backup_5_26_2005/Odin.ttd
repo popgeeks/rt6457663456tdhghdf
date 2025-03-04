@@ -1,0 +1,45 @@
+[player]
+nickname=Odin
+password=315375566
+email=atman@ukonline.co.uk
+signup_date=5/25/2005
+playerID=488
+status=regular
+referal=
+Verify=1
+Last IP=82.111.65.43
+id=35
+IP=82.111.65.43
+adminstatus=off
+match=05-25-2005
+Last Played=05-25-2005
+[Stats]
+Win=0
+Lost=3
+Draw=1
+Lame quits=0
+GP=25
+rank=1500
+Newdecks=1
+Level=1
+Exp=81
+Next=100
+AP=112
+Streak=-2
+[Newdecks]
+Last=05-25-2005
+[password]
+failed=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 21935
+Versus=Thanatos
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=Thanatos
+result=loss
+score=15-9

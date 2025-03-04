@@ -1,0 +1,47 @@
+[player]
+nickname=Swordark
+password=paparaul
+email=swordark@gmail.com
+signup_date=8/6/2005
+playerID=1718
+status=regular
+referal=
+Verify=1
+Last IP=85.53.80.211
+id=22
+IP=85.53.80.211
+adminstatus=off
+match=09-21-2005
+Last Played=08-09-2005
+[Stats]
+Win=19
+Lost=24
+Draw=9
+Lame quits=0
+GP=876
+Newdecks=1
+Level=4
+Exp=806
+Next=836
+AP=381
+Streak=1
+SBDraw=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 110056
+Versus=oniz
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=kitiara
+result=win
+score=11-9

@@ -1,0 +1,43 @@
+[player]
+nickname=wookieiceman
+password=258994281
+email=theicegod668@yahoo.com
+signup_date=9/30/2005
+playerID=2565
+status=regular
+referal=wookieiceman
+Verify=1
+Last IP=68.47.106.213
+id=122
+IP=68.47.106.213
+adminstatus=off
+match=09-30-2005
+[Stats]
+Win=2
+Lost=5
+Draw=1
+Lame quits=0
+Newdecks=7
+Level=2
+Exp=139
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=09-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 117612
+Versus=kenshin
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=kenshin
+result=win
+score=11-9

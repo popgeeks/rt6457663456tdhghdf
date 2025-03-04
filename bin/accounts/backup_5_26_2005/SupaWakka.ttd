@@ -1,0 +1,50 @@
+[player]
+nickname=SupaWakka
+password=2003120
+email=aaronfarrugia@hotmail.com
+signup_date=4/26/2005
+playerID=198
+status=regular
+referal=
+Verify=1
+Last IP=61.69.9.33
+id=13
+IP=61.69.9.33
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+[Stats]
+Win=11
+Lost=14
+Draw=3
+Lame quits=1
+GP=701
+rank=1220
+Newdecks=5
+Wins=0
+Level=4
+Exp=648
+Next=836
+AP=205
+SBWin=2
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-20-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 22193
+Versus=ColdWinter
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=ColdWinter
+result=win
+score=11-9

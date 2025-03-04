@@ -1,0 +1,32 @@
+[player]
+nickname=SPIKEBEBOP
+password=677597760
+email=SPIKE1BEBOP@gmail.com
+signup_date=7/2/2005
+playerID=964
+status=regular
+referal=
+Verify=1
+Last IP=70.16.145.45
+id=8
+IP=70.16.145.45
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=14
+[Newdecks]
+Last=07-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

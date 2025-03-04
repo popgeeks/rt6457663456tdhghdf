@@ -1,0 +1,45 @@
+[player]
+nickname=Sephiroth6
+password=176905691
+email=piroco6@hotmail.com
+signup_date=8/20/2005
+playerID=1895
+status=regular
+referal=123456
+Verify=1
+Last IP=66.50.17.94
+id=31
+IP=66.50.17.94
+adminstatus=off
+match=08-24-2005
+Last Played=08-24-2005
+[Stats]
+Win=5
+Lost=15
+Draw=1
+Lame quits=0
+GP=73
+Newdecks=1
+Level=2
+Exp=188
+Next=248
+AP=386
+Streak=-2
+Choices=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Maester
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Maester
+result=loss
+score=6-4

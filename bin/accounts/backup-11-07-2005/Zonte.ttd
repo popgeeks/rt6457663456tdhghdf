@@ -1,0 +1,35 @@
+[player]
+nickname=Zonte
+password=974077998
+email=zonte1337@gmail.com
+signup_date=9/11/2005
+playerID=2235
+status=regular
+referal=
+Verify=1
+Last IP=65.25.23.92
+id=53
+IP=65.25.23.92
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-11-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=109976
+Versus=Team
+Iam=1
+[Games]
+Playing=OTT

@@ -1,0 +1,94 @@
+[player]
+nickname=AbRaXaS
+password=60112953
+email=XellDincht999@t-online.de
+signup_date=3/16/05
+playerID=22
+status=regular
+Verify=1
+Last IP=80.133.117.208
+id=43
+IP=80.133.117.208
+adminstatus=off
+Last Played=07-17-2005
+match=07-25-2006
+guildinvite=
+guildinvite_name=
+guild=Synamic Darkness
+guildmaster=2
+surname=shadowzone
+[Stats]
+Win=255
+Lost=176
+Draw=61
+Lame quits=1
+GP=78
+rank=1487
+Newdecks=15
+Level=17
+Exp=9949
+Next=11368
+Streak=-2
+Choices=1
+Wins=26
+AP=3474
+SoldCards=33
+cardsgiven=0
+SBLost=9
+SBWin=5
+SBDraw=1
+[Newdecks]
+Last=06-30-2005
+[Totals]
+Level1=2
+Level2=2
+Level3=2
+Level4=4
+Level5=1
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Thrustaevis=1
+Blood Soul=0
+Death Claw=1
+Turtapod=1
+Shumi Tribe=1
+Trauma=1
+Gayla=1
+Sphinxara=0
+Ultima Weapon=0
+Fujin, Raijin=0
+Wendigo=1
+PuPu=1
+Blobra=1
+Fastitocalon=1
+Blitz=1
+Tri-Point=1
+Elvoret=1
+Creeps=1
+Bomb=0
+[AP]
+AAEXP=1014
+honor=2
+PCT=80
+[Play]
+Playing=false
+GameID= 707683
+Versus=planzer
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=crispin
+result=draw
+score=5-5
+[Warnings]
+Kicks=4

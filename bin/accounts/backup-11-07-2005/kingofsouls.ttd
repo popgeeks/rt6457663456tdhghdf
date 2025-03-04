@@ -1,0 +1,41 @@
+[player]
+nickname=kingofsouls
+password=600411354
+email=darktorturedsoul_412@hotmail.com
+signup_date=9/16/2005
+playerID=2310
+status=regular
+referal=
+Verify=1
+Last IP=24.213.75.31
+id=39
+IP=24.213.75.31
+adminstatus=off
+match=09-16-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=1
+[Newdecks]
+Last=09-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 106988
+Versus=Mikror
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Mikror
+result=loss
+score=9-1

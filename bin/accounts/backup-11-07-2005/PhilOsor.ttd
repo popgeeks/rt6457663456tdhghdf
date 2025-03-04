@@ -1,0 +1,17 @@
+[player]
+nickname=PhilOsor
+password=524699
+email=pvdavoort@mail.com
+signup_date=9/5/2005
+playerID=2110
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-05-2005

@@ -1,0 +1,53 @@
+[player]
+nickname=TakerRulez
+password=TAKERS
+email=ssanford1@tampabay.rr.com
+signup_date=4/27/2005
+playerID=201
+status=regular
+referal=
+Verify=1
+Last IP=65.34.4.208
+id=29
+IP=65.34.4.208
+adminstatus=off
+Last Played=06-08-2005
+match=06-08-2005
+[Stats]
+Win=27
+Lost=30
+Draw=14
+Lame quits=0
+GP=670
+rank=1990
+Newdecks=9
+Level=6
+Exp=1701
+Next=1727
+Streak=1
+Wins=1
+AP=895
+SBLost=4
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBWin=1
+SBDraw=1
+[Newdecks]
+Last=05-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 30419
+Versus=RedXIII
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=RedXIII
+result=win
+score=15-9

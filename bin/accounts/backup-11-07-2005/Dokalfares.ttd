@@ -1,0 +1,46 @@
+[player]
+nickname=Dokalfares
+password=706677495
+email=dokalfares@hotmail.com
+signup_date=8/4/2005
+playerID=1697
+status=regular
+referal=Bielbog
+Verify=1
+Last IP=62.42.7.181
+id=16
+IP=62.42.7.181
+adminstatus=off
+match=08-10-2005
+Last Played=08-10-2005
+[Stats]
+Win=1
+Lost=11
+Draw=2
+Lame quits=0
+GP=204
+Newdecks=1
+Level=2
+Exp=132
+Next=248
+AP=497
+SBLost=1
+Streak=-5
+Choices=1
+[Newdecks]
+Last=08-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 83529
+Versus=MGdaGR8est
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MGdaGR8est
+result=loss
+score=12-8

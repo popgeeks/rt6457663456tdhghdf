@@ -1,0 +1,52 @@
+[player]
+nickname=XSoldierZeke
+password=479377388
+email=XSlodiercloud@msn.com
+signup_date=5/27/2005
+playerID=519
+status=regular
+referal=Zeke
+Verify=1
+Last IP=66.134.154.27
+id=47
+IP=66.134.154.27
+adminstatus=off
+match=06-03-2005
+Last Played=06-03-2005
+[Stats]
+Win=35
+Lost=67
+Draw=13
+Lame quits=2
+GP=886
+rank=1107
+Newdecks=15
+Level=8
+Exp=2285
+Next=2698
+AP=701
+Streak=-4
+Choices=1
+SoldCards=4
+cardsgiven=0
+SBLost=5
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 27410
+Versus=Cassy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Zeno
+result=loss
+score=6-4
+[Warnings]
+Kicks=3

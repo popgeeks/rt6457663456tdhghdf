@@ -1,0 +1,46 @@
+[player]
+nickname=Bladerunner
+password=42088stp
+email=Pizzoster@gmail.com
+signup_date=4/21/05
+playerID=183
+status=regular
+referal=Kojiro77
+Verify=1
+Last IP=69.142.48.58
+id=6
+IP=69.142.48.58
+adminstatus=off
+match=04-25-2005
+Last Played=04-25-2005
+[Stats]
+Win=8
+Lost=16
+Draw=8
+Lame quits=0
+GP=45
+rank=1249
+Newdecks=1
+Level=4
+Exp=673
+Next=836
+Streak=1
+Choices=1
+Wins=8
+[Newdecks]
+Last=04-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 8377
+Versus=Run4Tonight
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Run4Tonight
+result=win
+score=11-9

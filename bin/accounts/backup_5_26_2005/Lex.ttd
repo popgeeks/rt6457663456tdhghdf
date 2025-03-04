@@ -1,0 +1,132 @@
+[player]
+nickname=Lex
+password=Hazeth
+email=Tenthousandkings@hotmail.com
+signup_date=3/14/05
+playerID=9
+status=admin
+Verify=1
+Last IP=172.194.37.157
+id=1
+IP=172.194.37.157
+adminstatus=off
+Last Played=05-26-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+match=05-26-2005
+surname=Aeterna
+
+[Stats]
+Win=187
+Lost=183
+Draw=63
+Lame quits=1
+GP=846
+rank=1407
+Newdecks=7
+Level=13
+Exp=5685
+Next=6316
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+AP=205
+Wins=184
+[Newdecks]
+Last=04-20-2005
+[Totals]
+Level1=4
+Level2=6
+Level3=5
+Level4=3
+Level5=4
+Level6=6
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Shumi Tribe=0
+Gayla=0
+Bite Bug=1
+Forbidden=0
+Caterchipillar=1
+Fastitocalon=1
+Ochu=0
+Anacondaur=2
+Creeps=0
+Gesper=0
+Elvoret=1
+Blood Soul=0
+Bomb=0
+Geezard=0
+Tonberry=0
+Buel=0
+Torama=1
+Thrustaevis=2
+Sphinxara=0
+Red Bat=0
+Malboro=1
+Fujin, Raijin=1
+Fastitocalon-F=1
+Turtapod=0
+Iguion=1
+Death Claw=0
+Trauma=0
+Imp=1
+X-ATM092=0
+Jumbo Cactuar=1
+Cactuar=0
+Grendel=0
+Grat=0
+Elastoid=1
+Krysta=0
+Hexadragon=0
+Blobra=1
+PuPu=1
+Armadodo=2
+Catoblepas=0
+GIM47N=0
+Tri-Point=0
+SAM08G=1
+Funguar=0
+Ultima Weapon=0
+T-Rexaur=1
+Iron Giant=0
+Elnoyle=1
+Glacial Eye=2
+Mobile Type 8=1
+BGH251F2=0
+Cockatrice=0
+Tri-Face=1
+Gerogero=2
+Abadon=1
+Belhelmel=0
+[AP]
+AAEXP=1629
+PCT=10
+AAPOINTS=0
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 22162
+Versus=J102Y
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=J102Y
+result=win
+score=14-8
+[admin]
+passkey=23653951
+[Warnings]
+Kicks=2

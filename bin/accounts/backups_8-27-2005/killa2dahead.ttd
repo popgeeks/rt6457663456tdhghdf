@@ -1,0 +1,48 @@
+[player]
+nickname=killa2dahead
+password=lethal
+email=galletas216@yahoo.com
+signup_date=6/19/2005
+playerID=751
+status=regular
+referal=download.com
+Verify=1
+Last IP=66.74.136.150
+id=44
+IP=66.74.136.150
+adminstatus=off
+match=06-22-2005
+Last Played=06-22-2005
+[Stats]
+Win=4
+Lost=9
+Draw=0
+Lame quits=0
+GP=253
+rank=1468
+Newdecks=11
+Level=3
+Exp=333
+Next=476
+AP=403
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 39637
+Versus=Eidolon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=pakelika
+result=win
+score=9-1

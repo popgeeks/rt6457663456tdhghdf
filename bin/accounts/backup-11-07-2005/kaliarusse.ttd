@@ -1,0 +1,41 @@
+[player]
+nickname=kaliarusse
+password=671274661
+email=nico8_ln@hotmail.com
+signup_date=8/28/2005
+playerID=1987
+status=regular
+referal=
+Verify=1
+Last IP=83.114.135.8
+id=10
+IP=83.114.135.8
+adminstatus=off
+match=08-28-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=10
+Next=100
+Streak=1
+[Newdecks]
+Last=08-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 93913
+Versus=pathogen
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=pathogen
+result=win
+score=6-4

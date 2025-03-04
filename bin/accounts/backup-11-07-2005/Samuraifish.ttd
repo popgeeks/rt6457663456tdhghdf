@@ -1,0 +1,45 @@
+[player]
+nickname=Samuraifish
+password=95957815
+email=Mirzadergic7@hotmail.com
+signup_date=8/23/2005
+playerID=1954
+status=regular
+referal=
+Verify=1
+Last IP=83.108.233.248
+id=21
+IP=83.108.233.248
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=2
+Lost=7
+Draw=1
+Lame quits=0
+GP=167
+Newdecks=1
+Level=2
+Exp=174
+Next=248
+AP=338
+Streak=-4
+Choices=1
+[Newdecks]
+Last=08-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92619
+Versus=Aznlao
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Aznlao
+result=loss
+score=13-7

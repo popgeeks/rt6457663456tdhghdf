@@ -1,0 +1,47 @@
+[player]
+nickname=daliltbone
+password=754098951
+email=stepcal@msn.com
+signup_date=7/8/2005
+playerID=1125
+status=regular
+referal=
+Verify=1
+Last IP=67.162.207.55
+id=17
+IP=67.162.207.55
+adminstatus=off
+match=07-08-2005
+Last Played=07-08-2005
+[Stats]
+Win=3
+Lost=5
+Draw=1
+Lame quits=0
+GP=226
+Newdecks=3
+Level=2
+Exp=170
+Next=248
+AP=260
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 51711
+Versus=JBloodreign
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=JBloodreign
+result=loss
+score=13-7

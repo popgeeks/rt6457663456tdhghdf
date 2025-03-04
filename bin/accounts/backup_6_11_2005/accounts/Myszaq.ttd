@@ -1,0 +1,33 @@
+[player]
+nickname=Myszaq
+password=290262460
+email=szymon_kierzyk@o2.pl
+signup_date=5/1/2005
+playerID=246
+status=regular
+referal=
+Verify=1
+Last IP=83.27.121.151
+id=3
+IP=83.27.121.151
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=05-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,50 @@
+[player]
+nickname=phoneshoe
+password=helper
+email=phone_shoe@hotmail.com
+signup_date=5/26/2005
+playerID=507
+status=regular
+referal=phoneshoe
+Verify=1
+Last IP=68.112.126.127
+id=5
+IP=68.112.126.127
+adminstatus=off
+match=05-28-2005
+Last Played=05-28-2005
+[Stats]
+Win=24
+Lost=32
+Draw=11
+Lame quits=1
+GP=98
+rank=1614
+Newdecks=1
+Level=7
+Exp=1771
+Next=2154
+AP=96
+Streak=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=05-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 23566
+Versus=hitMaN
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=hitMaN
+result=win
+score=12-8
+[Warnings]
+Kicks=1

@@ -1,0 +1,32 @@
+[player]
+nickname=ravax
+password=857172965
+email=rava_rsh@yahoo.it
+signup_date=8/22/2005
+playerID=1942
+status=regular
+referal=ravax
+Verify=1
+Last IP=82.59.213.234
+id=39
+IP=82.59.213.234
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=08-22-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

@@ -1,0 +1,51 @@
+[player]
+nickname=Vivi
+password=imsoleet
+email=suicide85@web.de
+signup_date=5/16/2005
+playerID=396
+status=regular
+referal=
+Verify=1
+Last IP=80.145.3.187
+id=17
+IP=80.145.3.187
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Revenge of Getro
+guildmaster=3
+match=05-17-2005
+Last Played=05-17-2005
+[Stats]
+Win=5
+Lost=16
+Draw=6
+Lame quits=2
+GP=564
+rank=1027
+Newdecks=1
+Level=3
+Exp=407
+Next=476
+AP=788
+Streak=-4
+Choices=1
+SBLost=1
+[Newdecks]
+Last=05-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17666
+Versus=Taro-Fyrne
+Iam=2
+[password]
+failed=1
+[Games]
+Playing=TT
+[game]
+opponent=Chronic
+result=loss
+score=14-8

@@ -1,0 +1,17 @@
+[player]
+nickname=trax
+password=328900515
+email=pelkele@hotmail.com
+signup_date=9/17/2005
+playerID=2315
+status=regular
+referal=trax
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-17-2005

@@ -1,0 +1,43 @@
+[player]
+nickname=Serideth
+password=826278924
+email=placebo_7777@yahoo.com
+signup_date=9/10/2005
+playerID=2204
+status=regular
+referal=
+Verify=1
+Last IP=213.202.157.69
+id=41
+IP=213.202.157.69
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=2
+Lost=6
+Draw=2
+Lame quits=0
+Newdecks=5
+Level=2
+Exp=103
+Next=248
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102693
+Versus=cardking
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=cardking
+result=loss
+score=7-3

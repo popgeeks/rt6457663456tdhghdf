@@ -1,0 +1,330 @@
+
+Server Error >> System.IO.FileNotFoundException: Could not load file or assembly 'MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d' or one of its dependencies. The system cannot find the file specified.
+File name: 'MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d'
+   at MySqlDBHelper.MySQLDBHelper.FillDataRow(String sConnectionString, CommandType oCommandType, String sSQL, DataRow& oDataRow)
+   at DarkWind_Server.ServerConfig.LoadRecord() in F:\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 380
+
+=== Pre-bind state information ===
+LOG: User = darklumina-PC\darklumina
+LOG: DisplayName = MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+ (Fully-specified)
+LOG: Appbase = file:///F:/Code/Dark Wind v2/Production/Server-PROD/bin/
+LOG: Initial PrivatePath = NULL
+Calling assembly : MySqlDBHelper, Version=1.0.0.17, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: F:\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.exe.Config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v2.0.50727\config\machine.config.
+LOG: Post-policy reference: MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+ -- Server Config Loader -- 05-23-2007/19:44:59
+
+
+Server Error >> System.ArgumentException: Column 'none' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.ServerConfig.LoadRecord() in F:\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 396 -- Server Config Loader -- 05-23-2007/19:49:40
+
+
+Server Error >> System.InvalidCastException: Conversion from string "tt" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at DarkWind_Server.GameFunctions.drawevent(String Player1, String Player2, Int32 gameid, Boolean blnOTT, String strGame, Int32 iGamelength) in F:\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\GameFunctions.vb:line 193 -- drawevent -- 05-26-2007/17:42:34
+
+
+Server Error >> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at DarkWind_Server.modMYSQL.getDBField(String sSQL, String sDataField) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Modules\Database\modMYSQL.vb:line 242
+   at DarkWind_Server.dbfunctions.getServerStats(String& sField) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Modules\Database\dbfunctions.vb:line 9
+   at DarkWind_Server.frmSystray.frmSystray_Load(Object eventSender, EventArgs eventArgs) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\frmSystray.vb:line 17 -- frmSystray - Form_Load -- 06-01-2007/23:01:31
+
+
+Server Error >> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at DarkWind_Server.modMYSQL.getDBField(String sSQL, String sDataField) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Modules\Database\modMYSQL.vb:line 242
+   at DarkWind_Server.dbfunctions.getServerStats(String& sField) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Modules\Database\dbfunctions.vb:line 9
+   at DarkWind_Server.frmSystray.frmSystray_Load(Object eventSender, EventArgs eventArgs) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\frmSystray.vb:line 17 -- frmSystray - Form_Load -- 06-05-2007/15:50:21
+
+
+Server Error >> System.Exception: Exception of type 'System.Exception' was thrown.
+   at DarkWind_Server.ServerConfig.LoadRecord() in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 412 -- Server Config Loader -- 07-24-2007/14:07:30
+
+
+Server Error >> System.Exception: Exception of type 'System.Exception' was thrown.
+   at DarkWind_Server.ServerConfig.LoadRecord() in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 412 -- Server Config Loader -- 07-28-2007/22:10:12
+
+
+Server Error >> System.Exception: Exception of type 'System.Exception' was thrown.
+   at DarkWind_Server.ServerConfig.LoadRecord() in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 412 -- Server Config Loader -- 07-28-2007/22:21:11
+
+
+Server Error >> System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.RBTree`1.get_Item(Int32 index)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MySqlDBHelper.MySQLDBHelper.PopulateDataRow(String sConnectionString, CommandType oCommandType, String sSQL, DataRow& oDataRow, MySqlParameter[] oParameters)
+   at MySqlDBHelper.MySQLDBHelper.FillDataRow(String sConnectionString, CommandType oCommandType, String sSQL, DataRow& oDataRow, MySqlParameter[] oParameters)
+   at DarkWind_Server.AlternateAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\AlternateAdvancementDAL.vb:line 149 -- GuildRightsInfo -- 08-20-2007/00:25:43
+
+
+Server Error >> System.Exception: Exception of type 'System.Exception' was thrown.
+   at DarkWind_Server.ServerConfig.LoadRecord() in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 412 -- Server Config Loader -- 08-28-2007/18:37:35
+
+
+Server Error >> System.Exception: Exception of type 'System.Exception' was thrown.
+   at DarkWind_Server.ServerConfig.LoadRecord() in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 412 -- Server Config Loader -- 08-28-2007/18:38:10
+
+
+Server Error >> System.ArgumentException: Column 'lvl1_mod' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.VeteranAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\VeteranAdvancementDAL.vb:line 121 -- GetAlternateAdvancement -- 08-28-2007/18:51:53
+
+
+Server Error >> System.ArgumentException: Column 'lvl1_mod' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.VeteranAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\VeteranAdvancementDAL.vb:line 121 -- GetAlternateAdvancement -- 08-28-2007/18:57:53
+
+
+Server Error >> System.ArgumentException: Column 'lvl1_mod' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.VeteranAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\VeteranAdvancementDAL.vb:line 121 -- GetAlternateAdvancement -- 08-28-2007/18:58:32
+
+
+Server Error >> System.ArgumentException: Column 'lvl1_mod' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.VeteranAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\VeteranAdvancementDAL.vb:line 121 -- GetAlternateAdvancement -- 08-28-2007/19:12:11
+
+
+Server Error >> System.ArgumentException: Column 'lvl1_mod' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.VeteranAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\VeteranAdvancementDAL.vb:line 121 -- GetAlternateAdvancement -- 08-28-2007/19:12:19
+
+
+Server Error >> System.ArgumentException: Column 'lvl1_mod' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at DarkWind_Server.VeteranAdvancementDAL.GetAlternateAdvancement(String sKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\VeteranAdvancementDAL.vb:line 121 -- GetAlternateAdvancement -- 08-28-2007/19:12:27
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/16:17:45
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/16:17:46
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/16:17:46
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/16:17:46
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:06:27
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:06:27
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:06:29
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:06:29
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:14:01
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:14:01
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:14:02
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:14:02
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:33:54
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:33:54
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:33:55
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:33:55
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:10
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:10
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:11
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:11
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:18
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:18
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:19
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/17:40:19
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:54:07
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:54:08
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:54:08
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:54:08
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:55:58
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:55:58
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:55:59
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:55:59
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:58:24
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:58:24
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:58:25
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/21:58:25
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:00:49
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:00:50
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:00:51
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:00:51
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:06:11
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:06:23
+
+
+Server Error >> Table 'darkwind_copy.veteran_abilities' doesn't exist -- getVAMod -- 09-03-2007/22:06:55
+
+
+Server Error >> System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.RBTree`1.get_Item(Int32 index)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at MySqlDBHelper.MySQLDBHelper.PopulateDataRow(String sConnectionString, CommandType oCommandType, String sSQL, DataRow& oDataRow, MySqlParameter[] oParameters)
+   at MySqlDBHelper.MySQLDBHelper.FillDataRow(String sConnectionString, CommandType oCommandType, String sSQL, DataRow& oDataRow, MySqlParameter[] oParameters)
+   at DarkWind_Server.AuctionsDAL.PlayerAuctionsList(Int32 iKey) in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\DAL\AuctionsDAL.vb:line 43 -- PlayerAuctionsList -- 11-19-2007/18:18:55
+
+
+Server Error >> System.Exception: Exception of type 'System.Exception' was thrown.
+   at DarkWind_Server.ServerConfig.LoadRecord() in C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\Classes\BLL\ServerConfig.vb:line 412 -- Server Config Loader -- 12-15-2007/16:08:41
+
+
+Server Error >> MySql.Data.MySqlClient.MySqlException: Access denied for user 'root'@'localhost' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate411()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at DarkWind_Server.modMYSQL.getDBField(String sSQL, String sDataField) in C:\Users\test\Documents\Software Code\Production\Server\Modules\Database\modMYSQL.vb:line 261
+   at DarkWind_Server.dbfunctions.getServerStats(String& sField) in C:\Users\test\Documents\Software Code\Production\Server\Modules\Database\dbfunctions.vb:line 9
+   at DarkWind_Server.frmSystray.frmSystray_Load(Object eventSender, EventArgs eventArgs) in C:\Users\test\Documents\Software Code\Production\Server\frmSystray.vb:line 17 -- frmSystray - Form_Load -- 06-20-2008/13:52:16
+
+
+Server Error >> MySql.Data.MySqlClient.MySqlException: Access denied for user 'root'@'localhost' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate411()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at DarkWind_Server.modMYSQL.getDBField(String sSQL, String sDataField) in C:\Users\test\Documents\Software Code\Production\Server\Modules\Database\modMYSQL.vb:line 261
+   at DarkWind_Server.dbfunctions.getServerStats(String& sField) in C:\Users\test\Documents\Software Code\Production\Server\Modules\Database\dbfunctions.vb:line 9
+   at DarkWind_Server.frmSystray.frmSystray_Load(Object eventSender, EventArgs eventArgs) in C:\Users\test\Documents\Software Code\Production\Server\frmSystray.vb:line 17 -- frmSystray - Form_Load -- 06-20-2008/13:53:47
+
+
+Server Error >> MySql.Data.MySqlClient.MySqlException: Access denied for user 'root'@'localhost' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate411()
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at DarkWind_Server.modMYSQL.getDBField(String sSQL, String sDataField) in C:\Users\test\Documents\Software Code\Production\Server\Modules\Database\modMYSQL.vb:line 261
+   at DarkWind_Server.dbfunctions.getServerStats(String& sField) in C:\Users\test\Documents\Software Code\Production\Server\Modules\Database\dbfunctions.vb:line 9
+   at DarkWind_Server.frmSystray.frmSystray_Load(Object eventSender, EventArgs eventArgs) in C:\Users\test\Documents\Software Code\Production\Server\frmSystray.vb:line 17 -- frmSystray - Form_Load -- 06-20-2008/13:57:01
+

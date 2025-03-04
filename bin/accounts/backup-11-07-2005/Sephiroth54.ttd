@@ -1,0 +1,47 @@
+[player]
+nickname=Sephiroth54
+password=131521522
+email=MGdaGR8@gmail.com
+signup_date=3/25/05
+playerID=55
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=03-25-2005
+[Totals]
+Level1=1
+Level2=6
+Level3=4
+Level4=3
+Level5=0
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Adamantoise=1
+Torama=2
+Thrustaevis=1
+Cactuar=1
+Death Claw=1
+Fastitocalon=1
+Red Bat=1
+Glacial Eye=2
+Grendel=1
+Trauma=1
+Tonberry=1
+Buel=1
+Mesmerize=1
+[password]
+failed=3

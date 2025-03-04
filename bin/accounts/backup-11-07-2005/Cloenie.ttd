@@ -1,0 +1,17 @@
+[player]
+nickname=Cloenie
+password=559190630
+email=aerisgrey@hotmail.com
+signup_date=10/3/2005
+playerID=2610
+status=regular
+referal=qwerty
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-03-2005

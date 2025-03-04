@@ -1,0 +1,44 @@
+[player]
+nickname=YATSU
+password=882558225
+email=Redgalaxy2000@yahoo.de
+signup_date=10/10/2005
+playerID=2773
+status=regular
+referal=
+Verify=1
+Last IP=80.136.157.254
+id=28
+IP=80.136.157.254
+adminstatus=off
+match=10-11-2005
+[Stats]
+Win=14
+Lost=19
+Draw=5
+Lame quits=1
+Newdecks=1
+Level=4
+Exp=654
+Next=836
+Streak=1
+SBWin=6
+SBLost=6
+SBDraw=1
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126362
+Versus=darkangel
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=darkangel
+result=win
+score=12-8

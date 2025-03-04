@@ -1,0 +1,41 @@
+[player]
+nickname=luceidadvent
+password=609625160
+email=corevolver@yahoo.com
+signup_date=10/3/2005
+playerID=2617
+status=regular
+referal=
+Verify=1
+Last IP=219.90.88.174
+id=146
+IP=219.90.88.174
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=2
+Lost=6
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=188
+Next=248
+Streak=-3
+[Newdecks]
+Last=10-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 122182
+Versus=howabe
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=loss
+score=16-4

@@ -1,0 +1,43 @@
+[player]
+nickname=Thirster
+password=322057962
+email=gign_team@hotmail.com
+signup_date=10/30/2005
+playerID=3072
+status=regular
+referal=
+Verify=1
+Last IP=203.49.210.101
+id=68
+IP=203.49.210.101
+adminstatus=off
+match=10-30-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=36
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-2
+[Newdecks]
+Last=10-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140187
+Versus=minimog8
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=minimog8
+result=loss
+score=7-3

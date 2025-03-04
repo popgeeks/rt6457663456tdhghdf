@@ -1,0 +1,57 @@
+[player]
+nickname=Zophar
+password=nugan
+email=m1k379@yahoo.com
+signup_date=6/27/2005
+playerID=868
+status=regular
+referal=
+Verify=1
+Last IP=68.73.192.230
+id=6
+IP=68.73.192.230
+adminstatus=off
+match=07-04-2005
+Last Played=07-04-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=186
+Lost=135
+Draw=63
+Lame quits=5
+GP=280
+Newdecks=15
+Level=14
+Exp=6889
+Next=7520
+AP=93
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+SBWin=1
+[Newdecks]
+Last=06-28-2005
+[AP]
+AAEXP=897
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 47958
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Subversion
+result=win
+score=6-4
+[Warnings]
+Kicks=1

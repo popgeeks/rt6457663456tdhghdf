@@ -1,0 +1,19 @@
+[player]
+nickname=Overchill
+password=956029354
+email=Overchilla@web.de
+signup_date=9/18/2005
+playerID=2350
+status=regular
+referal=Stanton
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-18-2005
+[password]
+failed=1

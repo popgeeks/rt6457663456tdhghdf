@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=20
+match=11-27-2005
+[Play]
+Playing=false
+GameID= 159028
+Versus=Molajoku
+Iam=2
+[Stats]
+Level=4
+Exp=555
+Next=836
+Streak=-7
+[Games]
+Playing=TT
+[game]
+opponent=BlackAngel
+result=loss
+score=8-2

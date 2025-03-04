@@ -1,0 +1,70 @@
+[player]
+nickname=devilshorse
+password=diablo
+email=kelvinsdemise_alex@hotmail.com
+signup_date=3/23/05
+playerID=48
+status=regular
+Verify=1
+Last IP=168.103.143.230
+id=12
+IP=168.103.143.230
+adminstatus=off
+Last Played=03-29-2005
+[Stats]
+Win=2
+Lost=7
+Draw=1
+Lame quits=0
+GP=170
+rank=924
+Newdecks=1
+Level=2
+Exp=234
+Next=248
+Streak=-3
+Choices=1
+Wins=2
+[Newdecks]
+Last=03-23-2005
+[Totals]
+Level1=2
+Level2=6
+Level3=2
+Level4=1
+Level5=0
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Caterchipillar=1
+Grat=2
+Torama=1
+Blobra=1
+Fastitocalon=1
+Anacondaur=1
+Fujin, Raijin=1
+Shumi Tribe=1
+Tri-Face=1
+Gerogero=1
+X-ATM092=1
+Belhelmel=2
+Buel=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 2055
+Versus=hitman
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=hitman
+result=loss
+score=6-4

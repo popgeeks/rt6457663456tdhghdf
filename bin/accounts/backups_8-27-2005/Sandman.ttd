@@ -1,0 +1,84 @@
+[player]
+nickname=Sandman
+password=bustemup
+email=sandman_017@hotmail.com
+signup_date=4/7/05
+playerID=109
+status=regular
+Verify=1
+Last IP=65.185.28.229
+id=13
+IP=65.185.28.229
+adminstatus=off
+Last Played=04-09-2005
+[Stats]
+Win=5
+Lost=13
+Draw=2
+Lame quits=0
+GP=280
+rank=1051
+Newdecks=3
+Level=3
+Exp=307
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=2
+Choices=1
+Wins=5
+[Newdecks]
+Last=04-07-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=5
+Level4=4
+Level5=0
+Level6=0
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Armadodo=0
+Grat=1
+Granaldo=0
+Mesmerize=0
+Adamantoise=0
+Red Bat=0
+Bomb=0
+Abadon=0
+Wendigo=2
+Vysage=0
+Blue Dragon=1
+Bite Bug=0
+Wedge, Biggs=0
+Iguion=0
+Imp=1
+Death Claw=1
+Belhelmel=1
+SAM08G=1
+Tonberry=1
+Elnoyle=0
+Blood Soul=1
+Red Giant=1
+Tri-Face=1
+Creeps=1
+Ochu=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4459
+Versus=BloodLust
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Rain
+result=win
+score=6-4

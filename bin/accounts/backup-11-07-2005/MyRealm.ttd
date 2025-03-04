@@ -1,0 +1,49 @@
+[player]
+nickname=MyRealm
+password=325014829
+email=kencheung26@hotmail.com
+signup_date=7/1/2005
+playerID=953
+status=regular
+referal=
+Verify=1
+Last IP=81.157.51.173
+id=18
+IP=81.157.51.173
+adminstatus=off
+match=07-01-2005
+Last Played=07-01-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=4
+Lost=14
+Draw=4
+Lame quits=0
+GP=134
+Newdecks=1
+Level=2
+Exp=246
+Next=248
+AP=759
+Streak=-5
+Choices=1
+[Newdecks]
+Last=07-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 46195
+Versus=Cassy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=kyan661
+result=loss
+score=7-3

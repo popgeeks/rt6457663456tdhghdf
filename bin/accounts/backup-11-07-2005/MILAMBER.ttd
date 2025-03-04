@@ -1,0 +1,45 @@
+[player]
+nickname=MILAMBER
+password=183525085
+email=thelordofthebums@hotmail.com
+signup_date=9/22/2005
+playerID=2419
+status=regular
+referal=
+Verify=1
+Last IP=83.36.241.159
+id=34
+IP=83.36.241.159
+adminstatus=off
+match=10-09-2005
+[Stats]
+Win=114
+Lost=110
+Draw=40
+Lame quits=2
+Newdecks=1
+Level=14
+Exp=6490
+Next=7520
+Streak=-1
+Choices=1
+[Newdecks]
+Last=09-22-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 141760
+Versus=TheSpiral
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=kasumi
+result=loss
+score=12-8
+[Warnings]
+Kicks=2

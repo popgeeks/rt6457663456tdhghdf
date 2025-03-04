@@ -1,0 +1,107 @@
+[player]
+nickname=BloodLust
+password=blade
+email=martin_harding2000@yahoo.com
+signup_date=4/3/05
+playerID=87
+status=regular
+Verify=1
+Last IP=86.0.83.174
+id=26
+IP=86.0.83.174
+adminstatus=off
+Last Played=07-28-2005
+membership=diamond
+match=07-28-2005
+guildinvite=
+guildinvite_name=
+guild=Card Club
+guildmaster=3
+[Stats]
+Win=74
+Lost=37
+Draw=15
+Lame quits=6
+GP=200
+rank=1491
+Newdecks=23
+Level=9
+Exp=3264
+Next=3346
+Streak=2
+SoldCards=0
+cardsgiven=0
+Choices=1
+Wins=55
+AP=1433
+[Newdecks]
+Last=07-20-2005
+[Totals]
+Level1=6
+Level2=3
+Level3=3
+Level4=3
+Level5=2
+Level6=7
+Level7=3
+Level8=1
+Level9=1
+Level10=4
+Total=0
+[cards]
+Ochu=1
+X-ATM092=1
+Rinoa=1
+Edea=1
+Red Bat=0
+Gerogero=1
+Granaldo=1
+Belhelmel=0
+Gayla=0
+Gesper=1
+Blobra=1
+Caterchipillar=1
+Grat=0
+Jelleye=0
+Snow Lion=0
+Trauma=0
+Iguion=1
+Glacial Eye=1
+Tonberry King=1
+Fastitocalon-F=1
+Imp=1
+Cactuar=1
+Behemoth=1
+Buel=1
+Anacondaur=1
+Propagator=1
+Geezard=1
+Tri-Face=1
+Shiva=1
+Tiamat=1
+Vysage=1
+Torama=1
+Carbuncle=1
+Kiros=1
+Seifer=1
+Krysta=1
+Abadon=1
+Oilboyle=1
+Blood Soul=1
+Mobile Type 8=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 70669
+Versus=rockinizz
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=rockinizz
+result=win
+score=12-8

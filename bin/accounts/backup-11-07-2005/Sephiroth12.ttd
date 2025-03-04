@@ -1,0 +1,30 @@
+[player]
+nickname=Sephiroth12
+password=232903599
+email=luistheman12@yahoo.es
+signup_date=10/4/2005
+playerID=2636
+status=regular
+referal=Ashman
+Verify=1
+Last IP=200.82.232.225
+id=37
+IP=200.82.232.225
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-04-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

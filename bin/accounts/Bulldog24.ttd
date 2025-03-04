@@ -1,0 +1,55 @@
+[player]
+nickname=Bulldog24
+password=football
+email=FVieira@bridgew.edu
+signup_date=5/10/2005
+playerID=349
+status=regular
+referal=MisterRictus
+Verify=1
+Last IP=207.206.240.97
+id=14
+IP=207.206.240.97
+adminstatus=off
+match=08-03-2006
+Last Played=05-12-2005
+guildinvite=3
+guildinvite_name=The Turks
+[Stats]
+Win=57
+Lost=50
+Draw=25
+Lame quits=2
+GP=2143
+rank=1477
+Newdecks=7
+Level=11
+Exp=4300
+Next=4838
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=52
+AP=1389
+SBLost=11
+SBWin=4
+[Newdecks]
+Last=05-11-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 737786
+Versus=Woopbang
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=MisterRictus
+result=win
+score=50-27

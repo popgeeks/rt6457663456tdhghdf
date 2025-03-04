@@ -1,0 +1,49 @@
+[player]
+nickname=blitz
+password=133319735
+email=agge4545@hotmail.com
+signup_date=5/28/2005
+playerID=537
+status=regular
+referal=
+Verify=1
+Last IP=217.208.75.149
+id=2
+IP=217.208.75.149
+adminstatus=off
+match=06-07-2005
+Last Played=06-07-2005
+[Stats]
+Win=25
+Lost=53
+Draw=13
+Lame quits=3
+GP=1701
+rank=1507
+Newdecks=1
+Level=7
+Exp=2023
+Next=2154
+AP=3416
+Streak=-1
+Choices=1
+SBLost=4
+SBWin=1
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 29612
+Versus=Steampunk
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Steampunk
+result=loss
+score=12-6

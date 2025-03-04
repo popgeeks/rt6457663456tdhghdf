@@ -1,0 +1,43 @@
+[player]
+nickname=Kaczek69
+password=wypierdalaj6
+email=kaczek69@op.pl
+signup_date=11/7/2005
+playerID=3190
+status=regular
+referal=
+Verify=1
+Last IP=83.24.87.141
+id=11
+IP=83.24.87.141
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=36
+Next=100
+Streak=-2
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=11-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146378
+Versus=phreakazoid
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=7-3

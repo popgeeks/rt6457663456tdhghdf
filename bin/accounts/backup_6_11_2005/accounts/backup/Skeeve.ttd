@@ -1,0 +1,85 @@
+[player]
+nickname=Skeeve
+password=6a4l91
+email=skeeveplowse@gmail.com
+signup_date=4/11/05
+playerID=128
+status=regular
+referal=Sefie
+Verify=1
+Last IP=24.36.47.30
+id=4
+IP=24.36.47.30
+adminstatus=off
+match=04-15-2005
+Last Played=04-15-2005
+[Stats]
+Win=1
+Lost=2
+Draw=1
+Lame quits=0
+GP=90
+rank=1350
+Newdecks=3
+Level=1
+Exp=73
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-2
+[Newdecks]
+Last=04-12-2005
+[Totals]
+Level1=5
+Level2=1
+Level3=3
+Level4=2
+Level5=0
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Imp=0
+Adamantoise=0
+Elvoret=0
+Chimera=0
+Shumi Tribe=0
+Gayla=0
+Trauma=1
+Thrustaevis=0
+Propagator=0
+Wendigo=1
+Armadodo=0
+Oilboyle=0
+BGH251F2=1
+Blue Dragon=1
+Jelleye=1
+Abadon=1
+Caterchipillar=1
+Blobra=1
+Geezard=1
+Bite Bug=1
+Granaldo=1
+Death Claw=1
+Blood Soul=1
+Tri-Face=1
+Forbidden=1
+=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5769
+Versus=darklumina
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=darklumina
+result=loss
+score=13-7

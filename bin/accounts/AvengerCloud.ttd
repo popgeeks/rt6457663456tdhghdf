@@ -1,0 +1,19 @@
+[player]
+nickname=AvengerCloud
+password=85384130
+email=striderevo8@yahoo.com
+signup_date=9/25/2005
+playerID=2484
+status=regular
+referal=Friend
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-25-2005
+[password]
+failed=1

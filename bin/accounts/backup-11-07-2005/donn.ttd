@@ -1,0 +1,30 @@
+[player]
+nickname=donn
+password=000000
+email=donn_pitto@yahoo.com
+signup_date=10/22/2005
+playerID=2968
+status=regular
+referal=
+Verify=1
+Last IP=208.59.161.60
+id=44
+IP=208.59.161.60
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

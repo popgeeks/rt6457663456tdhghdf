@@ -1,0 +1,19 @@
+[player]
+nickname=pocaluz
+password=254125833
+email=aleja121277@hotmail.com
+signup_date=11/5/2005
+playerID=3165
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=11-05-2005
+[password]
+failed=1

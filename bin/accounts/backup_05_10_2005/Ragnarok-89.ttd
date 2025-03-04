@@ -1,0 +1,47 @@
+[player]
+nickname=Ragnarok-89
+password=597524344
+email=fantasizor_07@hotmail.com
+signup_date=4/16/05
+playerID=144
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=1
+Level2=5
+Level3=1
+Level4=2
+Level5=1
+Level6=5
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Iguion=1
+Glacial Eye=2
+Buel=1
+X-ATM092=1
+Forbidden=1
+Anacondaur=1
+Wedge, Biggs=1
+Gerogero=1
+Elvoret=2
+Red Bat=1
+Adamantoise=1
+Thrustaevis=1
+[password]
+failed=1

@@ -1,0 +1,57 @@
+[player]
+nickname=conf
+password=978147148
+email=xq.confessions@gmail.com
+signup_date=7/2/2005
+playerID=969
+status=regular
+referal=
+Verify=1
+Last IP=81.82.95.191
+id=6
+IP=81.82.95.191
+adminstatus=off
+match=07-30-2005
+Last Played=07-30-2005
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=472
+Lost=348
+Draw=189
+Lame quits=13
+GP=95
+Newdecks=19
+Level=21
+Exp=15204
+Next=16552
+AP=7717
+Streak=2
+SoldCards=61
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-03-2005
+[AP]
+AAEXP=865
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 73135
+Versus=abi
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=abi
+result=win
+score=8-2
+[Warnings]
+Warns=1
+Kicks=2

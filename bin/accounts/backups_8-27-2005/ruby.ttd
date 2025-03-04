@@ -1,0 +1,19 @@
+[player]
+nickname=ruby
+password=487203955
+email=ruby@yahoo.com
+signup_date=6/9/2005
+playerID=661
+status=regular
+referal=friend
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-09-2005

@@ -1,0 +1,32 @@
+[player]
+nickname=Jorbus
+password=297443747
+email=adamganske@hotmail.com
+signup_date=5/9/2005
+playerID=342
+status=regular
+referal=
+Verify=1
+Last IP=68.144.47.111
+id=6
+IP=68.144.47.111
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=05-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

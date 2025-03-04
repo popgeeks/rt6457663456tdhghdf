@@ -1,0 +1,97 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ Standard Nintendo
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina>> CHANGERULE 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina2>> JOINTABLE 1
+darklumina>> CHANGERULE 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> TABLECLOSE
+darklumina2>> CREATETABLE
+darklumina2>> TABLECLOSE
+darklumina2>> CREATETABLE
+darklumina2>> TABLECLOSE
+darklumina>> CREATETABLE
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina>> PING
+darklumina2>> PING
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina2>> CHAT /me is back.
+darklumina2>> AWAY 0
+darklumina2>> JOINTABLE 1

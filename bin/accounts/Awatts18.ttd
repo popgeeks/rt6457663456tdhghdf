@@ -1,0 +1,23 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=110
+match=02-10-2006
+[Play]
+Playing=false
+GameID= 339777
+Versus=hAlFaS
+Iam=1
+[Stats]
+Level=10
+Exp=3650
+Next=3936
+Streak=-2
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Omni
+result=loss
+score=6-4

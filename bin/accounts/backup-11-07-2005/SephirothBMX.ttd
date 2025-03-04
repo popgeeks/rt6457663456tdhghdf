@@ -1,0 +1,51 @@
+[player]
+nickname=SephirothBMX
+password=janicka
+email=finalfanatik@seznam.cz
+signup_date=9/26/2005
+playerID=2503
+status=regular
+referal=
+Verify=1
+Last IP=85.71.42.234
+id=33
+IP=85.71.42.234
+adminstatus=off
+match=11-06-2005
+guildinvite=
+guildinvite_name=
+guild=Sephiroth Clones
+guildmaster=3
+[Stats]
+Win=192
+Lost=232
+Draw=69
+Lame quits=3
+Newdecks=1
+Level=16
+Exp=8999
+Next=9651
+Streak=-1
+SoldCards=12
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=375
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 145816
+Versus=marzpants
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=marzpants
+result=draw
+score=10-10
+[Warnings]
+Kicks=2

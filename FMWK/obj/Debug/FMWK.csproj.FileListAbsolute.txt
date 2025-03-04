@@ -1,0 +1,14 @@
+D:\Certification\Live Update 05\Server\FMWK\bin\Debug\FMWK.dll
+D:\Certification\Live Update 05\Server\FMWK\bin\Debug\FMWK.pdb
+D:\Certification\Live Update 05\Server\FMWK\obj\Debug\ResolveAssemblyReference.cache
+D:\Certification\Live Update 05\Server\FMWK\obj\Debug\FMWK.dll
+D:\Certification\Live Update 05\Server\FMWK\obj\Debug\FMWK.pdb
+Z:\Certification\Live Update 05\Server\FMWK\bin\Debug\FMWK.dll
+Z:\Certification\Live Update 05\Server\FMWK\bin\Debug\FMWK.pdb
+Z:\Certification\Live Update 05\Server\FMWK\obj\Debug\FMWK.csprojResolveAssemblyReference.cache
+Z:\Certification\Live Update 05\Server\FMWK\obj\Debug\FMWK.dll
+Z:\Certification\Live Update 05\Server\FMWK\obj\Debug\FMWK.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\bin\Debug\FMWK.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\bin\Debug\FMWK.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\obj\Debug\FMWK.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\FMWK\obj\Debug\FMWK.pdb

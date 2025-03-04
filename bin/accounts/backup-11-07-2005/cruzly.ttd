@@ -1,0 +1,46 @@
+[player]
+nickname=cruzly
+password=wildarms
+email=cruzhansen@gmail.com
+signup_date=10/5/2005
+playerID=2655
+status=regular
+referal=
+Verify=1
+Last IP=62.61.132.169
+id=130
+IP=62.61.132.169
+adminstatus=off
+match=10-06-2005
+[Stats]
+Win=1
+Lost=5
+Draw=1
+Lame quits=1
+Newdecks=3
+Level=2
+Exp=142
+Next=248
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 121451
+Versus=likeUcare
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=9-1
+[Warnings]
+Warns=1
+Kicks=1

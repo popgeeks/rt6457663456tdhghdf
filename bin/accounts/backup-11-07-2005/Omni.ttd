@@ -1,0 +1,47 @@
+[player]
+nickname=Omni
+password=pookie
+email=omnislasher_2@hotmail.com
+signup_date=9/2/2005
+playerID=2061
+status=regular
+referal=
+Verify=1
+Last IP=66.206.246.252
+id=16
+IP=66.206.246.252
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=169
+Lost=191
+Draw=79
+Lame quits=0
+Newdecks=7
+Level=11
+Exp=4586
+Next=4838
+Streak=1
+SoldCards=0
+cardsgiven=0
+SBDraw=1
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=388
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 146745
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Lucrecia
+result=draw
+score=10-10

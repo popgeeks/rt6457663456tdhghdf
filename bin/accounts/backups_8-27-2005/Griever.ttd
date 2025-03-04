@@ -1,0 +1,48 @@
+[player]
+nickname=Griever
+password=844903468
+email=chris_42390@yahoo.com
+signup_date=7/6/2005
+playerID=1076
+status=regular
+referal=
+Verify=1
+Last IP=69.182.91.166
+id=32
+IP=69.182.91.166
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+match=07-06-2005
+Last Played=07-06-2005
+[Stats]
+Win=0
+Lost=4
+Draw=0
+Lame quits=0
+GP=20
+Newdecks=1
+Level=1
+Exp=36
+Next=100
+AP=128
+Streak=-3
+[Newdecks]
+Last=07-06-2005
+[password]
+failed=2
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 50316
+Versus=sexyshinobu
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=sexyshinobu
+result=loss
+score=6-4

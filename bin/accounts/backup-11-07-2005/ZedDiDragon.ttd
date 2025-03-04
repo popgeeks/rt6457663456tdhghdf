@@ -1,0 +1,47 @@
+[player]
+nickname=ZedDiDragon
+password=tenchu
+email=zed_di_dragon@hotmail.com
+signup_date=6/21/2005
+playerID=784
+status=regular
+referal=
+Verify=1
+Last IP=85.164.205.100
+id=25
+IP=85.164.205.100
+adminstatus=off
+match=06-21-2005
+Last Played=06-21-2005
+[Stats]
+Win=4
+Lost=4
+Draw=0
+Lame quits=0
+GP=237
+rank=1426
+Newdecks=1
+Level=2
+Exp=144
+Next=248
+AP=261
+Streak=-3
+Choices=1
+SBLost=1
+[Newdecks]
+Last=06-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 38436
+Versus=Orusaka
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Orusaka
+result=loss
+score=9-8

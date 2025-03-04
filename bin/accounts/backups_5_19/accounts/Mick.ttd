@@ -1,0 +1,46 @@
+[player]
+nickname=Mick
+password=44103720
+email=sadboy7@gmail.com
+signup_date=5/12/2005
+playerID=365
+status=regular
+referal=
+Verify=1
+Last IP=200.231.152.2
+id=11
+IP=200.231.152.2
+adminstatus=off
+match=05-12-2005
+Last Played=05-12-2005
+[Stats]
+Win=2
+Lost=2
+Draw=0
+Lame quits=0
+GP=180
+rank=1500
+Newdecks=1
+Level=2
+Exp=100
+Next=248
+AP=97
+Streak=-1
+Choices=1
+[Newdecks]
+Last=05-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 15316
+Versus=Cassy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Cassy
+result=loss
+score=11-9

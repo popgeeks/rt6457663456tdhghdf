@@ -1,0 +1,43 @@
+[player]
+nickname=ShadowFox
+password=747618674
+email=XShad0wKitsuneX@aol.com
+signup_date=10/19/2005
+playerID=2924
+status=regular
+referal=
+Verify=1
+Last IP=65.191.189.89
+id=27
+IP=65.191.189.89
+adminstatus=off
+match=10-19-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=25
+Next=100
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 132092
+Versus=rusty55cheuy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=rusty55cheuy
+result=draw
+score=5-5

@@ -1,0 +1,35 @@
+[player]
+nickname=Yuri
+password=120667576
+email=aerith_the_ancient@hotmail.com
+signup_date=10/10/2005
+playerID=2765
+status=regular
+referal=
+Verify=1
+Last IP=62.57.240.25
+id=156
+IP=62.57.240.25
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 125508
+Versus=MasterD
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

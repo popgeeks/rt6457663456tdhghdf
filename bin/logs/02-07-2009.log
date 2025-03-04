@@ -1,0 +1,55 @@
+
+>> >> 0s
+>> LOADGAME atomicstorm pantyraid13>> 23.709s
+>> VERSION 2.11.4>> 0.055s
+>> >> 0s
+atomicstorm>> LOADGAME atomicstorm pantyraid13>> 132.5594s
+atomicstorm>> TABLEQUERY 1>> 0.068s
+atomicstorm>> EXTRACHECK>> 0.075s
+atomicstorm>> PING>> 0.028s
+atomicstorm>> PING>> 0.035s
+atomicstorm>> PING>> 0.036s
+atomicstorm>> PING>> 0.054s
+atomicstorm>> PING>> 0.043s
+atomicstorm>> PING>> 0.042s
+atomicstorm>> PING>> 0.028s
+atomicstorm>> PING>> 0.048s
+atomicstorm>> PING>> 0.029s
+atomicstorm>> PING>> 0.036s
+atomicstorm>> >> 0s
+atomicstorm>> AWAY 1>> 0.221s
+atomicstorm>> PING>> 0.032s
+atomicstorm>> PING>> 0.029s
+atomicstorm>> PING>> 0.034s
+atomicstorm>> PING>> 0.029s
+atomicstorm>> PING>> 0.031s
+atomicstorm>> WEBSERVICE>> 0.064s
+atomicstorm>> PING>> 0.03s
+atomicstorm>> PING>> 0.032s
+atomicstorm>> PING>> 0.038s
+atomicstorm>> PING>> 0.035s
+atomicstorm>> PING>> 0.034s
+atomicstorm>> PING>> 0.035s
+atomicstorm>> WEBSERVICE>> 0.085s
+atomicstorm>> PING>> 0.075s
+atomicstorm>> WEBSERVICE>> 0.039s
+atomicstorm>> WEBSERVICE>> 0.035s
+atomicstorm>> ABNEWDECK Johto>> 0.598s
+atomicstorm>> WEBSERVICE>> 0.036s
+atomicstorm>> WEBSERVICE>> 0.04s
+atomicstorm>> PING>> 0.033s
+atomicstorm>> PING>> 0.043s
+atomicstorm>> PING>> 0.036s
+atomicstorm>> PING>> 0.057s
+atomicstorm>> PING>> 0.049s
+atomicstorm>> PING>> 0.053s
+atomicstorm>> PING>> 0.034s
+atomicstorm>> PING>> 0.041s
+atomicstorm>> PING>> 0.037s
+atomicstorm>> PING>> 0.051s
+atomicstorm>> PING>> 0.038s
+atomicstorm>> PING>> 0.045s
+atomicstorm>> WEBSERVICE>> 0.042s
+atomicstorm>> WEBSERVICE>> 0.086s
+atomicstorm>> PING>> 0.039s
+>> QUIT 0 1>> 0.964s

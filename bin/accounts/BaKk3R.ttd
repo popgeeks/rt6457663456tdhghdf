@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+[player]
+id=108
+match=01-01-2006
+[Play]
+Playing=false
+GameID= 187390
+Versus=3md
+Iam=2
+[Stats]
+Level=3
+Exp=368
+Next=476
+Streak=-1
+Choices=1
+[Games]
+Playing=OTT
+[game]
+opponent=3md
+result=draw
+score=10-10

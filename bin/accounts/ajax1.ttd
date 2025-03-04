@@ -1,0 +1,23 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=116
+match=01-05-2006
+[Play]
+Playing=false
+GameID= 191688
+Versus=DarkNarga
+Iam=2
+[Stats]
+Level=12
+Exp=5134
+Next=5510
+Streak=-6
+[Games]
+Playing=MM
+Challenged=
+[game]
+opponent=squll-typo
+result=draw
+score=10-10

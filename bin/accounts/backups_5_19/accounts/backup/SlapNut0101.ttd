@@ -1,0 +1,57 @@
+[player]
+nickname=SlapNut0101
+password=darkwind
+email=godd1921@yahoo.com
+signup_date=3/30/05
+playerID=72
+status=regular
+Verify=1
+Last IP=68.61.124.207
+id=14
+IP=68.61.124.207
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=03-30-2005
+[Totals]
+Level1=4
+Level2=2
+Level3=1
+Level4=3
+Level5=1
+Level6=2
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Geezard=2
+Propagator=1
+Creeps=1
+Jelleye=1
+Imp=1
+Forbidden=1
+Trauma=1
+Granaldo=1
+GIM47N=1
+Blue Dragon=2
+Catoblepas=1
+Red Bat=1
+Funguar=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

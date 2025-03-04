@@ -1,0 +1,32 @@
+[player]
+nickname=SephiRoth69
+password=816780625
+email=matthewjamison@sbcglobal.net
+signup_date=7/26/2005
+playerID=1508
+status=regular
+referal=
+Verify=1
+Last IP=64.123.63.12
+id=81
+IP=64.123.63.12
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=07-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

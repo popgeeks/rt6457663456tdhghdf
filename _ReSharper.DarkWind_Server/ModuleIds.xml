@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="68EC9493-0044-4738-87D0-79E856BA958D" ModuleId="TTEServer" />
+  <Module PersistentId="FCAF80B6-AD36-44D5-8983-A4A90B32D685" ModuleId="Entities" />
+  <Module PersistentId="8DF40395-F0E3-48AC-8D22-DEDC72CCD94E" ModuleId="LogicLayer" />
+  <Module PersistentId="072E7C1E-B1D9-4C32-9AF4-018C7C4DABF7" ModuleId="DataLayer" />
+  <Module PersistentId="0213EE29-5A67-46A4-A625-E4772D47B093" ModuleId="ErrorLogging" />
+</Modules>

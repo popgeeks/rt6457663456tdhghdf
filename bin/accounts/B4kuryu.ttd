@@ -1,0 +1,41 @@
+[player]
+nickname=B4kuryu
+password=583955048
+email=patrickpetersen1@gmx.de
+signup_date=9/13/2005
+playerID=2259
+status=regular
+referal=huhu
+Verify=1
+Last IP=84.62.6.234
+id=18
+IP=84.62.6.234
+adminstatus=off
+match=09-13-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104644
+Versus=MasterD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=7-3

@@ -1,0 +1,19 @@
+[player]
+nickname=SHaD
+password=81178188
+email=bdt_shad@yahoo.com.br
+signup_date=9/2/2005
+playerID=2064
+status=regular
+referal=SHaD
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-02-2005
+[password]
+failed=3

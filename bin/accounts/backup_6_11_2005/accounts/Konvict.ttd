@@ -1,0 +1,57 @@
+[player]
+nickname=Konvict
+password=oooo
+email=ksmith@se.rr.com
+signup_date=5/28/2005
+playerID=538
+status=regular
+referal=Velius
+Verify=1
+Last IP=24.26.21.236
+id=8
+IP=24.26.21.236
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+[Stats]
+Win=195
+Lost=249
+Draw=67
+Lame quits=7
+GP=260
+rank=2151
+Newdecks=31
+Level=16
+Exp=9141
+Next=9651
+AP=165
+SoldCards=5
+cardsgiven=0
+Streak=-3
+Choices=1
+SBLost=2
+SBWin=1
+[Newdecks]
+Last=06-05-2005
+[password]
+failed=1
+[AP]
+AAEXP=121
+honor=1
+PCT=10
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 31360
+Versus=DvD
+Iam=2
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=DvD
+result=loss
+score=14-6
+[Warnings]
+Warns=2
+Kicks=2

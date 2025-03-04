@@ -1,0 +1,19 @@
+[player]
+nickname=spiralite
+password=824913560
+email=cole107@yahoo.com
+signup_date=5/14/2005
+playerID=373
+status=regular
+referal=TheSpiral
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-14-2005

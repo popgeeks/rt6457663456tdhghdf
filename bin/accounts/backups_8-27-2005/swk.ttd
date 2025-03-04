@@ -1,0 +1,44 @@
+[player]
+nickname=swk
+password=212993204
+email=gbamac@gmx.de
+signup_date=7/2/2005
+playerID=981
+status=regular
+referal=ff8
+Verify=1
+Last IP=84.147.90.204
+id=25
+IP=84.147.90.204
+adminstatus=off
+match=07-02-2005
+Last Played=07-02-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=18
+Next=100
+AP=42
+Streak=-2
+[Newdecks]
+Last=07-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 46987
+Versus=Kevin8523
+Iam=1
+[password]
+failed=0
+[game]
+opponent=Kevin8523
+result=loss
+score=9-1
+[Games]
+Playing=TT

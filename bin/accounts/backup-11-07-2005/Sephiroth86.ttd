@@ -1,0 +1,54 @@
+[player]
+nickname=Sephiroth86
+password=onboard
+email=aiden_g03@hotmail.com
+signup_date=8/20/2005
+playerID=1898
+status=regular
+referal=
+Verify=1
+Last IP=87.242.159.94
+id=12
+IP=87.242.159.94
+adminstatus=off
+match=10-03-2005
+Last Played=08-26-2005
+[Stats]
+Win=124
+Lost=138
+Draw=57
+Lame quits=4
+GP=16
+Newdecks=15
+Level=14
+Exp=6517
+Next=7520
+AP=2884
+Streak=2
+SBWin=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=1
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 119510
+Versus=howabe
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=howabe
+result=draw
+score=10-10
+[Warnings]
+Warns=1

@@ -1,0 +1,66 @@
+[player]
+nickname=TheSpiral
+password=ph1ll1e5
+email=m0gman@yahoo.com
+signup_date=5/2/2005
+playerID=256
+status=regular
+referal=Legacy
+Verify=1
+Last IP=4.249.27.3
+id=59
+IP=4.249.27.3
+adminstatus=off
+match=08-22-2005
+Last Played=08-22-2005
+surname=teh_pwnage
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=323
+Lost=337
+Draw=119
+Lame quits=21
+GP=2649
+rank=1317
+Newdecks=7
+Level=19
+Exp=13277
+Next=13706
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=89
+AP=171
+SBLost=44
+SBWin=46
+SBDraw=2
+[Newdecks]
+Last=05-24-2005
+[AP]
+AAEXP=539
+honor=2
+PCT=10
+AAPOINTS=0
+TRAINED=3
+darky's=1
+[Play]
+Playing=false
+GameID= 90159
+Versus=ChrisTheDuck
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=ChrisTheDuck
+result=draw
+score=5-5
+[Warnings]
+Warns=3
+Kicks=7

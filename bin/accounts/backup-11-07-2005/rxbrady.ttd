@@ -1,0 +1,45 @@
+[player]
+nickname=rxbrady
+password=c3llard00r
+email=mysensesfail511@netscape.net
+signup_date=9/6/2005
+playerID=2124
+status=regular
+referal=rxbrady
+Verify=1
+Last IP=68.187.102.155
+id=57
+IP=68.187.102.155
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=98
+Lost=113
+Draw=29
+Lame quits=1
+Newdecks=1
+Level=13
+Exp=5565
+Next=6316
+Streak=-3
+Choices=1
+SBLost=6
+SBWin=1
+[Newdecks]
+Last=09-06-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146115
+Versus=KieranCarden
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=KieranCarden
+result=loss
+score=16-4

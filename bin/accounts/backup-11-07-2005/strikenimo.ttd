@@ -1,0 +1,35 @@
+[player]
+nickname=strikenimo
+password=65858483
+email=weird_040@hotmail.com
+signup_date=10/30/2005
+playerID=3088
+status=regular
+referal=
+Verify=1
+Last IP=24.86.113.43
+id=22
+IP=24.86.113.43
+adminstatus=off
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140671
+Versus=darklumina
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN

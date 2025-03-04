@@ -1,0 +1,44 @@
+[player]
+nickname=AngelofaTime
+password=sailormoon86
+email=Childagedbytime@gmail.com
+signup_date=6/16/2005
+playerID=724
+status=regular
+referal=Jennaveevv
+Verify=1
+Last IP=69.166.44.129
+id=8
+IP=69.166.44.129
+adminstatus=off
+Last Played=06-17-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1495
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+Streak=1
+[Newdecks]
+Last=06-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 35211
+Versus=ashley-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ashley-bot
+result=win
+score=6-4

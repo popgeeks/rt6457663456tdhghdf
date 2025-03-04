@@ -1,0 +1,43 @@
+[player]
+nickname=Omega
+password=803220032
+email=gogeta_the_omega_ssj@hotmail.com
+signup_date=4/6/05
+playerID=105
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=04-06-2005
+[Totals]
+Level1=4
+Level2=5
+Level3=1
+Level4=2
+Level5=1
+Level6=1
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Creeps=3
+Turtapod=1
+Gerogero=1
+Propagator=1
+Glacial Eye=1
+Fastitocalon=1
+Gesper=2
+Red Bat=1
+Torama=1
+Geezard=1
+Anacondaur=1
+Chimera=1

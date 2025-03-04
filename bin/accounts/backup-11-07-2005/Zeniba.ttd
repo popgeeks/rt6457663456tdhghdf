@@ -1,0 +1,30 @@
+[player]
+nickname=Zeniba
+password=442364275
+email=MiYu_nic@web.de
+signup_date=10/13/2005
+playerID=2818
+status=regular
+referal=soleil
+Verify=1
+Last IP=85.73.177.88
+id=3
+IP=85.73.177.88
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

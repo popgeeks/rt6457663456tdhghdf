@@ -1,0 +1,46 @@
+[player]
+nickname=Shinra
+password=174427747
+email=ugh4000@mail.com
+signup_date=7/8/2005
+playerID=1117
+status=regular
+referal=
+Verify=1
+Last IP=68.73.198.140
+id=46
+IP=68.73.198.140
+adminstatus=off
+match=07-08-2005
+Last Played=07-08-2005
+[Stats]
+Win=3
+Lost=2
+Draw=3
+Lame quits=0
+GP=165
+Newdecks=11
+Level=2
+Exp=124
+Next=248
+AP=516
+Streak=-1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 51647
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=kirayamato
+result=loss
+score=6-4

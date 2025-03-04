@@ -1,0 +1,45 @@
+[player]
+nickname=1sephiroth1
+password=103072643
+email=Sephiroth_the_repear666@yahoo.com
+signup_date=5/2/2005
+playerID=263
+status=regular
+referal=
+Verify=1
+Last IP=24.16.139.16
+id=27
+IP=24.16.139.16
+adminstatus=off
+match=05-02-2005
+Last Played=05-02-2005
+[Stats]
+Win=3
+Lost=5
+Draw=2
+Lame quits=0
+GP=282
+rank=1165
+Newdecks=1
+Level=2
+Exp=118
+Next=248
+Streak=-5
+Choices=1
+[Newdecks]
+Last=05-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10568
+Versus=iamgod69
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=iamgod69
+result=draw
+score=5-5

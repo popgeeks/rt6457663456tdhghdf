@@ -1,0 +1,48 @@
+[player]
+nickname=fullmetal
+password=373413622
+email=wicked_plague@hotmail.com
+signup_date=5/26/2005
+playerID=497
+status=regular
+referal=alphonse
+Verify=1
+Last IP=81.228.43.45
+id=29
+IP=81.228.43.45
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+[Stats]
+Win=2
+Lost=13
+Draw=0
+Lame quits=1
+GP=188
+rank=1500
+Newdecks=1
+Level=2
+Exp=218
+Next=248
+AP=546
+SBLost=12
+Streak=1
+SBWin=1
+Choices=1
+[Newdecks]
+Last=05-26-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 22401
+Versus=greeenml
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=greeenml
+result=win
+score=11-9

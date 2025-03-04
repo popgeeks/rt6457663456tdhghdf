@@ -1,0 +1,64 @@
+[player]
+nickname=squll-typo
+password=cainryan
+email=to5h1974@aol.com
+signup_date=4/6/05
+playerID=103
+status=regular
+Verify=1
+Last IP=172.201.175.73
+id=3
+IP=172.201.175.73
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-06-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=3
+Level4=1
+Level5=2
+Level6=2
+Level7=3
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Oilboyle=1
+Ochu=1
+BGH251F2=1
+Death Claw=1
+Ultima Weapon=1
+Malboro=1
+Anacondaur=1
+Armadodo=1
+Gerogero=1
+Behemoth=1
+Turtapod=1
+Mesmerize=1
+Propagator=1
+Buel=1
+Blobra=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4705
+Versus=jinx
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

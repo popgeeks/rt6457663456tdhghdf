@@ -1,0 +1,48 @@
+[player]
+nickname=Klint
+password=138909756
+email=clintduca@hotmail.com
+signup_date=4/16/05
+playerID=146
+status=regular
+referal=Klint
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=3
+Level2=3
+Level3=3
+Level4=1
+Level5=1
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Wendigo=1
+Mesmerize=1
+GIM47N=1
+Tri-Face=1
+Oilboyle=1
+Glacial Eye=1
+Fujin, Raijin=1
+Geezard=1
+Iguion=1
+Ochu=1
+Jelleye=1
+Blood Soul=1
+Cactuar=1
+Shumi Tribe=1
+Red Bat=1

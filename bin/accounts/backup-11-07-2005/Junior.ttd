@@ -1,0 +1,20 @@
+[player]
+nickname=Junior
+password=81401288
+email=Sephjr@yahoo.com
+signup_date=7/4/2005
+playerID=1027
+status=regular
+referal=Junior
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-04-2005
+[password]
+failed=1

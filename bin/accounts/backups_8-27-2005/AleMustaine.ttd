@@ -1,0 +1,18 @@
+[player]
+nickname=AleMustaine
+password=936656533
+email=ale_mustaine@hotmail.com
+signup_date=6/28/2005
+playerID=897
+status=regular
+referal=Alexandre
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-28-2005

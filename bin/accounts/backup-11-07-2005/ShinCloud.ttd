@@ -1,0 +1,41 @@
+[player]
+nickname=ShinCloud
+password=385230004
+email=yari3@hotmail.it
+signup_date=10/1/2005
+playerID=2568
+status=regular
+referal=Yari
+Verify=1
+Last IP=82.51.139.237
+id=129
+IP=82.51.139.237
+adminstatus=off
+match=10-01-2005
+[Stats]
+Win=2
+Lost=2
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=38
+Next=100
+Streak=1
+[Newdecks]
+Last=10-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 117825
+Versus=Lakaroth
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Lakaroth
+result=win
+score=6-4

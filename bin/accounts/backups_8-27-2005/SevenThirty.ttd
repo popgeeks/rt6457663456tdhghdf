@@ -1,0 +1,32 @@
+[player]
+nickname=SevenThirty
+password=846035300
+email=G_shine051@yahoo.com
+signup_date=6/27/2005
+playerID=895
+status=regular
+referal=Downloads.com
+Verify=1
+Last IP=72.40.47.243
+id=18
+IP=72.40.47.243
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

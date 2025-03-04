@@ -1,0 +1,46 @@
+[player]
+nickname=ShinShan
+password=maxirom
+email=SpaceFighter2@gmx.de
+signup_date=7/21/2005
+playerID=1406
+status=regular
+referal=18
+Verify=1
+Last IP=84.158.54.42
+id=19
+IP=84.158.54.42
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+[Stats]
+Win=29
+Lost=24
+Draw=14
+Lame quits=1
+GP=68
+Newdecks=1
+Level=5
+Exp=1181
+Next=1301
+AP=442
+Streak=1
+Choices=1
+[Newdecks]
+Last=07-21-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID=74184
+Versus=Team
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sexyshinobu
+result=win
+score=14-6

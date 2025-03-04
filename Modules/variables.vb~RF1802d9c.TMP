@@ -1,0 +1,61 @@
+Imports System.Configuration
+
+Module variables
+    Public pmnum As Integer
+    Public blnlogpackets As Boolean
+
+    Public oServerConfig As New ServerConfig()
+
+    Public Structure typGames
+        Dim gameid As Integer
+        Dim player1 As String
+        Dim player2 As String
+        Dim player3 As String
+        Dim player4 As String
+        Dim player_ready() As Boolean
+        Dim rulelist As String
+        Dim code_x As String
+        Dim comment As String
+        Dim blnlock As Boolean
+        Dim wager As Integer
+        Dim stalemate1 As Boolean
+        Dim stalemate2 As Boolean
+        Dim strDecks As String
+        Dim strBlocks As String
+    End Structure
+	
+    Public tables(0 To 100) As typGames
+    Public iMaxTables As Integer = 100
+
+	Public Sub initializetables()
+        Dim x As Integer
+
+        For x = 0 To iMaxTables - 1
+            ReDim tables(x).player_ready(4)
+
+            'ReDim Preserve tables(0 To x) As clsTables
+            'Set tables(x) = New
+            tables(x).code_x = String.Empty
+            tables(x).player1 = String.Empty
+            tables(x).player2 = String.Empty
+            tables(x).player3 = String.Empty
+            tables(x).player4 = String.Empty
+            tables(x).player_ready(1) = False
+            tables(x).player_ready(2) = False
+            tables(x).player_ready(3) = False
+            tables(x).player_ready(4) = False
+
+            tables(x).stalemate1 = False
+            tables(x).stalemate2 = False
+
+            tables(x).rulelist = String.Empty
+            tables(x).comment = String.Empty
+            tables(x).wager = 0
+            tables(x).stalemate1 = False
+            tables(x).stalemate2 = False
+            tables(x).strDecks = String.Empty
+            tables(x).strBlocks = String.Empty
+            tables(x).gameid = 0
+        Next x
+    End Sub
+End Module

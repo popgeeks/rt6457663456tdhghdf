@@ -1,0 +1,47 @@
+[player]
+nickname=Vorpal
+password=leviathan
+email=vorpal_hedgehog@hotmail.com
+signup_date=9/22/2005
+playerID=2424
+status=regular
+referal=
+Verify=1
+Last IP=12.73.150.58
+id=33
+IP=12.73.150.58
+adminstatus=off
+match=10-27-2005
+[Stats]
+Win=16
+Lost=34
+Draw=16
+Lame quits=1
+Newdecks=15
+Level=5
+Exp=1230
+Next=1301
+Streak=-2
+SoldCards=0
+cardsgiven=0
+SBLost=1
+[Newdecks]
+Last=09-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 137790
+Versus=meh2
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=meh2
+result=loss
+score=12-8
+[Warnings]
+Kicks=1

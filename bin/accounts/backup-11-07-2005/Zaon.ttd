@@ -1,0 +1,39 @@
+[player]
+nickname=Zaon
+password=64719378
+email=Grigory_Sephiroth@hotmail.com
+signup_date=8/4/2005
+playerID=1681
+status=regular
+referal=España
+Verify=1
+Last IP=83.42.141.206
+id=10
+IP=83.42.141.206
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=11
+[Newdecks]
+Last=08-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 78438
+Versus=Alex8905
+Iam=1
+[password]
+failed=10
+[Games]
+Playing=TT
+[Warnings]
+Kicks=1

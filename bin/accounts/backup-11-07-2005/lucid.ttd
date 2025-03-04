@@ -1,0 +1,30 @@
+[player]
+nickname=lucid
+password=90865135
+email=dreamnaut_gr@yahoo.com
+signup_date=10/30/2005
+playerID=3075
+status=regular
+referal=34100
+Verify=1
+Last IP=212.89.182.231
+id=87
+IP=212.89.182.231
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

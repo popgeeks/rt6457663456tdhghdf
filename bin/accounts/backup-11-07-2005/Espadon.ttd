@@ -1,0 +1,33 @@
+[player]
+nickname=Espadon
+password=742815851
+email=bigshit_espadon@hotmail.com
+signup_date=6/4/2005
+playerID=610
+status=regular
+referal=
+Verify=1
+Last IP=84.119.104.178
+id=44
+IP=84.119.104.178
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=4
+[Newdecks]
+Last=06-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

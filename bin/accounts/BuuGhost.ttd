@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=110
+match=12-30-2005
+[Play]
+Playing=false
+GameID= 234054
+Versus=metbmx111
+Iam=1
+[Stats]
+Level=1
+Exp=51
+Next=100
+Streak=-1
+[Games]
+Playing=MM
+[game]
+opponent=NanakiXIII
+result=loss
+score=7-3

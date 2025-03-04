@@ -1,0 +1,57 @@
+[player]
+nickname=quest-bot
+password=412luck
+email=gamewar@yahoo.com
+signup_date=3/13/2005
+playerID=54
+status=god
+Verify=1
+Last IP=192.168.0.2
+id=2
+IP=192.168.0.2
+adminstatus=off
+Last Played=03-30-2005
+guildmaster=2
+guild=Bots of Doom
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=2
+GP=90
+Newdecks=0
+Level=1
+Exp=0
+Next=100
+Streak=0
+Choices=1
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=6
+Level2=5
+Level3=5
+Level4=6
+Level5=5
+Level6=5
+Level7=5
+Level8=3
+Level9=6
+Level10=4
+Total=60
+Level=-2
+[cards]
+Minimog=3
+Blue Dragon=1
+[Games]
+Challenged=
+Playing=TT
+[Play]
+Playing=false
+GameID= 22
+Versus=DarkJaxyChan
+Iam=2
+[AP]
+AAEXP=0
+[password]
+failed=0

@@ -1,0 +1,73 @@
+[player]
+nickname=deathsheartt
+password=40593326
+email=deathgrip01@hotmail.com
+signup_date=3/20/05
+playerID=33
+status=regular
+Verify=1
+Last IP=69.197.18.10
+id=5
+IP=69.197.18.10
+adminstatus=off
+Last Played=03-20-2005
+guildinvite=
+guildinvite_name=
+guild=Dark Creation
+guildmaster=3
+[Stats]
+Win=2
+Lost=5
+Draw=0
+Lame quits=0
+GP=70
+rank=1220
+Newdecks=1
+Level=2
+Exp=102
+Next=248
+Streak=-2
+Choices=1
+[Newdecks]
+Last=03-20-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=2
+Level4=3
+Level5=0
+Level6=5
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Adamantoise=1
+Shumi Tribe=2
+Elvoret=2
+Gayla=1
+Anacondaur=1
+Death Claw=1
+Tri-Face=1
+Grat=1
+Torama=1
+Turtapod=1
+Geezard=1
+Granaldo=1
+Mesmerize=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 549
+Versus=GaFFeR
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=GaFFeR
+result=loss
+score=8-2

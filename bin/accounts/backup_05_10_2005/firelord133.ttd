@@ -1,0 +1,21 @@
+[player]
+nickname=firelord133
+password=39064764
+email=firelord133@hotmail.com
+signup_date=5/8/2005
+playerID=330
+status=regular
+referal=firelord133
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-08-2005
+[password]
+failed=1

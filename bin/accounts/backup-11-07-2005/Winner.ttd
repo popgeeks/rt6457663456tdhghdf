@@ -1,0 +1,20 @@
+[player]
+nickname=Winner
+password=129999160
+email=moin@sofort-mail.de
+signup_date=7/20/2005
+playerID=1395
+status=regular
+referal=bester
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-20-2005
+[password]
+failed=4

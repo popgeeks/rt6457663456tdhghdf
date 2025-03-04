@@ -1,0 +1,21 @@
+[player]
+nickname=Don-Karnage
+password=994816957
+email=julienlauwers@aol.com
+signup_date=5/23/2005
+playerID=472
+status=regular
+referal=GanG
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-23-2005
+[password]
+failed=3

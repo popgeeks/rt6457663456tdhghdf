@@ -1,0 +1,53 @@
+[player]
+nickname=Alucard
+password=258522152
+email=Bravo-Team@gmx.net
+signup_date=6/27/2005
+playerID=888
+status=regular
+referal=
+Verify=1
+Last IP=80.228.88.202
+id=42
+IP=80.228.88.202
+adminstatus=off
+match=09-08-2005
+Last Played=08-27-2005
+[Stats]
+Win=169
+Lost=210
+Draw=98
+Lame quits=1
+GP=2831
+Newdecks=5
+Level=12
+Exp=5317
+Next=5510
+AP=7982
+SoldCards=20
+cardsgiven=0
+Streak=1
+Choices=1
+SBDraw=2
+SBLost=3
+SBWin=2
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=666
+honor=1
+PCT=50
+[Play]
+Playing=false
+GameID= 101035
+Versus=Jimmy3000
+Iam=1
+[password]
+failed=1
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Jimmy3000
+result=win
+score=6-4

@@ -1,0 +1,135 @@
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.8
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> PING
+darklumina2>> PING
+darklumina>> PING
+darklumina2>> PING
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE Basic Random 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> MYCARD 0 Kiara
+darklumina2>> MYCARD 1 Power%20Glove
+darklumina2>> MYCARD 2 2%20Faced
+darklumina2>> MYCARD 3 Grimguard
+darklumina2>> MYCARD 4 Touch%20Me
+darklumina2>> READY darklumina2
+darklumina>> MYCARD 0 Carrion%20Worm
+darklumina>> MYCARD 1 2%20Faced
+darklumina>> MYCARD 2 Sprigg
+darklumina>> MYCARD 3 Minotaur
+darklumina>> MYCARD 4 Motor%20Ball
+darklumina>> READY darklumina
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> PLACEAT 8 3 darklumina2
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+darklumina2>> PLACEAT 6 4 darklumina
+darklumina>> PLACEAT 7 4 darklumina2
+darklumina>> PING
+darklumina2>> PING
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.8
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE Basic Random 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MYCARD 0 Master%20Tonberry
+darklumina>> MYCARD 1 Basilisk
+darklumina>> MYCARD 2 Emperor%20Bulblax
+darklumina>> MYCARD 3 Shelter
+darklumina>> MYCARD 4 Allemange
+darklumina>> READY darklumina
+darklumina2>> MYCARD 0 Mover
+darklumina2>> MYCARD 1 Popo
+darklumina2>> MYCARD 2 Taurus
+darklumina2>> MYCARD 3 Fiona
+darklumina2>> MYCARD 4 Allemange
+darklumina2>> READY darklumina2
+darklumina2>> PLACEAT 0 0 darklumina
+darklumina>> PLACEAT 7 2 darklumina2
+darklumina2>> PLACEAT 8 1 darklumina
+darklumina>> PLACEAT 6 4 darklumina2
+darklumina2>> PLACEAT 1 2 darklumina
+darklumina2>> PING
+>> VERSION 1.5.8
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.8
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE Basic Random 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> MYCARD 0 Fiona
+darklumina2>> MYCARD 1 Sango
+darklumina2>> MYCARD 2 Gigas
+darklumina2>> MYCARD 3 Power%20Glove
+darklumina2>> MYCARD 4 Sonic%20Speed
+darklumina2>> READY darklumina2
+darklumina>> MYCARD 0 Swords%20Dance
+darklumina>> MYCARD 1 Crawler
+darklumina>> MYCARD 2 Amada
+darklumina>> MYCARD 3 Sophia
+darklumina>> MYCARD 4 Card%20Key
+darklumina>> READY darklumina
+darklumina>> PLACEAT 0 0 darklumina2
+darklumina2>> PLACEAT 7 4 darklumina
+darklumina>> PLACEAT 3 3 darklumina2
+darklumina2>> PLACEAT 6 2 darklumina
+darklumina>> PLACEAT 4 2 darklumina2
+darklumina>> PING
+>> VERSION 1.5.8
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> CHANGERULE Basic Random 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> MYCARD 0 Mover
+darklumina2>> MYCARD 1 Sango
+darklumina2>> MYCARD 2 Master%20Tonberry
+darklumina2>> MYCARD 3 2%20Faced
+darklumina2>> MYCARD 4 Grimguard
+darklumina2>> READY darklumina2
+darklumina>> MYCARD 0 Octorok
+darklumina>> MYCARD 1 Captain%20Olimar
+darklumina>> MYCARD 2 Jerry
+darklumina>> MYCARD 3 Razzly
+darklumina>> MYCARD 4 Fiona
+darklumina>> READY darklumina
+darklumina2>> PING
+darklumina>> PING
+darklumina>> PLACEAT 6 4 darklumina2
+>> VERSION 1.5.9
+>> VERSION 1.5.9
+>> VERSION 1.5.9
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK

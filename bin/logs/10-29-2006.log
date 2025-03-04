@@ -1,0 +1,20 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> PING
+darklumina>> CHANGERULE 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0@@Triple%20Triad@@ Suikoden2 Standard Nintendo FFT FFAC
+darklumina>> CHANGERULE 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ FFT
+darklumina>> CHANGERULE 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ FFAC
+darklumina>> CHANGERULE 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2
+darklumina>> PING
+darklumina>> CHANGERULE 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0@@Triple%20Triad@@ FFAC
+darklumina>> CHANGERULE 1 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ FFAC
+darklumina>> CHANGERULE 1 0 0 0 0 1 8 0 0 0 0 0 0 1 45 0 0 0 1 1 0 1 0 0 0 1 6 1 0 0 0 1 0 0 0 0@@Triple%20Triad@@ Standard
+darklumina>> CHANGERULE 0 1 0 0 0 1 9 0 0 0 0 1 0 1 2414 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0@@Triple%20Triad@@ Nintendo FFT FFAC FF9 FF7
+darklumina>> CHANGERULE 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0@@Triple%20Triad@@ Standard Nintendo FFT
+darklumina>> CHANGERULE 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0@@Triple%20Triad@@ FF9 FF7
+darklumina>> PING
+darklumina>> CHANGERULE 0 0 0 0 0 0 0 0 0 0 0 1 3 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ FF7
+darklumina>> TABLECLOSE

@@ -1,0 +1,46 @@
+[player]
+nickname=DevVo
+password=781770168
+email=nice_muscles_146@hotmail.com
+signup_date=4/28/2005
+playerID=210
+status=regular
+referal=Dante
+Verify=1
+Last IP=82.34.185.159
+id=21
+IP=82.34.185.159
+adminstatus=off
+match=05-01-2005
+Last Played=05-01-2005
+[Stats]
+Win=6
+Lost=16
+Draw=9
+Lame quits=0
+GP=884
+rank=1471
+Newdecks=1
+Level=4
+Exp=729
+Next=836
+Streak=1
+Choices=1
+Wins=6
+[Newdecks]
+Last=04-28-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10233
+Versus=BloodLust
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=Alliance
+result=draw
+score=10-10

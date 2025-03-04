@@ -1,0 +1,42 @@
+[player]
+nickname=cakster
+password=630607842
+email=caki12@verat.net
+signup_date=9/14/2005
+playerID=2286
+status=regular
+referal=Deki
+Verify=1
+Last IP=213.244.194.30
+id=83
+IP=213.244.194.30
+adminstatus=off
+match=09-30-2005
+[Stats]
+Win=23
+Lost=20
+Draw=17
+Lame quits=1
+Newdecks=1
+Level=6
+Exp=1336
+Next=1727
+Streak=-3
+[Newdecks]
+Last=09-14-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 117513
+Versus=DarkJaxyChan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=skyeflames
+result=loss
+score=8-2

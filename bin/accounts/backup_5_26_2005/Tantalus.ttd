@@ -1,0 +1,52 @@
+[player]
+nickname=Tantalus
+password=square
+email=samleonhart@hotmail.com
+signup_date=5/20/2005
+playerID=436
+status=regular
+referal=Tantalus
+Verify=1
+Last IP=200.148.80.11
+id=16
+IP=200.148.80.11
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+[Stats]
+Win=45
+Lost=94
+Draw=29
+Lame quits=1
+GP=195
+rank=1226
+Newdecks=13
+Level=9
+Exp=3291
+Next=3346
+AP=186
+Streak=2
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=2
+[Newdecks]
+Last=05-22-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 22587
+Versus=Trepie
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=J102Y
+result=draw
+score=10-10
+[Warnings]
+Kicks=1

@@ -1,0 +1,43 @@
+[player]
+nickname=AlexGD
+password=670834957
+email=alex__s3@hotmail.com
+signup_date=10/23/2005
+playerID=2987
+status=regular
+referal=3
+Verify=1
+Last IP=62.174.239.139
+id=23
+IP=62.174.239.139
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=18
+Lost=19
+Draw=9
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=945
+Next=1301
+Streak=-1
+SBLost=1
+[Newdecks]
+Last=10-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 145058
+Versus=Darksol
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Darksol
+result=loss
+score=11-9

@@ -1,0 +1,63 @@
+[player]
+nickname=Lucrecia
+password=173356234
+email=akoin@t-online.de
+signup_date=4/23/2005
+playerID=188
+status=subadmin
+referal=
+Verify=1
+Last IP=84.178.238.155
+id=29
+IP=84.178.238.155
+adminstatus=on
+match=05-26-2005
+Last Played=05-26-2005
+surname=luckydevil
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+[Stats]
+Win=542
+Lost=555
+Draw=203
+Lame quits=22
+GP=1138
+rank=2784
+Newdecks=1
+Level=30
+Exp=31251
+Next=32848
+Streak=-1
+Choices=1
+AP=6137
+SBLost=45
+Wins=201
+SBWin=5
+SBDraw=1
+[Newdecks]
+Last=04-23-2005
+[AP]
+AAEXP=1290
+honor=2
+PCT=10
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 22628
+Versus=Boko
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Boko
+result=loss
+score=10-8
+[Warnings]
+Kicks=3
+[Admin]
+Passkey=41246695

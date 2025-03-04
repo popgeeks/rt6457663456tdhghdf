@@ -1,0 +1,41 @@
+[player]
+nickname=BlackGhost
+password=darkness
+email=dan.walker@hotmail.co.uk
+signup_date=10/17/2005
+playerID=2895
+status=regular
+referal=
+Verify=1
+Last IP=84.65.71.135
+id=34
+IP=84.65.71.135
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=46
+Next=100
+Streak=1
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130954
+Versus=levanthian
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=levanthian
+result=win
+score=6-4

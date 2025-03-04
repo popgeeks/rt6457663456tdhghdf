@@ -1,0 +1,49 @@
+[player]
+nickname=Mlody
+password=12345678
+email=odinvico@gmail.com
+signup_date=5/16/2005
+playerID=394
+status=regular
+referal=
+Verify=1
+Last IP=81.15.254.29
+id=27
+IP=81.15.254.29
+adminstatus=off
+match=05-17-2005
+Last Played=05-17-2005
+[Stats]
+Win=11
+Lost=33
+Draw=7
+Lame quits=2
+GP=285
+rank=508
+Newdecks=1
+Level=5
+Exp=848
+Next=1301
+AP=142
+Streak=-1
+Choices=1
+SBLost=9
+SBWin=2
+[Newdecks]
+Last=05-16-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 18761
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=AJ666
+result=loss
+score=50-39

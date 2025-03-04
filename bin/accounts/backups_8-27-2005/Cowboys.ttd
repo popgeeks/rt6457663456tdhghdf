@@ -1,0 +1,56 @@
+[player]
+nickname=Cowboys
+password=796025
+email=LJCoyotesOrli@yahoo.com
+signup_date=7/23/2005
+playerID=1445
+status=regular
+referal=DallasCowboys
+Verify=1
+Last IP=68.206.79.11
+id=58
+IP=68.206.79.11
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=82
+Lost=104
+Draw=26
+Lame quits=1
+GP=613
+Newdecks=1
+Level=11
+Exp=4078
+Next=4838
+AP=2084
+Streak=-3
+Choices=1
+SBLost=5
+SBDraw=1
+SBWin=2
+[Newdecks]
+Last=07-23-2005
+[password]
+failed=0
+[AP]
+AAEXP=86
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 74990
+Versus=LeonSKennedy
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=MGdaGR8est
+result=loss
+score=8-2
+[Warnings]
+Kicks=1

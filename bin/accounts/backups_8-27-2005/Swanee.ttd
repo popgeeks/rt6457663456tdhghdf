@@ -1,0 +1,45 @@
+[player]
+nickname=Swanee
+password=696403323
+email=waltswan@bellatlantic.net
+signup_date=6/19/2005
+playerID=757
+status=regular
+referal=
+Verify=1
+Last IP=141.153.158.52
+id=40
+IP=141.153.158.52
+adminstatus=off
+match=06-19-2005
+Last Played=06-19-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+rank=1381
+Newdecks=1
+Level=1
+Exp=18
+Next=100
+AP=43
+Streak=1
+[Newdecks]
+Last=06-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=ForTheQueen
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ForTheQueen
+result=loss
+score=8-2

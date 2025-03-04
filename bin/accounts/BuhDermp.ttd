@@ -1,0 +1,43 @@
+[player]
+nickname=BuhDermp
+password=lwl1rwj
+email=spitfyre53@hotmail.com
+signup_date=10/4/2005
+playerID=2626
+status=regular
+referal=
+Verify=1
+Last IP=168.16.134.8
+id=135
+IP=168.16.134.8
+adminstatus=off
+match=10-05-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=18
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 121071
+Versus=Crono22002
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Crono22002
+result=loss
+score=8-2

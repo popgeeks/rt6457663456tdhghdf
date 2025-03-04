@@ -1,0 +1,21 @@
+[player]
+nickname=Mercenary1
+password=407809376
+email=imingoldsboro@hotmail.com
+signup_date=5/8/2005
+playerID=337
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-08-2005
+[password]
+failed=2

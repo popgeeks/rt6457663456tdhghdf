@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=158
+match=01-26-2006
+[Play]
+Playing=false
+GameID= 287751
+Versus=Cassy
+Iam=1
+[Stats]
+Level=5
+Exp=856
+Next=1301
+Streak=2
+[Games]
+Playing=TT
+[game]
+opponent=solidsnake
+result=win
+score=13-7

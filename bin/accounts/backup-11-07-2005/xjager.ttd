@@ -1,0 +1,40 @@
+[player]
+nickname=xjager
+password=677790283
+email=xjager@hotmail.com
+signup_date=10/7/2005
+playerID=2694
+status=regular
+referal=
+Verify=1
+Last IP=210.50.52.26
+id=5
+IP=210.50.52.26
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+[Newdecks]
+Last=10-07-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 122518
+Versus=andul
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=andul
+result=draw
+score=5-5

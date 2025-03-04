@@ -1,0 +1,18 @@
+[player]
+nickname=Sephiroth18
+password=541414677
+email=Sephjr18@yahoo.com
+signup_date=7/4/2005
+playerID=1026
+status=regular
+referal=Junior
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-04-2005

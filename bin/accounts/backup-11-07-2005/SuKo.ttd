@@ -1,0 +1,48 @@
+[player]
+nickname=SuKo
+password=criminal
+email=criminalfantasies@hotmail.com
+signup_date=8/20/2005
+playerID=1891
+status=regular
+referal=xankly
+Verify=1
+Last IP=84.121.0.191
+id=76
+IP=84.121.0.191
+adminstatus=off
+match=09-25-2005
+Last Played=08-27-2005
+[Stats]
+Win=87
+Lost=82
+Draw=35
+Lame quits=1
+GP=3405
+Newdecks=1
+Level=11
+Exp=4325
+Next=4838
+AP=653
+Streak=-1
+Choices=1
+SBLost=9
+SBWin=9
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 113654
+Versus=debussy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=debussy
+result=loss
+score=13-7

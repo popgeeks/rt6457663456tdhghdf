@@ -1,0 +1,43 @@
+[player]
+nickname=MOOMBA
+password=230020701
+email=elrincondetal@hotmail.com
+signup_date=9/21/2005
+playerID=2395
+status=regular
+referal=
+Verify=1
+Last IP=66.98.60.155
+id=116
+IP=66.98.60.155
+adminstatus=off
+match=10-01-2005
+[Stats]
+Win=0
+Lost=5
+Draw=0
+Lame quits=1
+Newdecks=1
+Level=1
+Exp=62
+Next=100
+Streak=-4
+[Newdecks]
+Last=09-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 118073
+Versus=mirage-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=phreakazoid
+result=loss
+score=11-9
+[Warnings]
+Kicks=1

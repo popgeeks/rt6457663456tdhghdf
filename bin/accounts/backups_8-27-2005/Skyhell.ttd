@@ -1,0 +1,48 @@
+[player]
+nickname=Skyhell
+password=zxcvbnmkl
+email=pedrolv@telcel.net.ve
+signup_date=8/8/2005
+playerID=1762
+status=regular
+referal=
+Verify=1
+Last IP=201.243.110.70
+id=16
+IP=201.243.110.70
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=11
+Lost=53
+Draw=2
+Lame quits=1
+GP=5
+Newdecks=1
+Level=5
+Exp=986
+Next=1301
+AP=2251
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-08-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 93438
+Versus=AleSKK
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=AleSKK
+result=loss
+score=16-4

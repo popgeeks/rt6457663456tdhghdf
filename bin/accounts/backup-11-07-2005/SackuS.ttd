@@ -1,0 +1,31 @@
+[player]
+nickname=SackuS
+password=494794070
+email=duck_chow@hotmail.com
+signup_date=6/27/2005
+playerID=871
+status=regular
+referal=portugal
+Verify=1
+Last IP=220.238.141.141
+id=28
+IP=220.238.141.141
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

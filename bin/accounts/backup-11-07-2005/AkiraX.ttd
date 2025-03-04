@@ -1,0 +1,30 @@
+[player]
+nickname=AkiraX
+password=102911114
+email=LastShinigami@yandex.ru
+signup_date=10/26/2005
+playerID=3037
+status=regular
+referal=postal
+Verify=1
+Last IP=62.140.240.122
+id=74
+IP=62.140.240.122
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

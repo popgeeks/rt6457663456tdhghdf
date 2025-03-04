@@ -1,0 +1,20 @@
+[player]
+nickname=bahamuth89
+password=666773616
+email=franco@msn.com
+signup_date=7/7/2005
+playerID=1087
+status=regular
+referal=ffx
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-07-2005
+[password]
+failed=1

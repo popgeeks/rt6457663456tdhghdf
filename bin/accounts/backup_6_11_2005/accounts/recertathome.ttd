@@ -1,0 +1,49 @@
+[player]
+nickname=recertathome
+password=7621540
+email=recertathome@hotmail.com
+signup_date=5/12/2005
+playerID=363
+status=regular
+referal=7621540
+Verify=1
+Last IP=68.85.24.109
+id=14
+IP=68.85.24.109
+adminstatus=off
+Last Played=05-27-2005
+match=05-26-2005
+[Stats]
+Win=8
+Lost=18
+Draw=10
+Lame quits=0
+GP=0
+rank=1212
+Newdecks=13
+Level=4
+Exp=507
+Next=836
+AP=895
+Streak=-6
+SBLost=4
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 23156
+Versus=greeenml
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=esthar-bot
+result=draw
+score=5-5

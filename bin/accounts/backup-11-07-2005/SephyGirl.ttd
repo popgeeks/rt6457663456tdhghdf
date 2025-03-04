@@ -1,0 +1,45 @@
+[player]
+nickname=SephyGirl
+password=827907024
+email=SephyGirl@gmail.com
+signup_date=9/14/2005
+playerID=2291
+status=regular
+referal=None
+Verify=1
+Last IP=157.89.185.67
+id=119
+IP=157.89.185.67
+adminstatus=off
+match=10-06-2005
+[Stats]
+Win=3
+Lost=9
+Draw=0
+Lame quits=0
+Newdecks=17
+Level=2
+Exp=238
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=1
+SBLost=2
+SBWin=1
+[Newdecks]
+Last=09-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 121943
+Versus=darkshowdo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=darkshowdo
+result=win
+score=12-0

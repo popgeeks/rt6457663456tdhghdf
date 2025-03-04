@@ -1,0 +1,19 @@
+[player]
+nickname=skurus
+password=319060086
+email=seleucos@3xl.net
+signup_date=10/17/2005
+playerID=2892
+status=regular
+referal=000000
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-17-2005
+[password]
+failed=3

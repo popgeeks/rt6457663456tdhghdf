@@ -1,0 +1,30 @@
+[player]
+nickname=Nameless
+password=flower
+email=nameless4ever@hotmail.com
+signup_date=8/31/2005
+playerID=2038
+status=regular
+referal=
+Verify=1
+Last IP=212.116.221.128
+id=11
+IP=212.116.221.128
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=08-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

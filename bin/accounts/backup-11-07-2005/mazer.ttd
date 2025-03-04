@@ -1,0 +1,20 @@
+[player]
+nickname=mazer
+password=76999843
+email=billy_wrigth19990@hotmail.co.uk
+signup_date=8/1/2005
+playerID=1628
+status=regular
+referal=master
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-01-2005
+[password]
+failed=1

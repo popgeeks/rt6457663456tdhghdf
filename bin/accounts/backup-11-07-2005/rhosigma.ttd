@@ -1,0 +1,45 @@
+[player]
+nickname=rhosigma
+password=367590069
+email=rhosigma@gmail.com
+signup_date=6/21/2005
+playerID=789
+status=regular
+referal=
+Verify=1
+Last IP=69.132.228.239
+id=12
+IP=69.132.228.239
+adminstatus=off
+match=06-21-2005
+Last Played=06-21-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+rank=1375
+Newdecks=1
+Level=1
+Exp=6
+Next=100
+AP=56
+Streak=1
+[Newdecks]
+Last=06-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=pakelika
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=pakelika
+result=loss
+score=6-4

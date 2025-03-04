@@ -1,0 +1,47 @@
+[player]
+nickname=Mickbanks
+password=newyork
+email=mickbanks217@yahoo.com
+signup_date=9/12/2005
+playerID=2243
+status=regular
+referal=
+Verify=1
+Last IP=86.130.144.193
+id=124
+IP=86.130.144.193
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=56
+Lost=92
+Draw=23
+Lame quits=0
+Newdecks=7
+Level=9
+Exp=2950
+Next=3346
+SoldCards=3
+cardsgiven=0
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=09-14-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 122157
+Versus=blackcat
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=blackcat
+result=loss
+score=15-5

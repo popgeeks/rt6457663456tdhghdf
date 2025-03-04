@@ -1,0 +1,46 @@
+[player]
+nickname=Untomiel
+password=herejiA22
+email=untomielenelpan@gmail.com
+signup_date=8/18/2005
+playerID=1872
+status=regular
+referal=herejia
+Verify=1
+Last IP=80.38.32.154
+id=19
+IP=80.38.32.154
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=30
+Lost=50
+Draw=9
+Lame quits=0
+GP=1621
+Newdecks=1
+Level=7
+Exp=1737
+Next=2154
+AP=2972
+Streak=-1
+Choices=1
+[Newdecks]
+Last=08-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 93258
+Versus=superghoul
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=superghoul
+result=loss
+score=12-8

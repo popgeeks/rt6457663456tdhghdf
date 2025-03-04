@@ -1,0 +1,47 @@
+[player]
+nickname=Orusaka
+password=pwd6416
+email=orusaka@gmail.com
+signup_date=6/21/2005
+playerID=778
+status=regular
+referal=
+Verify=1
+Last IP=80.203.49.39
+id=8
+IP=80.203.49.39
+adminstatus=off
+Last Played=06-21-2005
+match=06-21-2005
+[Stats]
+Win=4
+Lost=6
+Draw=1
+Lame quits=0
+GP=304
+rank=1307
+Newdecks=1
+Level=2
+Exp=166
+Next=248
+AP=832
+Streak=2
+Choices=1
+SBWin=1
+[Newdecks]
+Last=06-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 38436
+Versus=ZedDiDragon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=ZedDiDragon
+result=win
+score=9-8

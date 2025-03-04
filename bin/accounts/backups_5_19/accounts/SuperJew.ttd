@@ -1,0 +1,55 @@
+[player]
+nickname=SuperJew
+password=091796
+email=Fein9277@kutztown.edu
+signup_date=4/26/2005
+playerID=200
+status=regular
+referal=
+Verify=1
+Last IP=151.197.24.186
+id=13
+IP=151.197.24.186
+adminstatus=off
+match=05-13-2005
+Last Played=05-13-2005
+[Stats]
+Win=36
+Lost=83
+Draw=30
+Lame quits=3
+GP=4
+rank=1284
+Newdecks=10
+Level=9
+Exp=3204
+Next=3346
+Streak=-2
+Choices=1
+SoldCards=0
+cardsgiven=0
+AP=114
+SBWin=1
+Wins=36
+SBLost=2
+[Newdecks]
+Last=05-13-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 15562
+Versus=Angelus
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=Angelus
+result=loss
+score=22-15
+[Warnings]
+Kicks=4

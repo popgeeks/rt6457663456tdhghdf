@@ -1,0 +1,41 @@
+[player]
+nickname=Christian
+password=ih123Udmk!
+email=c.bartsch@gmx.at
+signup_date=10/12/2005
+playerID=2803
+status=regular
+referal=
+Verify=1
+Last IP=81.10.167.163
+id=4
+IP=81.10.167.163
+adminstatus=off
+match=10-13-2005
+[Stats]
+Win=0
+Lost=1
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+Streak=1
+[Newdecks]
+Last=10-12-2005
+[password]
+failed=7
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 127817
+Versus=guitardude86
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=guitardude86
+result=loss
+score=9-1

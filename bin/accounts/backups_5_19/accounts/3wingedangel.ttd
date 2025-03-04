@@ -1,0 +1,72 @@
+[player]
+nickname=3wingedangel
+password=patrick
+email=tto3winger@yahoo.com
+signup_date=3/13/05
+playerID=6
+status=power
+Verify=1
+Last IP=70.245.112.228
+id=26
+IP=70.245.112.228
+adminstatus=off
+Last Played=05-19-2005
+match=05-19-2005
+[Stats]
+Win=19
+Lost=32
+Draw=6
+Lame quits=0
+GP=783
+rank=1622
+Newdecks=1
+Level=5
+Exp=1136
+Next=1301
+Streak=1
+Wins=1
+AP=1851
+Choices=1
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=3
+Level4=3
+Level5=1
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blitz=1
+Oilboyle=1
+Iguion=1
+Bite Bug=1
+Tri-Face=1
+X-ATM092=2
+Glacial Eye=2
+Death Claw=2
+Elvoret=0
+Behemoth=1
+Blue Dragon=1
+Imp=1
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 18579
+Versus=Rain
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Trepie
+result=win
+score=11-9

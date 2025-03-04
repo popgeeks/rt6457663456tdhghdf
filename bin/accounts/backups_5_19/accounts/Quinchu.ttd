@@ -1,0 +1,46 @@
+[player]
+nickname=Quinchu
+password=579463
+email=quinchu@gmail.com
+signup_date=4/29/2005
+playerID=217
+status=regular
+referal=
+Verify=1
+Last IP=68.226.174.210
+id=20
+IP=68.226.174.210
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=13
+Lost=10
+Draw=9
+Lame quits=1
+GP=489
+rank=1592
+Newdecks=1
+Level=4
+Exp=774
+Next=836
+Streak=1
+Choices=1
+Wins=13
+[Newdecks]
+Last=04-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Bulldog24
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Bulldog24
+result=win
+score=8-2

@@ -1,0 +1,46 @@
+[player]
+nickname=Purifico
+password=357502936
+email=procent90@hotmail.com
+signup_date=5/29/2005
+playerID=541
+status=regular
+referal=
+Verify=1
+Last IP=217.211.109.153
+id=2
+IP=217.211.109.153
+adminstatus=off
+match=05-29-2005
+Last Played=05-29-2005
+[Stats]
+Win=3
+Lost=5
+Draw=2
+Lame quits=0
+GP=432
+rank=1500
+Newdecks=1
+Level=3
+Exp=277
+Next=476
+AP=367
+Streak=1
+Choices=1
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 24227
+Versus=jinx
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=jinx
+result=win
+score=13-11

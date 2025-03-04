@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=3
+match=12-07-2005
+[Play]
+Playing=false
+GameID= 165729
+Versus=PhatRabbit
+Iam=2
+[Stats]
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=PhatRabbit
+result=loss
+score=7-3

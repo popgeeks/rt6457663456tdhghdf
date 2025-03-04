@@ -1,0 +1,20 @@
+[player]
+nickname=pawel1987
+password=826223849
+email=www.hiro1987adbc@wp.pl
+signup_date=8/18/2005
+playerID=1867
+status=regular
+referal=kolo
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-18-2005
+[password]
+failed=5

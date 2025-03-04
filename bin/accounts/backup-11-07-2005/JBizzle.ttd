@@ -1,0 +1,17 @@
+[player]
+nickname=JBizzle
+password=600392877
+email=jjonathanbates@aol.com
+signup_date=10/15/2005
+playerID=2860
+status=regular
+referal=brother
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-15-2005

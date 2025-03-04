@@ -1,0 +1,63 @@
+[player]
+nickname=Rikku84
+password=cassie
+email=ff7yuff999@yahoo.com
+signup_date=4/18/05
+playerID=185
+status=subadmin
+referal=
+Verify=1
+Last IP=68.194.1.138
+id=19
+IP=68.194.1.138
+adminstatus=off
+match=06-21-2005
+Last Played=06-21-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+surname=(selphie84)
+[Stats]
+Win=56
+Lost=63
+Draw=22
+Lame quits=6
+GP=1376
+rank=1471
+Newdecks=7
+Level=10
+Exp=3386
+Next=3936
+Streak=-2
+Choices=1
+SoldCards=2
+cardsgiven=0
+Wins=39
+AP=280
+SBLost=4
+SBWin=1
+[Newdecks]
+Last=04-24-2005
+[password]
+failed=0
+[AP]
+AAEXP=74
+honor=2
+PCT=70
+[Play]
+Playing=false
+GameID= 38566
+Versus=pakelika
+Iam=1
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=pakelika
+result=loss
+score=10-8
+[Admin]
+Passkey=51082241
+[Warnings]
+Kicks=4

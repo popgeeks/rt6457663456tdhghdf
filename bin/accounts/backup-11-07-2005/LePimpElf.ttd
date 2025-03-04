@@ -1,0 +1,32 @@
+[player]
+nickname=LePimpElf
+password=acnnFNFZ
+email=junkangel_99@hotmail.com
+signup_date=8/8/2005
+playerID=1760
+status=regular
+referal=MC
+Verify=1
+Last IP=209.183.136.74
+id=15
+IP=209.183.136.74
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=5
+[Newdecks]
+Last=08-08-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

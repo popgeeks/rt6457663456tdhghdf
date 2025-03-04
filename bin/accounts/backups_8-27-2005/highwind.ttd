@@ -1,0 +1,18 @@
+[player]
+nickname=highwind
+password=973543344
+email=dfgdfg_5@hotmail.com
+signup_date=8/9/2005
+playerID=1769
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-09-2005

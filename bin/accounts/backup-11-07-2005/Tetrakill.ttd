@@ -1,0 +1,50 @@
+[player]
+nickname=Tetrakill
+password=245923399
+email=platohedrom@hotmail.com
+signup_date=5/22/2005
+playerID=448
+status=regular
+referal=friend
+Verify=1
+Last IP=198.77.44.21
+id=1
+IP=198.77.44.21
+adminstatus=off
+Last Played=05-26-2005
+match=05-26-2005
+[Stats]
+Win=44
+Lost=93
+Draw=29
+Lame quits=2
+GP=254
+rank=1191
+Newdecks=9
+Level=10
+Exp=3481
+Next=3936
+AP=495
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=1
+[Newdecks]
+Last=05-24-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 22569
+Versus=Tantalus
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Tantalus
+result=win
+score=11-9

@@ -1,0 +1,37 @@
+[player]
+nickname=EdeNDarK
+password=341834246
+email=edendark@fibertel.com.ar
+signup_date=5/8/2005
+playerID=336
+status=regular
+referal=Valmur
+Verify=1
+Last IP=24.232.102.68
+id=1
+IP=24.232.102.68
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=05-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 13688
+Versus=Lucrecia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

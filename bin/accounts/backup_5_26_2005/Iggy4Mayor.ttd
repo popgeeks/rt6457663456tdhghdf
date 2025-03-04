@@ -1,0 +1,51 @@
+[player]
+nickname=Iggy4Mayor
+password=bambam
+email=Iggy4Mayor@hotmail.com
+signup_date=4/27/2005
+playerID=206
+status=regular
+referal=
+Verify=1
+Last IP=65.96.57.8
+id=27
+IP=65.96.57.8
+adminstatus=off
+Last Played=05-24-2005
+match=05-24-2005
+[Stats]
+Win=18
+Lost=23
+Draw=9
+Lame quits=1
+GP=47
+rank=1836
+Newdecks=17
+Level=6
+Exp=1406
+Next=1727
+SoldCards=2
+cardsgiven=0
+Streak=2
+Choices=1
+Wins=8
+AP=388
+SBLost=1
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 22385
+Versus=greeenml
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Ortew
+result=win
+score=14-6

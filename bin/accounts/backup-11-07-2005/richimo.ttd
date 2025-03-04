@@ -1,0 +1,42 @@
+[player]
+nickname=richimo
+password=524135827
+email=rich_skouson@yahoo.com
+signup_date=11/6/2005
+playerID=3184
+status=regular
+referal=lilangelkimmy
+Verify=1
+Last IP=68.61.14.248
+id=33
+IP=68.61.14.248
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=8
+Lost=1
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=226
+Next=248
+Streak=8
+SBWin=1
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146192
+Versus=angelkimmy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=angelkimmy
+result=win
+score=12-8

@@ -1,0 +1,58 @@
+[player]
+nickname=AegisKnight
+password=magic1
+email=bfelt@hfcsd.org
+signup_date=4/20/05
+playerID=173
+status=regular
+referal=
+Verify=1
+Last IP=66.155.142.21
+id=145
+IP=66.155.142.21
+adminstatus=off
+match=11-21-2005
+Last Played=08-25-2005
+guildinvite=
+guildinvite_name=
+guild=Guild of Legends
+guildmaster=3
+[Stats]
+Win=176
+Lost=177
+Draw=79
+Lame quits=9
+GP=471
+rank=1458
+Newdecks=13
+Level=14
+Exp=7306
+Next=7520
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=2
+AP=8477
+SBLost=4
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 664089
+Versus=pocketz
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+Challenged=
+[game]
+opponent=kasumi
+result=win
+score=6-4
+[Warnings]
+Kicks=5

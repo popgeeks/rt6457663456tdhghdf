@@ -1,0 +1,43 @@
+[player]
+nickname=YunaMiyama26
+password=695408701
+email=mickeyph1961@yahoo.com
+signup_date=10/17/2005
+playerID=2899
+status=regular
+referal=ramaster
+Verify=1
+Last IP=4.229.120.48
+id=17
+IP=4.229.120.48
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=56
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-2
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130929
+Versus=maikel
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=maikel
+result=loss
+score=7-3

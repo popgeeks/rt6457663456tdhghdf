@@ -1,0 +1,45 @@
+[player]
+nickname=minimog8
+password=3913622aucku
+email=mini_mog8@hotmail.com
+signup_date=9/7/2005
+playerID=2148
+status=regular
+referal=minimog
+Verify=1
+Last IP=222.152.253.230
+id=46
+IP=222.152.253.230
+adminstatus=off
+match=10-30-2005
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=76
+Lost=12
+Draw=17
+Lame quits=0
+Newdecks=1
+Level=7
+Exp=1975
+Next=2154
+Streak=15
+SoldCards=1
+[Newdecks]
+Last=09-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 140187
+Versus=Thirster
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Thirster
+result=win
+score=7-3

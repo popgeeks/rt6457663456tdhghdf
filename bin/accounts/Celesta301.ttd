@@ -1,0 +1,32 @@
+[player]
+nickname=Celesta301
+password=723395346
+email=butterstretch@yahoo.com
+signup_date=7/8/2005
+playerID=1120
+status=regular
+referal=internet
+Verify=1
+Last IP=70.21.31.49
+id=39
+IP=70.21.31.49
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=5
+[Newdecks]
+Last=07-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

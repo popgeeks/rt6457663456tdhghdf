@@ -1,0 +1,44 @@
+[player]
+nickname=MetalArson
+password=347591995
+email=metal_arsonist@yahoo.com
+signup_date=10/3/2005
+playerID=2606
+status=regular
+referal=MetalArsonist
+Verify=1
+Last IP=203.220.181.131
+id=151
+IP=203.220.181.131
+adminstatus=off
+match=10-12-2005
+[Stats]
+Win=4
+Lost=10
+Draw=1
+Lame quits=0
+Newdecks=13
+Level=2
+Exp=145
+Next=248
+Streak=-1
+SoldCards=0
+cardsgiven=0
+SBWin=1
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126765
+Versus=SynDarksoul
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=SynDarksoul
+result=loss
+score=6-4

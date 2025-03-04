@@ -1,0 +1,33 @@
+[player]
+nickname=nickemans
+password=138690471
+email=nick1991_4@hotmail.com
+signup_date=6/25/2005
+playerID=840
+status=regular
+referal=bigface
+Verify=1
+Last IP=83.116.204.217
+id=27
+IP=83.116.204.217
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

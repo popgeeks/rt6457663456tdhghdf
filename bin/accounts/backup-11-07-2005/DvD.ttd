@@ -1,0 +1,46 @@
+[player]
+nickname=DvD
+password=60092627
+email=dawid.mieloch@wp.pl
+signup_date=6/11/2005
+playerID=677
+status=regular
+referal=
+Verify=1
+Last IP=83.23.252.164
+id=6
+IP=83.23.252.164
+adminstatus=off
+match=06-12-2005
+Last Played=06-12-2005
+[Stats]
+Win=8
+Lost=16
+Draw=3
+Lame quits=0
+GP=866
+rank=1164
+Newdecks=1
+Level=4
+Exp=706
+Next=836
+AP=874
+Streak=-6
+Choices=1
+[Newdecks]
+Last=06-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 31930
+Versus=Xion
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Midnight
+result=loss
+score=14-6

@@ -1,0 +1,66 @@
+[player]
+nickname=Alvaro
+password=44103720
+email=alvarormn@gmail.com
+signup_date=4/23/2005
+playerID=189
+status=regular
+referal=
+Verify=1
+Last IP=200.230.45.235
+id=66
+IP=200.230.45.235
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+guildmaster=1
+guild=Fated Circle
+surname=neto
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=2513
+Lost=1580
+Draw=745
+Lame quits=37
+GP=3889
+rank=1990
+Newdecks=7
+Level=50
+Exp=94187
+Next=95143
+Streak=-1
+Choices=1
+SoldCards=226
+cardsgiven=0
+Wins=331
+AP=499
+SBDraw=1
+SBLost=7
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=493
+honor=2
+PCT=0
+AAPOINTS=0
+TRAINED=12
+golden=5
+high=1
+[Play]
+Playing=false
+GameID= 93498
+Versus=meh2
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=meh2
+result=loss
+score=12-8
+[Warnings]
+Warns=2
+Kicks=13

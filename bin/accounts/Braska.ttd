@@ -1,0 +1,23 @@
+[AP]
+AAEXP=0
+[player]
+id=10
+guildinvite=
+guildinvite_name=
+match=11-22-2005
+[Play]
+Playing=false
+GameID= 156064
+Versus=Chocoboy
+Iam=2
+[Stats]
+Level=2
+Exp=120
+Next=248
+Streak=-1
+[Games]
+Playing=TT
+[game]
+opponent=Chocoboy
+result=loss
+score=8-2

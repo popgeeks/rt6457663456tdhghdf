@@ -1,0 +1,43 @@
+[player]
+nickname=ShintaroGM
+password=414012014
+email=gmorf@op.pl
+signup_date=9/21/2005
+playerID=2403
+status=regular
+referal=
+Verify=1
+Last IP=85.193.221.92
+id=123
+IP=85.193.221.92
+adminstatus=off
+match=10-02-2005
+[Stats]
+Win=120
+Lost=138
+Draw=32
+Lame quits=0
+Newdecks=1
+Level=14
+Exp=7464
+Next=7520
+Streak=-2
+Choices=1
+[Newdecks]
+Last=09-21-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 118693
+Versus=TheSpiral
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=TheSpiral
+result=loss
+score=13-7

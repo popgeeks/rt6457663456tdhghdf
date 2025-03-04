@@ -1,0 +1,46 @@
+[player]
+nickname=const4ntine
+password=111kkk
+email=const4ntine@o2.pl
+signup_date=10/8/2005
+playerID=2703
+status=regular
+referal=
+Verify=1
+Last IP=83.19.145.19
+id=50
+IP=83.19.145.19
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=61
+Lost=79
+Draw=16
+Lame quits=1
+Newdecks=3
+Level=10
+Exp=3541
+Next=3936
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=10-08-2005
+[AP]
+AAEXP=12
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 144757
+Versus=guitardude86
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=guitardude86
+result=win
+score=13-7

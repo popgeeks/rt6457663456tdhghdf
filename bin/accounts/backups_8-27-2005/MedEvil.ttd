@@ -1,0 +1,47 @@
+[player]
+nickname=MedEvil
+password=396845459
+email=phantom609@hotmail.com
+signup_date=8/3/2005
+playerID=1674
+status=regular
+referal=
+Verify=1
+Last IP=200.180.172.24
+id=27
+IP=200.180.172.24
+adminstatus=off
+match=08-04-2005
+Last Played=08-04-2005
+[Stats]
+Win=10
+Lost=16
+Draw=5
+Lame quits=0
+GP=363
+Newdecks=3
+Level=3
+Exp=391
+Next=476
+AP=121
+Streak=2
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=08-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86832
+Versus=AleSKK
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=ForbiddenOne
+result=draw
+score=5-5

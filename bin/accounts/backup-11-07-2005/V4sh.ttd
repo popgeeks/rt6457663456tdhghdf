@@ -1,0 +1,42 @@
+[player]
+nickname=V4sh
+password=atpguitar
+email=V4shDeSt4mpede@hotmail.com
+signup_date=9/12/2005
+playerID=2251
+status=regular
+referal=
+Verify=1
+Last IP=216.10.184.228
+id=151
+IP=216.10.184.228
+adminstatus=off
+match=09-14-2005
+[Stats]
+Win=11
+Lost=5
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=388
+Next=476
+Streak=-1
+Choices=1
+[Newdecks]
+Last=09-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126209
+Versus=Genocide
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=howabe
+result=loss
+score=11-9

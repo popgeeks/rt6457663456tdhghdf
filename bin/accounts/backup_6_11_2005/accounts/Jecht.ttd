@@ -1,0 +1,46 @@
+[player]
+nickname=Jecht
+password=939946888
+email=wandery1@hotmail.com
+signup_date=5/29/2005
+playerID=545
+status=regular
+referal=
+Verify=1
+Last IP=217.208.75.149
+id=8
+IP=217.208.75.149
+adminstatus=off
+match=06-05-2005
+Last Played=06-05-2005
+[Stats]
+Win=4
+Lost=15
+Draw=1
+Lame quits=0
+GP=493
+rank=1269
+Newdecks=1
+Level=3
+Exp=411
+Next=476
+AP=503
+Streak=-3
+Choices=1
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=squll-typo
+result=loss
+score=7-3

@@ -1,0 +1,46 @@
+[player]
+nickname=vall
+password=81284522
+email=lagunaloire09@aol.com
+signup_date=10/10/2005
+playerID=2769
+status=regular
+referal=
+Verify=1
+Last IP=64.241.37.140
+id=99
+IP=64.241.37.140
+adminstatus=off
+match=10-28-2005
+[Stats]
+Win=8
+Lost=32
+Draw=8
+Lame quits=0
+Newdecks=13
+Level=4
+Exp=576
+Next=836
+SoldCards=0
+cardsgiven=0
+Streak=-5
+SBLost=2
+[Newdecks]
+Last=10-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 139220
+Versus=phreakazoid
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=8-2
+[Warnings]
+Warns=1

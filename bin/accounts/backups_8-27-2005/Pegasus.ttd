@@ -1,0 +1,46 @@
+[player]
+nickname=Pegasus
+password=33258113
+email=fiambrella@hotmail.com
+signup_date=7/20/2005
+playerID=1388
+status=regular
+referal=
+Verify=1
+Last IP=24.232.79.36
+id=39
+IP=24.232.79.36
+adminstatus=off
+match=07-21-2005
+Last Played=07-21-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=42
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=07-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 63639
+Versus=Orochi
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Orochi
+result=loss
+score=9-1

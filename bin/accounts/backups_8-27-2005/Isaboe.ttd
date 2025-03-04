@@ -1,0 +1,45 @@
+[player]
+nickname=Isaboe
+password=lucille
+email=res17lnu@verizon.net
+signup_date=7/4/2005
+playerID=1025
+status=regular
+referal=
+Verify=1
+Last IP=71.111.51.37
+id=35
+IP=71.111.51.37
+adminstatus=off
+match=07-05-2005
+Last Played=07-05-2005
+[Stats]
+Win=9
+Lost=22
+Draw=0
+Lame quits=0
+GP=759
+Newdecks=1
+Level=4
+Exp=526
+Next=836
+AP=807
+Streak=-3
+Choices=1
+[Newdecks]
+Last=07-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 49565
+Versus=Moridn
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Moridn
+result=loss
+score=15-5

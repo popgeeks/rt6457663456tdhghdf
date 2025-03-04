@@ -1,0 +1,49 @@
+[player]
+nickname=Venja
+password=nofxno
+email=J_venezia@hotmail.com
+signup_date=4/22/05
+playerID=187
+status=regular
+referal=rikku84
+Verify=1
+Last IP=69.177.242.242
+id=11
+IP=69.177.242.242
+adminstatus=off
+match=05-07-2005
+Last Played=05-07-2005
+[Stats]
+Win=42
+Lost=43
+Draw=25
+Lame quits=1
+GP=101
+rank=1872
+Newdecks=7
+Level=9
+Exp=3076
+Next=3346
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=04-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 12781
+Versus=Lucrecia
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=PlayForKeeps
+result=loss
+score=7-3

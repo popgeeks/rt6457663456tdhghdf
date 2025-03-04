@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+honor=2
+[player]
+id=110
+match=01-08-2006
+[Play]
+Playing=false
+GameID= 195159
+Versus=ukimaro
+Iam=2
+[Stats]
+Level=5
+Exp=928
+Next=1301
+Streak=-3
+[Games]
+Playing=OTT
+[game]
+opponent=ukimaro
+result=loss
+score=11-7

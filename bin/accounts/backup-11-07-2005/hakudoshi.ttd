@@ -1,0 +1,43 @@
+[player]
+nickname=hakudoshi
+password=174034507
+email=kaimetsu.waltz@gmail.com
+signup_date=11/1/2005
+playerID=3112
+status=regular
+referal=
+Verify=1
+Last IP=24.42.32.129
+id=65
+IP=24.42.32.129
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=9
+Lost=26
+Draw=4
+Lame quits=1
+Newdecks=1
+Level=4
+Exp=615
+Next=836
+Streak=2
+SBWin=1
+SBLost=1
+[Newdecks]
+Last=11-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145528
+Versus=ritzbitz19
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ritzbitz19
+result=win
+score=9-1

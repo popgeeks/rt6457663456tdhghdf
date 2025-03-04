@@ -1,0 +1,53 @@
+[player]
+nickname=Vinex
+password=12345
+email=emoticonjon@hotmail.com
+signup_date=4/18/05
+playerID=162
+status=regular
+referal=
+Verify=1
+Last IP=66.153.31.1
+id=30
+IP=66.153.31.1
+adminstatus=off
+match=05-15-2005
+Last Played=05-15-2005
+[Stats]
+Win=78
+Lost=72
+Draw=23
+Lame quits=2
+GP=281
+rank=1518
+Newdecks=1
+Level=11
+Exp=4255
+Next=4838
+Streak=-1
+Choices=1
+SoldCards=35
+AP=158
+SBLost=3
+SBDraw=1
+Wins=63
+SBWin=4
+[Newdecks]
+Last=04-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 16927
+Versus=SirEmily
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=SirEmily
+result=loss
+score=11-9

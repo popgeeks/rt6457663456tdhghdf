@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TTEServer", "TTEServer.vbproj", "{68EC9493-0044-4738-87D0-79E856BA958D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Entities", "..\Entities\Entities.vbproj", "{FCAF80B6-AD36-44D5-8983-A4A90B32D685}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataLayer", "..\DataLayer\DataLayer.vbproj", "{072E7C1E-B1D9-4C32-9AF4-018C7C4DABF7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FMWK", "..\FMWK\FMWK.vbproj", "{466BDFDE-32A2-4176-9249-822CD57DD6CC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LogicLayer", "..\BusinessLayer\LogicLayer.vbproj", "{8DF40395-F0E3-48AC-8D22-DEDC72CCD94E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ErrorLogging", "..\ErrorLogging\ErrorLogging.vbproj", "{0213EE29-5A67-46A4-A625-E4772D47B093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionBLL", "..\..\EncryptionBLL\EncryptionBLL.csproj", "{644485D9-452E-407D-88CD-0AF2331F6C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EC9493-0044-4738-87D0-79E856BA958D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EC9493-0044-4738-87D0-79E856BA958D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EC9493-0044-4738-87D0-79E856BA958D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EC9493-0044-4738-87D0-79E856BA958D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAF80B6-AD36-44D5-8983-A4A90B32D685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAF80B6-AD36-44D5-8983-A4A90B32D685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAF80B6-AD36-44D5-8983-A4A90B32D685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAF80B6-AD36-44D5-8983-A4A90B32D685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072E7C1E-B1D9-4C32-9AF4-018C7C4DABF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072E7C1E-B1D9-4C32-9AF4-018C7C4DABF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072E7C1E-B1D9-4C32-9AF4-018C7C4DABF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072E7C1E-B1D9-4C32-9AF4-018C7C4DABF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466BDFDE-32A2-4176-9249-822CD57DD6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466BDFDE-32A2-4176-9249-822CD57DD6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466BDFDE-32A2-4176-9249-822CD57DD6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466BDFDE-32A2-4176-9249-822CD57DD6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF40395-F0E3-48AC-8D22-DEDC72CCD94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF40395-F0E3-48AC-8D22-DEDC72CCD94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF40395-F0E3-48AC-8D22-DEDC72CCD94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF40395-F0E3-48AC-8D22-DEDC72CCD94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0213EE29-5A67-46A4-A625-E4772D47B093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0213EE29-5A67-46A4-A625-E4772D47B093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0213EE29-5A67-46A4-A625-E4772D47B093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0213EE29-5A67-46A4-A625-E4772D47B093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644485D9-452E-407D-88CD-0AF2331F6C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644485D9-452E-407D-88CD-0AF2331F6C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644485D9-452E-407D-88CD-0AF2331F6C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644485D9-452E-407D-88CD-0AF2331F6C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

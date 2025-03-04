@@ -1,0 +1,46 @@
+[player]
+nickname=Nauher
+password=nauh2240
+email=nauher@gmail.com
+signup_date=7/28/2005
+playerID=1552
+status=regular
+referal=
+Verify=1
+Last IP=85.155.129.83
+id=4
+IP=85.155.129.83
+adminstatus=off
+match=07-29-2005
+Last Played=07-29-2005
+[Stats]
+Win=2
+Lost=10
+Draw=2
+Lame quits=0
+GP=239
+Newdecks=1
+Level=2
+Exp=231
+Next=248
+AP=245
+Streak=-2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 71804
+Versus=Arlo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Arlo
+result=draw
+score=10-10

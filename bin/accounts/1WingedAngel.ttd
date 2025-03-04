@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=87
+match=12-31-2005
+[Play]
+Playing=false
+GameID= 186850
+Versus=MixMasta
+Iam=1
+[Stats]
+Level=1
+Exp=46
+Next=100
+Streak=-3
+[Games]
+Playing=TT
+[game]
+opponent=MixMasta
+result=loss
+score=8-2

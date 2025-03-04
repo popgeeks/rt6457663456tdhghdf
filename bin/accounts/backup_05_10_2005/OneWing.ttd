@@ -1,0 +1,82 @@
+[player]
+nickname=OneWing
+password=700516282
+email=theghostofneo@yahoo.com
+signup_date=4/4/05
+playerID=91
+status=regular
+Verify=1
+Last IP=68.184.19.228
+id=2
+IP=68.184.19.228
+adminstatus=off
+Last Played=04-04-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+rank=1307
+Newdecks=3
+Level=1
+Exp=20
+Next=100
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=04-04-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=6
+Level4=2
+Level5=0
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Fujin, Raijin=0
+Torama=0
+Shumi Tribe=1
+X-ATM092=0
+Geezard=0
+Elastoid=0
+Vysage=0
+Mesmerize=0
+Armadodo=0
+Tonberry King=0
+Fastitocalon-F=0
+Gesper=0
+Elvoret=0
+Wendigo=1
+Grendel=1
+Glacial Eye=1
+Blobra=1
+Forbidden=1
+Cactuar=1
+Blitz=1
+Anacondaur=2
+Death Claw=2
+Caterchipillar=1
+Fastitocalon=1
+Snow Lion=1
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=DarkJaxyChan
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=7-3

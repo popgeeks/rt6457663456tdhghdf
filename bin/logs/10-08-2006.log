@@ -1,0 +1,46 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+darklumina>> GUILDINFOUPDATE Admin%20only%20guild%20-%20Applicants%20will%20be%20automatically%20denied. Have%20fun%20everyone!
+darklumina>> PING
+darklumina>> GUILDINFOUPDATE Admin%20only%20guild Have%20fun!
+darklumina>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> PING
+darklumina>> GUILDINFOUPDATE Admin%20only have%20fun
+darklumina>> GUILDINFOUPDATE admin%20only have%20fun
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> GUILDINFOUPDATE Admin%20Only All%20for%20meh!
+darklumina>> GUILDBANKDEPOSITGOLD 300
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> GUILDBANKDEPOSITGOLD 450
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> GUILDBANKDEPOSITGOLD 450
+darklumina>> GUILDBANKDEPOSITGOLD 500
+darklumina>> GUILDBANKCARDADD Armadodo
+darklumina>> GUILDBANKCARDADD Aroma%20Pouch
+darklumina>> GUILDBANKCARDREMOVE Armadodo
+darklumina>> GUILDBANKDEPOSITGOLD 2500
+darklumina>> QUIT 0 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> QUIT 0 1

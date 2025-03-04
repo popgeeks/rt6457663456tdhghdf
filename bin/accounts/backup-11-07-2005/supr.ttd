@@ -1,0 +1,41 @@
+[player]
+nickname=supr
+password=olifant
+email=joriskamphuis@hotmail.com
+signup_date=9/16/2005
+playerID=2307
+status=regular
+referal=
+Verify=1
+Last IP=80.127.19.217
+id=13
+IP=80.127.19.217
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=18
+Next=100
+Streak=1
+[Newdecks]
+Last=09-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 107102
+Versus=Midnight
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Midnight
+result=loss
+score=8-2

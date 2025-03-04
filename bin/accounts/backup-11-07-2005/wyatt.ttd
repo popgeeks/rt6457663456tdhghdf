@@ -1,0 +1,42 @@
+[player]
+nickname=wyatt
+password=505139231
+email=wyatt.halliwel@gmail.com
+signup_date=10/20/2005
+playerID=2947
+status=regular
+referal=
+Verify=1
+Last IP=64.165.211.10
+id=28
+IP=64.165.211.10
+adminstatus=off
+match=10-20-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=1
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 133238
+Versus=gambitx
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=gambitx
+result=draw
+score=5-5

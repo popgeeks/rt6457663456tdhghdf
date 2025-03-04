@@ -1,0 +1,30 @@
+[player]
+nickname=SammyLumpkin
+password=571700155
+email=sammylumpkin@gmail.com
+signup_date=10/30/2005
+playerID=3082
+status=regular
+referal=SammyLumpkin
+Verify=1
+Last IP=82.38.80.170
+id=88
+IP=82.38.80.170
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

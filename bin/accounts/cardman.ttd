@@ -1,0 +1,17 @@
+[player]
+nickname=cardman
+password=831555008
+email=matthewgonalez349@hotmail.com
+signup_date=8/30/2005
+playerID=2014
+status=regular
+referal=friend
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=08-30-2005

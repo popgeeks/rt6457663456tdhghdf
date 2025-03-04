@@ -1,0 +1,52 @@
+[player]
+nickname=TIDUSAM
+password=poutpout
+email=TITUS1989@HOTMAIL.COM
+signup_date=5/17/2005
+playerID=407
+status=regular
+referal=
+Verify=1
+Last IP=209.226.130.75
+id=33
+IP=209.226.130.75
+adminstatus=off
+match=05-24-2005
+Last Played=05-24-2005
+[Stats]
+Win=66
+Lost=73
+Draw=23
+Lame quits=1
+GP=506
+rank=2389
+Newdecks=7
+Level=10
+Exp=3718
+Next=3936
+AP=112
+SoldCards=1
+cardsgiven=0
+SBLost=24
+Streak=1
+SBWin=16
+Choices=1
+SBDraw=1
+[Newdecks]
+Last=05-18-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 21269
+Versus=Drago
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Drago
+result=win
+score=13-9

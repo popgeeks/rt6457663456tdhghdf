@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=33
+match=12-11-2005
+[Play]
+Playing=false
+GameID= 168410
+Versus=phoenix243
+Iam=2
+[Stats]
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=phoenix243
+result=loss
+score=7-3

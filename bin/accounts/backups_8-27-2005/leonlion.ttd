@@ -1,0 +1,38 @@
+[player]
+nickname=leonlion
+password=142638683
+email=martin8me@aol.com
+signup_date=6/20/2005
+playerID=770
+status=regular
+referal=
+Verify=1
+Last IP=24.23.136.226
+id=29
+IP=24.23.136.226
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=24
+[Newdecks]
+Last=06-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 37953
+Versus=TheOneGod13
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

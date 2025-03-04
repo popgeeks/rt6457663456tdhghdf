@@ -1,0 +1,62 @@
+[player]
+nickname=Cassy
+password=graal
+email=CassyTAW@gmail.com
+signup_date=4/19/05
+playerID=166
+status=regular
+referal=
+Verify=1
+Last IP=70.190.208.143
+id=92
+IP=70.190.208.143
+adminstatus=off
+Last Played=08-26-2005
+match=08-04-2006
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=406
+Lost=459
+Draw=157
+Lame quits=8
+GP=805
+rank=1196
+Newdecks=82
+Level=18
+Exp=11377
+Next=12718
+Streak=2
+Choices=1
+Wins=19
+AP=1644
+SBWin=14
+SBLost=26
+SoldCards=0
+cardsgiven=0
+SBDraw=1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=1016
+honor=1
+PCT=100
+AAPOINTS=0
+TRAINED=6
+darky's=3
+[Play]
+Playing=false
+GameID= 738775
+Versus=waco
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=R1cky
+result=win
+score=7-3

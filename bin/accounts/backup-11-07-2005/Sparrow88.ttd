@@ -1,0 +1,30 @@
+[player]
+nickname=Sparrow88
+password=Starfire
+email=Sparrowhawk_88@hotmail.com
+signup_date=10/2/2005
+playerID=2585
+status=regular
+referal=Gem
+Verify=1
+Last IP=203.161.105.251
+id=60
+IP=203.161.105.251
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,33 @@
+[player]
+nickname=Jaspa
+password=206231117
+email=cookie_monsta999@hotmail.com
+signup_date=5/8/2005
+playerID=332
+status=regular
+referal=
+Verify=1
+Last IP=81.146.49.218
+id=22
+IP=81.146.49.218
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=05-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

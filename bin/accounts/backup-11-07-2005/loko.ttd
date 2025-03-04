@@ -1,0 +1,17 @@
+[player]
+nickname=loko
+password=754054247
+email=shory_akr@hotmail.com
+signup_date=10/20/2005
+playerID=2945
+status=regular
+referal=luisylizethd
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-20-2005

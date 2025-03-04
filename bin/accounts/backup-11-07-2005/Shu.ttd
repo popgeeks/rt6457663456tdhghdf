@@ -1,0 +1,31 @@
+[player]
+nickname=Shu
+password=756340443
+email=aznlao@hotmail.com
+signup_date=8/26/2005
+playerID=2000
+status=regular
+referal=
+Verify=1
+Last IP=82.238.17.243
+id=16
+IP=82.238.17.243
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,45 @@
+[player]
+nickname=shizo
+password=nightmare
+email=rene.baumann1@hotmail.de
+signup_date=9/1/2005
+playerID=2055
+status=regular
+referal=666nightmare666
+Verify=1
+Last IP=82.83.95.70
+id=28
+IP=82.83.95.70
+adminstatus=off
+match=10-24-2005
+[Stats]
+Win=61
+Lost=104
+Draw=21
+Lame quits=1
+Newdecks=1
+Level=10
+Exp=3608
+Next=3936
+Streak=2
+SBLost=4
+SBWin=3
+Choices=1
+[Newdecks]
+Last=09-01-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 135491
+Versus=PaKeLiKa
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=PaKeLiKa
+result=win
+score=12-8

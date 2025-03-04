@@ -1,0 +1,42 @@
+[player]
+nickname=cakster
+password=630607842
+email=caki12@verat.net
+signup_date=9/14/2005
+playerID=2286
+status=regular
+referal=Deki
+Verify=1
+Last IP=213.244.194.30
+id=86
+IP=213.244.194.30
+adminstatus=off
+match=12-10-2005
+[Stats]
+Win=23
+Lost=20
+Draw=17
+Lame quits=1
+Newdecks=1
+Level=6
+Exp=1432
+Next=1727
+Streak=2
+[Newdecks]
+Last=09-14-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 167973
+Versus=Bob-Charley
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Bob-Charley
+result=win
+score=12-8

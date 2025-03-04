@@ -1,0 +1,46 @@
+[player]
+nickname=Gaberman
+password=Astfgl
+email=g4b3rm4n@gmail.com
+signup_date=8/13/2005
+playerID=1847
+status=regular
+referal=
+Verify=1
+Last IP=80.99.116.164
+id=8
+IP=80.99.116.164
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+[Stats]
+Win=0
+Lost=4
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=3
+Level=1
+Exp=59
+Next=100
+AP=195
+Streak=-2
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86205
+Versus=blaize
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=blaize
+result=loss
+score=9-1

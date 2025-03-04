@@ -1,0 +1,44 @@
+[player]
+nickname=XellVIII
+password=23622333
+email=nord-wikinger@gmx.de
+signup_date=8/12/2005
+playerID=1832
+status=regular
+referal=nord
+Verify=1
+Last IP=85.178.63.136
+id=40
+IP=85.178.63.136
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+[Stats]
+Win=0
+Lost=2
+Draw=2
+Lame quits=0
+GP=15
+Newdecks=1
+Level=1
+Exp=17
+Next=100
+AP=80
+Streak=1
+[Newdecks]
+Last=08-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 100557
+Versus=VampyrsRoses
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=BrettTosti
+result=draw
+score=10-10

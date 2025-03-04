@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=34
+match=08-03-2006
+[Play]
+Playing=false
+GameID= 736391
+Versus=DragonX109
+Iam=2
+[Stats]
+Level=1
+Exp=6
+Next=100
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=6-4

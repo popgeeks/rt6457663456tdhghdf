@@ -1,0 +1,20 @@
+[player]
+nickname=horus22
+password=694338917
+email=naraku_21@yahoo.com.mx
+signup_date=8/24/2005
+playerID=1969
+status=regular
+referal=lamania
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-24-2005
+[password]
+failed=3

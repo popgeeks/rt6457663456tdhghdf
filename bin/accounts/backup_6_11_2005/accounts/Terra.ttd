@@ -1,0 +1,49 @@
+[player]
+nickname=Terra
+password=164237260
+email=fors544@hotmail.com
+signup_date=5/28/2005
+playerID=525
+status=regular
+referal=
+Verify=1
+Last IP=217.208.75.149
+id=28
+IP=217.208.75.149
+adminstatus=off
+match=06-04-2005
+Last Played=06-04-2005
+[Stats]
+Win=19
+Lost=27
+Draw=11
+Lame quits=3
+GP=1951
+rank=1345
+Newdecks=1
+Level=6
+Exp=1418
+Next=1727
+AP=1699
+SBWin=2
+Streak=-2
+Choices=1
+SBLost=3
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 27882
+Versus=Jin
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jin
+result=loss
+score=10-8

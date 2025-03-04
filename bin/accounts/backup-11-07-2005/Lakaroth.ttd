@@ -1,0 +1,43 @@
+[player]
+nickname=Lakaroth
+password=812260686
+email=7raven@virgilio.it
+signup_date=10/1/2005
+playerID=2567
+status=regular
+referal=enrico
+Verify=1
+Last IP=82.55.191.174
+id=133
+IP=82.55.191.174
+adminstatus=off
+match=10-01-2005
+[Stats]
+Win=0
+Lost=8
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=113
+Next=248
+Streak=-7
+[Newdecks]
+Last=10-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 117981
+Versus=phreakazoid
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=9-1
+[Warnings]
+Warns=1

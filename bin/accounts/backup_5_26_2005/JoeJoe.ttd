@@ -1,0 +1,46 @@
+[player]
+nickname=JoeJoe
+password=100285589
+email=woo_child8@hotmail.com
+signup_date=4/30/2005
+playerID=228
+status=regular
+referal=Akira
+Verify=1
+Last IP=199.126.218.250
+id=17
+IP=199.126.218.250
+adminstatus=off
+match=04-30-2005
+Last Played=04-30-2005
+[Stats]
+Win=1
+Lost=4
+Draw=4
+Lame quits=0
+GP=207
+rank=1257
+Newdecks=1
+Level=2
+Exp=116
+Next=248
+Streak=-4
+Choices=1
+Wins=1
+[Newdecks]
+Last=04-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Quinchu
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Quinchu
+result=loss
+score=6-4

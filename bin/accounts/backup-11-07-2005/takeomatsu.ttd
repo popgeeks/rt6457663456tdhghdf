@@ -1,0 +1,17 @@
+[player]
+nickname=takeomatsu
+password=958166657
+email=pocofolgado@hotmail.com
+signup_date=11/4/2005
+playerID=3145
+status=regular
+referal=ayanami
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=11-04-2005

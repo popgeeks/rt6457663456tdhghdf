@@ -1,0 +1,71 @@
+[player]
+nickname=Debris
+password=877073704
+email=blacksheep182@hotmail.com
+signup_date=4/15/05
+playerID=137
+status=regular
+referal=Mr-Tiddles
+Verify=1
+Last IP=203.217.0.167
+id=4
+IP=203.217.0.167
+adminstatus=off
+match=04-15-2005
+Last Played=04-15-2005
+[Stats]
+Win=1
+Lost=1
+Draw=1
+Lame quits=0
+GP=80
+rank=1500
+Newdecks=1
+Level=1
+Exp=70
+Next=100
+Streak=-1
+[Newdecks]
+Last=04-15-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=4
+Level4=1
+Level5=0
+Level6=4
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+SAM08G=2
+Tri-Face=1
+Caterchipillar=1
+Jelleye=1
+Tonberry=1
+Abadon=1
+T-Rexaur=1
+Bite Bug=1
+Grendel=1
+Iguion=1
+X-ATM092=1
+Gayla=1
+Trauma=1
+Ultima Weapon=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5647
+Versus=Irvine
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Irvine
+result=loss
+score=15-5

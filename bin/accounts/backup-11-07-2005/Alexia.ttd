@@ -1,0 +1,51 @@
+[player]
+nickname=Alexia
+password=7seven7
+email=rebeccachambersstars@yahoo.com
+signup_date=7/7/2005
+playerID=1083
+status=regular
+referal=
+Verify=1
+Last IP=172.166.86.87
+id=29
+IP=172.166.86.87
+adminstatus=off
+match=07-08-2005
+Last Played=07-08-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=25
+Lost=29
+Draw=5
+Lame quits=0
+GP=0
+Newdecks=19
+Level=4
+Exp=714
+Next=836
+AP=2099
+SoldCards=0
+cardsgiven=0
+Streak=-2
+Choices=1
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 55106
+Versus=dark-wing
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=DaXyro
+result=loss
+score=7-3

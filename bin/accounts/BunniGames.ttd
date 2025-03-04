@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=21
+match=11-16-2005
+[Play]
+Playing=false
+GameID= 152417
+Versus=dark-wing
+Iam=1
+[Stats]
+Level=1
+Exp=24
+Next=100
+Streak=-1
+[Games]
+Playing=TT
+[game]
+opponent=dark-wing
+result=loss
+score=7-3

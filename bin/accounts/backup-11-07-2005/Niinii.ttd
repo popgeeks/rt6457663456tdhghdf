@@ -1,0 +1,30 @@
+[player]
+nickname=Niinii
+password=739337741
+email=denasie@yahoo.com
+signup_date=9/2/2005
+playerID=2063
+status=regular
+referal=Raya
+Verify=1
+Last IP=71.109.108.186
+id=34
+IP=71.109.108.186
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-02-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

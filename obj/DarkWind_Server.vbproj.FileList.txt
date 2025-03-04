@@ -1,0 +1,56 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.DAO.dll
+obj\Debug\Interop.InetCtlsObjects.dll
+obj\Debug\Interop.MSWinsockLib.dll
+obj\Debug\AxInterop.InetCtlsObjects.dll
+obj\Debug\AxInterop.MSWinsockLib.dll
+obj\Debug\DarkWind_Server.vbproj.ResolveComReference.cache
+obj\Debug\DarkWind_Server.frmDebug.resources
+obj\Debug\DarkWind_Server.frmpacket.resources
+obj\Debug\DarkWind_Server.frmserver.resources
+obj\Debug\DarkWind_Server.frmSystray.resources
+obj\Debug\DarkWind_Server.vbproj.GenerateResource.Cache
+obj\Debug\DarkWind_Server.exe
+obj\Debug\DarkWind_Server.xml
+obj\Debug\DarkWind_Server.pdb
+.\bin\DarkWind_Server.exe.config
+.\bin\DarkWind_Server.exe
+.\bin\DarkWind_Server.xml
+.\bin\AxWinsockArray.dll
+.\bin\Interop.DAO.dll
+.\bin\Interop.InetCtlsObjects.dll
+.\bin\Interop.MSWinsockLib.dll
+.\bin\AxInterop.InetCtlsObjects.dll
+.\bin\AxInterop.MSWinsockLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.DAO.dll
+obj\Release\Interop.InetCtlsObjects.dll
+obj\Release\Interop.MSWinsockLib.dll
+obj\Release\AxInterop.InetCtlsObjects.dll
+obj\Release\AxInterop.MSWinsockLib.dll
+obj\Release\DarkWind_Server.vbproj.ResolveComReference.cache
+obj\Release\DarkWind_Server.frmDebug.resources
+obj\Release\DarkWind_Server.frmpacket.resources
+obj\Release\DarkWind_Server.frmserver.resources
+obj\Release\DarkWind_Server.frmSystray.resources
+obj\Release\DarkWind_Server.vbproj.GenerateResource.Cache
+obj\Release\DarkWind_Server.exe
+obj\Release\DarkWind_Server.xml
+..\..\..\Dark Wind\server\DarkWind_Server.NET\bin\Release\DarkWind_Server.exe.config
+..\..\..\Dark Wind\server\DarkWind_Server.NET\bin\Release\DarkWind_Server.exe
+..\..\..\Dark Wind\server\DarkWind_Server.NET\bin\Release\DarkWind_Server.xml
+.\bin\DarkWind_Server.pdb
+..\..\..\Dark Wind\server\DarkWind_Server.NET\bin\Release\DarkWind_Server.exe.manifest
+..\..\..\Dark Wind\server\DarkWind_Server.NET\bin\Release\DarkWind_Server.application
+obj\Release\DarkWind_Server.exe.manifest
+obj\Release\DarkWind_Server.application
+.\bin\DarkWind_Server.exe.manifest
+.\bin\DarkWind_Server.application
+obj\Debug\DarkWind_Server.exe.manifest
+obj\Debug\DarkWind_Server.application
+.\bin\MySqlDBHelper.dll
+..\..\..\Release Builds\DarkWind_Server.exe.config
+..\..\..\Release Builds\DarkWind_Server.exe.manifest
+..\..\..\Release Builds\DarkWind_Server.application
+..\..\..\Release Builds\DarkWind_Server.exe
+..\..\..\Release Builds\DarkWind_Server.xml

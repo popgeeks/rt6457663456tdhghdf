@@ -1,0 +1,42 @@
+[player]
+nickname=Koroshiya
+password=red765
+email=KoroshiyaHunter@msn.com
+signup_date=9/5/2005
+playerID=2119
+status=regular
+referal=
+Verify=1
+Last IP=67.37.6.58
+id=32
+IP=67.37.6.58
+adminstatus=off
+match=10-14-2005
+[Stats]
+Win=8
+Lost=12
+Draw=4
+Lame quits=2
+Newdecks=1
+Level=3
+Exp=331
+Next=476
+Streak=-2
+Choices=1
+[Newdecks]
+Last=09-05-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 128792
+Versus=elads101
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=amy
+result=loss
+score=12-8

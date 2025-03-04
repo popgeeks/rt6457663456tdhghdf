@@ -1,0 +1,45 @@
+[player]
+nickname=SirKline
+password=2987
+email=Sirkline_87@hotmail.com
+signup_date=6/25/2005
+playerID=844
+status=regular
+referal=
+Verify=1
+Last IP=217.125.188.121
+id=36
+IP=217.125.188.121
+adminstatus=off
+match=06-25-2005
+Last Played=06-25-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+rank=1348
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+AP=68
+Streak=1
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=DarkGlory
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=DarkGlory
+result=loss
+score=7-3

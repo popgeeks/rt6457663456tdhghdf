@@ -1,0 +1,45 @@
+[player]
+nickname=SerA
+password=250788
+email=prescriptivex@hotmail.com
+signup_date=7/27/2005
+playerID=1534
+status=regular
+referal=
+Verify=1
+Last IP=218.212.185.151
+id=30
+IP=218.212.185.151
+adminstatus=off
+match=07-27-2005
+Last Played=07-27-2005
+[Stats]
+Win=6
+Lost=3
+Draw=6
+Lame quits=0
+GP=288
+Newdecks=1
+Level=2
+Exp=100
+Next=248
+AP=592
+Streak=5
+Choices=1
+[Newdecks]
+Last=07-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 70124
+Versus=joka
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=joka
+result=win
+score=7-3

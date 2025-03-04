@@ -1,0 +1,21 @@
+[player]
+nickname=Kamasi
+password=370192825
+email=asteroth_the_fallen_one@hotmal.com
+signup_date=5/5/2005
+playerID=297
+status=regular
+referal=Lucrecia
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-05-2005
+[password]
+failed=2

@@ -1,0 +1,46 @@
+[player]
+nickname=xmvn
+password=245673477
+email=xmvn_01@yahoo.com
+signup_date=10/10/2005
+playerID=2771
+status=regular
+referal=
+Verify=1
+Last IP=24.56.206.2
+id=22
+IP=24.56.206.2
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=3
+Lost=19
+Draw=8
+Lame quits=1
+Newdecks=5
+Level=3
+Exp=262
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=10-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 131196
+Versus=xynric
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=xynric
+result=loss
+score=7-3
+[Warnings]
+Kicks=2
+Warns=1

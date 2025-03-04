@@ -1,0 +1,22 @@
+[player]
+nickname=david
+password=556191622
+email=nomercy12@yahoo.com
+signup_date=4/26/2005
+playerID=196
+status=regular
+referal=david
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-26-2005
+[password]
+failed=1

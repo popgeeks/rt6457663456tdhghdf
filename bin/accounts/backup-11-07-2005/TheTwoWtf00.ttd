@@ -1,0 +1,35 @@
+[player]
+nickname=TheTwoWtf00
+password=64589023
+email=royal_2_blood@yahoo.com
+signup_date=9/25/2005
+playerID=2488
+status=regular
+referal=
+Verify=1
+Last IP=69.134.69.211
+id=11
+IP=69.134.69.211
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140842
+Versus=RoyalXBlood
+Iam=2
+[password]
+failed=0
+[Games]
+Challenged=

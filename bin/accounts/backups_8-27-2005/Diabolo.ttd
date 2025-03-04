@@ -1,0 +1,18 @@
+[player]
+nickname=Diabolo
+password=109974324
+email=T.Weber@hotmail.de
+signup_date=6/28/2005
+playerID=904
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-28-2005

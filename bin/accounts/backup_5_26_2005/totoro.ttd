@@ -1,0 +1,46 @@
+[player]
+nickname=totoro
+password=435293018
+email=kouglofwargod.maxence@caramail.com
+signup_date=5/11/2005
+playerID=351
+status=regular
+referal=maxence
+Verify=1
+Last IP=83.197.82.21
+id=6
+IP=83.197.82.21
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=5
+Lost=14
+Draw=5
+Lame quits=0
+GP=568
+rank=1479
+Newdecks=1
+Level=3
+Exp=450
+Next=476
+Streak=-4
+Choices=1
+Wins=5
+[Newdecks]
+Last=05-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 14440
+Versus=squll-typo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=13-9

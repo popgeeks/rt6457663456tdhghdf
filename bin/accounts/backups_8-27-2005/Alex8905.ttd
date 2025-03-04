@@ -1,0 +1,59 @@
+[player]
+nickname=Alex8905
+password=giorgia89
+email=alerob21@gmail.com
+signup_date=7/20/2005
+playerID=1390
+status=regular
+referal=
+Verify=1
+Last IP=82.59.173.55
+id=19
+IP=82.59.173.55
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+surname=themaster
+[Stats]
+Win=484
+Lost=383
+Draw=177
+Lame quits=13
+GP=269
+Newdecks=9
+Level=20
+Exp=13707
+Next=15166
+AP=17319
+Streak=1
+Choices=1
+SBWin=2
+SBLost=2
+SoldCards=33
+cardsgiven=0
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+honor=2
+PCT=0
+[Play]
+Playing=false
+GameID= 87190
+Versus=DarkMan
+Iam=1
+[password]
+failed=1
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=SSJCloud85
+result=win
+score=12-8
+[Warnings]
+Kicks=2

@@ -1,0 +1,35 @@
+[player]
+nickname=vanegas
+password=23570895
+email=xfilerman@yahoo.com
+signup_date=5/31/2005
+playerID=571
+status=regular
+referal=lagos
+Verify=1
+Last IP=200.21.178.125
+id=23
+IP=200.21.178.125
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+AP=18
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

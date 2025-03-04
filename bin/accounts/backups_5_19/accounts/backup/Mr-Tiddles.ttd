@@ -1,0 +1,111 @@
+[player]
+nickname=Mr-Tiddles
+password=psycho
+email=Mr_Tiddles@Hotmail.co.uk
+signup_date=4/5/05
+playerID=99
+status=regular
+Verify=1
+Last IP=172.200.100.18
+id=9
+IP=172.200.100.18
+adminstatus=off
+Last Played=04-17-2005
+match=04-17-2005
+guildmaster=2
+guild=Sama-San
+
+[Stats]
+Win=122
+Lost=63
+Draw=36
+Lame quits=4
+rank=2387
+Newdecks=1
+Level=12
+Exp=5291
+Next=5510
+Streak=1
+Choices=1
+SoldCards=10
+GP=8018
+
+[Newdecks]
+Last=04-05-2005
+
+[Totals]
+Level1=7
+Level2=2
+Level3=4
+Level4=4
+Level5=6
+Level6=5
+Level7=5
+Level8=0
+Level9=2
+Level10=2
+Total=0
+[cards]
+GIM47N=1
+T-Rexaur=1
+Elnoyle=1
+Trauma=1
+Fastitocalon=1
+Bite Bug=1
+Turtapod=1
+Geezard=1
+Gayla=1
+Ultima Weapon=1
+Behemoth=1
+Wedge, Biggs=0
+Cactuar=1
+Fastitocalon-F=1
+Malboro=0
+Oilboyle=1
+Fujin, Raijin=1
+Iron Giant=1
+Tonberry=1
+Tiamat=1
+Mesmerize=1
+Zell=1
+Ward=1
+Tonberry King=1
+Blue Dragon=1
+Cerberus=1
+Sphinxara=1
+Shumi Tribe=1
+SAM08G=1
+Catoblepas=1
+Granaldo=1
+Jumbo Cactuar=1
+Gesper=1
+Funguar=1
+Red Bat=1
+Carbuncle=1
+Torama=1
+Glacial Eye=1
+Chimera=1
+
+[AP]
+AAEXP=0
+PCT=0
+
+[Play]
+Playing=false
+GameID= 6333
+Versus=WhiteLight
+Iam=1
+
+[password]
+failed=0
+
+[Games]
+Playing=OTT
+Challenged=
+
+[game]
+opponent=WhiteLight
+result=draw
+score=10-10
+[Warnings]
+Kicks=3

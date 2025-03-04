@@ -1,0 +1,37 @@
+[player]
+nickname=striker2s
+password=645768105
+email=striker2s@yahoo.com
+signup_date=4/21/05
+playerID=176
+status=regular
+referal=
+Verify=1
+Last IP=63.167.131.254
+id=11
+IP=63.167.131.254
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 7039
+Versus=HeatheN
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT

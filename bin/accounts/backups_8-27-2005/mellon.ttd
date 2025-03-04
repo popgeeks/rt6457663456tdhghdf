@@ -1,0 +1,43 @@
+[player]
+nickname=mellon
+password=358214616
+email=mikolius@hotmail.com
+signup_date=6/28/2005
+playerID=898
+status=regular
+referal=
+Verify=1
+Last IP=83.102.38.107
+id=35
+IP=83.102.38.107
+adminstatus=off
+match=06-28-2005
+Last Played=06-28-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=5
+Next=100
+AP=25
+[Newdecks]
+Last=06-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 44029
+Versus=LeeLoo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=keiniori
+result=draw
+score=5-5

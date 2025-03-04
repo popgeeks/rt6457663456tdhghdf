@@ -1,0 +1,46 @@
+[player]
+nickname=XOrphenX88
+password=458158850
+email=XOrphenX88@gmail.com
+signup_date=6/1/2005
+playerID=587
+status=regular
+referal=friend
+Verify=1
+Last IP=69.248.103.167
+id=2
+IP=69.248.103.167
+adminstatus=off
+match=06-01-2005
+Last Played=06-01-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+GP=11
+rank=1264
+Newdecks=1
+Level=1
+Exp=22
+Next=100
+AP=118
+Streak=-2
+SBLost=1
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 26377
+Versus=AJ666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=AJ666
+result=loss
+score=23-14

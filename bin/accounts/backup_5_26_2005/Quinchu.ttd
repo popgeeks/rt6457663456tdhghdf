@@ -1,0 +1,47 @@
+[player]
+nickname=Quinchu
+password=579463
+email=quinchu@gmail.com
+signup_date=4/29/2005
+playerID=217
+status=regular
+referal=
+Verify=1
+Last IP=68.226.174.210
+id=16
+IP=68.226.174.210
+adminstatus=off
+match=05-25-2005
+Last Played=05-25-2005
+[Stats]
+Win=13
+Lost=11
+Draw=9
+Lame quits=1
+GP=494
+rank=1349
+Newdecks=1
+Level=4
+Exp=780
+Next=836
+Streak=-1
+Choices=1
+Wins=13
+AP=58
+[Newdecks]
+Last=04-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=pakelika
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=pakelika
+result=loss
+score=6-4

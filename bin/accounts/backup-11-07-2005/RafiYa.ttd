@@ -1,0 +1,46 @@
+[player]
+nickname=RafiYa
+password=636255442
+email=gaditano37@hotmail.com
+signup_date=8/11/2005
+playerID=1808
+status=regular
+referal=legolasloco
+Verify=1
+Last IP=83.35.133.228
+id=24
+IP=83.35.133.228
+adminstatus=off
+match=08-11-2005
+Last Played=08-11-2005
+[Stats]
+Win=9
+Lost=11
+Draw=4
+Lame quits=0
+GP=834
+Newdecks=1
+Level=4
+Exp=477
+Next=836
+AP=883
+Streak=-1
+SBWin=1
+Choices=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=84457
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=kidlover1
+result=loss
+score=15-9

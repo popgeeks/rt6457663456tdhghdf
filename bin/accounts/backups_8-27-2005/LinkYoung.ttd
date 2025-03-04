@@ -1,0 +1,32 @@
+[player]
+nickname=LinkYoung
+password=wc33433
+email=rheywood1@hotmail.com
+signup_date=8/9/2005
+playerID=1773
+status=regular
+referal=
+Verify=1
+Last IP=151.201.154.49
+id=29
+IP=151.201.154.49
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+[Newdecks]
+Last=08-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

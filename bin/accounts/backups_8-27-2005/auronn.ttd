@@ -1,0 +1,48 @@
+[player]
+nickname=auronn
+password=532144903
+email=chekist@one.lt
+signup_date=7/27/2005
+playerID=1535
+status=regular
+referal=
+Verify=1
+Last IP=83.242.0.242
+id=1
+IP=83.242.0.242
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+[Stats]
+Win=16
+Lost=28
+Draw=6
+Lame quits=2
+GP=1173
+Newdecks=1
+Level=5
+Exp=901
+Next=1301
+AP=1428
+Streak=-3
+Choices=1
+SBLost=3
+[Newdecks]
+Last=07-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 76612
+Versus=Ellone
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Jimmy3000
+result=loss
+score=11-9

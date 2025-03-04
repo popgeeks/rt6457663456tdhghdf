@@ -1,0 +1,46 @@
+[player]
+nickname=Tenshi
+password=42021999
+email=Finaltenshi1000@hotmail.de
+signup_date=8/29/2005
+playerID=2009
+status=regular
+referal=
+Verify=1
+Last IP=84.189.176.57
+id=162
+IP=84.189.176.57
+adminstatus=off
+match=10-11-2005
+[Stats]
+Win=39
+Lost=68
+Draw=23
+Lame quits=1
+Newdecks=1
+Level=8
+Exp=2282
+Next=2698
+Streak=1
+SBLost=4
+SBWin=3
+[Newdecks]
+Last=08-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 126426
+Versus=KaPe
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=KaPe
+result=win
+score=14-6
+[Warnings]
+Warns=1

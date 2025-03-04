@@ -1,0 +1,20 @@
+[player]
+nickname=sam123
+password=802700637
+email=samp@sam123.uni.cc
+signup_date=7/25/2005
+playerID=1497
+status=regular
+referal=google
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-25-2005
+[password]
+failed=2

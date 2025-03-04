@@ -1,0 +1,47 @@
+[player]
+nickname=Matin
+password=zidane
+email=ff7seph@web.de
+signup_date=8/28/2005
+playerID=1989
+status=regular
+referal=
+Verify=1
+Last IP=85.212.23.216
+id=38
+IP=85.212.23.216
+adminstatus=off
+match=09-06-2005
+[Stats]
+Win=32
+Lost=68
+Draw=10
+Lame quits=0
+Newdecks=17
+Level=6
+Exp=1589
+Next=1727
+Streak=-1
+SoldCards=5
+cardsgiven=0
+SBLost=1
+Choices=1
+[Newdecks]
+Last=08-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 99523
+Versus=THeONeGod13
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=THeONeGod13
+result=loss
+score=13-7

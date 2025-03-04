@@ -1,0 +1,20 @@
+[player]
+nickname=red
+password=627124726
+email=ilovearainynight@hotmail.co.uk
+signup_date=7/15/2005
+playerID=1254
+status=regular
+referal=regiment
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-15-2005
+[password]
+failed=1

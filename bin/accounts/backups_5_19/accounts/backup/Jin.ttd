@@ -1,0 +1,77 @@
+[player]
+nickname=Jin
+password=squaresoft
+email=thai_v@hotmail.com
+signup_date=3/15/05
+playerID=11
+status=regular
+Verify=1
+Last IP=172.200.162.251
+id=4
+IP=172.200.162.251
+adminstatus=off
+Last Played=03-21-2005
+[Stats]
+Win=8
+Lost=1
+Draw=3
+Lame quits=1
+GP=700
+rank=2128
+Newdecks=1
+Level=2
+Exp=246
+Next=248
+Streak=1
+Choices=1
+[Newdecks]
+Last=03-15-2005
+[Totals]
+Level1=4
+Level2=3
+Level3=1
+Level4=4
+Level5=3
+Level6=5
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Funguar=1
+Propagator=1
+Malboro=1
+Snow Lion=1
+Iguion=2
+Grendel=1
+GIM47N=1
+Caterchipillar=1
+Bite Bug=1
+Gesper=1
+Jelleye=1
+Creeps=1
+Torama=1
+Turtapod=1
+X-ATM092=1
+Blitz=1
+PuPu=1
+Fujin, Raijin=1
+Trauma=1
+Hexadragon=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 2018
+Versus=Eidelon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=darklumina
+result=win
+score=7-3

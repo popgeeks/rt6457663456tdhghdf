@@ -1,0 +1,48 @@
+[player]
+nickname=Amarant
+password=Necro1
+email=Juggilo_43@hotmail.com
+signup_date=4/25/2005
+playerID=193
+status=regular
+referal=
+Verify=1
+Last IP=64.151.131.132
+id=42
+IP=64.151.131.132
+adminstatus=off
+match=05-09-2005
+Last Played=05-09-2005
+[Stats]
+Win=44
+Lost=44
+Draw=23
+Lame quits=3
+GP=3851
+rank=1197
+Newdecks=1
+Level=9
+Exp=3024
+Next=3346
+Streak=-3
+Choices=1
+Wins=44
+AP=10
+[Newdecks]
+Last=04-25-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 14058
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alvaro
+result=loss
+score=12-8

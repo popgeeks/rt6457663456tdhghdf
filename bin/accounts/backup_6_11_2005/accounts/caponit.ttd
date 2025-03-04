@@ -1,0 +1,47 @@
+[player]
+nickname=caponit
+password=900369345
+email=caponit-nowiak@o2.pl
+signup_date=6/1/2005
+playerID=578
+status=regular
+referal=Radogost
+Verify=1
+Last IP=83.24.97.123
+id=5
+IP=83.24.97.123
+adminstatus=off
+Last Played=06-04-2005
+match=06-04-2005
+[Stats]
+Win=13
+Lost=15
+Draw=7
+Lame quits=0
+GP=943
+rank=1004
+Newdecks=1
+Level=4
+Exp=769
+Next=836
+AP=508
+Streak=2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 27744
+Versus=card-pker
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=card-pker
+result=win
+score=17-3

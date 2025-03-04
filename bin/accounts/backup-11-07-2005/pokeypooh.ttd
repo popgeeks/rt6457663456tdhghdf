@@ -1,0 +1,39 @@
+[player]
+nickname=pokeypooh
+password=183088660
+email=darklumina13@hotmail.com
+signup_date=6/25/2005
+playerID=846
+status=regular
+referal=darklumina
+Verify=1
+Last IP=70.149.129.238
+id=13
+IP=70.149.129.238
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=1
+GP=2
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=143
+[Newdecks]
+Last=06-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 41476
+Versus=TheOneGod13
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[Warnings]
+Kicks=1

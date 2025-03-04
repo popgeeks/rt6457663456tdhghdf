@@ -1,0 +1,45 @@
+[player]
+nickname=gobei
+password=ayanami0
+email=gobei@o2.pl
+signup_date=10/25/2005
+playerID=3004
+status=regular
+referal=ayanami0
+Verify=1
+Last IP=83.238.135.165
+id=14
+IP=83.238.135.165
+adminstatus=off
+match=11-03-2005
+[Stats]
+Win=52
+Lost=83
+Draw=15
+Lame quits=3
+Newdecks=1
+Level=9
+Exp=3290
+Next=3346
+Streak=-6
+Choices=1
+[Newdecks]
+Last=10-25-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 143285
+Versus=Darksol
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Darksol
+result=draw
+score=5-5
+[Warnings]
+Kicks=2

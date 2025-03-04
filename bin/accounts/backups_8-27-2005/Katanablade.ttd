@@ -1,0 +1,44 @@
+[player]
+nickname=Katanablade
+password=919771670
+email=Katanablade@web.de
+signup_date=7/10/2005
+playerID=1161
+status=regular
+referal=Katanablade
+Verify=1
+Last IP=213.54.71.222
+id=12
+IP=213.54.71.222
+adminstatus=off
+match=07-10-2005
+Last Played=07-10-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+GP=25
+Newdecks=1
+Level=1
+Exp=17
+Next=100
+AP=91
+Streak=1
+[Newdecks]
+Last=07-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=xzellx
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=xzellx
+result=win
+score=6-4

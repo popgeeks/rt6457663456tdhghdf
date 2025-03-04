@@ -1,0 +1,43 @@
+[player]
+nickname=AzureDragon
+password=292392015
+email=theazuredrak@yahoo.com
+signup_date=7/12/2005
+playerID=1218
+status=regular
+referal=
+Verify=1
+Last IP=68.116.169.213
+id=27
+IP=68.116.169.213
+adminstatus=off
+match=07-12-2005
+Last Played=07-12-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=6
+Next=100
+AP=24
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 54142
+Versus=ColdWinter
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ColdWinter
+result=draw
+score=5-5

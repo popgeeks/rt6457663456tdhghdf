@@ -1,0 +1,47 @@
+[player]
+nickname=mahaflare
+password=mahameteor
+email=mahaflare@gmail.com
+signup_date=6/6/2005
+playerID=631
+status=regular
+referal=
+Verify=1
+Last IP=200.91.176.130
+id=31
+IP=200.91.176.130
+adminstatus=off
+Last Played=08-25-2005
+match=08-25-2005
+[Stats]
+Win=1
+Lost=3
+Draw=2
+Lame quits=0
+GP=0
+rank=1309
+Newdecks=3
+Level=1
+Exp=32
+Next=100
+AP=137
+Streak=-2
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92240
+Versus=NikolaTesla
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=NikolaTesla
+result=draw
+score=10-10

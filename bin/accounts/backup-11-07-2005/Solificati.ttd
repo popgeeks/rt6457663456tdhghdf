@@ -1,0 +1,45 @@
+[player]
+nickname=Solificati
+password=692560850
+email=lucardius@comcast.net
+signup_date=7/23/2005
+playerID=1429
+status=regular
+referal=
+Verify=1
+Last IP=66.153.120.118
+id=1
+IP=66.153.120.118
+adminstatus=off
+match=08-02-2005
+Last Played=08-02-2005
+[Stats]
+Win=2
+Lost=12
+Draw=3
+Lame quits=0
+GP=45
+Newdecks=1
+Level=1
+Exp=46
+Next=100
+AP=1868
+Streak=-9
+SBLost=1
+[Newdecks]
+Last=07-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 76878
+Versus=sg1
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=sg1
+result=loss
+score=4-1

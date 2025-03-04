@@ -1,0 +1,59 @@
+[player]
+nickname=vjpfe
+password=506289839
+email=romsgba@hotmail.com
+signup_date=4/9/05
+playerID=118
+status=regular
+Verify=1
+Last IP=211.28.176.147
+id=3
+IP=211.28.176.147
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=04-09-2005
+[Totals]
+Level1=2
+Level2=1
+Level3=0
+Level4=2
+Level5=3
+Level6=6
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Shumi Tribe=2
+T-Rexaur=1
+Blobra=1
+GIM47N=1
+Granaldo=1
+Geezard=1
+Abadon=1
+Buel=1
+Iron Giant=1
+Ultima Weapon=1
+Wendigo=1
+Iguion=1
+Malboro=1
+Elvoret=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

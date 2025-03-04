@@ -1,0 +1,17 @@
+[player]
+nickname=steste
+password=243081867
+email=stephen810999@yahoo.co.uk
+signup_date=10/11/2005
+playerID=2792
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-11-2005

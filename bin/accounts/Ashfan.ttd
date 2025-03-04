@@ -1,0 +1,46 @@
+[player]
+nickname=Ashfan
+password=531105040
+email=luisashfan@yahoo.es
+signup_date=10/4/2005
+playerID=2635
+status=regular
+referal=Ashman
+Verify=1
+Last IP=200.82.232.225
+id=25
+IP=200.82.232.225
+adminstatus=off
+match=10-11-2005
+[Stats]
+Win=20
+Lost=42
+Draw=14
+Lame quits=0
+Newdecks=21
+Level=6
+Exp=1407
+Next=1727
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=1
+[Newdecks]
+Last=10-06-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 126377
+Versus=JesusOfBC
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=JesusOfBC
+result=win
+score=11-9

@@ -1,0 +1,30 @@
+[player]
+nickname=Tasia
+password=archangel
+email=tassykins@hotmail.com
+signup_date=9/24/2005
+playerID=2471
+status=regular
+referal=SolusEmsu
+Verify=1
+Last IP=12.166.24.26
+id=54
+IP=12.166.24.26
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

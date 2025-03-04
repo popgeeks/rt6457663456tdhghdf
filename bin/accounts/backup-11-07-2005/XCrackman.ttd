@@ -1,0 +1,32 @@
+[player]
+nickname=XCrackman
+password=284150361
+email=jmmv14@msn.com
+signup_date=7/30/2005
+playerID=1586
+status=regular
+referal=
+Verify=1
+Last IP=83.38.116.117
+id=6
+IP=83.38.116.117
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

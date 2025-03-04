@@ -1,0 +1,46 @@
+[player]
+nickname=LexAeterna
+password=96739470
+email=LexEterna@aol.com
+signup_date=3/14/05
+playerID=8
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=03-14-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=2
+Level4=3
+Level5=2
+Level6=0
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Tonberry=2
+Behemoth=1
+Glacial Eye=1
+Thrustaevis=1
+Anacondaur=1
+Mesmerize=1
+Bomb=1
+Imp=1
+Funguar=1
+Red Giant=1
+Geezard=1
+Wendigo=1
+Tiamat=1
+Ruby Dragon=1

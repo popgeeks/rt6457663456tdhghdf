@@ -1,0 +1,30 @@
+[player]
+nickname=Rinoa
+password=744544326
+email=Rinoa@fantasyforce.com
+signup_date=9/10/2005
+playerID=2206
+status=regular
+referal=losthope
+Verify=1
+Last IP=69.148.172.145
+id=30
+IP=69.148.172.145
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

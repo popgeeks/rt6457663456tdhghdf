@@ -1,0 +1,41 @@
+[player]
+nickname=elads101
+password=ricky1
+email=elads101@aol.com
+signup_date=10/13/2005
+playerID=2822
+status=regular
+referal=sirconis
+Verify=1
+Last IP=172.141.121.210
+id=37
+IP=172.141.121.210
+adminstatus=off
+match=10-14-2005
+[Stats]
+Win=9
+Lost=18
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=573
+Next=836
+Streak=1
+[Newdecks]
+Last=10-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 128883
+Versus=Zeno
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=vall
+result=win
+score=13-7

@@ -1,0 +1,44 @@
+[player]
+nickname=Spitfire
+password=230696141
+email=golden_flashes86@hotmail.com
+signup_date=8/11/2005
+playerID=1804
+status=regular
+referal=
+Verify=1
+Last IP=70.105.85.81
+id=196
+IP=70.105.85.81
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=25
+Newdecks=1
+Level=1
+Exp=7
+Next=100
+AP=48
+Streak=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 85091
+Versus=vivimage666
+Iam=1
+[password]
+failed=9
+[Games]
+Playing=TT
+[game]
+opponent=vivimage666
+result=win
+score=6-4

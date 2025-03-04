@@ -1,0 +1,45 @@
+[player]
+nickname=DanyRoss
+password=188750028
+email=danyross@hotmail.fr
+signup_date=8/6/2005
+playerID=1709
+status=regular
+referal=
+Verify=1
+Last IP=83.203.133.203
+id=18
+IP=83.203.133.203
+adminstatus=off
+match=08-10-2005
+Last Played=08-10-2005
+[Stats]
+Win=8
+Lost=13
+Draw=2
+Lame quits=0
+GP=807
+Newdecks=1
+Level=4
+Exp=502
+Next=836
+AP=782
+Streak=-4
+Choices=1
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=83455
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Hawkeye00
+result=loss
+score=11-9

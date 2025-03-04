@@ -1,0 +1,48 @@
+[player]
+nickname=KIAxel
+password=mimichan
+email=KIAxel@hotmail.com
+signup_date=5/30/2005
+playerID=560
+status=regular
+referal=mimichan
+Verify=1
+Last IP=201.144.57.116
+id=31
+IP=201.144.57.116
+adminstatus=off
+match=06-07-2005
+Last Played=06-07-2005
+[Stats]
+Win=45
+Lost=62
+Draw=14
+Lame quits=0
+GP=846
+rank=1973
+Newdecks=1
+Level=9
+Exp=3125
+Next=3346
+AP=447
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=05-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 30015
+Versus=Velius
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=Velius
+result=loss
+score=15-9

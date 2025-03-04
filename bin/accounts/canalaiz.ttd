@@ -1,0 +1,30 @@
+[player]
+nickname=canalaiz
+password=xxxxxx
+email=canalaiz@lycos.it
+signup_date=11/6/2005
+playerID=3173
+status=regular
+referal=
+Verify=1
+Last IP=87.1.224.253
+id=28
+IP=87.1.224.253
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=11-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

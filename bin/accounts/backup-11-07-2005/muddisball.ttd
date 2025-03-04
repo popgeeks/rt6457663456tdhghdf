@@ -1,0 +1,30 @@
+[player]
+nickname=muddisball
+password=963293491
+email=muddisball@yahoo.de
+signup_date=10/29/2005
+playerID=3064
+status=regular
+referal=
+Verify=1
+Last IP=87.128.253.69
+id=90
+IP=87.128.253.69
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

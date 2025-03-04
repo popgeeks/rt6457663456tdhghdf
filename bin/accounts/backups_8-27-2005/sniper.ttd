@@ -1,0 +1,20 @@
+[player]
+nickname=sniper
+password=338841318
+email=shane@lambert009.freeserve.co.uk
+signup_date=7/16/2005
+playerID=1288
+status=regular
+referal=12345z
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-16-2005
+[password]
+failed=3

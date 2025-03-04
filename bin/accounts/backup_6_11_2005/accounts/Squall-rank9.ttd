@@ -1,0 +1,125 @@
+[player]
+nickname=Squall-rank9
+password=squall
+email=RICKmT3@yahoo.com
+signup_date=3/22/05
+playerID=36
+status=regular
+Verify=1
+Last IP=172.150.121.139
+id=15
+IP=172.150.121.139
+adminstatus=off
+Last Played=04-19-2005
+guildinvite=
+guildinvite_name=
+guild=True Players Guild
+guildmaster=2
+surname=greenday
+match=04-19-2005
+[Stats]
+Win=190
+Lost=217
+Draw=68
+Lame quits=6
+GP=520
+rank=1490
+Newdecks=1
+Level=14
+Exp=6578
+Next=7520
+Streak=4
+Choices=1
+SoldCards=23
+Wins=190
+[Newdecks]
+Last=03-22-2005
+[Totals]
+Level1=6
+Level2=4
+Level3=6
+Level4=6
+Level5=6
+Level6=9
+Level7=7
+Level8=0
+Level9=2
+Level10=3
+Total=0
+[cards]
+Abadon=1
+Blitz=1
+Fastitocalon=0
+BGH251F2=1
+Oilboyle=1
+Imp=1
+Gesper=0
+Death Claw=1
+Bite Bug=1
+Trauma=1
+Belhelmel=1
+Red Bat=0
+Gayla=1
+Bomb=1
+Gerogero=0
+Iron Giant=0
+Shumi Tribe=1
+Elvoret=1
+Fujin, Raijin=1
+Cactuar=1
+Granaldo=1
+PuPu=1
+Iguion=1
+Ruby Dragon=1
+GIM47N=1
+Blobra=1
+X-ATM092=1
+Jelleye=1
+Propagator=1
+Rinoa=1
+Laguna=1
+SAM08G=1
+Turtapod=1
+Catoblepas=1
+Fastitocalon-F=1
+Elnoyle=1
+Kiros=1
+Doom Train=1
+Funguar=1
+Grat=1
+Ochu=1
+Adamantoise=1
+T-Rexaur=1
+Sphinxara=1
+Tonberry=1
+Gargantua=1
+Tri-Face=1
+Thrustaevis=1
+Bahamut=1
+Mobile Type 8=1
+Tonberry King=1
+Jumbo Cactuar=1
+Cockatrice=1
+Wedge, Biggs=1
+[AP]
+AAEXP=516
+PCT=0
+AAPOINTS=1
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 6625
+Versus=hitman
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=hitman
+result=win
+score=13-7
+[Warnings]
+Kicks=1

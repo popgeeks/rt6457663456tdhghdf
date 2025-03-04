@@ -1,0 +1,20 @@
+[player]
+nickname=wleopard
+password=778510152
+email=leo_the_lion@hotmail.com
+signup_date=6/29/2005
+playerID=912
+status=regular
+referal=leo
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-29-2005
+[password]
+failed=2

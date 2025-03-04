@@ -1,0 +1,47 @@
+[player]
+nickname=HeatWave
+password=534417449
+email=kidd_0922@yahoo.com
+signup_date=10/11/2005
+playerID=2794
+status=regular
+referal=louis1026
+Verify=1
+Last IP=202.57.86.50
+id=55
+IP=202.57.86.50
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=23
+Lost=40
+Draw=15
+Lame quits=2
+Newdecks=21
+Level=6
+Exp=1502
+Next=1727
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=10-12-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146099
+Versus=J102Y
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=J102Y
+result=loss
+score=7-3
+[Warnings]
+Kicks=1

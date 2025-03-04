@@ -1,0 +1,41 @@
+[player]
+nickname=Tactix101
+password=669219075
+email=charle7777@hotmail.com
+signup_date=10/5/2005
+playerID=2656
+status=regular
+referal=
+Verify=1
+Last IP=24.200.19.66
+id=122
+IP=24.200.19.66
+adminstatus=off
+match=10-05-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=24
+Next=100
+Streak=-1
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 120967
+Versus=sismiss07
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=sismiss07
+result=loss
+score=7-3

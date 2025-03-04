@@ -1,0 +1,61 @@
+[player]
+nickname=Arlo
+password=211270
+email=vvyyttkkaa@yahoo.com
+signup_date=7/14/2005
+playerID=1245
+status=regular
+referal=211270
+Verify=1
+Last IP=213.226.169.213
+id=114
+IP=213.226.169.213
+adminstatus=off
+match=08-01-2006
+Last Played=08-25-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+surname=lifeless
+[Stats]
+Win=566
+Lost=483
+Draw=197
+Lame quits=10
+GP=425
+Newdecks=7
+Level=23
+Exp=19605
+Next=20718
+AP=7489
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=2
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=1495
+honor=2
+PCT=50
+AAPOINTS=0
+TRAINED=4
+true=2
+[Play]
+Playing=false
+GameID= 729267
+Versus=kronus93
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=flawsangel
+result=win
+score=11-9
+[Warnings]
+Kicks=3

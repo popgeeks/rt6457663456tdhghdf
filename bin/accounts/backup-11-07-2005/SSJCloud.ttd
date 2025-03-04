@@ -1,0 +1,20 @@
+[player]
+nickname=SSJCloud
+password=264029860
+email=elemental_dragon85@yahoo.com
+signup_date=7/11/2005
+playerID=1200
+status=regular
+referal=Ducky
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-11-2005
+[password]
+failed=1

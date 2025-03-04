@@ -1,0 +1,45 @@
+[player]
+nickname=tempest3991
+password=88158726
+email=tempest3991@yahoo.com
+signup_date=6/27/2005
+playerID=889
+status=regular
+referal=nothing
+Verify=1
+Last IP=65.29.147.154
+id=50
+IP=65.29.147.154
+adminstatus=off
+match=07-09-2005
+Last Played=07-09-2005
+[Stats]
+Win=2
+Lost=7
+Draw=2
+Lame quits=0
+GP=217
+Newdecks=1
+Level=2
+Exp=129
+Next=248
+AP=512
+Streak=-2
+Choices=1
+[Newdecks]
+Last=06-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 52102
+Versus=LeonSKennedy
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=LeonSKennedy
+result=loss
+score=14-6

@@ -1,0 +1,44 @@
+[player]
+nickname=cecil36
+password=493780791
+email=kgryczan@alltel.net
+signup_date=9/11/2005
+playerID=2231
+status=regular
+referal=
+Verify=1
+Last IP=71.29.17.5
+id=27
+IP=71.29.17.5
+adminstatus=off
+match=10-17-2005
+[Stats]
+Win=20
+Lost=34
+Draw=11
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=1019
+Next=1301
+Streak=-3
+SBWin=1
+SBLost=2
+[Newdecks]
+Last=09-11-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 131110
+Versus=Legendfox
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Legendfox
+result=loss
+score=6-4

@@ -1,0 +1,17 @@
+[player]
+nickname=aaa
+password=471851288
+email=tncd2004@yahoo.com
+signup_date=10/15/2005
+playerID=2867
+status=regular
+referal=123
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-15-2005

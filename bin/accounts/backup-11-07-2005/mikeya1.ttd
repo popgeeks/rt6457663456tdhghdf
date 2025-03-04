@@ -1,0 +1,18 @@
+[player]
+nickname=mikeya1
+password=278406679
+email=michael.parks@btconnect.co.uk
+signup_date=7/3/2005
+playerID=992
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-03-2005

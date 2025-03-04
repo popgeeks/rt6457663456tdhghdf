@@ -1,0 +1,41 @@
+[player]
+nickname=Yama
+password=246247768
+email=gm-san@o2.pl
+signup_date=9/22/2005
+playerID=2413
+status=regular
+referal=
+Verify=1
+Last IP=85.193.221.92
+id=21
+IP=85.193.221.92
+adminstatus=off
+match=09-22-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=61
+Next=100
+Streak=2
+[Newdecks]
+Last=09-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 110439
+Versus=rxbrady
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=rxbrady
+result=win
+score=13-7

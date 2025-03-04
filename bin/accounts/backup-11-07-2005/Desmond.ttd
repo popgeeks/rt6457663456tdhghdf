@@ -1,0 +1,41 @@
+[player]
+nickname=Desmond
+password=123456
+email=desmonddon@hotmail.com
+signup_date=9/8/2005
+playerID=2160
+status=regular
+referal=
+Verify=1
+Last IP=203.41.12.47
+id=16
+IP=203.41.12.47
+adminstatus=off
+match=09-12-2005
+[Stats]
+Win=4
+Lost=2
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=236
+Next=248
+Streak=1
+[Newdecks]
+Last=09-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104109
+Versus=blinker616
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=blinker616
+result=win
+score=16-4

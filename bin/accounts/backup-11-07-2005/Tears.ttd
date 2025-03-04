@@ -1,0 +1,47 @@
+[player]
+nickname=Tears
+password=091290
+email=tearsofzanorith@yahoo.com
+signup_date=10/1/2005
+playerID=2566
+status=regular
+referal=TheSpiral
+Verify=1
+Last IP=209.107.96.251
+id=161
+IP=209.107.96.251
+adminstatus=off
+match=10-09-2005
+[Stats]
+Win=14
+Lost=55
+Draw=16
+Lame quits=0
+Newdecks=13
+Level=5
+Exp=1015
+Next=1301
+Streak=-2
+SoldCards=0
+cardsgiven=0
+SBWin=5
+SBLost=5
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 124895
+Versus=J102Y
+Iam=2
+[password]
+failed=8
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=J102Y
+result=draw
+score=5-5

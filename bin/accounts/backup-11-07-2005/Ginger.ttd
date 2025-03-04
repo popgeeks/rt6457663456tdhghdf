@@ -1,0 +1,32 @@
+[player]
+nickname=Ginger
+password=626597463
+email=Ginger1991@web.de
+signup_date=8/12/2005
+playerID=1824
+status=regular
+referal=evan
+Verify=1
+Last IP=83.133.146.7
+id=7
+IP=83.133.146.7
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=08-12-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

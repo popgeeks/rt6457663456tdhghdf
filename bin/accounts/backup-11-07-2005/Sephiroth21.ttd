@@ -1,0 +1,33 @@
+[player]
+nickname=Sephiroth21
+password=425653457
+email=richard.haynes@netzero.com
+signup_date=4/21/05
+playerID=182
+status=regular
+referal=Kojiro777
+Verify=1
+Last IP=205.241.58.45
+id=13
+IP=205.241.58.45
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=04-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=2

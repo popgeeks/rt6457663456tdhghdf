@@ -1,0 +1,19 @@
+[player]
+nickname=newbetatest
+password=383644997
+email=hotmail@hotmail.com
+signup_date=4/17/05
+playerID=157
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=04-17-2005

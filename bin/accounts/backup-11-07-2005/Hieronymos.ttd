@@ -1,0 +1,53 @@
+[player]
+nickname=Hieronymos
+password=266488969
+email=ibrahim.taluk@gmx.at
+signup_date=10/7/2005
+playerID=2696
+status=regular
+referal=
+Verify=1
+Last IP=86.56.144.8
+id=17
+IP=86.56.144.8
+adminstatus=off
+match=10-19-2005
+guildinvite=
+guildinvite_name=
+guild=Monoxide Children
+guildmaster=3
+[Stats]
+Win=107
+Lost=124
+Draw=31
+Lame quits=1
+Newdecks=7
+Level=13
+Exp=5973
+Next=6316
+Streak=-2
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=2
+[Newdecks]
+Last=10-08-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 132405
+Versus=Zed
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Zed
+result=loss
+score=11-7
+[Warnings]
+Warns=1
+Kicks=1

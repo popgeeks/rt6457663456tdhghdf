@@ -1,0 +1,17 @@
+[player]
+nickname=Goins
+password=453086077
+email=goinsh@graphicpkg.com
+signup_date=10/1/2005
+playerID=2575
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-01-2005

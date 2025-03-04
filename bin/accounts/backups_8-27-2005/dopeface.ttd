@@ -1,0 +1,46 @@
+[player]
+nickname=dopeface
+password=trottel
+email=mcssk@web.de
+signup_date=8/23/2005
+playerID=1946
+status=regular
+referal=dopeface1
+Verify=1
+Last IP=84.177.89.102
+id=26
+IP=84.177.89.102
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=14
+Lost=25
+Draw=5
+Lame quits=1
+GP=1354
+Newdecks=1
+Level=5
+Exp=859
+Next=1301
+AP=717
+Streak=1
+Choices=1
+[Newdecks]
+Last=08-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 93420
+Versus=Psyco
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Psyco
+result=win
+score=13-7

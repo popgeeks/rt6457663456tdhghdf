@@ -1,0 +1,19 @@
+[player]
+nickname=coulpman
+password=713362514
+email=the_lame@hotmail.com
+signup_date=6/20/2005
+playerID=774
+status=regular
+referal=argentino
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-20-2005

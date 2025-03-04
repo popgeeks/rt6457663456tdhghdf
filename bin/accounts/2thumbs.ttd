@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=133
+match=01-09-2006
+[Play]
+Playing=false
+GameID= 195503
+Versus=DarkKitten
+Iam=2
+[Stats]
+Level=2
+Exp=148
+Next=248
+Streak=-1
+[Games]
+Playing=OTT
+[game]
+opponent=DarkKitten
+result=loss
+score=13-5

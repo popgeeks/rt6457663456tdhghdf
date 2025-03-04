@@ -1,0 +1,138 @@
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+darklumina>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> CHAT :O
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+darklumina>> PING
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> PING
+darklumina>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> PING
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina>> PING
+darklumina2>> PING
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> QUIT 0 1
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+darklumina>> QUIT 0 1
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> QUIT 0 1
+darklumina>> CHAT :o
+darklumina>> PSTATS darklumina
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> PSTATS darklumina
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina2>> JOINTABLE 1
+darklumina>> TRADESEND 2%20Faced
+darklumina>> PING
+darklumina2>> PING
+darklumina>> TRADEFINISHED 1
+darklumina2>> TRADEFINISHED 1
+darklumina>> TRADEFINISHED 0
+darklumina>> TRADEFINISHED 1
+darklumina2>> TRADEFINISHED 0
+darklumina2>> TRADEFINISHED 1
+darklumina>> CHAT :o
+darklumina>> CHAT arf
+darklumina>> TRADEFINISHED 0
+darklumina>> TRADEFINISHED 1
+darklumina>> TRADEFINISHED 0
+darklumina>> TRADEFINISHED 1
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina2>> JOINTABLE 1
+darklumina>> TRADESEND 2%20Faced
+darklumina>> ADMINLOGIN 41257448
+darklumina>> TRADEFINISHED 1
+darklumina2>> TRADEFINISHED 1
+darklumina>> TRADEFINISHED 0
+darklumina>> TRADEFINISHED 1
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina>> CLOSETABLE
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina2>> JOINTABLE 1
+darklumina>> TRADESEND 2%20Faced
+darklumina>> TRADEFINISHED 1
+darklumina2>> TRADEFINISHED 1
+darklumina>> PING
+darklumina2>> PING
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE  TRADE@@Trade
+darklumina2>> JOINTABLE 1
+darklumina>> TRADESEND 2%20Faced
+darklumina>> TRADEFINISHED 1
+darklumina2>> TRADEFINISHED 1
+darklumina>> PSTATS darklumina
+darklumina>> PING
+darklumina2>> PING
+darklumina>> PING
+darklumina2>> PING
+darklumina>> CHAT /me is away.  Reason: Idle
+darklumina>> AWAY 1
+darklumina>> PING
+darklumina2>> PING
+darklumina2>> CHAT /me is away.  Reason: Idle
+darklumina2>> AWAY 1
+darklumina2>> PING
+darklumina>> PING
+darklumina>> CHAT o
+darklumina>> CHAT /me is back.
+darklumina>> AWAY 0
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.7
+>> LOADGAME darklumina2 sexynickel101
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> CHAT /me is back.
+darklumina2>> AWAY 0
+darklumina2>> QUIT 0 1

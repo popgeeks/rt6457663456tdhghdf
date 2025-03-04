@@ -1,0 +1,45 @@
+[player]
+nickname=urza121
+password=684236168
+email=gbac3@hotmail.com
+signup_date=7/27/2005
+playerID=1527
+status=regular
+referal=
+Verify=1
+Last IP=65.93.40.237
+id=39
+IP=65.93.40.237
+adminstatus=off
+match=07-27-2005
+Last Played=07-27-2005
+[Stats]
+Win=18
+Lost=22
+Draw=15
+Lame quits=0
+GP=201
+Newdecks=1
+Level=4
+Exp=772
+Next=836
+AP=1637
+Streak=2
+Choices=1
+[Newdecks]
+Last=07-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 70146
+Versus=mrgako
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=mrgako
+result=win
+score=11-9

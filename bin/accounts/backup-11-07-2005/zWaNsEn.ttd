@@ -1,0 +1,32 @@
+[player]
+nickname=zWaNsEn
+password=84131181
+email=smooth_und_lecker@web.de
+signup_date=7/21/2005
+playerID=1411
+status=regular
+referal=zWaNsEn
+Verify=1
+Last IP=212.204.53.60
+id=15
+IP=212.204.53.60
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=07-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

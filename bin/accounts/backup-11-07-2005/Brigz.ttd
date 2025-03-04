@@ -1,0 +1,30 @@
+[player]
+nickname=Brigz
+password=583874344
+email=brigz_@hotmail.com
+signup_date=9/17/2005
+playerID=2312
+status=regular
+referal=Friend
+Verify=1
+Last IP=60.226.229.63
+id=10
+IP=60.226.229.63
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

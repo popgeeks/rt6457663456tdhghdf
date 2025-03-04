@@ -1,0 +1,44 @@
+[player]
+nickname=gunknight
+password=miguel
+email=dash_knight23@yahoo.com
+signup_date=10/10/2005
+playerID=2751
+status=regular
+referal=
+Verify=1
+Last IP=219.90.92.171
+id=51
+IP=219.90.92.171
+adminstatus=off
+match=10-26-2005
+[Stats]
+Win=32
+Lost=38
+Draw=19
+Lame quits=1
+Newdecks=1
+Level=7
+Exp=1973
+Next=2154
+Streak=1
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 136986
+Versus=myrben
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=myrben
+result=win
+score=13-7
+[Warnings]
+Warns=1

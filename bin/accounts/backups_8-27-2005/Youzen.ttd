@@ -1,0 +1,46 @@
+[player]
+nickname=Youzen
+password=21196007
+email=sword03@voila.fr
+signup_date=7/30/2005
+playerID=1587
+status=regular
+referal=
+Verify=1
+Last IP=82.243.196.2
+id=36
+IP=82.243.196.2
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=139
+Lost=182
+Draw=38
+Lame quits=2
+GP=3393
+Newdecks=1
+Level=16
+Exp=8930
+Next=9651
+AP=10889
+Streak=2
+Choices=1
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID=93308
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=charmed
+result=win
+score=11-9

@@ -1,0 +1,41 @@
+[player]
+nickname=R2121
+password=390788197
+email=ryan.upshaw@earthlink.net
+signup_date=8/31/2005
+playerID=2045
+status=regular
+referal=
+Verify=1
+Last IP=69.91.108.221
+id=22
+IP=69.91.108.221
+adminstatus=off
+match=08-31-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=1
+[Newdecks]
+Last=08-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95981
+Versus=lionheart08
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=lionheart08
+result=loss
+score=9-1

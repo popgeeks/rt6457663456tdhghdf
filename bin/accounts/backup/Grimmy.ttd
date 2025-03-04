@@ -1,0 +1,131 @@
+[player]
+nickname=Grimmy
+password=masamune
+email=jamesghbray@hotmail.com
+signup_date=3/15/05
+playerID=13
+status=subadmin
+Verify=1
+Last IP=81.153.239.198
+id=12
+IP=81.153.239.198
+adminstatus=off
+Last Played=04-17-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+membership=diamond
+match=04-17-2005
+
+[Admin]
+Passkey=98234719
+
+[Stats]
+Win=91
+Lost=109
+Draw=27
+Lame quits=2
+GP=665
+rank=1774
+Newdecks=5
+Level=10
+Exp=3363
+Next=3936
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=03-20-2005
+[Totals]
+Level1=11
+Level2=5
+Level3=2
+Level4=12
+Level5=9
+Level6=5
+Level7=4
+Level8=0
+Level9=0
+Level10=2
+Total=0
+[cards]
+Fastitocalon-F=1
+Trauma=0
+Seifer=1
+GIM47N=0
+Gerogero=0
+X-ATM092=0
+Thrustaevis=1
+Elvoret=0
+Grat=1
+SAM08G=1
+Anacondaur=0
+Shumi Tribe=2
+Geezard=2
+Wendigo=3
+Elnoyle=3
+Red Giant=1
+Blitz=2
+Sphinxara=0
+Armadodo=0
+Gesper=0
+Blood Soul=0
+Wedge, Biggs=0
+T-Rexaur=1
+Catoblepas=1
+Vysage=0
+Creeps=1
+Abadon=0
+Blue Dragon=0
+Adamantoise=0
+Blobra=2
+Cactuar=0
+Torama=1
+Fastitocalon=1
+Tonberry=0
+Mesmerize=1
+Snow Lion=0
+Red Bat=1
+Hexadragon=4
+Caterchipillar=1
+Fujin, Raijin=1
+Malboro=0
+Granaldo=1
+BGH251F2=0
+Minotaur=0
+Chimera=1
+Propagator=0
+Behemoth=2
+Funguar=2
+Imp=1
+Shiva=0
+Forbidden=0
+Turtapod=0
+Gayla=2
+Iron Giant=3
+Jumbo Cactuar=0
+Kiros=1
+Grendel=1
+Oilboyle=1
+Gargantua=0
+Tiamat=1
+Mobile Type 8=1
+[AP]
+AAEXP=419
+PCT=100
+[Play]
+Playing=false
+GameID= 6222
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Jimmy3000
+result=win
+score=15-5

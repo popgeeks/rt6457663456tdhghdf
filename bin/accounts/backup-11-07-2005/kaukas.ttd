@@ -1,0 +1,30 @@
+[player]
+nickname=kaukas
+password=591486393
+email=kaukas65@mail.ru
+signup_date=9/23/2005
+playerID=2441
+status=regular
+referal=lietus
+Verify=1
+Last IP=85.206.118.86
+id=52
+IP=85.206.118.86
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-23-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

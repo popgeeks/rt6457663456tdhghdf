@@ -1,0 +1,21 @@
+[player]
+nickname=zobair211
+password=974918364
+email=freshideshi@yahoo.co.uk
+signup_date=5/5/2005
+playerID=295
+status=regular
+referal=zobz
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-05-2005
+[password]
+failed=1

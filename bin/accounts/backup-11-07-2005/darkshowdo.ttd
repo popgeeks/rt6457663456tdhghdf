@@ -1,0 +1,43 @@
+[player]
+nickname=darkshowdo
+password=3631551
+email=darkshowdo@yahoo.com
+signup_date=10/6/2005
+playerID=2673
+status=regular
+referal=3631551
+Verify=1
+Last IP=12.211.95.104
+id=131
+IP=12.211.95.104
+adminstatus=off
+match=10-06-2005
+[Stats]
+Win=4
+Lost=7
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=201
+Next=248
+Streak=-5
+SBLost=1
+[Newdecks]
+Last=10-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 121962
+Versus=likeUcare
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=likeUcare
+result=loss
+score=9-1

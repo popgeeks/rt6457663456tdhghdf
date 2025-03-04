@@ -1,0 +1,53 @@
+[player]
+nickname=Alucard
+password=258522152
+email=Bravo-Team@gmx.net
+signup_date=6/27/2005
+playerID=888
+status=regular
+referal=
+Verify=1
+Last IP=80.228.88.37
+id=11
+IP=80.228.88.37
+adminstatus=off
+match=12-19-2005
+Last Played=08-27-2005
+[Stats]
+Win=169
+Lost=210
+Draw=98
+Lame quits=1
+GP=2831
+Newdecks=5
+Level=12
+Exp=5406
+Next=5510
+AP=7982
+SoldCards=20
+cardsgiven=0
+Streak=2
+Choices=1
+SBDraw=2
+SBLost=3
+SBWin=2
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=750
+honor=1
+PCT=50
+[Play]
+Playing=false
+GameID= 175178
+Versus=JamesFate
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=JamesFate
+result=win
+score=14-6

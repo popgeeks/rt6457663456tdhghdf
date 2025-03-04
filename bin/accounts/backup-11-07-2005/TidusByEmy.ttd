@@ -1,0 +1,20 @@
+[player]
+nickname=TidusByEmy
+password=39324164
+email=emiliano.net@libero.it
+signup_date=6/27/2005
+playerID=878
+status=regular
+referal=emiliano
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-27-2005
+[password]
+failed=1

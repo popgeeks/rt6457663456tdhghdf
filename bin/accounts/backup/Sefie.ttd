@@ -1,0 +1,70 @@
+[player]
+nickname=Sefie
+password=2dalamar
+email=miriamtorason@gmail.com
+signup_date=4/11/05
+playerID=126
+status=regular
+referal=darklumina
+Verify=1
+Last IP=24.36.47.30
+id=4
+IP=24.36.47.30
+adminstatus=off
+match=04-12-2005
+Last Played=04-12-2005
+[Stats]
+Win=1
+Lost=1
+Draw=1
+Lame quits=0
+GP=120
+rank=1650
+Newdecks=1
+Level=1
+Exp=47
+Next=100
+Streak=2
+[Newdecks]
+Last=04-11-2005
+[Totals]
+Level1=4
+Level2=2
+Level3=1
+Level4=5
+Level5=1
+Level6=0
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Forbidden=1
+Gesper=1
+Jumbo Cactuar=1
+Caterchipillar=1
+Belhelmel=1
+Fastitocalon-F=1
+Blitz=1
+Malboro=1
+Bite Bug=1
+Adamantoise=2
+Grat=1
+Turtapod=2
+Catoblepas=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5236
+Versus=Skeeve
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Skeeve
+result=win
+score=6-4

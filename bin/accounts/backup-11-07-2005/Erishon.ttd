@@ -1,0 +1,30 @@
+[player]
+nickname=Erishon
+password=698907851
+email=Erishon@Gmail.com
+signup_date=10/10/2005
+playerID=2756
+status=regular
+referal=
+Verify=1
+Last IP=86.132.175.61
+id=76
+IP=86.132.175.61
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

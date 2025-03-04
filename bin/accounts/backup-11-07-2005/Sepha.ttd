@@ -1,0 +1,43 @@
+[player]
+nickname=Sepha
+password=55370807
+email=deargod@web.de
+signup_date=9/14/2005
+playerID=2287
+status=regular
+referal=213622
+Verify=1
+Last IP=87.122.35.240
+id=24
+IP=87.122.35.240
+adminstatus=off
+match=09-15-2005
+[Stats]
+Win=4
+Lost=11
+Draw=3
+Lame quits=0
+Newdecks=11
+Level=3
+Exp=339
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=-5
+[Newdecks]
+Last=09-14-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 106098
+Versus=Noekeon
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=Noekeon
+result=loss
+score=16-6

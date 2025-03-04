@@ -1,0 +1,55 @@
+[player]
+nickname=Blaize
+password=mattsmat
+email=fatcatsyndrome@hotmail.com
+signup_date=6/27/2005
+playerID=885
+status=regular
+referal=James
+Verify=1
+Last IP=81.108.27.183
+id=26
+IP=81.108.27.183
+adminstatus=off
+match=09-08-2005
+Last Played=08-22-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+[Stats]
+Win=79
+Lost=47
+Draw=45
+Lame quits=3
+GP=4817
+Newdecks=11
+Level=9
+Exp=3034
+Next=3346
+AP=5709
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 101184
+Versus=BorneSupreme
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=BorneSupreme
+result=loss
+score=7-3
+[Warnings]
+Kicks=1

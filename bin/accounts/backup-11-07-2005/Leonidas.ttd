@@ -1,0 +1,19 @@
+[player]
+nickname=Leonidas
+password=12793123
+email=seedgroup@interia.pl
+signup_date=10/27/2005
+playerID=3041
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-27-2005
+[password]
+failed=1

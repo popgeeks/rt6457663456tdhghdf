@@ -1,0 +1,36 @@
+
+>> VERSION 2.11.0>> 0.045s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.344s
+darklumina>> TABLEQUERY 1>> 0.031s
+darklumina>> EXTRACHECK>> 0.027s
+darklumina>> PING>> 0.026s
+>> VERSION 2.11.0>> 0.041s
+>> LOADGAME darklumina2 pantyraid13>> 0.272s
+>> VERSION 2.11.0>> 0.045s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.518s
+darklumina2>> TABLEQUERY 1>> 0.038s
+darklumina2>> EXTRACHECK>> 0.028s
+darklumina2>> PING>> 0.027s
+>> VERSION 2.11.0>> 0.03s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.254s
+darklumina>> TABLEQUERY 1>> 0.027s
+darklumina>> EXTRACHECK>> 0.026s
+darklumina2>> PING>> 0.029s
+darklumina>> PING>> 0.027s
+darklumina2>> PING>> 0.027s
+darklumina>> PING>> 0.026s
+>> VERSION 2.11.0>> 0.039s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.31s
+darklumina2>> TABLEQUERY 1>> 0.031s
+darklumina2>> EXTRACHECK>> 0.026s
+>> VERSION 2.11.0>> 0.03s
+darklumina>> LOADGAME darklumina pantyraid13>> 0.618s
+darklumina>> EXTRACHECK>> 0.061s
+darklumina2>> PING>> 0.026s
+darklumina>> PING>> 0.026s
+darklumina2>> WEBSERVICE>> 0.036s
+>> QUIT 0 1>> 0.475s
+darklumina>> WEBSERVICE>> 0.027s
+darklumina>> PING>> 0.026s
+darklumina>> PING>> 0.027s
+>> QUIT 0 1>> 0.335s

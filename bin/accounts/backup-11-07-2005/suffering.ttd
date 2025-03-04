@@ -1,0 +1,19 @@
+[player]
+nickname=suffering
+password=598041831
+email=ariano_n1_pancho@hotmail.com
+signup_date=10/6/2005
+playerID=2664
+status=regular
+referal=pancho
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-06-2005
+[password]
+failed=4

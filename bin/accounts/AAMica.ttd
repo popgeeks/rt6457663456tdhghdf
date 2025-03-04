@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=3
+match=11-27-2005
+[Play]
+Playing=false
+GameID= 158757
+Versus=LagunaD
+Iam=1
+[Stats]
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=LagunaD
+result=loss
+score=6-4

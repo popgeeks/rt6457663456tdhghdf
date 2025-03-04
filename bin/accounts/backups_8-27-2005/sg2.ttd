@@ -1,0 +1,18 @@
+[player]
+nickname=sg2
+password=821610747
+email=guerra002@terra.com.br
+signup_date=8/1/2005
+playerID=1641
+status=regular
+referal=rafael
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-01-2005

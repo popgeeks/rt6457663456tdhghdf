@@ -1,0 +1,32 @@
+[player]
+nickname=Somtaaw
+password=76125323
+email=Reaper372@aol.com
+signup_date=6/27/2005
+playerID=894
+status=regular
+referal=Somtaaw
+Verify=1
+Last IP=69.119.237.144
+id=23
+IP=69.119.237.144
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=15
+[Newdecks]
+Last=06-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

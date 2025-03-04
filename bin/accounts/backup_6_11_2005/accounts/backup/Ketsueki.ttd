@@ -1,0 +1,69 @@
+[player]
+nickname=Ketsueki
+password=432025074
+email=ivory_raven666@yahoo.com
+signup_date=4/1/05
+playerID=77
+status=regular
+Verify=1
+Last IP=69.153.13.28
+id=13
+IP=69.153.13.28
+adminstatus=off
+Last Played=04-02-2005
+[Stats]
+Win=1
+Lost=5
+Draw=1
+Lame quits=0
+GP=120
+rank=979
+Newdecks=1
+Level=2
+Exp=142
+Next=248
+Streak=-5
+Choices=1
+[Newdecks]
+Last=04-01-2005
+[Totals]
+Level1=3
+Level2=3
+Level3=2
+Level4=4
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Elastoid=1
+Tonberry=1
+Fujin, Raijin=1
+Snow Lion=1
+Trauma=1
+Torama=1
+T-Rexaur=3
+Mesmerize=1
+Grat=1
+Blobra=1
+Gesper=1
+Grendel=1
+Blood Soul=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 2664
+Versus=AJ666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=AJ666
+result=loss
+score=6-4

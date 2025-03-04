@@ -1,0 +1,22 @@
+[player]
+nickname=master1
+password=784519969
+email=tinye722@verizon.net
+signup_date=5/2/2005
+playerID=265
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=05-02-2005
+[password]
+failed=6

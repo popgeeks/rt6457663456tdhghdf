@@ -1,0 +1,46 @@
+[player]
+nickname=leodv
+password=drowssapbd
+email=jeff_730336@yahoo.com
+signup_date=9/23/2005
+playerID=2433
+status=regular
+referal=
+Verify=1
+Last IP=202.156.114.41
+id=76
+IP=202.156.114.41
+adminstatus=off
+match=09-29-2005
+[Stats]
+Win=33
+Lost=43
+Draw=11
+Lame quits=1
+Newdecks=3
+Level=6
+Exp=1536
+Next=1727
+Streak=1
+SoldCards=0
+cardsgiven=0
+SBLost=2
+Choices=1
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 116333
+Versus=MasterD
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MasterD
+result=win
+score=11-7

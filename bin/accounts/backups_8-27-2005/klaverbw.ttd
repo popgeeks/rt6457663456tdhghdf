@@ -1,0 +1,32 @@
+[player]
+nickname=klaverbw
+password=382421016
+email=b.w.klaver@wxs.nl
+signup_date=7/3/2005
+playerID=1006
+status=regular
+referal=
+Verify=1
+Last IP=84.85.87.138
+id=1
+IP=84.85.87.138
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=4
+[Newdecks]
+Last=07-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,33 @@
+[player]
+nickname=hijacka22
+password=526389121
+email=hijacka22@hotmail.com
+signup_date=5/17/2005
+playerID=406
+status=regular
+referal=
+Verify=1
+Last IP=64.202.106.10
+id=19
+IP=64.202.106.10
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=34
+[Newdecks]
+Last=05-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

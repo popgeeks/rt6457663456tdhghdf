@@ -1,0 +1,52 @@
+[player]
+nickname=TheSpiral
+password=ph1ll1e5
+email=m0gman@yahoo.com
+signup_date=5/2/2005
+playerID=256
+status=regular
+referal=Legacy
+Verify=1
+Last IP=4.249.159.216
+id=22
+IP=4.249.159.216
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=89
+Lost=74
+Draw=23
+Lame quits=2
+GP=910
+rank=2733
+Newdecks=3
+Level=10
+Exp=3704
+Next=3936
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-07-2005
+[AP]
+AAEXP=384
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 14328
+Versus=hitman
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=hitman
+result=win
+score=8-2
+[Warnings]
+Warns=1
+Kicks=1

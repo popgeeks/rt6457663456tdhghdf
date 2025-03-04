@@ -1,0 +1,56 @@
+[player]
+nickname=KH-Ziddy
+password=548548042
+email=darkgremlinnick@hotmail.com
+signup_date=4/4/05
+playerID=88
+status=regular
+Verify=1
+Last IP=68.78.45.233
+id=3
+IP=68.78.45.233
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=10
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-04-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=0
+Level4=1
+Level5=2
+Level6=6
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+X-ATM092=1
+Glacial Eye=1
+Thrustaevis=1
+PuPu=1
+Shumi Tribe=2
+Caterchipillar=2
+Tri-Point=1
+Abadon=1
+Oilboyle=2
+Ruby Dragon=1
+Geezard=1
+Wendigo=1
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

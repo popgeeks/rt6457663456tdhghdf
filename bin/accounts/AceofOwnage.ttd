@@ -1,0 +1,23 @@
+[AP]
+AAEXP=0
+[player]
+id=3
+match=12-16-2005
+[Play]
+Playing=false
+GameID= 172672
+Versus=AcidRayne
+Iam=2
+[Stats]
+Level=2
+Exp=146
+Next=248
+Streak=-2
+[Warnings]
+Kicks=1
+[Games]
+Playing=OTT
+[game]
+opponent=AcidRayne
+result=loss
+score=10-8

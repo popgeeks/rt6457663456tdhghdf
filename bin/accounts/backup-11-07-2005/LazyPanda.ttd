@@ -1,0 +1,47 @@
+[player]
+nickname=LazyPanda
+password=ou8167
+email=corymrey@gmail.com
+signup_date=10/6/2005
+playerID=2662
+status=regular
+referal=
+Verify=1
+Last IP=66.215.154.222
+id=65
+IP=66.215.154.222
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=156
+Lost=124
+Draw=61
+Lame quits=2
+Newdecks=3
+Level=12
+Exp=5040
+Next=5510
+SoldCards=0
+cardsgiven=0
+Streak=6
+[Newdecks]
+Last=10-06-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 146716
+Versus=darkcloud
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=darkcloud
+result=win
+score=6-4
+[Warnings]
+Kicks=1

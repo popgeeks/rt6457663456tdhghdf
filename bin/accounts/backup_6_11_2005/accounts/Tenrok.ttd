@@ -1,0 +1,48 @@
+[player]
+nickname=Tenrok
+password=omegaultimis
+email=omegaultimis@hotmail.com
+signup_date=5/20/2005
+playerID=438
+status=regular
+referal=Tenrok
+Verify=1
+Last IP=67.176.109.196
+id=13
+IP=67.176.109.196
+adminstatus=off
+match=06-05-2005
+Last Played=06-05-2005
+[Stats]
+Win=10
+Lost=45
+Draw=15
+Lame quits=0
+GP=405
+rank=1652
+Newdecks=1
+Level=5
+Exp=1293
+Next=1301
+AP=166
+SBLost=3
+Streak=-3
+Choices=1
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 28921
+Versus=amy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=chocobo
+result=loss
+score=11-9

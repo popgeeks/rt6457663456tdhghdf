@@ -1,0 +1,46 @@
+[player]
+nickname=Alcest
+password=666069
+email=kinnison240@hotmail.com
+signup_date=6/20/2005
+playerID=772
+status=regular
+referal=
+Verify=1
+Last IP=24.117.229.245
+id=34
+IP=24.117.229.245
+adminstatus=off
+Last Played=06-20-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+GP=0
+rank=1169
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+AP=25
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 37962
+Versus=crab-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=crab-bot
+result=loss
+score=7-3

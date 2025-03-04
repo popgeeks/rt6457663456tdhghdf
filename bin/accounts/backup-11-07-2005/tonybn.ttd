@@ -1,0 +1,47 @@
+[player]
+nickname=tonybn
+password=747789799
+email=bowntony@yahoo.co.uk
+signup_date=10/4/2005
+playerID=2639
+status=regular
+referal=
+Verify=1
+Last IP=86.135.160.207
+id=3
+IP=86.135.160.207
+adminstatus=off
+match=10-12-2005
+[Stats]
+Win=12
+Lost=37
+Draw=10
+Lame quits=0
+Newdecks=23
+Level=5
+Exp=843
+Next=1301
+SoldCards=0
+cardsgiven=0
+Streak=1
+SBLost=1
+SBWin=1
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 126835
+Versus=kasumi
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=kasumi
+result=win
+score=11-9

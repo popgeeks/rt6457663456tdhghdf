@@ -1,0 +1,72 @@
+[player]
+nickname=Taylin
+password=spawn
+email=taylin@cyclologic.com
+signup_date=4/14/05
+playerID=136
+status=regular
+referal=Atomsplit
+Verify=1
+Last IP=66.112.81.184
+id=9
+IP=66.112.81.184
+adminstatus=off
+match=04-17-2005
+Last Played=04-17-2005
+[Stats]
+Win=5
+Lost=8
+Draw=2
+Lame quits=0
+GP=510
+rank=1148
+Newdecks=1
+Level=3
+Exp=407
+Next=476
+Streak=-3
+Choices=1
+[Newdecks]
+Last=04-14-2005
+[Totals]
+Level1=4
+Level2=4
+Level3=1
+Level4=2
+Level5=0
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Trauma=0
+Glacial Eye=2
+Granaldo=1
+Gerogero=1
+T-Rexaur=1
+Fastitocalon-F=1
+Imp=1
+Geezard=1
+Oilboyle=1
+Blobra=1
+Tonberry=1
+Grendel=1
+Thrustaevis=1
+Blood Soul=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 6329
+Versus=Kojiro777
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Kojiro777
+result=loss
+score=8-2

@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=52
+match=12-18-2005
+[Play]
+Playing=false
+GameID= 174583
+Versus=mrphoton5
+Iam=1
+[Stats]
+Level=2
+Exp=102
+Next=248
+Streak=1
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=3md
+result=win
+score=13-7

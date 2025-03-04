@@ -1,0 +1,49 @@
+[player]
+nickname=link1025
+password=593159019
+email=daman81585@yahoo.com
+signup_date=5/11/2005
+playerID=356
+status=regular
+referal=
+Verify=1
+Last IP=172.171.46.187
+id=4
+IP=172.171.46.187
+adminstatus=off
+match=05-12-2005
+Last Played=05-12-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+GP=20
+rank=1169
+Newdecks=15
+Level=1
+Exp=74
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-3
+Wins=0
+AP=184
+SBLost=1
+[Newdecks]
+Last=05-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 15092
+Versus=PlayForKeeps
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=PlayForKeeps
+result=loss
+score=6-4

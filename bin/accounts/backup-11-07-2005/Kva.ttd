@@ -1,0 +1,18 @@
+[player]
+nickname=Kva
+password=708566903
+email=mandrake.kva@gmail.com
+signup_date=8/23/2005
+playerID=1947
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-23-2005

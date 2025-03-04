@@ -1,0 +1,49 @@
+[player]
+nickname=Sephiroth86
+password=onboard
+email=aiden_g03@hotmail.com
+signup_date=8/20/2005
+playerID=1898
+status=regular
+referal=
+Verify=1
+Last IP=84.43.95.254
+id=14
+IP=84.43.95.254
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=37
+Lost=43
+Draw=16
+Lame quits=1
+GP=16
+Newdecks=15
+Level=7
+Exp=1758
+Next=2154
+AP=2884
+Streak=-1
+SBWin=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 92720
+Versus=xion106
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MasterD
+result=draw
+score=10-10

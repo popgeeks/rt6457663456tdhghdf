@@ -1,0 +1,43 @@
+[player]
+nickname=sismiss07
+password=jarule07
+email=sismiss07@hotmail.com
+signup_date=10/3/2005
+playerID=2612
+status=regular
+referal=sismiss07
+Verify=1
+Last IP=68.116.151.47
+id=140
+IP=68.116.151.47
+adminstatus=off
+match=10-06-2005
+[Stats]
+Win=73
+Lost=64
+Draw=36
+Lame quits=0
+Newdecks=1
+Level=10
+Exp=3516
+Next=3936
+Streak=1
+SBLost=1
+[Newdecks]
+Last=10-03-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 121882
+Versus=Alvaro
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=Alvaro
+result=win
+score=6-4

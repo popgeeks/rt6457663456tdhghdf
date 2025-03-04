@@ -1,0 +1,46 @@
+[player]
+nickname=konnokyo
+password=944041549
+email=tazumi2003@hotmail.com
+signup_date=5/28/2005
+playerID=530
+status=regular
+referal=
+Verify=1
+Last IP=85.176.79.188
+id=44
+IP=85.176.79.188
+adminstatus=off
+Last Played=06-01-2005
+match=06-01-2005
+[Stats]
+Win=11
+Lost=3
+Draw=6
+Lame quits=0
+GP=307
+rank=1684
+Newdecks=1
+Level=2
+Exp=104
+Next=248
+AP=414
+Streak=-1
+Choices=1
+[Newdecks]
+Last=05-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 26170
+Versus=caponit
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=caponit
+result=draw
+score=5-5

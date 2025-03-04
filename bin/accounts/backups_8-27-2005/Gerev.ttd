@@ -1,0 +1,46 @@
+[player]
+nickname=Gerev
+password=3387
+email=harnikron@mail.com
+signup_date=6/17/2005
+playerID=730
+status=regular
+referal=
+Verify=1
+Last IP=217.132.83.94
+id=58
+IP=217.132.83.94
+adminstatus=off
+match=07-31-2005
+Last Played=07-31-2005
+[Stats]
+Win=16
+Lost=14
+Draw=6
+Lame quits=1
+GP=104
+rank=1486
+Newdecks=1
+Level=4
+Exp=738
+Next=836
+AP=1177
+Streak=2
+Choices=1
+[Newdecks]
+Last=06-17-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Shannon
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=Shannon
+result=win
+score=6-4

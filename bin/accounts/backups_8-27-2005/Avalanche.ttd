@@ -1,0 +1,48 @@
+[player]
+nickname=Avalanche
+password=229449152
+email=walpole116@aol.com
+signup_date=5/20/2005
+playerID=432
+status=regular
+referal=Sephiroth
+Verify=1
+Last IP=172.212.228.36
+id=31
+IP=172.212.228.36
+adminstatus=off
+match=06-16-2005
+Last Played=06-16-2005
+[Stats]
+Win=5
+Lost=10
+Draw=5
+Lame quits=0
+GP=321
+rank=1104
+Newdecks=5
+Level=3
+Exp=443
+Next=476
+AP=129
+Streak=-4
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 34213
+Versus=Eidolon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Eidolon
+result=loss
+score=8-2

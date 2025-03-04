@@ -1,0 +1,43 @@
+[player]
+nickname=phaedrus42
+password=phoenix
+email=intp42@yahoo.com
+signup_date=9/13/2005
+playerID=2271
+status=regular
+referal=
+Verify=1
+Last IP=64.223.239.107
+id=31
+IP=64.223.239.107
+adminstatus=off
+match=09-13-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=13
+Next=100
+Streak=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 105121
+Versus=meh2
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=meh2
+result=loss
+score=14-6

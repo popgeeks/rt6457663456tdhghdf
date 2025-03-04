@@ -1,0 +1,82 @@
+[player]
+nickname=Azrael
+password=743139921
+email=Manuel1405@web.de
+signup_date=3/17/05
+playerID=27
+status=regular
+Verify=1
+Last IP=80.132.238.32
+id=10
+IP=80.132.238.32
+adminstatus=off
+Last Played=07-17-2005
+match=07-17-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=9
+Lost=7
+Draw=2
+Lame quits=1
+GP=199
+rank=1471
+Newdecks=1
+Level=2
+Exp=188
+Next=248
+Streak=-3
+Choices=1
+Wins=8
+AP=125
+SBLost=1
+SBDraw=1
+[Newdecks]
+Last=03-17-2005
+[Totals]
+Level1=2
+Level2=2
+Level3=3
+Level4=1
+Level5=0
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blue Dragon=1
+Fujin, Raijin=1
+Trauma=1
+Thrustaevis=1
+Red Bat=1
+Behemoth=0
+Ochu=0
+Grendel=1
+Propagator=1
+Malboro=0
+Fastitocalon=2
+T-Rexaur=0
+X-ATM092=0
+Fastitocalon-F=1
+Death Claw=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 58485
+Versus=Abraxas
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Abraxas
+result=draw
+score=6-6
+[Warnings]
+Kicks=1

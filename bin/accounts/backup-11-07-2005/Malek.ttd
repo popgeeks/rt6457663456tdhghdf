@@ -1,0 +1,43 @@
+[player]
+nickname=Malek
+password=urza
+email=urza@op.pl
+signup_date=9/22/2005
+playerID=2423
+status=regular
+referal=
+Verify=1
+Last IP=83.26.85.163
+id=130
+IP=83.26.85.163
+adminstatus=off
+match=10-06-2005
+[Stats]
+Win=2
+Lost=5
+Draw=1
+Lame quits=0
+Newdecks=9
+Level=2
+Exp=111
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=-2
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 121368
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=squll-typo
+result=loss
+score=9-1

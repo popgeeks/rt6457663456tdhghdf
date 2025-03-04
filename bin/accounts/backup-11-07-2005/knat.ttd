@@ -1,0 +1,46 @@
+[player]
+nickname=knat
+password=51157534
+email=theadamspt@sapo.pt
+signup_date=10/4/2005
+playerID=2623
+status=regular
+referal=
+Verify=1
+Last IP=82.155.195.157
+id=6
+IP=82.155.195.157
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=18
+Lost=39
+Draw=9
+Lame quits=3
+Newdecks=3
+Level=5
+Exp=1128
+Next=1301
+Streak=-1
+SoldCards=0
+cardsgiven=0
+SBLost=2
+Choices=1
+[Newdecks]
+Last=10-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 129410
+Versus=eldra
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=eldra
+result=draw
+score=5-5

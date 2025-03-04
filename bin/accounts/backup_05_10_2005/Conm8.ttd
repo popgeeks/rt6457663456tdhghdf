@@ -1,0 +1,44 @@
+[player]
+nickname=Conm8
+password=876784204
+email=conm8@hotmail.com
+signup_date=4/28/2005
+playerID=209
+status=regular
+referal=Conm8
+Verify=1
+Last IP=82.34.185.159
+id=13
+IP=82.34.185.159
+adminstatus=off
+match=04-28-2005
+Last Played=04-28-2005
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=1
+GP=40
+rank=1399
+Newdecks=1
+Level=1
+Exp=88
+Next=100
+Streak=-1
+[Newdecks]
+Last=04-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 8885
+Versus=Irvine
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Irvine
+result=loss
+score=8-2

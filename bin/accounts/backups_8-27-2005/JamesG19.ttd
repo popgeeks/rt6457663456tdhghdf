@@ -1,0 +1,32 @@
+[player]
+nickname=JamesG19
+password=834848403
+email=jamesg19@gmail.com
+signup_date=7/23/2005
+playerID=1443
+status=regular
+referal=
+Verify=1
+Last IP=84.68.67.225
+id=52
+IP=84.68.67.225
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=07-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

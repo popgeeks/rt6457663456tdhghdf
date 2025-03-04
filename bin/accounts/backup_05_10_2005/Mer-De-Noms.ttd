@@ -1,0 +1,45 @@
+[player]
+nickname=Mer-De-Noms
+password=480737745
+email=Aenima2020@hotmail.com
+signup_date=5/7/2005
+playerID=319
+status=regular
+referal=
+Verify=1
+Last IP=68.9.33.228
+id=16
+IP=68.9.33.228
+adminstatus=off
+match=05-07-2005
+Last Played=05-07-2005
+[Stats]
+Win=3
+Lost=9
+Draw=2
+Lame quits=0
+GP=468
+rank=1603
+Newdecks=1
+Level=3
+Exp=303
+Next=476
+Streak=-3
+Choices=1
+[Newdecks]
+Last=05-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 12477
+Versus=ColdArmy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=ColdArmy
+result=loss
+score=13-9

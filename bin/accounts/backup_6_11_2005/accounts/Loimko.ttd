@@ -1,0 +1,44 @@
+[player]
+nickname=Loimko
+password=683472751
+email=gbrouw@kabelfoon.nl
+signup_date=5/30/2005
+playerID=553
+status=regular
+referal=Loimko
+Verify=1
+Last IP=62.45.226.250
+id=19
+IP=62.45.226.250
+adminstatus=off
+Last Played=05-30-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=1
+GP=0
+rank=1318
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=29
+Streak=1
+[Newdecks]
+Last=05-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 24667
+Versus=sin
+Iam=1
+[password]
+failed=12
+[Games]
+Playing=TT
+[game]
+opponent=crab-bot
+result=loss
+score=7-3

@@ -1,0 +1,45 @@
+[player]
+nickname=isimilejas
+password=487435638
+email=m.a.t.r.i.x@one.lt
+signup_date=7/28/2005
+playerID=1555
+status=regular
+referal=xxxxxx
+Verify=1
+Last IP=82.135.213.58
+id=28
+IP=82.135.213.58
+adminstatus=off
+match=08-08-2005
+Last Played=08-08-2005
+[Stats]
+Win=8
+Lost=18
+Draw=1
+Lame quits=0
+GP=844
+Newdecks=1
+Level=4
+Exp=594
+Next=836
+AP=366
+Streak=-5
+Choices=1
+[Newdecks]
+Last=07-28-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 81785
+Versus=MasterD
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=MasterD
+result=loss
+score=12-8

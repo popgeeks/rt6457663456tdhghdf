@@ -1,0 +1,18 @@
+[player]
+nickname=jose
+password=584825991
+email=bravoali100@hotmail.com
+signup_date=7/1/2005
+playerID=941
+status=regular
+referal=17690276
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-01-2005

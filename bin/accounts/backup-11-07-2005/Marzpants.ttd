@@ -1,0 +1,43 @@
+[player]
+nickname=Marzpants
+password=225132882
+email=Marzpants07@yahoo.com
+signup_date=11/5/2005
+playerID=3162
+status=regular
+referal=
+Verify=1
+Last IP=140.186.41.212
+id=9
+IP=140.186.41.212
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=31
+Lost=59
+Draw=26
+Lame quits=0
+Newdecks=1
+Level=6
+Exp=1597
+Next=1727
+Streak=-1
+SBLost=1
+[Newdecks]
+Last=11-05-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146684
+Versus=nadine2
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=nadine2
+result=loss
+score=10-8

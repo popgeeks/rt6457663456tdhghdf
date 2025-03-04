@@ -1,0 +1,45 @@
+[player]
+nickname=Zidane001
+password=sede
+email=mrjasonmartin@hotmail.com
+signup_date=8/18/2005
+playerID=1874
+status=regular
+referal=
+Verify=1
+Last IP=24.179.37.68
+id=25
+IP=24.179.37.68
+adminstatus=off
+match=08-18-2005
+Last Played=08-18-2005
+[Stats]
+Win=5
+Lost=4
+Draw=1
+Lame quits=0
+GP=458
+Newdecks=1
+Level=3
+Exp=263
+Next=476
+AP=45
+Streak=1
+Choices=1
+[Newdecks]
+Last=08-18-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=87486
+Versus=Team
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=Thorintar
+result=win
+score=20-4

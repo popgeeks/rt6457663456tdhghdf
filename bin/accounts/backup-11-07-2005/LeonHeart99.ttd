@@ -1,0 +1,42 @@
+[player]
+nickname=LeonHeart99
+password=896687208
+email=leon-9999@hotmail.com
+signup_date=11/4/2005
+playerID=3148
+status=regular
+referal=LeonHeart
+Verify=1
+Last IP=202.180.109.100
+id=53
+IP=202.180.109.100
+adminstatus=off
+match=11-04-2005
+[Stats]
+Win=4
+Lost=7
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=221
+Next=248
+Streak=-2
+SBLost=1
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 144250
+Versus=andul
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=andul
+result=loss
+score=11-9

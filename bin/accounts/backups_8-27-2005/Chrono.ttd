@@ -1,0 +1,47 @@
+[player]
+nickname=Chrono
+password=qwerty
+email=icyheaven@hotmail.com
+signup_date=5/29/2005
+playerID=547
+status=regular
+referal=
+Verify=1
+Last IP=131.251.49.159
+id=28
+IP=131.251.49.159
+adminstatus=off
+match=06-04-2005
+Last Played=06-04-2005
+[Stats]
+Win=17
+Lost=14
+Draw=6
+Lame quits=0
+GP=433
+rank=1433
+Newdecks=1
+Level=5
+Exp=1119
+Next=1301
+AP=196
+Streak=8
+Choices=1
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 28071
+Versus=MiniSpiral
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MiniSpiral
+result=win
+score=13-7

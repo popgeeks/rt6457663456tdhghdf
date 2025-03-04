@@ -1,0 +1,33 @@
+[player]
+nickname=MiniSpiral
+password=cole3737
+email=twig107@yahoo.com
+signup_date=5/14/2005
+playerID=374
+status=regular
+referal=TheSpiral
+Verify=1
+Last IP=64.83.11.220
+id=23
+IP=64.83.11.220
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=05-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

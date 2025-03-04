@@ -1,0 +1,61 @@
+
+>> >> 0s
+darklumina>> LOADGAME darklumina pantyraid13>> 3.4196s
+darklumina>> TABLEQUERY 1>> 0.1092s
+darklumina>> EXTRACHECK>> 0.078s
+darklumina>> TABLECREATE>> 0.2652s
+darklumina>> WEBSERVICE>> 0.1248s
+darklumina>> PING>> 0.0468s
+darklumina>> CHANGERULE 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -5000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime2 CC Crusade FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 7.1916s
+darklumina>> PING>> 0.0312s
+darklumina>> WEBSERVICE>> 0.0312s
+darklumina>> PING>> 0.2496s
+darklumina>> TABLECLOSE>> 0.1092s
+darklumina>> PING>> 0.0312s
+darklumina>> PING>> 0.0312s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.0312s
+darklumina>> PING>> 0.0312s
+darklumina>> PING>> 0.0312s
+darklumina>> TABLECREATE>> 0.2808s
+darklumina>> WEBSERVICE>> 0.0312s
+darklumina>> CHANGERULE 0 0 1 0 0 0 0 0 0 0 0 0 0 1 -5000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime Anime2 CC Crusade FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.1716s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.0312s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.0312s
+darklumina>> PING>> 0.0468s
+darklumina>> PING>> 0.029s
+>> VERSION 2.0.9>> 0.0312s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.8424s
+darklumina2>> TABLEQUERY 1>> 0.0468s
+darklumina2>> EXTRACHECK>> 0.0468s
+darklumina2>> TABLEJOIN 1>> 0.9828s
+darklumina2>> GAMEREADY>> 0.1248s
+darklumina>> GAMEREADY>> 1.0452s
+darklumina>> PING>> 0.0312s
+darklumina2>> PING>> 0.0468s
+>> VERSION 2.0.9>> 0.075s
+darklumina>> LOADGAME darklumina pantyraid13>> 1.232s
+darklumina>> TABLEQUERY 1>> 0.0624s
+darklumina>> EXTRACHECK>> 0.078s
+darklumina>> TABLECREATE>> 0.2808s
+>> VERSION 2.0.9>> 0.037s
+darklumina2>> LOADGAME darklumina2 pantyraid13>> 0.72s
+darklumina2>> TABLEQUERY 1>> 0.0624s
+darklumina2>> EXTRACHECK>> 0.0624s
+darklumina>> WEBSERVICE>> 0.0312s
+darklumina>> CHANGERULE 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -5000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime Anime2 CC Crusade FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.2652s
+darklumina2>> TABLEJOIN 1>> 1.0838s
+darklumina>> PING>> 0.0312s
+darklumina2>> PING>> 0.0468s
+darklumina>> WEBSERVICE>> 0.0312s
+darklumina>> CHANGERULE 0 0 1 0 0 0 0 0 0 0 0 0 0 1 -5000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime Anime2 CC Crusade FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.2808s
+darklumina2>> GAMEREADY>> 0.1092s
+darklumina>> GAMEREADY>> 0.5772s
+darklumina>> GAMEREADY>> 0.0936s
+darklumina2>> GAMEREADY>> 0.546s
+darklumina2>> TABLECLOSE>> 0.156s

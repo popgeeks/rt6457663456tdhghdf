@@ -1,0 +1,37 @@
+[player]
+nickname=icy
+password=930600403
+email=craig.mcindoe@gmail.com
+signup_date=8/8/2005
+playerID=1761
+status=regular
+referal=
+Verify=1
+Last IP=81.79.204.55
+id=15
+IP=81.79.204.55
+adminstatus=off
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=5
+Next=100
+AP=22
+[Newdecks]
+Last=08-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 82544
+Versus=creamyninja
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM

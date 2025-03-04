@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=115
+match=01-06-2006
+[Play]
+Playing=false
+GameID= 193006
+Versus=solidsnake
+Iam=1
+[Stats]
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=solidsnake
+result=loss
+score=7-3

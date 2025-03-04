@@ -1,0 +1,47 @@
+[player]
+nickname=anima2005
+password=588133811
+email=dirtyd32780@yahoo.com
+signup_date=8/17/2005
+playerID=1858
+status=regular
+referal=
+Verify=1
+Last IP=67.33.249.67
+id=31
+IP=67.33.249.67
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=5
+Lost=25
+Draw=5
+Lame quits=0
+GP=0
+Newdecks=13
+Level=4
+Exp=556
+Next=836
+AP=460
+Streak=-13
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 88601
+Versus=dark-wing
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=dark-wing
+result=loss
+score=8-2

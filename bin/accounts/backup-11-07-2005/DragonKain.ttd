@@ -1,0 +1,18 @@
+[player]
+nickname=DragonKain
+password=488551437
+email=ryang_05@hotmail.co.uk
+signup_date=8/26/2005
+playerID=2003
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-26-2005

@@ -1,0 +1,44 @@
+[player]
+nickname=WarOmnimon
+password=qwertyha
+email=waromnimon@yahoo.com
+signup_date=5/4/2005
+playerID=281
+status=regular
+referal=
+Verify=1
+Last IP=24.63.94.139
+id=25
+IP=24.63.94.139
+adminstatus=off
+match=05-04-2005
+Last Played=05-04-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+GP=25
+rank=1587
+Newdecks=1
+Level=1
+Exp=30
+Next=100
+Streak=1
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10985
+Versus=xion106
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=SuperJew
+result=win
+score=6-4

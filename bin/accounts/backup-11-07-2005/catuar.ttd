@@ -1,0 +1,41 @@
+[player]
+nickname=catuar
+password=46495735
+email=tomdarrington@yahoo.co.uk
+signup_date=10/5/2005
+playerID=2653
+status=regular
+referal=
+Verify=1
+Last IP=84.9.160.93
+id=48
+IP=84.9.160.93
+adminstatus=off
+match=10-05-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=1
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 120667
+Versus=utherbr
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=utherbr
+result=loss
+score=9-1

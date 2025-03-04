@@ -1,0 +1,43 @@
+[player]
+nickname=rcandela
+password=565680801
+email=rcandela_87@hotmail.com
+signup_date=10/12/2005
+playerID=2805
+status=regular
+referal=666755757
+Verify=1
+Last IP=84.122.166.16
+id=19
+IP=84.122.166.16
+adminstatus=off
+match=10-14-2005
+[Stats]
+Win=5
+Lost=13
+Draw=5
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=326
+Next=476
+Streak=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=10-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 128424
+Versus=HADE
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=HADE
+result=draw
+score=5-5

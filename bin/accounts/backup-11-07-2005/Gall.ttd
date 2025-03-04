@@ -1,0 +1,47 @@
+[player]
+nickname=Gall
+password=shagnasty
+email=gall1337@yahoo.com
+signup_date=6/13/2005
+playerID=697
+status=regular
+referal=LiuBei
+Verify=1
+Last IP=172.195.84.186
+id=50
+IP=172.195.84.186
+adminstatus=off
+Last Played=06-15-2005
+match=06-13-2005
+[Stats]
+Win=4
+Lost=3
+Draw=0
+Lame quits=0
+GP=26
+rank=1422
+Newdecks=1
+Level=1
+Exp=57
+Next=100
+AP=382
+Streak=3
+SBLost=2
+SBWin=1
+[Newdecks]
+Last=06-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 33915
+Versus=ashley-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ashley-bot
+result=win
+score=6-4

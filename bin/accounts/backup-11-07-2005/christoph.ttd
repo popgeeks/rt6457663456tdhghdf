@@ -1,0 +1,17 @@
+[player]
+nickname=christoph
+password=200669050
+email=williamryan73@verizon.net
+signup_date=10/8/2005
+playerID=2699
+status=regular
+referal=nikki
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-08-2005

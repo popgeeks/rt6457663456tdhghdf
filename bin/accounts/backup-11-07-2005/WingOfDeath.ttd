@@ -1,0 +1,30 @@
+[player]
+nickname=WingOfDeath
+password=636453866
+email=rinoa_pereira@hotmail.com
+signup_date=8/28/2005
+playerID=1995
+status=regular
+referal=WingOfDeath
+Verify=1
+Last IP=200.149.75.97
+id=11
+IP=200.149.75.97
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=08-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

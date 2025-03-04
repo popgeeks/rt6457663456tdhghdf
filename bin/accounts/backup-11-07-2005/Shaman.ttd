@@ -1,0 +1,43 @@
+[player]
+nickname=Shaman
+password=280370711
+email=kula60s70s@hotmail.com
+signup_date=9/4/2005
+playerID=2106
+status=regular
+referal=topsecret
+Verify=1
+Last IP=202.175.161.168
+id=43
+IP=202.175.161.168
+adminstatus=off
+match=09-08-2005
+[Stats]
+Win=2
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=5
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=2
+[Newdecks]
+Last=09-08-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 100833
+Versus=taliesin2943
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=taliesin2943
+result=win
+score=9-1

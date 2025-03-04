@@ -1,0 +1,40 @@
+[player]
+nickname=malibu69
+password=936105250
+email=malibu@digitelone.com
+signup_date=6/19/2005
+playerID=756
+status=regular
+referal=mail
+Verify=1
+Last IP=203.213.222.237
+id=24
+IP=203.213.222.237
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=5
+Level=1
+Exp=0
+Next=100
+AP=7
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 36888
+Versus=xion106
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

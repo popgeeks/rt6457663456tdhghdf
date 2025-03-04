@@ -1,0 +1,22 @@
+[AP]
+AAEXP=0
+honor=1
+[player]
+id=70
+match=12-23-2005
+[Play]
+Playing=false
+GameID= 179378
+Versus=Raz
+Iam=2
+[Stats]
+Level=5
+Exp=881
+Next=1301
+Streak=2
+[Games]
+Playing=OTT
+[game]
+opponent=Raz
+result=win
+score=12-8

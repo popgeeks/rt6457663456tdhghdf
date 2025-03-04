@@ -1,0 +1,44 @@
+[player]
+nickname=destra2040
+password=sitesfa
+email=destra@gmail.com
+signup_date=9/22/2005
+playerID=2416
+status=regular
+referal=
+Verify=1
+Last IP=203.45.127.220
+id=24
+IP=203.45.127.220
+adminstatus=off
+match=10-03-2005
+[Stats]
+Win=49
+Lost=40
+Draw=11
+Lame quits=0
+Newdecks=15
+Level=8
+Exp=2212
+Next=2698
+Streak=-3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 119583
+Versus=PizzaTheHut
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=PizzaTheHut
+result=loss
+score=14-8

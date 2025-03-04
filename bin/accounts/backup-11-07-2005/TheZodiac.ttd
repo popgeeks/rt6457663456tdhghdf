@@ -1,0 +1,51 @@
+[player]
+nickname=TheZodiac
+password=01010203
+email=WordsLeftUnspoken@Gmail.com
+signup_date=8/7/2005
+playerID=1735
+status=regular
+referal=
+Verify=1
+Last IP=151.199.216.171
+id=21
+IP=151.199.216.171
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=3
+[Stats]
+Win=40
+Lost=48
+Draw=17
+Lame quits=0
+GP=2738
+Newdecks=1
+Level=7
+Exp=1895
+Next=2154
+AP=7944
+SBWin=1
+Streak=1
+Choices=1
+[Newdecks]
+Last=08-07-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 86513
+Versus=Konvict
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=Konvict
+result=win
+score=6-4

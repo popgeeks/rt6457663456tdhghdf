@@ -1,0 +1,45 @@
+[player]
+nickname=Tortue
+password=266953468
+email=lolrpgfan@hotmail.com
+signup_date=7/24/2005
+playerID=1471
+status=regular
+referal=pigeon
+Verify=1
+Last IP=82.230.217.42
+id=77
+IP=82.230.217.42
+adminstatus=off
+match=07-24-2005
+Last Played=07-24-2005
+[Stats]
+Win=1
+Lost=8
+Draw=0
+Lame quits=0
+GP=19
+Newdecks=1
+Level=1
+Exp=78
+Next=100
+AP=287
+Streak=-5
+SBLost=2
+[Newdecks]
+Last=07-24-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 66832
+Versus=AleX8905
+Iam=1
+[Games]
+Playing=MM
+[game]
+opponent=ALeX8905
+result=loss
+score=9-1

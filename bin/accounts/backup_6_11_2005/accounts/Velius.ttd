@@ -1,0 +1,60 @@
+[player]
+nickname=Velius
+password=c0n2qox
+email=craigsnyder@gmail.com
+signup_date=5/22/2005
+playerID=445
+status=regular
+referal=
+Verify=1
+Last IP=206.148.100.188
+id=24
+IP=206.148.100.188
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+surname=sheepdog
+[Stats]
+Win=268
+Lost=212
+Draw=66
+Lame quits=10
+GP=832
+rank=3019
+Newdecks=15
+Level=18
+Exp=11966
+Next=12718
+AP=336
+SoldCards=0
+cardsgiven=0
+Streak=-3
+Choices=1
+SBLost=1
+[Newdecks]
+Last=06-05-2005
+[AP]
+AAEXP=1106
+honor=2
+PCT=50
+[Play]
+Playing=false
+GameID= 31440
+Versus=Jinx
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Jinx
+result=loss
+score=9-1
+[Warnings]
+Kicks=12
+Warns=3

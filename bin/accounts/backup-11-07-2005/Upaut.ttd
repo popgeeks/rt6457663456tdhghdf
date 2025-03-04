@@ -1,0 +1,43 @@
+[player]
+nickname=Upaut
+password=shithead
+email=gothicupaut@gmail.com
+signup_date=9/1/2005
+playerID=2056
+status=regular
+referal=
+Verify=1
+Last IP=24.19.119.234
+id=140
+IP=24.19.119.234
+adminstatus=off
+match=09-15-2005
+[Stats]
+Win=8
+Lost=22
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=551
+Next=836
+Streak=-6
+SBLost=5
+SBWin=3
+[Newdecks]
+Last=09-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 106241
+Versus=howabe
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=loss
+score=12-8

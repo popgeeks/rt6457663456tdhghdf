@@ -1,0 +1,41 @@
+[player]
+nickname=Arqus
+password=918003021
+email=3arquscasinos@wp.pl
+signup_date=10/31/2005
+playerID=3094
+status=regular
+referal=
+Verify=1
+Last IP=83.30.45.82
+id=18
+IP=83.30.45.82
+adminstatus=off
+match=11-02-2005
+[Stats]
+Win=1
+Lost=6
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=151
+Next=248
+Streak=-6
+[Newdecks]
+Last=10-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 142134
+Versus=MasterD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MasterD
+result=loss
+score=14-6

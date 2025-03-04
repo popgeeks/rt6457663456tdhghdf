@@ -1,0 +1,43 @@
+[player]
+nickname=driver
+password=263436138
+email=darkwizard44@hotmail.com
+signup_date=9/26/2005
+playerID=2511
+status=regular
+referal=
+Verify=1
+Last IP=139.168.27.176
+id=25
+IP=139.168.27.176
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=18
+Next=100
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 115361
+Versus=Varandil
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Varandil
+result=loss
+score=6-4

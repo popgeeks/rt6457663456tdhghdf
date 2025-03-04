@@ -1,0 +1,44 @@
+[player]
+nickname=Xpoin
+password=100817501
+email=l.kriauciunaite@post.skynet.lt
+signup_date=8/6/2005
+playerID=1720
+status=regular
+referal=kri38ll1
+Verify=1
+Last IP=212.122.68.248
+id=38
+IP=212.122.68.248
+adminstatus=off
+match=08-07-2005
+Last Played=08-07-2005
+[Stats]
+Win=1
+Lost=3
+Draw=1
+Lame quits=1
+GP=6
+Newdecks=1
+Level=1
+Exp=28
+Next=100
+AP=129
+Streak=-2
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 81171
+Versus=MGdaGR8est
+Iam=2
+[password]
+failed=2
+[Games]
+Playing=TT
+[game]
+opponent=MGdaGR8est
+result=loss
+score=9-1

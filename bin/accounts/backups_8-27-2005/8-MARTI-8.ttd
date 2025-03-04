@@ -1,0 +1,21 @@
+[player]
+nickname=8-MARTI-8
+password=405294656
+email=lavitz_gijon@hotmail.com
+signup_date=6/16/2005
+playerID=715
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-16-2005
+[password]
+failed=3

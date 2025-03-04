@@ -1,0 +1,84 @@
+[player]
+nickname=3wingedangel
+password=patrick
+email=tto3winger@yahoo.com
+signup_date=3/13/05
+playerID=6
+status=regular
+membership=power
+Verify=1
+Last IP=70.248.75.92
+id=4
+IP=70.248.75.92
+adminstatus=off
+Last Played=06-11-2005
+match=06-11-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+surname=issupersexy
+[Stats]
+Win=105
+Lost=145
+Draw=43
+Lame quits=4
+GP=1588
+rank=1386
+Newdecks=1
+Level=15
+Exp=7642
+Next=8675
+Streak=-1
+Wins=1
+AP=912
+Choices=1
+SBLost=1
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=3
+Level4=3
+Level5=1
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blitz=1
+Oilboyle=1
+Iguion=1
+Bite Bug=1
+Tri-Face=1
+X-ATM092=2
+Glacial Eye=2
+Death Claw=2
+Elvoret=0
+Behemoth=1
+Blue Dragon=1
+Imp=1
+[AP]
+AAEXP=485
+honor=2
+PCT=50
+AAPOINTS=2
+[Play]
+Playing=false
+GameID= 31275
+Versus=JamesFate
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=JamesFate
+result=loss
+score=12-8
+[Warnings]
+Warns=1

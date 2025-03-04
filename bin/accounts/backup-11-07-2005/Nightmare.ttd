@@ -1,0 +1,20 @@
+[player]
+nickname=Nightmare
+password=482505738
+email=xenogears_master@hotmail.com
+signup_date=8/12/2005
+playerID=1827
+status=regular
+referal=shadowx
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-12-2005
+[password]
+failed=1

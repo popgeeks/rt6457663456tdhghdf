@@ -1,0 +1,64 @@
+[player]
+nickname=X-Death
+password=615937649
+email=muramasa_sama@hotmail.com
+signup_date=4/8/05
+playerID=112
+status=regular
+Verify=1
+Last IP=4.27.228.171
+id=12
+IP=4.27.228.171
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=1
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-08-2005
+[Totals]
+Level1=0
+Level2=4
+Level3=3
+Level4=5
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Death Claw=1
+Turtapod=2
+Grat=1
+Fastitocalon=2
+Iguion=1
+Creeps=1
+Buel=1
+Belhelmel=1
+Gerogero=1
+Ruby Dragon=1
+Imp=1
+T-Rexaur=1
+Blitz=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4232
+Versus=DarkJaxyChan
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[Warnings]
+Kicks=1

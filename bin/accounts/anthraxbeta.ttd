@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=131
+match=01-16-2006
+[Play]
+Playing=false
+GameID= 200248
+Versus=Kadajiroth
+Iam=2
+[Stats]
+Level=3
+Exp=451
+Next=476
+Streak=-2
+[Games]
+Playing=TT
+[game]
+opponent=Kadajiroth
+result=loss
+score=7-3

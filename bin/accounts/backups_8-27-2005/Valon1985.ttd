@@ -1,0 +1,47 @@
+[player]
+nickname=Valon1985
+password=338127910
+email=Zidane2002@gmx.de
+signup_date=7/17/2005
+playerID=1321
+status=regular
+referal=-
+Verify=1
+Last IP=84.169.127.40
+id=7
+IP=84.169.127.40
+adminstatus=off
+match=07-22-2005
+Last Played=07-22-2005
+[Stats]
+Win=11
+Lost=23
+Draw=9
+Lame quits=1
+GP=639
+Newdecks=5
+Level=3
+Exp=448
+Next=476
+AP=758
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 82878
+Versus=gafgarion
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=aushulz
+result=loss
+score=6-4

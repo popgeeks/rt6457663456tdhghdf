@@ -1,0 +1,19 @@
+[player]
+nickname=srennie619
+password=125162839
+email=srennie619@msn.con
+signup_date=10/9/2005
+playerID=2739
+status=regular
+referal=rennie
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-09-2005
+[password]
+failed=5

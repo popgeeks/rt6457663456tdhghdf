@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=82
+match=12-30-2005
+[Play]
+Playing=false
+GameID= 185382
+Versus=deecee
+Iam=2
+[Stats]
+Level=1
+Exp=11
+Next=100
+Streak=1
+[Games]
+Playing=OTT
+[game]
+opponent=deecee
+result=loss
+score=15-5

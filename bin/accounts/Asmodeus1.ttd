@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=33
+match=11-17-2005
+[Play]
+Playing=false
+GameID= 152573
+Versus=cloud272
+Iam=1
+[Stats]
+Level=4
+Exp=606
+Next=836
+Streak=1
+[Games]
+Playing=OTT
+[game]
+opponent=cloud272
+result=win
+score=13-9

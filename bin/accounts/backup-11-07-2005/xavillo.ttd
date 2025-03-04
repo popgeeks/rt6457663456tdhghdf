@@ -1,0 +1,41 @@
+[player]
+nickname=xavillo
+password=456874608
+email=aloberra@hotmail.com
+signup_date=8/30/2005
+playerID=2033
+status=regular
+referal=
+Verify=1
+Last IP=83.35.187.149
+id=26
+IP=83.35.187.149
+adminstatus=off
+match=08-30-2005
+[Stats]
+Win=1
+Lost=4
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=65
+Next=100
+Streak=-3
+[Newdecks]
+Last=08-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95456
+Versus=crazyelf48
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=crazyelf48
+result=draw
+score=5-5

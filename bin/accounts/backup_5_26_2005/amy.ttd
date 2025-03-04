@@ -1,0 +1,94 @@
+[player]
+nickname=amy
+password=960745512
+email=rpggirl87@yahoo.com
+signup_date=4/8/05
+playerID=111
+status=helper
+Verify=1
+Last IP=209.133.136.2
+id=9
+IP=209.133.136.2
+adminstatus=off
+Last Played=05-25-2005
+match=05-25-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+surname=bramaster
+[Stats]
+Win=142
+Lost=274
+Draw=72
+Lame quits=8
+GP=345
+rank=1588
+Newdecks=13
+Level=15
+Exp=7568
+Next=8675
+Streak=-1
+Choices=1
+SoldCards=5
+cardsgiven=0
+Wins=65
+AP=5396
+SBLost=1
+[Newdecks]
+Last=05-17-2005
+[Totals]
+Level1=3
+Level2=4
+Level3=4
+Level4=3
+Level5=1
+Level6=3
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Anacondaur=1
+Ochu=1
+Grendel=1
+Vysage=1
+Creeps=1
+Caterchipillar=1
+Elvoret=1
+Blue Dragon=1
+Iron Giant=1
+Tri-Face=1
+Oilboyle=1
+Mesmerize=1
+Abadon=1
+Imp=1
+Geezard=1
+Death Claw=1
+Gayla=1
+Cactuar=1
+[AP]
+AAEXP=1336
+PCT=40
+AAPOINTS=0
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 21824
+Versus=squll-typo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=squll-typo
+result=loss
+score=16-4
+[Warnings]
+Kicks=3
+[Admin]
+Passkey=41325156

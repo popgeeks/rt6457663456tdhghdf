@@ -1,0 +1,42 @@
+[player]
+nickname=angelkimmy
+password=737758278
+email=lilangelkimmy@yahoo.com
+signup_date=11/6/2005
+playerID=3183
+status=regular
+referal=ff
+Verify=1
+Last IP=68.60.46.73
+id=20
+IP=68.60.46.73
+adminstatus=off
+match=11-06-2005
+[Stats]
+Win=1
+Lost=8
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=113
+Next=248
+Streak=-7
+SBLost=1
+[Newdecks]
+Last=11-06-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146209
+Versus=Karea
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=Karea
+result=draw
+score=10-10

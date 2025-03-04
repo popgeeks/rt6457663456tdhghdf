@@ -1,0 +1,46 @@
+[player]
+nickname=Strifel
+password=291586875
+email=lightblade111@msn.com
+signup_date=3/27/05
+playerID=61
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=03-27-2005
+[Totals]
+Level1=4
+Level2=3
+Level3=0
+Level4=4
+Level5=1
+Level6=1
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Wendigo=2
+Adamantoise=1
+Geezard=1
+Creeps=1
+Elastoid=1
+Caterchipillar=1
+Red Bat=1
+Bomb=1
+Sphinxara=1
+Gerogero=1
+Anacondaur=1
+Catoblepas=1
+Belhelmel=1
+Blood Soul=1

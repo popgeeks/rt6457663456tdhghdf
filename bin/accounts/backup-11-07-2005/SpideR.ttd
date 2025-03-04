@@ -1,0 +1,47 @@
+[player]
+nickname=SpideR
+password=insanity
+email=mighty.dopefiend@gmail.com
+signup_date=8/24/2005
+playerID=1957
+status=regular
+referal=aiza
+Verify=1
+Last IP=69.162.122.50
+id=48
+IP=69.162.122.50
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=6
+Lost=23
+Draw=3
+Lame quits=0
+GP=630
+Newdecks=3
+Level=4
+Exp=586
+Next=836
+AP=160
+Streak=-6
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92592
+Versus=Sephiroth86
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Sephiroth86
+result=loss
+score=11-9

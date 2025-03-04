@@ -1,0 +1,57 @@
+[player]
+nickname=xion106
+password=games7
+email=Secondstar559271@aol.com
+signup_date=5/2/2005
+playerID=261
+status=regular
+referal=darklumina
+Verify=1
+Last IP=172.214.85.108
+id=76
+IP=172.214.85.108
+adminstatus=off
+match=08-30-2005
+Last Played=08-27-2005
+[Stats]
+Win=177
+Lost=296
+Draw=75
+Lame quits=11
+GP=385
+rank=1503
+Newdecks=7
+Level=17
+Exp=10532
+Next=11368
+Streak=-4
+Choices=1
+Wins=16
+AP=156
+SBLost=6
+SBDraw=1
+SBWin=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 95073
+Versus=meh2
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=meh2
+result=draw
+score=10-10
+[Warnings]
+Kicks=6
+Warns=2

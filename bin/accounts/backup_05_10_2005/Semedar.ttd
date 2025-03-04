@@ -1,0 +1,45 @@
+[player]
+nickname=Semedar
+password=632663428
+email=victorvilla52@yahoo.com
+signup_date=5/3/2005
+playerID=273
+status=regular
+referal=
+Verify=1
+Last IP=68.6.151.102
+id=2
+IP=68.6.151.102
+adminstatus=off
+match=05-05-2005
+Last Played=05-05-2005
+[Stats]
+Win=2
+Lost=10
+Draw=1
+Lame quits=0
+GP=416
+rank=1230
+Newdecks=1
+Level=3
+Exp=259
+Next=476
+Streak=-5
+Choices=1
+[Newdecks]
+Last=05-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 11532
+Versus=AJ666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=AJ666
+result=loss
+score=13-11

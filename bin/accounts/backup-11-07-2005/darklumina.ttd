@@ -1,0 +1,136 @@
+[player]
+nickname=darklumina
+password=412luck
+email=gamewar@yahoo.com
+signup_date=3/13/2005
+playerID=54
+status=god
+Verify=1
+Last IP=192.168.0.7
+id=70
+IP=192.168.0.7
+adminstatus=off
+Last Played=04-17-2005
+surname=Peacekeeper
+guild=Servants of Darkness
+guildmaster=2
+match=10-30-2005
+
+[Stats]
+Win=110
+Lost=148
+Draw=44
+Lame quits=5
+rank=1341
+Newdecks=5
+Level=10
+Exp=3661
+Next=3936
+Streak=3
+Choices=1
+GP=1350
+SoldCards=0
+cardsgiven=0
+SBLost=1
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=3
+Level4=3
+Level5=2
+Level6=6
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Iguion=1
+Trauma=1
+Funguar=0
+Blue Dragon=1
+Granaldo=0
+Geezard=0
+SAM08G=0
+T-Rexaur=0
+Gayla=0
+Turtapod=0
+Vysage=0
+Creeps=0
+Imp=0
+X-ATM092=1
+Thrustaevis=0
+Wendigo=0
+Malboro=0
+Abadon=1
+BGH251F2=1
+Shumi Tribe=0
+Armadodo=1
+Grendel=1
+Fujin, Raijin=0
+Wedge, Biggs=0
+Ruby Dragon=0
+Hexadragon=0
+Grat=0
+Cactuar=0
+Pandemona=0
+Carbuncle=0
+Selphie=0
+Diablos=0
+Adamantoise=0
+Bomb=0
+Jelleye=0
+Red Bat=1
+Blobra=1
+Sphinxara=0
+Glacial Eye=0
+Abyss Worm=0
+Forbidden=0
+Odin=0
+Tonberry=0
+Ifrit=0
+Tri-Point=0
+Jumbo Cactuar=0
+Ochu=0
+Grand Mantis=0
+Fastitocalon-F=0
+Iron Giant=1
+Krysta=0
+Caterchipillar=0
+Tri-Face=0
+Buel=1
+Fastitocalon=0
+Behemoth=0
+Elvoret=0
+Belhelmel=0
+Tonberry King=0
+Propagator=0
+Death Claw=1
+Tiamat=0
+Snow Lion=1
+Oilboyle=1
+Gesper=1
+Gerogero=1
+Chimera=1
+Torama=1
+Blitz=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146117
+Versus=Boko
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+Challenged=
+[Admin]
+Passkey=41257448
+[game]
+opponent=trippensmurf
+result=win
+score=6-4

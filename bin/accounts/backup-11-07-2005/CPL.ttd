@@ -1,0 +1,45 @@
+[player]
+nickname=CPL
+password=566456972
+email=butteh@hotmail.co.uk
+signup_date=7/26/2005
+playerID=1524
+status=regular
+referal=sig0n
+Verify=1
+Last IP=82.42.123.28
+id=11
+IP=82.42.123.28
+adminstatus=off
+match=07-26-2005
+Last Played=07-26-2005
+[Stats]
+Win=2
+Lost=4
+Draw=3
+Lame quits=0
+GP=207
+Newdecks=1
+Level=2
+Exp=136
+Next=248
+AP=261
+Streak=-4
+Choices=1
+[Newdecks]
+Last=07-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 69410
+Versus=vivimage666
+Iam=1
+[password]
+failed=1
+[Games]
+Playing=TT
+[game]
+opponent=vivimage666
+result=loss
+score=6-4

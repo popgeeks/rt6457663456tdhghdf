@@ -1,0 +1,49 @@
+[player]
+nickname=YuriLasaiev
+password=266131281
+email=Loudmouth_7@hotmail.com
+signup_date=3/25/05
+playerID=52
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=03-25-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=2
+Level4=4
+Level5=2
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+T-Rexaur=1
+Tri-Face=1
+Turtapod=1
+Buel=1
+Glacial Eye=1
+Blitz=1
+Oilboyle=1
+Elvoret=1
+Malboro=1
+Grendel=1
+Iron Giant=1
+Armadodo=1
+Blood Soul=1
+Wendigo=1
+Gayla=1
+[password]
+failed=10

@@ -1,0 +1,33 @@
+[player]
+nickname=LaniKins
+password=631742894
+email=lanikins@gmail.com
+signup_date=5/30/2005
+playerID=557
+status=regular
+referal=Zehphir
+Verify=1
+Last IP=67.82.160.134
+id=41
+IP=67.82.160.134
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=05-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,46 @@
+[player]
+nickname=sirconis
+password=dragon00
+email=sirconis@gmail.com
+signup_date=9/17/2005
+playerID=2330
+status=regular
+referal=
+Verify=1
+Last IP=12.31.69.66
+id=39
+IP=12.31.69.66
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=97
+Lost=96
+Draw=28
+Lame quits=0
+Newdecks=3
+Level=9
+Exp=2739
+Next=3346
+SoldCards=0
+cardsgiven=0
+Streak=10
+Choices=1
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 129725
+Versus=guitardude86
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=guitardude86
+result=win
+score=10-8

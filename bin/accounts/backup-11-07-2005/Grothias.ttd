@@ -1,0 +1,41 @@
+[player]
+nickname=Grothias
+password=496535777
+email=Grothias@hotmail.com
+signup_date=10/21/2005
+playerID=2954
+status=regular
+referal=Ivan
+Verify=1
+Last IP=84.122.145.162
+id=12
+IP=84.122.145.162
+adminstatus=off
+match=10-21-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=29
+Next=100
+Streak=-2
+[Newdecks]
+Last=10-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 133641
+Versus=phreakazoid
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=6-4

@@ -1,0 +1,43 @@
+[player]
+nickname=Shawk
+password=multisync
+email=shawk@o2.pl
+signup_date=10/2/2005
+playerID=2584
+status=regular
+referal=
+Verify=1
+Last IP=213.25.178.2
+id=121
+IP=213.25.178.2
+adminstatus=off
+match=10-02-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=6
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=10-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 118681
+Versus=Shinobi
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Shinobi
+result=loss
+score=6-4

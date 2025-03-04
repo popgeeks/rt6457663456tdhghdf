@@ -1,0 +1,42 @@
+[player]
+nickname=Takeshii
+password=541516184
+email=thetimelessone@gmail.com
+signup_date=11/2/2005
+playerID=3113
+status=regular
+referal=
+Verify=1
+Last IP=24.17.226.238
+id=11
+IP=24.17.226.238
+adminstatus=off
+match=11-05-2005
+[Stats]
+Win=18
+Lost=38
+Draw=10
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=720
+Next=836
+Streak=-3
+SBLost=3
+[Newdecks]
+Last=11-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 145470
+Versus=phreakazoid
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=7-3

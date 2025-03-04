@@ -1,0 +1,18 @@
+[player]
+nickname=bich
+password=269542097
+email=jin_kazuma2002@hotmail.com
+signup_date=6/26/2005
+playerID=860
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=06-26-2005

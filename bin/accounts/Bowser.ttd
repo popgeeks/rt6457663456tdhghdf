@@ -1,0 +1,43 @@
+[player]
+nickname=Bowser
+password=607312261
+email=georgethechessmaster@yahoo.gr
+signup_date=9/21/2005
+playerID=2404
+status=regular
+referal=
+Verify=1
+Last IP=83.235.186.195
+id=21
+IP=83.235.186.195
+adminstatus=off
+match=12-24-2005
+[Stats]
+Win=3
+Lost=10
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=376
+Next=476
+Streak=-1
+[Newdecks]
+Last=09-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 180037
+Versus=neogunner
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=neogunner
+result=loss
+score=8-0
+[Warnings]
+Warns=1

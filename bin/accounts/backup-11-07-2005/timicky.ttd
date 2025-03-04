@@ -1,0 +1,40 @@
+[player]
+nickname=timicky
+password=patrick
+email=timicky@hotmail.com
+signup_date=9/11/2005
+playerID=2221
+status=regular
+referal=
+Verify=1
+Last IP=81.99.103.244
+id=25
+IP=81.99.103.244
+adminstatus=off
+match=09-15-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=5
+Next=100
+[Newdecks]
+Last=09-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 106040
+Versus=NeoSephiroth
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=NeoSephiroth
+result=draw
+score=5-5

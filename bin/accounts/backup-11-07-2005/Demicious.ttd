@@ -1,0 +1,46 @@
+[player]
+nickname=Demicious
+password=425212204
+email=demicious541@hotmail.co.uk
+signup_date=7/16/2005
+playerID=1289
+status=regular
+referal=Demicious
+Verify=1
+Last IP=82.29.187.101
+id=37
+IP=82.29.187.101
+adminstatus=off
+match=07-17-2005
+Last Played=07-17-2005
+[Stats]
+Win=10
+Lost=17
+Draw=3
+Lame quits=0
+GP=500
+Newdecks=1
+Level=3
+Exp=269
+Next=476
+AP=67
+Streak=-7
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 58136
+Versus=squll-typo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=squll-typo
+result=loss
+score=7-3

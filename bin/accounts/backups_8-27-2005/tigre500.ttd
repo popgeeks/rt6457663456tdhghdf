@@ -1,0 +1,46 @@
+[player]
+nickname=tigre500
+password=84186792
+email=condorito_500@hotmail.com
+signup_date=8/23/2005
+playerID=1955
+status=regular
+referal=evil
+Verify=1
+Last IP=201.128.190.204
+id=48
+IP=201.128.190.204
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=9
+Lost=5
+Draw=11
+Lame quits=0
+GP=409
+Newdecks=1
+Level=3
+Exp=365
+Next=476
+AP=562
+Streak=5
+Choices=1
+SBDraw=7
+[Newdecks]
+Last=08-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92903
+Versus=Alliance
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Alliance
+result=draw
+score=0-0

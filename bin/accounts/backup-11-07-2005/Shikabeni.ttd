@@ -1,0 +1,41 @@
+[player]
+nickname=Shikabeni
+password=210288643
+email=jinofthewind@gmail.com
+signup_date=10/16/2005
+playerID=2872
+status=regular
+referal=123456
+Verify=1
+Last IP=24.188.211.102
+id=38
+IP=24.188.211.102
+adminstatus=off
+match=10-16-2005
+[Stats]
+Win=2
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=88
+Next=100
+Streak=2
+[Newdecks]
+Last=10-16-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130092
+Versus=Elorah
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=Elorah
+result=win
+score=14-6

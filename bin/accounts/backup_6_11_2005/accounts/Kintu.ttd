@@ -1,0 +1,71 @@
+[player]
+nickname=Kintu
+password=801744043
+email=tfosterps@hotmail.com
+signup_date=4/10/05
+playerID=122
+status=regular
+Verify=1
+Last IP=24.253.206.236
+id=3
+IP=24.253.206.236
+adminstatus=off
+Last Played=04-10-2005
+[Stats]
+Win=1
+Lost=6
+Draw=2
+Lame quits=0
+GP=125
+rank=952
+Newdecks=1
+Level=2
+Exp=166
+Next=248
+Streak=-5
+Choices=1
+Wins=1
+[Newdecks]
+Last=04-10-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=1
+Level4=0
+Level5=0
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Grat=1
+Mesmerize=1
+Caterchipillar=1
+Belhelmel=1
+Fastitocalon-F=0
+Tonberry=0
+Bite Bug=1
+SAM08G=1
+Gerogero=1
+Blobra=0
+Grendel=1
+Imp=0
+Death Claw=0
+Blue Dragon=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 4741
+Versus=Mr-Tiddles
+Iam=2
+[password]
+failed=9
+[Games]
+Playing=TT
+[game]
+opponent=Mr-Tiddles
+result=loss
+score=6-4

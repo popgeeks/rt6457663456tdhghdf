@@ -1,0 +1,32 @@
+[player]
+nickname=spudlyff8fan
+password=1234567890
+email=therealoospudly@gmail.com
+signup_date=8/8/2005
+playerID=1745
+status=regular
+referal=
+Verify=1
+Last IP=68.109.30.174
+id=15
+IP=68.109.30.174
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=5
+[Newdecks]
+Last=08-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

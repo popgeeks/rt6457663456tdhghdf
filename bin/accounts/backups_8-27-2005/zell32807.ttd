@@ -1,0 +1,52 @@
+[player]
+nickname=zell32807
+password=trconhnt
+email=zell32807@hotmail.com
+signup_date=7/26/2005
+playerID=1522
+status=regular
+referal=none
+Verify=1
+Last IP=65.33.45.228
+id=8
+IP=65.33.45.228
+adminstatus=off
+match=07-28-2005
+Last Played=07-28-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=17
+Lost=32
+Draw=9
+Lame quits=0
+GP=538
+Newdecks=5
+Level=5
+Exp=1242
+Next=1301
+AP=847
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+[Newdecks]
+Last=07-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 71453
+Versus=exitsine
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=exitsine
+result=win
+score=11-9

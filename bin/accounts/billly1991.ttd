@@ -1,0 +1,20 @@
+[player]
+nickname=billly1991
+password=601076185
+email=billly2009@yahoo.com
+signup_date=7/31/2005
+playerID=1618
+status=regular
+referal=brenda
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-31-2005
+[password]
+failed=2

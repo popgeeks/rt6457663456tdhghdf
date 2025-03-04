@@ -1,0 +1,47 @@
+[player]
+nickname=Zehphir
+password=Breach
+email=haze_henry@hotmail.co.uk
+signup_date=5/30/2005
+playerID=554
+status=regular
+referal=
+Verify=1
+Last IP=82.19.246.192
+id=19
+IP=82.19.246.192
+adminstatus=off
+Last Played=05-30-2005
+match=05-30-2005
+[Stats]
+Win=3
+Lost=3
+Draw=2
+Lame quits=0
+GP=45
+rank=1443
+Newdecks=3
+Level=1
+Exp=61
+Next=100
+AP=93
+SoldCards=0
+cardsgiven=0
+Streak=-3
+[Newdecks]
+Last=05-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 25644
+Versus=Rain
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Squall2005
+result=loss
+score=6-4

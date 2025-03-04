@@ -1,0 +1,58 @@
+[player]
+nickname=blizzard
+password=SLUSH552
+email=cryiford@yahoo.com
+signup_date=8/5/2005
+playerID=1705
+status=regular
+referal=Yanden
+Verify=1
+Last IP=172.193.39.28
+id=26
+IP=172.193.39.28
+adminstatus=off
+match=07-18-2006
+Last Played=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=The Shadowstalkers
+guildmaster=3
+[Stats]
+Win=390
+Lost=674
+Draw=94
+Lame quits=12
+GP=706
+Newdecks=13
+Level=24
+Exp=22882
+Next=22950
+AP=24365
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=7
+[Newdecks]
+Last=08-06-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 688205
+Versus=derbya
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+Challenged=
+[game]
+opponent=SoCalTrojan
+result=draw
+score=10-10
+[Warnings]
+Warns=6
+Kicks=5

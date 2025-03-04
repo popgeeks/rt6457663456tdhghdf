@@ -1,0 +1,37 @@
+[player]
+nickname=Balloonknot
+password=coolness
+email=protossgen@yahoo.com
+signup_date=8/14/2005
+playerID=1854
+status=regular
+referal=creamyninja
+Verify=1
+Last IP=24.2.52.39
+id=198
+IP=24.2.52.39
+adminstatus=off
+[Stats]
+Win=0
+Lost=2
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=5
+Next=100
+AP=151
+[Newdecks]
+Last=08-14-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86615
+Versus=creamyninja
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM

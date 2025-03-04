@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=21
+match=11-17-2005
+[Play]
+Playing=false
+GameID= 152625
+Versus=DarkJaxyChan
+Iam=1
+[Stats]
+Level=1
+Exp=38
+Next=100
+Streak=1
+[Games]
+Playing=SB
+[game]
+opponent=DarkJaxyChan
+result=win
+score=50-32

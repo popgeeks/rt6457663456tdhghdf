@@ -1,0 +1,20 @@
+[player]
+nickname=gamerz
+password=183578193
+email=gamerz_boy@yahoo.com
+signup_date=7/1/2005
+playerID=939
+status=regular
+referal=gamerz
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-01-2005
+[password]
+failed=1

@@ -1,0 +1,20 @@
+[player]
+nickname=theazurdrak
+password=477384566
+email=theazurdrak@yahoo.com
+signup_date=7/12/2005
+playerID=1217
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-12-2005
+[password]
+failed=1

@@ -1,0 +1,32 @@
+[player]
+nickname=ELH
+password=344921111
+email=enlehe_92@hotmail.com
+signup_date=6/30/2005
+playerID=930
+status=regular
+referal=
+Verify=1
+Last IP=201.132.108.39
+id=27
+IP=201.132.108.39
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=06-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

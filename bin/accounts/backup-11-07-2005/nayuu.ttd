@@ -1,0 +1,43 @@
+[player]
+nickname=nayuu
+password=864122985
+email=blissofchaos@gmail.com
+signup_date=9/9/2005
+playerID=2197
+status=regular
+referal=traison
+Verify=1
+Last IP=198.166.49.116
+id=1
+IP=198.166.49.116
+adminstatus=off
+match=09-10-2005
+[Stats]
+Win=3
+Lost=7
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=160
+Next=248
+SBLost=7
+Streak=1
+SBWin=3
+[Newdecks]
+Last=09-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 102377
+Versus=Traison
+Iam=1
+[password]
+failed=2
+[Games]
+Playing=SB
+[game]
+opponent=Traison
+result=win
+score=46-27

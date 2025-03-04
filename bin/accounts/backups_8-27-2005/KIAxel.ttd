@@ -1,0 +1,48 @@
+[player]
+nickname=KIAxel
+password=mimichan
+email=KIAxel@hotmail.com
+signup_date=5/30/2005
+playerID=560
+status=regular
+referal=mimichan
+Verify=1
+Last IP=201.154.8.166
+id=6
+IP=201.154.8.166
+adminstatus=off
+match=06-13-2005
+Last Played=06-13-2005
+[Stats]
+Win=46
+Lost=63
+Draw=14
+Lame quits=0
+GP=876
+rank=1456
+Newdecks=1
+Level=9
+Exp=3185
+Next=3346
+AP=297
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=05-30-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 32558
+Versus=mickgal
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=mickgal
+result=loss
+score=14-6

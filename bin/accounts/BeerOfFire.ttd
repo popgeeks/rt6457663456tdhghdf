@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=29
+match=12-01-2005
+[Play]
+Playing=false
+GameID= 161712
+Versus=lukasz410
+Iam=2
+[Stats]
+Level=2
+Exp=218
+Next=248
+Streak=-3
+[Games]
+Playing=OTT
+[game]
+opponent=lukasz410
+result=loss
+score=12-8

@@ -1,0 +1,45 @@
+[player]
+nickname=irvine03
+password=987531899
+email=mad_kool@yahoo.com
+signup_date=9/24/2005
+playerID=2459
+status=regular
+referal=redthirteen
+Verify=1
+Last IP=67.45.74.151
+id=17
+IP=67.45.74.151
+adminstatus=off
+match=09-24-2005
+[Stats]
+Win=13
+Lost=27
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=885
+Next=1301
+Streak=-7
+SBWin=3
+SBLost=9
+Choices=1
+[Newdecks]
+Last=09-24-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 112897
+Versus=vivimage666
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=vivimage666
+result=loss
+score=12-6

@@ -1,0 +1,46 @@
+[player]
+nickname=Sethroth
+password=mp
+email=Diablo9.0@kaxy.com
+signup_date=7/16/2005
+playerID=1307
+status=regular
+referal=
+Verify=1
+Last IP=63.24.0.70
+id=20
+IP=63.24.0.70
+adminstatus=off
+match=08-10-2005
+Last Played=08-10-2005
+[Stats]
+Win=1
+Lost=24
+Draw=2
+Lame quits=0
+GP=0
+Newdecks=1
+Level=3
+Exp=324
+Next=476
+AP=223
+Streak=-24
+Choices=1
+[Newdecks]
+Last=07-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 87409
+Versus=sephiroth53
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Philar
+result=draw
+score=5-5

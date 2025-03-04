@@ -1,0 +1,44 @@
+[player]
+nickname=Tazuqa
+password=446678578
+email=tazuka@wp.pl
+signup_date=8/13/2005
+playerID=1849
+status=regular
+referal=
+Verify=1
+Last IP=83.22.251.140
+id=14
+IP=83.22.251.140
+adminstatus=off
+match=08-13-2005
+Last Played=08-13-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=15
+Next=100
+AP=47
+Streak=1
+[Newdecks]
+Last=08-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 86226
+Versus=xdosparaunox
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=xdosparaunox
+result=loss
+score=13-7

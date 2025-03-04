@@ -1,0 +1,54 @@
+[player]
+nickname=Aiza
+password=miketrev
+email=mbrannon@dodgeit.com
+signup_date=8/21/2005
+playerID=1914
+status=regular
+referal=
+Verify=1
+Last IP=70.191.85.239
+id=9
+IP=70.191.85.239
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+guildmaster=2
+guild=Straw Hat Pirates
+[Stats]
+Win=44
+Lost=13
+Draw=0
+Lame quits=0
+GP=36
+Newdecks=5
+Level=6
+Exp=1440
+Next=1727
+AP=93
+Streak=7
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=08-21-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 92800
+Versus=ZeroCool
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=Cassy
+result=win
+score=8-2
+[Warnings]
+Warns=2
+Kicks=3

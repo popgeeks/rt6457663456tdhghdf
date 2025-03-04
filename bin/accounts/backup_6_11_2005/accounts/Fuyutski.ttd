@@ -1,0 +1,33 @@
+[player]
+nickname=Fuyutski
+password=918635665
+email=fuyutski@tpg.com.au
+signup_date=5/22/2005
+playerID=446
+status=regular
+referal=
+Verify=1
+Last IP=60.240.120.13
+id=26
+IP=60.240.120.13
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

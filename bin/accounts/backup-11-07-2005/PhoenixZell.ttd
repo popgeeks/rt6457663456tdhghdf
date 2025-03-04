@@ -1,0 +1,55 @@
+[player]
+nickname=PhoenixZell
+password=phoenixangel
+email=Torn4life@hotmail.co.uk
+signup_date=7/28/2005
+playerID=1558
+status=regular
+referal=Angelus
+Verify=1
+Last IP=86.134.122.196
+id=29
+IP=86.134.122.196
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+match=09-23-2005
+Last Played=08-01-2005
+[Stats]
+Win=24
+Lost=27
+Draw=7
+Lame quits=0
+GP=325
+Newdecks=11
+Level=6
+Exp=1402
+Next=1727
+AP=1533
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID=112025
+Versus=Team
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=cloudcard
+result=loss
+score=11-9
+[Warnings]
+Kicks=1

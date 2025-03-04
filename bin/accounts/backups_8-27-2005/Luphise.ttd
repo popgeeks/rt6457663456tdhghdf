@@ -1,0 +1,47 @@
+[player]
+nickname=Luphise
+password=620097874
+email=lukep2000@hotmail.com
+signup_date=7/19/2005
+playerID=1377
+status=regular
+referal=
+Verify=1
+Last IP=80.42.107.113
+id=43
+IP=80.42.107.113
+adminstatus=off
+match=07-20-2005
+Last Played=07-20-2005
+[Stats]
+Win=6
+Lost=17
+Draw=2
+Lame quits=0
+GP=417
+Newdecks=1
+Level=3
+Exp=339
+Next=476
+AP=748
+Streak=-7
+SBWin=2
+Choices=1
+SBLost=2
+[Newdecks]
+Last=07-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 62206
+Versus=DarkJaxyChan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=51-7

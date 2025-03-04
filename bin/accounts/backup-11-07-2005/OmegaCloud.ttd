@@ -1,0 +1,19 @@
+[player]
+nickname=OmegaCloud
+password=304935037
+email=jt14460@msn.com
+signup_date=9/3/2005
+playerID=2079
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-03-2005
+[password]
+failed=1

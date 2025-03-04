@@ -1,0 +1,17 @@
+[player]
+nickname=loves
+password=300249099
+email=trucosyguias@hotmail.com
+signup_date=9/4/2005
+playerID=2100
+status=regular
+referal=seriopus
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-04-2005

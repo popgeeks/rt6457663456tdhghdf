@@ -1,0 +1,32 @@
+[player]
+nickname=Darkstalker
+password=288790523
+email=devilhost@hotmail.com
+signup_date=7/16/2005
+playerID=1292
+status=regular
+referal=Darkstalker
+Verify=1
+Last IP=60.49.108.209
+id=30
+IP=60.49.108.209
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=8
+[Newdecks]
+Last=07-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

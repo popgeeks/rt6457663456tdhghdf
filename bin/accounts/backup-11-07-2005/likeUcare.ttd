@@ -1,0 +1,52 @@
+[player]
+nickname=likeUcare
+password=
+email=like_u_care@hotmail.com
+signup_date=9/26/2005
+playerID=2514
+status=regular
+referal=Malvinh
+Verify=1
+Last IP=211.29.234.202
+id=93
+IP=211.29.234.202
+adminstatus=off
+match=10-19-2005
+surname=fluke-master
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=170
+Lost=222
+Draw=36
+Lame quits=1
+Newdecks=3
+Level=9
+Exp=3217
+Next=3346
+Streak=1
+SBLost=2
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+honor=2
+[Play]
+Playing=false
+GameID= 139494
+Versus=utherbr
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+Challenged=
+[game]
+opponent=SquallAngel
+result=win
+score=11-7

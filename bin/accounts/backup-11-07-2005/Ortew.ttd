@@ -1,0 +1,57 @@
+[player]
+nickname=Ortew
+password=burrada19
+email=lorted@hotmail.com
+signup_date=5/22/2005
+playerID=453
+status=regular
+referal=
+Verify=1
+Last IP=81.40.224.221
+id=42
+IP=81.40.224.221
+adminstatus=off
+match=10-23-2005
+Last Played=08-10-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=259
+Lost=184
+Draw=65
+Lame quits=6
+GP=720
+rank=1462
+Newdecks=1
+Level=18
+Exp=11917
+Next=12718
+AP=13937
+Streak=2
+Choices=1
+SBDraw=1
+SBWin=1
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=429
+honor=1
+PCT=20
+[Play]
+Playing=false
+GameID= 135224
+Versus=Aerith
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+Challenged=
+[game]
+opponent=Aerith
+result=win
+score=11-9
+[Warnings]
+Kicks=2

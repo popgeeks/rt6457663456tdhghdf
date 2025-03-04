@@ -1,0 +1,53 @@
+[player]
+nickname=Philar
+password=8523
+email=philar@clearwire.net
+signup_date=8/10/2005
+playerID=1788
+status=regular
+referal=
+Verify=1
+Last IP=64.193.1.73
+id=23
+IP=64.193.1.73
+adminstatus=off
+match=09-15-2005
+Last Played=08-12-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=1
+[Stats]
+Win=107
+Lost=97
+Draw=29
+Lame quits=0
+GP=169
+Newdecks=1
+Level=12
+Exp=5181
+Next=5510
+AP=6039
+Streak=2
+Choices=1
+SBWin=8
+SBLost=2
+[Newdecks]
+Last=08-10-2005
+[AP]
+AAEXP=95
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 106343
+Versus=howabe
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=draw
+score=10-10

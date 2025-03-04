@@ -1,0 +1,20 @@
+[player]
+nickname=Yuhas
+password=121679246
+email=yuhas@africamail.com
+signup_date=8/3/2005
+playerID=1669
+status=regular
+referal=Yu-Hans
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-03-2005
+[password]
+failed=3

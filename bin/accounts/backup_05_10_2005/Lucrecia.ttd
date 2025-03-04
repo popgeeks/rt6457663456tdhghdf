@@ -1,0 +1,49 @@
+[player]
+nickname=Lucrecia
+password=173356234
+email=akoin@t-online.de
+signup_date=4/23/2005
+playerID=188
+status=regular
+referal=
+Verify=1
+Last IP=84.178.204.183
+id=2
+IP=84.178.204.183
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=201
+Lost=189
+Draw=73
+Lame quits=13
+GP=593
+rank=1374
+Newdecks=1
+Level=18
+Exp=11767
+Next=12718
+Streak=3
+Choices=1
+[Newdecks]
+Last=04-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=true
+GameID= 14671
+Versus=vickyjoy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=TheOneGod13
+result=win
+score=15-5
+[Warnings]
+Kicks=3

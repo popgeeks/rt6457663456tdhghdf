@@ -1,0 +1,154 @@
+[player]
+nickname=Avelia
+password=CodyLing
+email=squallzsexybeep@hotmail.com
+signup_date=3/13/05
+playerID=0
+status=subadmin
+Verify=1
+Last IP=24.101.63.56
+id=32
+IP=24.101.63.56
+adminstatus=off
+Last Played=07-15-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+surname=Endofheart
+match=07-15-2005
+
+[admin]
+passkey=14375701
+
+[Stats]
+Win=587
+Lost=390
+Draw=240
+Lame quits=18
+GP=2093
+rank=2413
+Newdecks=1
+Level=25
+Exp=23673
+Next=24450
+Streak=1
+Choices=1
+SoldCards=73
+Wins=332
+AP=10521
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=20
+Level2=19
+Level3=11
+Level4=10
+Level5=5
+Level6=9
+Level7=1
+Level8=1
+Level9=0
+Level10=0
+Total=0
+[cards]
+X-ATM092=0
+Blobra=3
+Tri-Face=1
+Thrustaevis=1
+Shumi Tribe=0
+Blitz=1
+Minimog=1
+Snow Lion=3
+Gesper=0
+Wendigo=0
+Mesmerize=2
+Creeps=1
+Trauma=1
+Oilboyle=1
+Iguion=1
+Gayla=6
+Funguar=1
+Turtapod=3
+Elvoret=3
+Blood Soul=2
+Geezard=0
+Sphinxara=0
+Grat=2
+Granaldo=0
+Jumbo Cactuar=0
+Elastoid=0
+Chimera=1
+Tonberry King=1
+PuPu=0
+Bite Bug=1
+Krysta=1
+Red Bat=2
+Fujin, Raijin=1
+Catoblepas=0
+Gargantua=0
+Ultima Weapon=0
+Forbidden=2
+SAM08G=2
+Jelleye=0
+Red Giant=1
+Gerogero=0
+Caterchipillar=4
+Tri-Point=0
+Buel=1
+Torama=3
+Elnoyle=0
+Death Claw=0
+Tiamat=0
+Belhelmel=3
+Glacial Eye=5
+Malboro=0
+BGH251F2=0
+Wedge, Biggs=0
+Shiva=0
+Blue Dragon=1
+Tonberry=1
+Vysage=0
+Hexadragon=0
+Anacondaur=1
+Propagator=0
+Selphie=0
+Abadon=1
+Cactuar=2
+Bomb=1
+Cerberus=0
+Ruby Dragon=3
+Doom Train=0
+Mobile Type 8=0
+Imp=1
+Grand Mantis=2
+GIM47N=0
+Eden=0
+Iron Giant=0
+Grendel=1
+Ochu=0
+Fastitocalon-F=1
+Behemoth=0
+Abyss Worm=0
+[AP]
+AAEXP=620
+PCT=30
+AAPOINTS=1
+TRAINED=2
+high=1
+[Play]
+Playing=false
+GameID= 56838
+Versus=AegisKnight
+Iam=1
+[password]
+failed=1
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=AegisKnight
+result=win
+score=7-3
+[Warnings]
+Kicks=17

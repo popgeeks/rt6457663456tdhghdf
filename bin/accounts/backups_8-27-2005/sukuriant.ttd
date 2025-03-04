@@ -1,0 +1,47 @@
+[player]
+nickname=sukuriant
+password=124783515
+email=sukuriant@yahoo.com
+signup_date=7/29/2005
+playerID=1570
+status=regular
+referal=noktal
+Verify=1
+Last IP=67.35.121.70
+id=30
+IP=67.35.121.70
+adminstatus=off
+match=07-29-2005
+Last Played=07-29-2005
+[Stats]
+Win=2
+Lost=3
+Draw=0
+Lame quits=1
+GP=47
+Newdecks=1
+Level=1
+Exp=96
+Next=100
+AP=98
+Streak=1
+SBWin=1
+[Newdecks]
+Last=07-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 72442
+Versus=Noktal
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Noktal
+result=win
+score=10-8
+[Warnings]
+Kicks=1

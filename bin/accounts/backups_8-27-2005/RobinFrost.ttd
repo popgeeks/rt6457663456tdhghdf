@@ -1,0 +1,46 @@
+[player]
+nickname=RobinFrost
+password=320448875
+email=strikingeagle@gmx.de
+signup_date=6/2/2005
+playerID=592
+status=regular
+referal=
+Verify=1
+Last IP=84.175.206.245
+id=2
+IP=84.175.206.245
+adminstatus=off
+match=06-08-2005
+Last Played=06-08-2005
+[Stats]
+Win=5
+Lost=3
+Draw=1
+Lame quits=0
+GP=282
+rank=1487
+Newdecks=1
+Level=2
+Exp=244
+Next=248
+AP=399
+Streak=1
+Choices=1
+[Newdecks]
+Last=06-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 30180
+Versus=Velius
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=win
+score=11-9

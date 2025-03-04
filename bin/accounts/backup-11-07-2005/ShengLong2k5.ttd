@@ -1,0 +1,44 @@
+[player]
+nickname=ShengLong2k5
+password=GOUTENKOU
+email=sheng.long@ntlworld.com
+signup_date=11/4/2005
+playerID=3139
+status=regular
+referal=
+Verify=1
+Last IP=213.106.73.189
+id=31
+IP=213.106.73.189
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=5
+Lost=25
+Draw=4
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=496
+Next=836
+Streak=-4
+SBDraw=1
+SBLost=3
+Choices=1
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146411
+Versus=MasterD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=9-1

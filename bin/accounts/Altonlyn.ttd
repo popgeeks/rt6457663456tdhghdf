@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=111
+match=11-25-2005
+[Play]
+Playing=false
+GameID= 188799
+Versus=solidsnake
+Iam=1
+[Stats]
+Level=3
+Exp=287
+Next=476
+Streak=2
+[Games]
+Playing=TT
+[game]
+opponent=InuYasha11
+result=win
+score=19-11

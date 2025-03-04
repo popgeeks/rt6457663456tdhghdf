@@ -1,0 +1,34 @@
+[player]
+nickname=cityhunter
+password=19930541
+email=neo_bahumat_2000@hotmail.com
+signup_date=8/11/2005
+playerID=1815
+status=regular
+referal=
+Verify=1
+Last IP=70.27.19.71
+id=36
+IP=70.27.19.71
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=5
+Level=1
+Exp=0
+Next=100
+AP=3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=2

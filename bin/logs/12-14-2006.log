@@ -1,0 +1,248 @@
+
+>> VERSION 2.0.8>> 0.0625s
+>> LOADGAME darkjaxychan ilikebaboon>> 1.125s
+>> VERSION 2.0.8>> 0.03125s
+DarkJaxyChan>> LOADGAME DarkJaxyChan ilikemilk>> 0.484375s
+DarkJaxyChan>> TABLEQUERY 1>> 0.03125s
+DarkJaxyChan>> EXTRACHECK>> 0.03125s
+DarkJaxyChan>> PING>> 0.046875s
+>> VERSION 2.0.8>> 0.03125s
+fluffykitty>> LOADGAME fluffykitty chocobo>> 0.5s
+fluffykitty>> TABLEQUERY 1>> 0.046875s
+fluffykitty>> EXTRACHECK>> 0.046875s
+DarkJaxyChan>> TABLECREATE>> 0.15625s
+DarkJaxyChan>> WEBSERVICE>> 0.03125s
+DarkJaxyChan>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.15625s
+fluffykitty>> TABLEJOIN 1>> 0.703125s
+fluffykitty>> GAMEREADY>> 0.078125s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.03125s
+DarkJaxyChan>> GAMEREADY>> 0.375s
+DarkJaxyChan>> GAMEREADY>> 0.078125s
+fluffykitty>> GAMEREADY>> 0.359375s
+fluffykitty>> GAMEREADY>> 0.078125s
+DarkJaxyChan>> GAMEREADY>> 0.34375s
+DarkJaxyChan>> GAMEREADY>> 0.0625s
+fluffykitty>> GAMEREADY>> 0.34375s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.046875s
+DarkJaxyChan>> PING>> 0.03125s
+DarkJaxyChan>> CHALLENGECHATS /kick 2>> 0.125s
+fluffykitty>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.046875s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.046875s
+fluffykitty>> PING>> 0.03125s
+>> VERSION 2.0.8>> 0.03125s
+squll-typo>> LOADGAME squll-typo cainryan>> 0.59375s
+squll-typo>> TABLEQUERY 1>> 0.046875s
+squll-typo>> EXTRACHECK>> 0.03125s
+DarkJaxyChan>> CHAT about time>> 0.203125s
+DarkJaxyChan>> PING>> 0.03125s
+fluffykitty>> PING>> 0.03125s
+squll-typo>> CHAT pipe down>> 1.125s
+squll-typo>> TABLEJOIN 1>> 0.703125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> GAMEREADY>> 0.0625s
+squll-typo>> GAMEREADY>> 0.84375s
+DarkJaxyChan>> GAMECHAT ~@*~*lets lay some cards first>> 0.0625s
+squll-typo>> GAMECHAT ~@*~*k>> 0.046875s
+DarkJaxyChan>> TT_PLACEAT 1 1>> 0.34375s
+DarkJaxyChan>> PING>> 0.046875s
+fluffykitty>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+fluffykitty>> CHAT /me is away.  Reason: Idle>> 0.1875s
+fluffykitty>> AWAY 1>> 0.03125s
+squll-typo>> TT_PLACEAT 0 0>> 0.359375s
+DarkJaxyChan>> TT_PLACEAT 2 3>> 0.5s
+squll-typo>> TT_PLACEAT 5 2>> 0.28125s
+DarkJaxyChan>> TT_PLACEAT 4 0>> 0.296875s
+squll-typo>> TT_PLACEAT 8 1>> 0.28125s
+>> QUIT 0 1>> 0.28125s
+DarkJaxyChan>> TT_PLACEAT 3 4>> 0.28125s
+DarkJaxyChan>> GAMECHAT ~@*~*kk>> 0.046875s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+squll-typo>> TT_STALEMATE>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*now i try to stalemate and dont do it>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*or you do it>> 0.0625s
+DarkJaxyChan>> GAMECHAT ~@*~*xD>> 0.046875s
+squll-typo>> GAMECHAT ~@*~*can only send 1>> 0.0625s
+DarkJaxyChan>> GAMECHAT ~@*~*hrrm>> 0.0625s
+DarkJaxyChan>> GAMECHAT ~@*~*i think he laid 2 cards at the end>> 0.0625s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*lets test this>> 0.0625s
+squll-typo>> GAMECHAT ~@*~*he got cards back anyway>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*yeah>> 0.046875s
+squll-typo>> TT_PLACEAT 7 4>> 0.203125s
+DarkJaxyChan>> TT_STALEMATE>> 1s
+DarkJaxyChan>> CHAT you have to start>> 0.140625s
+DarkJaxyChan>> TABLECREATE>> 0.15625s
+DarkJaxyChan>> WEBSERVICE>> 0.03125s
+squll-typo>> CHAT hmmm>> 0.1875s
+squll-typo>> TABLEJOIN 1>> 0.75s
+DarkJaxyChan>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.203125s
+DarkJaxyChan>> GAMEREADY>> 0.078125s
+squll-typo>> GAMEREADY>> 0.59375s
+DarkJaxyChan>> TT_STALEMATE>> 0.046875s
+squll-typo>> TT_STALEMATE>> 0.671875s
+DarkJaxyChan>> PING>> 0.03125s
+DarkJaxyChan>> TABLECREATE>> 0.15625s
+DarkJaxyChan>> WEBSERVICE>> 0.03125s
+squll-typo>> PING>> 0.046875s
+DarkJaxyChan>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.140625s
+squll-typo>> TABLEJOIN 1>> 0.71875s
+DarkJaxyChan>> GAMEREADY>> 0.0625s
+squll-typo>> GAMEREADY>> 0.578125s
+DarkJaxyChan>> PING>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*wtf>> 0.046875s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> TT_STALEMATE>> 0.0625s
+squll-typo>> TT_STALEMATE>> 0.59375s
+DarkJaxyChan>> TABLECREATE>> 0.15625s
+DarkJaxyChan>> WEBSERVICE>> 0.03125s
+DarkJaxyChan>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.203125s
+squll-typo>> TABLEJOIN 1>> 0.96875s
+DarkJaxyChan>> GAMEREADY>> 0.0625s
+squll-typo>> GAMEREADY>> 0.578125s
+squll-typo>> TT_STALEMATE>> 0.046875s
+DarkJaxyChan>> TT_STALEMATE>> 0.578125s
+DarkJaxyChan>> CHAT now make teh table>> 0.140625s
+squll-typo>> TABLECREATE>> 0.171875s
+DarkJaxyChan>> TABLEJOIN 1>> 0.625s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> WEBSERVICE>> 0.03125s
+squll-typo>> PING>> 0.046875s
+squll-typo>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Standard>> 0.1875s
+DarkJaxyChan>> GAMEREADY>> 0.078125s
+squll-typo>> GAMEREADY>> 0.578125s
+squll-typo>> TT_PLACEAT 0 0>> 0.21875s
+DarkJaxyChan>> GAMECHAT ~@*~*okay>> 0.046875s
+DarkJaxyChan>> TT_PLACEAT 2 3>> 0.203125s
+squll-typo>> TT_PLACEAT 1 2>> 0.203125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> TT_PLACEAT 4 2>> 0.265625s
+squll-typo>> TT_PLACEAT 3 1>> 0.25s
+DarkJaxyChan>> TT_PLACEAT 5 0>> 0.1875s
+squll-typo>> TT_PLACEAT 6 3>> 0.1875s
+DarkJaxyChan>> GAMECHAT ~@*~*k now wait>> 0.0625s
+DarkJaxyChan>> GAMECHAT ~@*~*try to hax now>> 0.046875s
+squll-typo>> GAMECHAT ~@*~*k>> 0.078125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+squll-typo>> GAMECHAT ~@*~*cant>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*i do it>> 0.046875s
+squll-typo>> TT_STALEMATE>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*naw>> 0.0625s
+DarkJaxyChan>> GAMECHAT ~@*~*just wait xD>> 0.046875s
+DarkJaxyChan>> GAMECHAT ~@*~*and look at my skills>> 0.046875s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.046875s
+DarkJaxyChan>> >> 0s
+DarkJaxyChan>> TT_PLACEAT 8 4>> 2.71875s
+DarkJaxyChan>> CHAT okay wasnt that one>> 0.140625s
+squll-typo>> CHAT hmmm>> 0.15625s
+DarkJaxyChan>> CHAT score acts normal>> 0.15625s
+DarkJaxyChan>> PING>> 0.046875s
+squll-typo>> PING>> 0.203125s
+DarkJaxyChan>> TABLEJOIN 1>> 0.640625s
+squll-typo>> WEBSERVICE>> 0.03125s
+squll-typo>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Standard>> 0.203125s
+DarkJaxyChan>> GAMEREADY>> 0.0625s
+squll-typo>> GAMEREADY>> 0.609375s
+DarkJaxyChan>> GAMECHAT ~@*~*you have any idea?>> 0.046875s
+squll-typo>> GAMECHAT ~@*~*not really>> 0.078125s
+squll-typo>> GAMECHAT ~@*~*ur the haxor>> 0.046875s
+squll-typo>> TT_PLACEAT 0 2>> 0.1875s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> GAMECHAT ~@*~*well 2 cards was to play and score was 5-5>> 0.046875s
+DarkJaxyChan>> TT_PLACEAT 2 1>> 0.234375s
+squll-typo>> TT_PLACEAT 1 0>> 0.34375s
+DarkJaxyChan>> TT_PLACEAT 4 4>> 0.265625s
+squll-typo>> TT_PLACEAT 3 4>> 0.265625s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> TT_STALEMATE>> 0.046875s
+DarkJaxyChan>> TT_ENDGAME>> 0.078125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> TT_PLACEAT 5 0>> 0.1875s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.046875s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+squll-typo>> TT_PLACEAT 6 1>> 0.234375s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> TT_PLACEAT 7 2>> 0.234375s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.046875s
+squll-typo>> TT_PLACEAT 8 3>> 2.1875s
+squll-typo>> TT_TAKECARD 801349 Leviathan Eden Pandemona Laguna Seifer>> 0.78125s
+DarkJaxyChan>> CHAT bastar.d>> 0.125s
+squll-typo>> CHAT lmao>> 0.171875s
+DarkJaxyChan>> CHAT well any other ideas?>> 0.15625s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.046875s
+squll-typo>> CHAT nope i r n00b>> 0.140625s
+DarkJaxyChan>> CHAT i check teh snaps again>> 0.125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> WEBSERVICE>> 0.046875s
+squll-typo>> PING>> 0.03125s
+squll-typo>> CARDPACK Disney%20Pack>> 0.921875s
+squll-typo>> CARDPACK Final%20Fantasy%20Pack>> 0.84375s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+squll-typo>> WEBSERVICE>> 0.03125s
+squll-typo>> WEBSERVICE>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> TABLECREATE>> 0.15625s
+DarkJaxyChan>> WEBSERVICE>> 0.03125s
+squll-typo>> TABLEJOIN 1>> 0.703125s
+DarkJaxyChan>> CHANGERULE 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Anime CC FF7 FF9 FFAC FFT FFX KingdomHearts Nintendo Sega Standard Suikoden2 XenoTrigger>> 0.203125s
+DarkJaxyChan>> GAMEREADY>> 0.078125s
+squll-typo>> GAMEREADY>> 0.5625s
+DarkJaxyChan>> GAMECHAT ~@*~*lets lay a few cards>> 0.046875s
+squll-typo>> TT_PLACEAT 0 1>> 0.1875s
+DarkJaxyChan>> TT_PLACEAT 1 0>> 0.28125s
+squll-typo>> TT_PLACEAT 3 4>> 0.3125s
+DarkJaxyChan>> TT_PLACEAT 2 3>> 0.21875s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> TT_PLACEAT 6 0>> 0.171875s
+squll-typo>> PING>> 0.046875s
+DarkJaxyChan>> TT_PLACEAT 4 4>> 0.3125s
+squll-typo>> TT_PLACEAT 5 2>> 0.296875s
+DarkJaxyChan>> TT_STALEMATE>> 0.046875s
+DarkJaxyChan>> TT_ENDGAME>> 0.0625s
+DarkJaxyChan>> TT_SURRENDER>> 0.984375s
+DarkJaxyChan>> PING>> 0.03125s
+squll-typo>> PING>> 0.046875s
+squll-typo>> CHAT must have been a 1 time error>> 0.171875s
+DarkJaxyChan>> CHAT only way to lose 9-1>> 0.171875s
+DarkJaxyChan>> CHAT yeah i guess>> 0.15625s
+DarkJaxyChan>> PING>> 0.046875s
+squll-typo>> PING>> 0.046875s
+DarkJaxyChan>> CHAT u got any cards though?>> 0.140625s
+squll-typo>> CHAT offered all of em>> 0.140625s
+squll-typo>> CHAT but did'nt take any>> 0.15625s
+DarkJaxyChan>> PING>> 0.046875s
+squll-typo>> PING>> 0.03125s
+DarkJaxyChan>> CHAT well ok ty for your help>> 0.140625s
+>> QUIT 0 1>> 0.21875s
+>> QUIT 0 1>> 0.265625s

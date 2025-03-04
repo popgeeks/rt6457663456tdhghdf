@@ -1,0 +1,48 @@
+[player]
+nickname=Steampunk
+password=Swanheart
+email=Bert.Zelkoenig@gmx.de
+signup_date=6/1/2005
+playerID=579
+status=regular
+referal=
+Verify=1
+Last IP=84.60.9.118
+id=35
+IP=84.60.9.118
+adminstatus=off
+match=06-13-2005
+Last Played=06-13-2005
+[Stats]
+Win=69
+Lost=86
+Draw=17
+Lame quits=1
+GP=385
+rank=907
+Newdecks=1
+Level=11
+Exp=4595
+Next=4838
+AP=3395
+Streak=-5
+Choices=1
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=98
+honor=1
+PCT=10
+[Play]
+Playing=false
+GameID= 32653
+Versus=MGdaGR8est
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=MGdaGR8est
+result=loss
+score=15-9

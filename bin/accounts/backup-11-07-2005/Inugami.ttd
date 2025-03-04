@@ -1,0 +1,41 @@
+[player]
+nickname=Inugami
+password=929519115
+email=xviosx@gmail.com
+signup_date=9/26/2005
+playerID=2513
+status=regular
+referal=
+Verify=1
+Last IP=66.67.192.16
+id=127
+IP=66.67.192.16
+adminstatus=off
+match=09-26-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=44
+Next=100
+Streak=-2
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 114695
+Versus=phreakazoid
+Iam=1
+[password]
+failed=3
+[Games]
+Playing=OTT
+[game]
+opponent=phreakazoid
+result=loss
+score=11-9

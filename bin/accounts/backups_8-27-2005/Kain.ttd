@@ -1,0 +1,32 @@
+[player]
+nickname=Kain
+password=Ash99Fazio
+email=kain_mikado@yahoo.com
+signup_date=8/12/2005
+playerID=1820
+status=regular
+referal=Randomly
+Verify=1
+Last IP=68.233.139.214
+id=193
+IP=68.233.139.214
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=30
+[Newdecks]
+Last=08-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

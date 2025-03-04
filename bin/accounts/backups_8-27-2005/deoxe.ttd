@@ -1,0 +1,53 @@
+[player]
+nickname=deoxe
+password=tq4ever
+email=rayisuno@hotmail.com
+signup_date=7/16/2005
+playerID=1299
+status=regular
+referal=friend
+Verify=1
+Last IP=84.9.50.155
+id=11
+IP=84.9.50.155
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+match=08-18-2005
+Last Played=08-18-2005
+[Stats]
+Win=67
+Lost=68
+Draw=48
+Lame quits=1
+GP=80
+Newdecks=1
+Level=8
+Exp=2461
+Next=2698
+AP=2853
+Streak=-1
+Choices=1
+SBWin=1
+SBLost=1
+[Newdecks]
+Last=07-16-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 87376
+Versus=SSJCloud85
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=SSJCloud85
+result=loss
+score=6-4

@@ -1,0 +1,44 @@
+[player]
+nickname=minotaur
+password=45935213
+email=jschmidt@udel.edu
+signup_date=6/7/2005
+playerID=649
+status=regular
+referal=
+Verify=1
+Last IP=68.50.148.56
+id=35
+IP=68.50.148.56
+adminstatus=off
+match=06-07-2005
+Last Played=06-07-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=10
+rank=1500
+Newdecks=1
+Level=1
+Exp=21
+Next=100
+AP=58
+[Newdecks]
+Last=06-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 29968
+Versus=KIAxel
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=KIAxel
+result=draw
+score=10-10

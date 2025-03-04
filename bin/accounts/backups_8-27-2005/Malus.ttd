@@ -1,0 +1,45 @@
+[player]
+nickname=Malus
+password=lucille
+email=malus_overlord@hotmail.com
+signup_date=7/4/2005
+playerID=1030
+status=regular
+referal=
+Verify=1
+Last IP=71.111.51.37
+id=38
+IP=71.111.51.37
+adminstatus=off
+match=07-06-2005
+Last Played=07-06-2005
+[Stats]
+Win=8
+Lost=14
+Draw=2
+Lame quits=0
+GP=568
+Newdecks=1
+Level=3
+Exp=283
+Next=476
+AP=770
+Streak=-3
+Choices=1
+[Newdecks]
+Last=07-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 50269
+Versus=iraqinavy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=iraqinavy
+result=loss
+score=13-7

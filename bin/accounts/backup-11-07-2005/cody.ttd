@@ -1,0 +1,31 @@
+[player]
+nickname=cody
+password=602816163
+email=cody1344@aol.com
+signup_date=6/29/2005
+playerID=923
+status=regular
+referal=qwet
+Verify=1
+Last IP=65.6.13.43
+id=31
+IP=65.6.13.43
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=06-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

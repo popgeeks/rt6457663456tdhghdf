@@ -1,0 +1,19 @@
+[player]
+nickname=diego
+password=385845064
+email=diprato@hotmail.com
+signup_date=6/25/2005
+playerID=831
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-25-2005

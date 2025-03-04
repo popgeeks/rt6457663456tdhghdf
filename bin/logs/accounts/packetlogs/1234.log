@@ -1,0 +1,46 @@
+QUERYTABLES 1
+EXTRACHECK
+QUIT 0 1
+QUERYTABLES 1
+EXTRACHECK
+JOINTABLE 3
+TABLECLOSE
+CREATETABLE
+PING
+CHANGERULE Open Normal 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard FFT FF9 FF7 CC Anime
+GAMEREADY
+PSTATS Hyuuga
+GAMEREADY
+CHANGERULE Open Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard FFT FF9 FF7 CC Anime
+GAMEREADY
+CHANGERULE Open Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard FFT FF9 FF7 CC Anime
+GAMEREADY
+MYCARD 0 Wedge,%20Biggs
+MYCARD 1 GIM47N
+MYCARD 2 Hexadragon
+MYCARD 3 Ochu
+MYCARD 4 SAM08G
+READY 1234
+PLACEAT 1 0 Hyuuga
+PLACEAT 0 4 Hyuuga
+PLACEAT 8 3 Hyuuga
+PLACEAT 2 2 Hyuuga
+CREATETABLE
+CHANGERULE Open Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard FFT FF9 FF7 CC Anime
+CHANGERULE Open Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard FFT FF9 FF7 CC Anime
+GAMEREADY
+PING
+MYCARD 0 Hexadragon
+MYCARD 1 Ochu
+MYCARD 2 Belhelmel
+MYCARD 3 Buel
+MYCARD 4 Mesmerize
+READY 1234
+PLACEAT 1 3 Hyuuga
+PLACEAT 0 4 Hyuuga
+PLACEAT 7 0 Hyuuga
+PLACEAT 5 1 Hyuuga
+CREATETABLE
+CHANGERULE Open Normal 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard FFT FF9 FF7 CC Anime
+TABLECLOSE
+QUIT 0 1

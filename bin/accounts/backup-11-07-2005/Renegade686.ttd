@@ -1,0 +1,44 @@
+[player]
+nickname=Renegade686
+password=floridaus
+email=brianc6@hotmail.com
+signup_date=9/23/2005
+playerID=2442
+status=regular
+referal=
+Verify=1
+Last IP=83.71.77.105
+id=12
+IP=83.71.77.105
+adminstatus=off
+match=09-26-2005
+[Stats]
+Win=13
+Lost=26
+Draw=9
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=1013
+Next=1301
+Streak=-1
+SBDraw=1
+Choices=1
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 114486
+Versus=ElloneLoire
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=ElloneLoire
+result=loss
+score=14-6

@@ -1,0 +1,45 @@
+[player]
+nickname=Pupu-Army
+password=pupucount
+email=andrewlwilde@hotmail.com
+signup_date=5/22/2005
+playerID=508
+status=regular
+referal=
+Verify=1
+Last IP=67.110.118.26
+id=33
+IP=67.110.118.26
+adminstatus=off
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=1
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=4
+GP=30826
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=12368
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 141937
+Versus=Eidolon
+Iam=2
+[password]
+failed=6
+[Games]
+Challenged=
+Playing=OTT
+[Warnings]
+Kicks=13

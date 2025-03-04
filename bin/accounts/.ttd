@@ -1,0 +1,36 @@
+[Play]
+Playing=false
+GameID= 444277
+Versus=EduBassMan
+Iam=1
+[Stats]
+Wins=
+Lost=12
+Draw=3370
+Win=58
+GP=16955
+Level=2
+Exp=208
+Next=248
+Streak=3
+AP=351
+Choices=1
+Lame quits=1
+[player]
+guildinvite=3
+guildinvite_name=Servants of Darkness
+Last IP=192.168.0.2
+status=regular
+id=1
+IP=192.168.0.2
+adminstatus=off
+match=07-25-2006
+Last Played=08-20-2005
+[AP]
+AAEXP=0
+[game]
+opponent=Norsa
+result=draw
+score=10-10
+[Games]
+Playing=OTT

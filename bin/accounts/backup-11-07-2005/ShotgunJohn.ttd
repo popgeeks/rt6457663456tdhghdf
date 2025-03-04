@@ -1,0 +1,41 @@
+[player]
+nickname=ShotgunJohn
+password=327065348
+email=cuteandheavilyarmed@hotmail.com
+signup_date=9/29/2005
+playerID=2546
+status=regular
+referal=hk47tk36
+Verify=1
+Last IP=137.186.191.118
+id=130
+IP=137.186.191.118
+adminstatus=off
+match=09-29-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+Streak=1
+[Newdecks]
+Last=09-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 116693
+Versus=DarkJaxyChan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=7-3

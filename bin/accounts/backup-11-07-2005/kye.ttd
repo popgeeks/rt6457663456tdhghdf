@@ -1,0 +1,43 @@
+[player]
+nickname=kye
+password=mison
+email=kye_mison@hotmail.com
+signup_date=11/1/2005
+playerID=3100
+status=regular
+referal=
+Verify=1
+Last IP=210.50.156.123
+id=50
+IP=210.50.156.123
+adminstatus=off
+match=11-02-2005
+[Stats]
+Win=4
+Lost=12
+Draw=4
+Lame quits=0
+Newdecks=7
+Level=3
+Exp=272
+Next=476
+Streak=-7
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=11-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 142602
+Versus=KingOfMetal
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=KingOfMetal
+result=loss
+score=11-9

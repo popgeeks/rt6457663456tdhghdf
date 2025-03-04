@@ -1,0 +1,43 @@
+[player]
+nickname=RAVER1585
+password=197295844
+email=wtrry1193@yahoo.com
+signup_date=9/13/2005
+playerID=2256
+status=regular
+referal=
+Verify=1
+Last IP=24.143.16.125
+id=16
+IP=24.143.16.125
+adminstatus=off
+match=09-13-2005
+[Stats]
+Win=3
+Lost=4
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=158
+Next=248
+SBLost=1
+Streak=-2
+SBWin=1
+[Newdecks]
+Last=09-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104602
+Versus=taliesin2943
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=taliesin2943
+result=loss
+score=13-5

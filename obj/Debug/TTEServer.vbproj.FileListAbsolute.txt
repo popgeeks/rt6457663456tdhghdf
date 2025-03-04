@@ -1,0 +1,133 @@
+C:\Certification\Version 4\Server\Server\bin\DarkWind_Server.exe.config
+C:\Certification\Version 4\Server\Server\bin\DarkWind_Server.exe.manifest
+C:\Certification\Version 4\Server\Server\bin\DarkWind_Server.application
+C:\Certification\Version 4\Server\Server\bin\DarkWind_Server.exe
+C:\Certification\Version 4\Server\Server\bin\DarkWind_Server.pdb
+C:\Certification\Version 4\Server\Server\bin\DarkWind_Server.xml
+C:\Certification\Version 4\Server\Server\bin\AxWinsockArray.dll
+C:\Certification\Version 4\Server\Server\bin\DataLayer.dll
+C:\Certification\Version 4\Server\Server\bin\Entities.dll
+C:\Certification\Version 4\Server\Server\bin\ErrorLogging.dll
+C:\Certification\Version 4\Server\Server\bin\LogicLayer.dll
+C:\Certification\Version 4\Server\Server\bin\MySql.Data.dll
+C:\Certification\Version 4\Server\Server\bin\FMWK.dll
+C:\Certification\Version 4\Server\Server\bin\Interop.MSWinsockLib.dll
+C:\Certification\Version 4\Server\Server\bin\AxInterop.MSWinsockLib.dll
+C:\Certification\Version 4\Server\Server\bin\LogicLayer.pdb
+C:\Certification\Version 4\Server\Server\bin\LogicLayer.xml
+C:\Certification\Version 4\Server\Server\bin\ErrorLogging.pdb
+C:\Certification\Version 4\Server\Server\bin\ErrorLogging.xml
+C:\Certification\Version 4\Server\Server\bin\DataLayer.pdb
+C:\Certification\Version 4\Server\Server\bin\DataLayer.xml
+C:\Certification\Version 4\Server\Server\bin\Entities.pdb
+C:\Certification\Version 4\Server\Server\bin\Entities.xml
+C:\Certification\Version 4\Server\Server\bin\MySQLFactory.pdb
+C:\Certification\Version 4\Server\Server\bin\MySQLFactory.xml
+C:\Certification\Version 4\Server\Server\bin\FMWK.pdb
+C:\Certification\Version 4\Server\Server\bin\FMWK.xml
+C:\Certification\Version 4\Server\Server\bin\Interop.DAO.dll
+C:\Certification\Version 4\Server\Server\bin\Interop.InetCtlsObjects.dll
+C:\Certification\Version 4\Server\Server\bin\Interop.TTEServerEncrypt64.dll
+C:\Certification\Version 4\Server\Server\bin\AxInterop.InetCtlsObjects.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Certification\Version 4\Server\Server\obj\Debug\Interop.DAO.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\Interop.MSWinsockLib.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\Interop.TTEServerEncrypt64.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Certification\Version 4\Server\Server\obj\Debug\TTEServer.vbproj.ResolveComReference.cache
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.frmserver.resources
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.frmSystray.resources
+C:\Certification\Version 4\Server\Server\obj\Debug\TTEServer.vbproj.GenerateResource.Cache
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.TrustInfo.xml
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.exe.manifest
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.application
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.exe
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.xml
+C:\Certification\Version 4\Server\Server\obj\Debug\DarkWind_Server.pdb
+D:\Certification\backup\Version 4\Server\Server\bin\DarkWind_Server.exe.config
+D:\Certification\backup\Version 4\Server\Server\bin\DarkWind_Server.exe.manifest
+D:\Certification\backup\Version 4\Server\Server\bin\DarkWind_Server.application
+D:\Certification\backup\Version 4\Server\Server\bin\DarkWind_Server.exe
+D:\Certification\backup\Version 4\Server\Server\bin\DarkWind_Server.pdb
+D:\Certification\backup\Version 4\Server\Server\bin\DarkWind_Server.xml
+D:\Certification\backup\Version 4\Server\Server\bin\AxWinsockArray.dll
+D:\Certification\backup\Version 4\Server\Server\bin\DataLayer.dll
+D:\Certification\backup\Version 4\Server\Server\bin\Entities.dll
+D:\Certification\backup\Version 4\Server\Server\bin\LogicLayer.dll
+D:\Certification\backup\Version 4\Server\Server\bin\MySql.Data.dll
+D:\Certification\backup\Version 4\Server\Server\bin\FMWK.dll
+D:\Certification\backup\Version 4\Server\Server\bin\AxInterop.MSWinsockLib.dll
+D:\Certification\backup\Version 4\Server\Server\bin\Interop.MSWinsockLib.dll
+D:\Certification\backup\Version 4\Server\Server\bin\LogicLayer.pdb
+D:\Certification\backup\Version 4\Server\Server\bin\LogicLayer.xml
+D:\Certification\backup\Version 4\Server\Server\bin\DataLayer.pdb
+D:\Certification\backup\Version 4\Server\Server\bin\DataLayer.xml
+D:\Certification\backup\Version 4\Server\Server\bin\Entities.pdb
+D:\Certification\backup\Version 4\Server\Server\bin\Entities.xml
+D:\Certification\backup\Version 4\Server\Server\bin\FMWK.pdb
+D:\Certification\backup\Version 4\Server\Server\bin\FMWK.xml
+D:\Certification\backup\Version 4\Server\Server\bin\Interop.DAO.dll
+D:\Certification\backup\Version 4\Server\Server\bin\Interop.InetCtlsObjects.dll
+D:\Certification\backup\Version 4\Server\Server\bin\AxInterop.InetCtlsObjects.dll
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\Interop.DAO.dll
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\Interop.InetCtlsObjects.dll
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\Interop.MSWinsockLib.dll
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\AxInterop.InetCtlsObjects.dll
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\TTEServer.vbproj.ResolveComReference.cache
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.frmserver.resources
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.frmSystray.resources
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\ResGen.read.1.tlog
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\ResGen.write.1.tlog
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.TrustInfo.xml
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.exe.manifest
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.application
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.exe
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.xml
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\DarkWind_Server.pdb
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\GenerateResource.read.1.tlog
+D:\Certification\backup\Version 4\Server\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DarkWind_Server.exe.config
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DarkWind_Server.exe.manifest
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DarkWind_Server.application
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DarkWind_Server.exe
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DarkWind_Server.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DarkWind_Server.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\AxWinsockArray.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DataLayer.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\Entities.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\FMWK.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\LogicLayer.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\MySql.Data.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\LogicLayer.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\LogicLayer.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DataLayer.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\DataLayer.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\Entities.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\Entities.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\FMWK.pdb
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\FMWK.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\Interop.DAO.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\Interop.InetCtlsObjects.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\Interop.MSWinsockLib.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\AxInterop.InetCtlsObjects.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\bin\AxInterop.MSWinsockLib.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\TTEServer.vbprojResolveAssemblyReference.cache
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\Interop.DAO.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\TTEServer.vbproj.ResolveComReference.cache
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.frmserver.resources
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.frmSystray.resources
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\TTEServer.vbproj.GenerateResource.Cache
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.TrustInfo.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.exe.manifest
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.application
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.exe
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.xml
+C:\Users\Atomicstorm\Documents\Visual Studio 2012\Projects\_clientapps\_tte\Server\obj\Debug\DarkWind_Server.pdb

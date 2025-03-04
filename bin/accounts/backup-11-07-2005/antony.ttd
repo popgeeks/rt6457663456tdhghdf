@@ -1,0 +1,43 @@
+[player]
+nickname=antony
+password=520118593
+email=antony@atlas.cz
+signup_date=9/19/2005
+playerID=2364
+status=regular
+referal=antony
+Verify=1
+Last IP=84.242.95.123
+id=23
+IP=84.242.95.123
+adminstatus=off
+match=09-19-2005
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=80
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=09-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 108595
+Versus=squll-typo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=16-2

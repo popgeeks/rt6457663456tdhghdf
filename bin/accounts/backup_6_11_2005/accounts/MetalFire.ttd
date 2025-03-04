@@ -1,0 +1,48 @@
+[player]
+nickname=MetalFire
+password=489056288
+email=digimonmaster88@aol.com
+signup_date=6/4/2005
+playerID=614
+status=regular
+referal=Fire
+Verify=1
+Last IP=172.176.244.137
+id=20
+IP=172.176.244.137
+adminstatus=off
+match=06-06-2005
+Last Played=06-06-2005
+[Stats]
+Win=11
+Lost=24
+Draw=3
+Lame quits=0
+GP=312
+rank=961
+Newdecks=1
+Level=5
+Exp=867
+Next=1301
+AP=1143
+Streak=-1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=06-04-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 29108
+Versus=chocobo
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=chocobo
+result=loss
+score=10-8

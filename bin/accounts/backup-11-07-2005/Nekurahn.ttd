@@ -1,0 +1,41 @@
+[player]
+nickname=Nekurahn
+password=accessdenied
+email=nekky_prime@hotmail.com
+signup_date=10/16/2005
+playerID=2880
+status=regular
+referal=
+Verify=1
+Last IP=69.70.0.218
+id=30
+IP=69.70.0.218
+adminstatus=off
+match=10-16-2005
+[Stats]
+Win=1
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=40
+Next=100
+Streak=-2
+[Newdecks]
+Last=10-16-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 130274
+Versus=Conan
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Conan
+result=loss
+score=7-3

@@ -1,0 +1,20 @@
+[player]
+nickname=tomekubek1
+password=702102302
+email=tomekubek@02.pl
+signup_date=4/25/2005
+playerID=192
+status=regular
+referal=tomekubek@o2.pl
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-25-2005

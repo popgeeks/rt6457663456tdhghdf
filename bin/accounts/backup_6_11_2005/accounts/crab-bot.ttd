@@ -1,0 +1,110 @@
+[player]
+nickname=crab-bot
+password=412luck
+email=gamewar@yahoo.com
+signup_date=3/13/2005
+playerID=54
+status=none
+Verify=1
+Last IP=192.168.0.2
+id=5
+IP=192.168.0.2
+adminstatus=off
+Last Played=06-11-2005
+guildinvite=
+guildinvite_name=
+guild=Bots of Doom
+guildmaster=3
+[Stats]
+Win=72
+Lost=400
+Draw=84
+Lame quits=13
+GP=5540
+rank=612
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=-10
+Choices=1
+AP=33556
+Wins=57
+[Newdecks]
+Last=03-13-2005
+[Totals]
+Level1=5
+Level2=5
+Level3=5
+Level4=5
+Level5=5
+Level6=5
+Level7=5
+Level8=5
+Level9=5
+Level10=5
+Total=60
+[cards]
+GIM47N=1 
+Ruby Dragon=1 
+Fujin, Raijin=1 
+X-ATM092=1 
+Gerogero=1 
+Iguion=1 
+Abadon=1 
+Trauma=1 
+Shumi Tribe=1 
+Krysta=1 
+Jumbo Cactuar=1 
+Mobile Type 8=1 
+Tiamat=1 
+BGH251F2=1 
+Adamantoise=1 
+Creeps=1 
+Blobra=1
+Geezard=1 
+Funguar=1 
+Blood Soul=1 
+Pupu=2 
+Grat=1 
+Buel=1 
+Mesmerize=1 
+Glacial Eye=1 
+Belhelmel=1 
+Thrustaevis=1 
+Anacondaur=1 
+Grendel=1 
+Armadodo=1 
+Tri-Face=1 
+Ochu=1 
+Rinoa=1 
+SAM08G=1 
+Cactuar=2 
+Tonberry=2 
+Vysage=2 
+Squall=1 
+T-Rexaur=1 
+Edea=1 
+Wendigo=1 
+Torama=1 
+Imp=1 
+Blue Dragon=1 
+Eden=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 31520
+Versus=bleedforme
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[Admin]
+Passkey=41257448
+[game]
+opponent=bleedforme
+result=loss
+score=7-3

@@ -1,0 +1,72 @@
+[player]
+nickname=Jorge85
+password=perkinator
+email=jorgmees@etsid.upv.es
+signup_date=3/22/05
+playerID=43
+status=regular
+Verify=1
+Last IP=80.102.152.93
+id=9
+IP=80.102.152.93
+adminstatus=off
+Last Played=03-23-2005
+[Stats]
+Win=2
+Lost=2
+Draw=0
+Lame quits=0
+GP=70
+rank=1499
+Newdecks=1
+Level=2
+Exp=108
+Next=248
+Streak=-1
+Choices=1
+Wins=2
+[Newdecks]
+Last=03-22-2005
+[Totals]
+Level1=3
+Level2=1
+Level3=2
+Level4=4
+Level5=0
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Wendigo=1
+Tri-Face=0
+Iguion=0
+Ochu=2
+Turtapod=1
+Geezard=1
+Glacial Eye=1
+Gayla=1
+Shumi Tribe=1
+Blue Dragon=1
+Elvoret=1
+Imp=1
+Bite Bug=1
+Fujin, Raijin=1
+Red Giant=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Boko
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Boko
+result=loss
+score=9-1

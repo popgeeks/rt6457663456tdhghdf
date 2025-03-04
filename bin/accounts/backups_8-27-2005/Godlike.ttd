@@ -1,0 +1,20 @@
+[player]
+nickname=Godlike
+password=654455661
+email=lol@sofort-mail.de
+signup_date=7/21/2005
+playerID=1408
+status=regular
+referal=bester
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-21-2005
+[password]
+failed=2

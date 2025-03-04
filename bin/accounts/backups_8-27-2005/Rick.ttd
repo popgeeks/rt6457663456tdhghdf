@@ -1,0 +1,53 @@
+[player]
+nickname=Rick
+password=saifora
+email=ricklopes_@hotmail.com
+signup_date=5/18/2005
+playerID=417
+status=regular
+referal=Rick
+Verify=1
+Last IP=200.171.96.110
+id=28
+IP=200.171.96.110
+adminstatus=off
+match=08-18-2005
+Last Played=08-18-2005
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=20
+Lost=51
+Draw=6
+Lame quits=1
+GP=2020
+rank=1026
+Newdecks=23
+Level=6
+Exp=1608
+Next=1727
+AP=3097
+Streak=-5
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=06-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID=87502
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=blizzard
+result=draw
+score=10-10

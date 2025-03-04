@@ -1,0 +1,32 @@
+[player]
+nickname=DevilEther
+password=60334443
+email=puffynoles@hotmail.com
+signup_date=5/20/2005
+playerID=426
+status=regular
+referal=Pakelika
+Verify=1
+Last IP=64.78.73.95
+id=20
+IP=64.78.73.95
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,30 @@
+[player]
+nickname=KaruthmaShey
+password=70915996
+email=Hays909@hotmail.com
+signup_date=9/22/2005
+playerID=2427
+status=regular
+referal=MPOGD
+Verify=1
+Last IP=70.245.163.245
+id=46
+IP=70.245.163.245
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

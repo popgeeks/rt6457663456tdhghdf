@@ -1,0 +1,55 @@
+[player]
+nickname=Moonlight
+password=leophiness
+email=fanea112@yahoo.com
+signup_date=7/15/2005
+playerID=1270
+status=regular
+referal=Friend
+Verify=1
+Last IP=212.200.202.133
+id=21
+IP=212.200.202.133
+adminstatus=off
+match=07-21-2005
+Last Played=07-21-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=35
+Lost=46
+Draw=20
+Lame quits=1
+GP=4
+Newdecks=3
+Level=5
+Exp=1169
+Next=1301
+AP=828
+SoldCards=0
+cardsgiven=0
+Streak=1
+Choices=1
+SBLost=1
+[Newdecks]
+Last=07-15-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 89843
+Versus=GambitX
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=olrak
+result=win
+score=9-1
+[Warnings]
+Kicks=1

@@ -1,0 +1,32 @@
+[player]
+nickname=jion
+password=19890203
+email=meninoestranho-tripletriad@yahoo.com.br
+signup_date=11/5/2005
+playerID=3166
+status=regular
+referal=jion
+Verify=1
+Last IP=201.14.252.122
+id=50
+IP=201.14.252.122
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=17
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=11-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

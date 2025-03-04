@@ -1,0 +1,43 @@
+[player]
+nickname=Lemau
+password=278796314
+email=l_e_x_1@hotmail.com
+signup_date=8/31/2005
+playerID=2042
+status=regular
+referal=
+Verify=1
+Last IP=82.74.137.16
+id=11
+IP=82.74.137.16
+adminstatus=off
+match=08-31-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=47
+Next=100
+SBLost=1
+Streak=2
+SBWin=1
+[Newdecks]
+Last=08-31-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 95830
+Versus=dark-wing
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=dark-wing
+result=win
+score=53-45

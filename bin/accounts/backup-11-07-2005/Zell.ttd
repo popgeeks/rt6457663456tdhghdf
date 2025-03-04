@@ -1,0 +1,33 @@
+[player]
+nickname=Zell
+password=262289464
+email=Jin123@comcast.net
+signup_date=6/13/2005
+playerID=696
+status=regular
+referal=
+Verify=1
+Last IP=24.3.34.177
+id=16
+IP=24.3.34.177
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=2775
+[Newdecks]
+Last=06-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=2

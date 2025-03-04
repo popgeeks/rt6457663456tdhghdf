@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=21
+match=12-10-2005
+[Play]
+Playing=false
+GameID= 167744
+Versus=MasterD
+Iam=1
+[Stats]
+Level=1
+Exp=43
+Next=100
+Streak=-1
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=8-2

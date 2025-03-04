@@ -1,0 +1,59 @@
+[player]
+nickname=Alvaro
+password=44103720
+email=alvarormn@gmail.com
+signup_date=4/23/2005
+playerID=189
+status=regular
+referal=
+Verify=1
+Last IP=200.210.190.48
+id=2
+IP=200.210.190.48
+adminstatus=off
+match=05-26-2005
+Last Played=05-26-2005
+guildmaster=2
+guild=Sith Lords
+[Stats]
+Win=570
+Lost=455
+Draw=176
+Lame quits=10
+GP=1417
+rank=2471
+Newdecks=7
+Level=28
+Exp=27822
+Next=28988
+Streak=2
+Choices=1
+SoldCards=15
+cardsgiven=0
+Wins=331
+AP=2567
+SBDraw=1
+SBLost=1
+[Newdecks]
+Last=05-04-2005
+[AP]
+AAEXP=1168
+honor=1
+PCT=100
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 22611
+Versus=Russell101
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Russell101
+result=win
+score=11-9
+[Warnings]
+Warns=1

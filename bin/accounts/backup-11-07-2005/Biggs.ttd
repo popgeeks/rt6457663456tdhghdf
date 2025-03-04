@@ -1,0 +1,41 @@
+[player]
+nickname=Biggs
+password=53921699
+email=gregglen161@hotmail.com
+signup_date=9/26/2005
+playerID=2494
+status=regular
+referal=Greg
+Verify=1
+Last IP=69.192.221.10
+id=76
+IP=69.192.221.10
+adminstatus=off
+match=09-26-2005
+[Stats]
+Win=0
+Lost=4
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=36
+Next=100
+Streak=-3
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 114062
+Versus=phreakazoid
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=phreakazoid
+result=loss
+score=6-4

@@ -1,0 +1,45 @@
+[player]
+nickname=Delfin
+password=delfin
+email=marcvalls_mompo@hotmail.com
+signup_date=7/12/2005
+playerID=1213
+status=regular
+referal=
+Verify=1
+Last IP=217.127.169.39
+id=28
+IP=217.127.169.39
+adminstatus=off
+match=07-15-2005
+Last Played=07-15-2005
+[Stats]
+Win=8
+Lost=20
+Draw=7
+Lame quits=0
+GP=567
+Newdecks=1
+Level=3
+Exp=431
+Next=476
+AP=613
+Streak=-4
+Choices=1
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 56250
+Versus=chekke
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=chekke
+result=loss
+score=13-7

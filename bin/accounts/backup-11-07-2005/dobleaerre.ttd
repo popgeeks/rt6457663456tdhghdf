@@ -1,0 +1,18 @@
+[player]
+nickname=dobleaerre
+password=962790488
+email=la_luna_oscura@hotmail.com
+signup_date=8/11/2005
+playerID=1803
+status=regular
+referal=MIkel
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-11-2005

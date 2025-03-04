@@ -1,0 +1,47 @@
+[player]
+nickname=rhas
+password=mage25
+email=wynterhawkk@yahoo.com
+signup_date=8/26/2005
+playerID=1997
+status=regular
+referal=
+Verify=1
+Last IP=68.170.46.215
+id=31
+IP=68.170.46.215
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=9
+Lost=17
+Draw=1
+Lame quits=0
+GP=11
+Newdecks=21
+Level=3
+Exp=438
+Next=476
+AP=228
+Streak=-3
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=08-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=superghoul
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=superghoul
+result=loss
+score=8-2

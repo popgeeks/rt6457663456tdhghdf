@@ -1,0 +1,41 @@
+[player]
+nickname=Magus8764
+password=jedi8764
+email=magus8764@gmail.com
+signup_date=10/11/2005
+playerID=2778
+status=regular
+referal=
+Verify=1
+Last IP=68.225.74.176
+id=155
+IP=68.225.74.176
+adminstatus=off
+match=10-11-2005
+[Stats]
+Win=5
+Lost=8
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=188
+Next=248
+Streak=-1
+[Newdecks]
+Last=10-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126211
+Versus=Cloud520
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=Cloud520
+result=loss
+score=11-9

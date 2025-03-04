@@ -1,0 +1,773 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> OTTPLACEAT 5
+darklumina2>> OTTPLACEAT 16
+darklumina>> OTTSURRENDER
+darklumina>> OTTSURRENDER
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE MEMORY
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MEMORYSLOT 0 1
+darklumina>> GAMESTALEMATE
+darklumina2>> GAMESTALEMATE
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE MEMORY
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MEMORYSLOT 1 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> ADMINLOGIN 41257448
+darklumina>> KILLTABLE 1
+darklumina>> ENDMATCH darklumina
+darklumina>> ENDMATCH darklumina2
+darklumina2>> OTTPLACEAT 5
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE MEMORY
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MEMORYSLOT 1 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE MEMORY
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MEMORYSLOT 7 1
+darklumina>> MEMORYSLOT 13 2
+darklumina2>> MEMORYSLOT 14 1
+darklumina2>> MEMORYSLOT 15 2
+darklumina>> MEMORYSLOT 19 1
+darklumina>> MEMORYSLOT 18 2
+darklumina2>> MEMORYSLOT 7 1
+darklumina2>> MEMORYSLOT 21 2
+darklumina>> MEMORYSLOT 13 1
+darklumina>> MEMORYSLOT 18 2
+darklumina>> MEMORYSLOT 16 1
+darklumina>> MEMORYSLOT 22 2
+darklumina2>> MEMORYSLOT 23 1
+darklumina2>> MEMORYSLOT 17 2
+darklumina>> MEMORYSLOT 19 1
+darklumina>> MEMORYSLOT 10 2
+darklumina2>> MEMORYSLOT 7 1
+darklumina2>> MEMORYSLOT 17 2
+darklumina>> MEMORYSLOT 12 1
+darklumina>> MEMORYSLOT 0 2
+darklumina2>> MEMORYSLOT 1 1
+darklumina2>> MEMORYSLOT 0 2
+darklumina2>> MEMORYSLOT 3 1
+darklumina2>> MEMORYSLOT 7 2
+darklumina2>> MEMORYSLOT 5 1
+darklumina2>> MEMORYSLOT 2 2
+darklumina>> MEMORYSLOT 10 1
+darklumina>> MEMORYSLOT 2 2
+darklumina>> MEMORYSLOT 8 1
+darklumina>> MEMORYSLOT 19 2
+darklumina>> MEMORYSLOT 12 1
+darklumina>> MEMORYSLOT 6 2
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE MEMORY
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> MEMORYSLOT 0 1
+darklumina>> MEMORYSLOT 1 2
+darklumina2>> MEMORYSLOT 6 1
+darklumina2>> MEMORYSLOT 7 2
+darklumina>> MEMORYSLOT 13 1
+darklumina>> MEMORYSLOT 12 2
+darklumina2>> MEMORYSLOT 18 1
+darklumina2>> MEMORYSLOT 19 2
+darklumina>> MEMORYSLOT 13 1
+darklumina>> MEMORYSLOT 14 2
+darklumina2>> MEMORYSLOT 12 1
+darklumina2>> MEMORYSLOT 14 2
+darklumina2>> MEMORYSLOT 20 1
+darklumina2>> MEMORYSLOT 21 2
+darklumina>> MEMORYSLOT 6 1
+darklumina>> MEMORYSLOT 21 2
+darklumina>> MEMORYSLOT 15 1
+darklumina>> MEMORYSLOT 16 2
+darklumina2>> MEMORYSLOT 18 1
+darklumina2>> MEMORYSLOT 16 2
+darklumina>> MEMORYSLOT 22 1
+darklumina>> MEMORYSLOT 23 2
+darklumina2>> MEMORYSLOT 17 1
+darklumina2>> MEMORYSLOT 22 2
+darklumina2>> MEMORYSLOT 11 1
+darklumina2>> MEMORYSLOT 13 2
+darklumina>> MEMORYSLOT 19 1
+darklumina>> MEMORYSLOT 11 2
+darklumina>> MEMORYSLOT 5 1
+darklumina>> MEMORYSLOT 4 2
+darklumina>> MEMORYSLOT 3 1
+darklumina>> MEMORYSLOT 13 2
+darklumina>> MEMORYSLOT 2 1
+darklumina>> MEMORYSLOT 0 2
+darklumina>> MEMORYSLOT 1 1
+darklumina>> MEMORYSLOT 16 2
+darklumina>> MEMORYSLOT 9 1
+darklumina>> MEMORYSLOT 8 2
+darklumina2>> MEMORYSLOT 7 1
+darklumina2>> MEMORYSLOT 20 2
+darklumina2>> MEMORYSLOT 18 1
+darklumina2>> MEMORYSLOT 23 2
+darklumina>> MEMORYSLOT 8 1
+darklumina>> MEMORYSLOT 15 2
+darklumina>> MEMORYSLOT 10 1
+darklumina>> MEMORYSLOT 18 2
+darklumina>> MEMORYSLOT 9 1
+darklumina>> MEMORYSLOT 23 2
+darklumina2>> PING
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> PSTATS darklumina2
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE3
+darklumina2>> PING
+darklumina>> PING
+darklumina2>> JOINTABLE 1
+darklumina>> CHANGERULE SPHEREBREAK 80 60 35
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina>> SBREADY
+darklumina2>> SBREADY
+darklumina>> SBCOMPLETE 99 99 3 99 3
+darklumina2>> SBFROZEN
+darklumina>> SBFROZEN
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE3
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> SBREADY
+darklumina>> SBREADY
+darklumina>> SBCOMPLETE 99 99 99 4 11
+darklumina>> SBCOMPLETE 99 99 99 4 6
+darklumina>> SBCOMPLETE 99 99 99 4
+darklumina>> SBCOMPLETE 1 99 99 99 3 4
+darklumina2>> SBCOMPLETE 99 99 99 4 8
+darklumina2>> SBFROZEN
+darklumina>> SBCOMPLETE 1 99 99 99
+darklumina>> SBFROZEN
+darklumina2>> QUIT 0 1
+darklumina>> QUIT 0 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.7
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+darklumina>> CHAT omg scouser
+darklumina>> CHAT i need to test the new spherebreak adjustments
+howabe>> ADMINLOGIN 84743589
+howabe>> CHAT right
+howabe>> CREATETABLE3
+howabe>> CHAT what are we looking for?
+darklumina>> CHAT i just want to make sure i have everything right.. close your table.
+howabe>> TABLECLOSE
+darklumina>> CHAT it wont really work well for you
+darklumina>> CHAT game wont close when its over.. will for me though
+darklumina>> CREATETABLE3
+howabe>> JOINTABLE 1
+darklumina>> CHALLENGECHATS wee
+darklumina>> CHANGERULE SPHEREBREAK 60 85 15
+darklumina>> GAMEREADY
+howabe>> CHALLENGECHATS first time played sphere break in like a year
+howabe>> GAMEREADY
+howabe>> SBREADY
+darklumina>> SBREADY
+darklumina>> SBCOMPLETE 99 2 99 99 1 2 6
+darklumina>> PING
+howabe>> PING
+darklumina>> SBCOMPLETE 99 99 3 99 4
+darklumina>> SBCOMPLETE 99 2 99 99 7 8 10
+darklumina>> SBCOMPLETE 99 2 99 99 1
+howabe>> SBCOMPLETE 99 2 99 99 1 10 11 12
+darklumina>> SBCOMPLETE 99 2 99 99 9
+darklumina>> SBCOMPLETE 99 2 99 99
+howabe>> SBCOMPLETE 99 2 99 99 3 4 7
+darklumina>> SBCOMPLETE 99 2 99 99 3 12
+darklumina>> SBCOMPLETE 99 99 3 99
+howabe>> SBCOMPLETE 1 2 99 4
+darklumina>> SBCOMPLETE 1 99 99 99 9
+howabe>> SBCOMPLETE 99 2 99 99
+howabe>> SBCOMPLETE 99 2 99 99
+howabe>> SBCOMPLETE 99 2 99 99
+darklumina>> SBCOMPLETE 99 99 3 99 1 5 10 12
+howabe>> SBCOMPLETE 99 2 99 99 9 11 12
+darklumina>> SBCOMPLETE 1 99 99 99 11
+howabe>> SBCOMPLETE 99 2 99 99
+howabe>> SBCOMPLETE 1 2 99 99
+darklumina>> SBCOMPLETE 99 2 99 99
+howabe>> SBCOMPLETE 1 99 99 99
+howabe>> SBCOMPLETE 99 2 99 99 9
+darklumina>> SBCOMPLETE 1 99 99 99 3 4 12
+howabe>> SBCOMPLETE 99 99 99 4 4 5
+darklumina>> SBCOMPLETE 1 99 99 99
+howabe>> SBFROZEN
+darklumina>> CHAT wee fun
+howabe>> CHAT ...i hate that game lol
+howabe>> CHAT like third time i've ever played it
+darklumina>> CHAT ok lets do memory
+darklumina>> CREATETABLE MEMORY
+howabe>> CHAT took me about 2 minutes then to remember the rules :|
+howabe>> JOINTABLE 1
+howabe>> GAMEREADY
+howabe>> APCHECK
+howabe>> APCHECK
+darklumina>> GAMEREADY
+darklumina>> MEMORYSLOT 0 1
+darklumina>> MEMORYSLOT 7 2
+howabe>> MEMORYSLOT 20 1
+howabe>> MEMORYSLOT 10 2
+darklumina>> MEMORYSLOT 12 1
+darklumina>> MEMORYSLOT 13 2
+howabe>> MEMORYSLOT 3 1
+howabe>> MEMORYSLOT 17 2
+darklumina>> MEMORYSLOT 10 1
+darklumina>> MEMORYSLOT 9 2
+howabe>> MEMORYSLOT 20 1
+howabe>> MEMORYSLOT 9 2
+howabe>> MEMORYSLOT 8 1
+howabe>> MEMORYSLOT 15 2
+darklumina>> MEMORYSLOT 14 1
+darklumina>> MEMORYSLOT 5 2
+howabe>> MEMORYSLOT 3 1
+howabe>> MEMORYSLOT 17 2
+darklumina>> MEMORYSLOT 4 1
+darklumina>> MEMORYSLOT 22 2
+howabe>> MEMORYSLOT 10 1
+howabe>> MEMORYSLOT 22 2
+howabe>> MEMORYSLOT 15 1
+howabe>> MEMORYSLOT 8 2
+darklumina>> MEMORYSLOT 14 1
+darklumina>> MEMORYSLOT 13 2
+howabe>> MEMORYSLOT 19 1
+howabe>> MEMORYSLOT 13 2
+darklumina>> PING
+howabe>> MEMORYSLOT 21 1
+howabe>> PING
+howabe>> MEMORYSLOT 5 2
+howabe>> MEMORYSLOT 2 1
+howabe>> MEMORYSLOT 7 2
+howabe>> MEMORYSLOT 1 1
+howabe>> MEMORYSLOT 6 2
+darklumina>> MEMORYSLOT 16 1
+darklumina>> MEMORYSLOT 3 2
+darklumina>> MEMORYSLOT 17 1
+darklumina>> MEMORYSLOT 6 2
+darklumina>> MEMORYSLOT 12 1
+darklumina>> MEMORYSLOT 15 2
+howabe>> MEMORYSLOT 14 1
+howabe>> MEMORYSLOT 23 2
+darklumina>> MEMORYSLOT 8 1
+darklumina>> MEMORYSLOT 23 2
+howabe>> MEMORYSLOT 0 1
+howabe>> MEMORYSLOT 23 2
+howabe>> MEMORYSLOT 1 1
+howabe>> MEMORYSLOT 12 2
+howabe>> MEMORYSLOT 8 1
+howabe>> MEMORYSLOT 15 2
+darklumina>> MEMORYSLOT 4 1
+darklumina>> MEMORYSLOT 8 2
+darklumina>> MEMORYSLOT 11 1
+darklumina>> MEMORYSLOT 14 2
+darklumina>> MEMORYSLOT 15 1
+darklumina>> MEMORYSLOT 18 2
+darklumina>> CHAT dodgy
+howabe>> CHAT wahey etc
+howabe>> SBFROZEN
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+howabe>> JOINTABLE 1
+darklumina>> CHANGERULE OTT OMNITT_RANDOM 3
+darklumina>> GAMEREADY
+howabe>> GAMEREADY
+darklumina>> OTTPLACEAT 0
+howabe>> CHAT i have no blocks oO
+howabe>> OTTPLACEAT 1
+darklumina>> OTTPLACEAT 5
+howabe>> OTTPLACEAT 12
+darklumina>> CHAT yea it didnt set any
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+howabe>> CHAT i am returnèd :P
+darklumina>> CHAT score
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+howabe>> JOINTABLE 1
+howabe>> GAMEREADY
+darklumina>> CHANGERULE OTT OMNITT_RANDOM 5
+howabe>> GAMEREADY
+darklumina>> CHANGERULE OTT OMNITT_RANDOM 7
+darklumina>> GAMEREADY
+howabe>> GAMEREADY
+darklumina>> OTTSTALEMATE
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+J102Y>> QUERYTABLES 1
+J102Y>> EXTRACHECK
+J102Y>> CHAT :|
+howabe>> CHAT brum
+J102Y>> CHAT manc
+howabe>> CHAT get your transfer speed out :/
+darklumina>> PING
+howabe>> PING
+J102Y>> PING
+darklumina>> CHAT notice the login speed, J?
+J102Y>> CHAT was indeed vary fast
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+darklumina>> CHANGERULE OTT OMNITT_RANDOM 1
+J102Y>> JOINTABLE 1
+darklumina>> CHANGERULE OTT OMNITT_RANDOM 7
+J102Y>> GAMEREADY
+howabe>> CHAT errr
+darklumina>> GAMEREADY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+howabe>> CHAT :|
+howabe>> JOINTABLE 1
+darklumina>> CHAT :/
+howabe>> GAMEREADY
+darklumina>> CHANGERULE OTT OMNITT_RANDOM 7
+darklumina>> GAMEREADY
+howabe>> GAMEREADY
+howabe>> CHALLENGECHATS errr
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+howabe>> PSTATS howabe
+howabe>> PSTATS howabe
+howabe>> APCHECK
+howabe>> CHAT brb one sec
+darklumina>> PING
+howabe>> PING
+darklumina>> CREATETABLE2 OMNITT_RANDOM 5
+howabe>> JOINTABLE 1
+howabe>> GAMEREADY
+darklumina>> PING
+howabe>> PING
+darklumina>> GAMEREADY
+howabe>> OTTPLACEAT 22
+darklumina>> OTTPLACEAT 19
+howabe>> CHAT got blocks this time
+howabe>> OTTPLACEAT 4
+darklumina>> OTTPLACEAT 0
+darklumina>> CHAT yep
+howabe>> OTTPLACEAT 1
+darklumina>> OTTPLACEAT 17
+howabe>> OTTPLACEAT 5
+darklumina>> OTTPLACEAT 23
+howabe>> OTTCARDDISCARD
+howabe>> OTTPLACEAT 24
+darklumina>> CHAT of course ud have a same card there.. bastard
+howabe>> CHAT :P
+darklumina>> OTTPLACEAT 3
+howabe>> OTTPLACEAT 2
+howabe>> CHAT discarded for it tho :/
+darklumina>> OTTPLACEAT 21
+howabe>> OTTPLACEAT 20
+darklumina>> OTTPLACEAT 8
+howabe>> OTTPLACEAT 16
+darklumina>> OTTPLACEAT 7
+howabe>> OTTPLACEAT 13
+darklumina>> OTTPLACEAT 12
+howabe>> OTTPLACEAT 10
+darklumina>> OTTCARDDISCARD
+darklumina>> OTTPLACEAT 11
+howabe>> CHAT wahey
+darklumina>> CHAT plays the last card now :D
+howabe>> CHAT cool
+howabe>> CHAT one less thing for people to whinge about lol
+darklumina>> CHAT ok need to make a GUI change and all is good
+darklumina>> PING
+howabe>> PING
+darklumina>> CHAT people will still whine about v2...
+darklumina>> CHAT omgzor its too complex
+darklumina>> CHAT too much stuffs
+howabe>> CHAT lol
+howabe>> CHAT can't win :/
+darklumina>> CHAT i r too stupid fer this game 111!! i go to tta!!111234
+howabe>> CHAT most people seem too stupid for current version, let alone v2 lol
+darklumina>> CREATETABLE3
+darklumina>> CHAT true
+darklumina>> CHAT join plzor
+howabe>> JOINTABLE 1
+darklumina>> GAMEREADY
+howabe>> GAMEREADY
+howabe>> SBREADY
+darklumina>> SBREADY
+darklumina>> SBCOMPLETE 99 99 99 4 5
+howabe>> SBCOMPLETE 99 2 99 99
+darklumina>> SBCOMPLETE 99 99 3 99 10
+howabe>> SBCOMPLETE 99 2 99 99
+darklumina>> CHAT freeze pls
+howabe>> SBCOMPLETE 99 2 99 99
+darklumina>> SBCOMPLETE 99 2 99 99 9 11
+howabe>> SBCOMPLETE 99 2 99 99 8 9 10
+howabe>> SBCOMPLETE 99 2 99 99 1 2 12
+darklumina>> SBCOMPLETE 1 99 99 99 4 6
+howabe>> SBFROZEN
+darklumina>> SBFROZEN
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+howabe>> JOINTABLE 1
+darklumina>> CHALLENGECHAT wee
+darklumina>> CHALLENGECHAT now to get 2 more
+>> VERSION 1.5.9
+darklumina>> PING
+howabe>> PING
+>> LOADGAME J102Y ocarina
+howabe>> CHALLENGECHAT 1 down
+J102Y>> QUERYTABLES 1
+howabe>> CHAT :/
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> CHAT woosh
+Gilgamesh>> JOINTABLE 1
+howabe>> CHAT gomp
+darklumina>> CHALLENGECHAT now i need J102Y
+Gilgamesh>> CHAT second gomp should be on his way
+darklumina>> TEAM_CHANGE
+Gilgamesh>> CHALLENGECHAT Yep
+howabe>> CHAT already been and left...
+darklumina>> TEAM_CHANGERULE 1
+Gilgamesh>> APCHECK
+darklumina>> CHALLENGECHAT zzz
+Gilgamesh>> CHALLENGECHAT I think his comp needs a tune up, and anti virus protection
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+J102Y>> QUERYTABLES 1
+J102Y>> EXTRACHECK
+J102Y>> CHAT :|
+darklumina>> CHALLENGECHAT everyone should have that.. firewalls too
+Gilgamesh>> CHAT Gompy
+howabe>> CHAT brum
+J102Y>> JOINTABLE 1
+J102Y>> CHAT manc
+howabe>> TEAMREADY
+howabe>> TEAMREADY
+howabe>> TEAMREADY
+J102Y>> CHALLENGECHAT oh..
+darklumina>> TEAM_READY
+Gilgamesh>> CHALLENGECHAT Jay doesn't =\
+J102Y>> CHALLENGECHAT yay
+howabe>> CHALLENGECHAT secure
+darklumina>> CHALLENGECHAT this may screw up
+Gilgamesh>> CHALLENGECHAT he has the XP Firewall lol
+darklumina>> CHALLENGECHAT we shall see
+Gilgamesh>> CHALLENGECHAT okay
+darklumina>> CHALLENGECHAT ready up ladies
+Gilgamesh>> TEAMREADY
+howabe>> TEAMREADY
+howabe>> CHALLENGECHAT can't?
+Gilgamesh>> CHALLENGECHAT neither can I?
+howabe>> TEAMREADY
+Gilgamesh>> TEAMREADY
+darklumina>> CHALLENGECHAT oh fudge nuts.. changed something important
+howabe>> CHALLENGECHAT mmm... fudge
+darklumina>> CHALLENGECHAT someone create an msn chat with all of us in it please
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+howabe>> JOINTABLE 1
+howabe>> TEAMREADY
+howabe>> TEAMREADY
+howabe>> TEAMREADY
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+J102Y>> QUERYTABLES 1
+J102Y>> EXTRACHECK
+>> VERSION 1.5.9
+J102Y>> ADMINLOGIN 32542581
+J102Y>> JOINTABLE 1
+J102Y>> JOINTABLE 1
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+J102Y>> CHAT :|
+Gilgamesh>> JOINTABLE 1
+J102Y>> TEAMREADY
+howabe>> TEAMREADY
+howabe>> TEAMREADY
+darklumina>> TEAM_CHANGERULE 1
+J102Y>> TEAMREADY
+J102Y>> TEAMREADY
+J102Y>> CHALLENGECHAT dodgy
+howabe>> CHALLENGECHAT the 90s britpop bang?
+howabe>> CHALLENGECHAT *d
+darklumina>> TEAM_READY
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME howabe 194286
+howabe>> QUERYTABLES 1
+howabe>> EXTRACHECK
+howabe>> JOINTABLE 1
+howabe>> TEAMREADY
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+J102Y>> QUERYTABLES 1
+J102Y>> EXTRACHECK
+J102Y>> JOINTABLE 1
+J102Y>> TEAMREADY
+howabe>> TEAM_CHANGE
+howabe>> TEAMREADY
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+howabe>> CHALLENGECHAT wahey brumchester
+darklumina>> CHALLENGECHAT traitor
+howabe>> CHALLENGECHAT guaranteed to work now
+darklumina>> TEAM_CHANGERULE 1
+J102Y>> CHALLENGECHAT Brmchester rides again
+Gilgamesh>> JOINTABLE 1
+Gilgamesh>> CHALLENGECHAT yay
+J102Y>> CHALLENGECHAT alongside the bitches
+Gilgamesh>> CHALLENGECHAT Aw man
+Gilgamesh>> CHALLENGECHAT I gotta play with him? =(
+Gilgamesh>> TEAMREADY
+J102Y>> CHALLENGECHAT 'fraid so
+darklumina>> TEAM_READY
+J102Y>> TEAMGAMECHAT dodgy
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+J102Y>> QUERYTABLES 1
+J102Y>> EXTRACHECK
+darklumina>> PING
+J102Y>> PING
+darklumina>> CREATETABLE4
+J102Y>> JOINTABLE 1
+J102Y>> TEAM_CHANGE
+J102Y>> TEAMREADY
+darklumina>> CHALLENGECHAT need 2 people
+darklumina>> CHALLENGECHAT damn afkers
+>> VERSION 1.5.9
+>> LOADGAME kasumi mine123
+kasumi>> QUERYTABLES 1
+kasumi>> EXTRACHECK
+kasumi>> JOINTABLE 1
+kasumi>> TEAMREADY
+darklumina>> CHALLENGECHAT 1 more FTW
+kasumi>> CHALLENGECHAT nah, 2vs1 works for me :P
+kasumi>> PSTATS kasumi
+darklumina>> CHALLENGECHAT suppose i could just open up a client
+darklumina>> PING
+kasumi>> PING
+>> VERSION 1.5.9
+>> LOADGAME Gilgamesh 741147
+J102Y>> PING
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> JOINTABLE 1
+Gilgamesh>> TEAMREADY
+darklumina>> TEAM_READY
+Gilgamesh>> TEAMGAMECHAT uhm... play a card? =)
+Gilgamesh>> TEAM_OTTPLACEAT 22
+kasumi>> TEAMGAMECHAT hmm..
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> CREATETABLE4
+>> VERSION 1.5.9
+>> LOADGAME kasumi mine123
+kasumi>> QUERYTABLES 1
+kasumi>> EXTRACHECK
+kasumi>> JOINTABLE 1
+kasumi>> TEAMREADY
+darklumina>> CHALLENGECHAT ;o
+kasumi>> CHALLENGECHAT no competition...
+kasumi>> CHALLENGECHAT how sad
+>> VERSION 1.5.9
+>> LOADGAME J102Y ocarina
+J102Y>> QUERYTABLES 1
+J102Y>> EXTRACHECK
+darklumina>> CHALLENGECHAT scouser on board
+kasumi>> CHALLENGECHAT a laggy one, it seems
+J102Y>> JOINTABLE 1
+J102Y>> TEAMREADY
+>> VERSION 1.5.9
+darklumina>> PING
+J102Y>> PING
+kasumi>> PING
+>> LOADGAME Gilgamesh 741147
+Gilgamesh>> QUERYTABLES 1
+Gilgamesh>> EXTRACHECK
+Gilgamesh>> JOINTABLE 1
+Gilgamesh>> TEAMREADY
+darklumina>> CHALLENGECHAT scouser FTW
+darklumina>> TEAM_READY
+Gilgamesh>> TEAMGAMECHAT Scouser!?

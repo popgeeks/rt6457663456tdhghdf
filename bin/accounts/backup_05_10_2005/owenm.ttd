@@ -1,0 +1,32 @@
+[player]
+nickname=owenm
+password=435082971
+email=RageItalics@gmail.com
+signup_date=5/5/2005
+playerID=293
+status=regular
+referal=Website
+Verify=1
+Last IP=136.204.226.160
+id=3
+IP=136.204.226.160
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

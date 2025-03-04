@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=81
+match=12-19-2005
+[Play]
+Playing=false
+GameID= 175898
+Versus=zhouyu
+Iam=1
+[Stats]
+Level=3
+Exp=348
+Next=476
+Streak=-2
+[Games]
+Playing=OTT
+[game]
+opponent=zhouyu
+result=loss
+score=18-6

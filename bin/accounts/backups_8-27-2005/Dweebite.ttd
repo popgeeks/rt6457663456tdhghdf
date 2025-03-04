@@ -1,0 +1,43 @@
+[player]
+nickname=Dweebite
+password=684556662
+email=dumaju@hotmail.co.uk
+signup_date=8/18/2005
+playerID=1869
+status=regular
+referal=
+Verify=1
+Last IP=213.106.124.174
+id=10
+IP=213.106.124.174
+adminstatus=off
+match=08-18-2005
+Last Played=08-18-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=6
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+AP=100
+[Newdecks]
+Last=08-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 87140
+Versus=Wiseman
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Wiseman
+result=draw
+score=5-5

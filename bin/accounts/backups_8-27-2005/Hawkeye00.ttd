@@ -1,0 +1,52 @@
+[player]
+nickname=Hawkeye00
+password=cartoon00
+email=shadowblade00@hotmail.com
+signup_date=7/26/2005
+playerID=1516
+status=regular
+referal=
+Verify=1
+Last IP=68.45.115.116
+id=30
+IP=68.45.115.116
+adminstatus=off
+match=08-10-2005
+Last Played=08-10-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=3
+[Stats]
+Win=19
+Lost=34
+Draw=8
+Lame quits=0
+GP=526
+Newdecks=11
+Level=5
+Exp=1087
+Next=1301
+AP=1274
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 83575
+Versus=garlancito2
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Leviathan
+result=draw
+score=10-10

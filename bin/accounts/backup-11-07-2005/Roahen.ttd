@@ -1,0 +1,44 @@
+[player]
+nickname=Roahen
+password=764870225
+email=Eberhart@iol.cz
+signup_date=10/14/2005
+playerID=2832
+status=regular
+referal=03011991
+Verify=1
+Last IP=80.188.74.234
+id=4
+IP=80.188.74.234
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=4
+Lost=1
+Draw=2
+Lame quits=0
+Newdecks=5
+Level=2
+Exp=162
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=5
+Choices=1
+[Newdecks]
+Last=10-14-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 129306
+Versus=knat
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=knat
+result=draw
+score=5-5

@@ -1,0 +1,53 @@
+[player]
+nickname=Cassy
+password=graal
+email=CassyTAW@gmail.com
+signup_date=4/19/05
+playerID=166
+status=regular
+referal=
+Verify=1
+Last IP=68.110.124.211
+id=13
+IP=68.110.124.211
+adminstatus=off
+Last Played=05-25-2005
+match=05-25-2005
+[Stats]
+Win=29
+Lost=65
+Draw=21
+Lame quits=5
+GP=635
+rank=1001
+Newdecks=21
+Level=7
+Exp=1827
+Next=2154
+Streak=-4
+Choices=1
+Wins=19
+AP=296
+SBWin=3
+SBLost=4
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 21636
+Versus=Trepie
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Trepie
+result=draw
+score=10-10

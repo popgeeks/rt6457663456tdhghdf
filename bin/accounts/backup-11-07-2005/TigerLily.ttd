@@ -1,0 +1,18 @@
+[player]
+nickname=TigerLily
+password=32308995
+email=tehtigerlily@yahoo.com
+signup_date=7/27/2005
+playerID=1537
+status=regular
+referal=TheTigerLily
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-27-2005

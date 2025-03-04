@@ -1,0 +1,41 @@
+[player]
+nickname=lucas2004200
+password=339158594
+email=lukerowbottom61@msn.com
+signup_date=9/8/2005
+playerID=2165
+status=regular
+referal=
+Verify=1
+Last IP=86.136.245.25
+id=11
+IP=86.136.245.25
+adminstatus=off
+match=09-08-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Streak=2
+[Newdecks]
+Last=09-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 101071
+Versus=Subversion
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Subversion
+result=win
+score=9-1

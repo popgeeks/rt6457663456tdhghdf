@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=11
+match=12-17-2005
+[Play]
+Playing=false
+GameID= 173567
+Versus=dark-wing
+Iam=2
+[Stats]
+Level=2
+Exp=226
+Next=248
+Streak=-3
+[Games]
+Playing=TT
+[game]
+opponent=dark-wing
+result=loss
+score=8-2

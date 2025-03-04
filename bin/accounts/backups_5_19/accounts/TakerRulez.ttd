@@ -1,0 +1,47 @@
+[player]
+nickname=TakerRulez
+password=TAKERS
+email=ssanford1@tampabay.rr.com
+signup_date=4/27/2005
+playerID=201
+status=regular
+referal=
+Verify=1
+Last IP=65.34.4.208
+id=28
+IP=65.34.4.208
+adminstatus=off
+Last Played=05-15-2005
+match=05-15-2005
+[Stats]
+Win=1
+Lost=2
+Draw=2
+Lame quits=0
+GP=27
+rank=1467
+Newdecks=1
+Level=1
+Exp=36
+Next=100
+Streak=-2
+Wins=1
+AP=93
+SBLost=1
+[Newdecks]
+Last=04-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 16653
+Versus=Trepie
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Trepie
+result=loss
+score=49-0

@@ -1,0 +1,18 @@
+[player]
+nickname=spike
+password=799060463
+email=quentinbriet@hotmail.fr
+signup_date=7/10/2005
+playerID=1167
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-10-2005

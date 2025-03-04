@@ -1,0 +1,138 @@
+[player]
+nickname=Grimmy
+password=masamune
+email=jamesghbray@hotmail.com
+signup_date=3/15/05
+playerID=13
+status=subadmin
+Verify=1
+Last IP=81.153.31.27
+id=1
+IP=81.153.31.27
+adminstatus=on
+Last Played=05-19-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+membership=power
+match=05-19-2005
+surname=calavera
+
+[Admin]
+Passkey=98234719
+
+[Stats]
+Win=124
+Lost=154
+Draw=35
+Lame quits=6
+GP=776
+rank=1726
+Newdecks=11
+Level=12
+Exp=5167
+Next=5510
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+AP=328
+SBLost=26
+Wins=104
+SBWin=16
+[Newdecks]
+Last=04-29-2005
+[Totals]
+Level1=11
+Level2=5
+Level3=2
+Level4=12
+Level5=9
+Level6=5
+Level7=4
+Level8=0
+Level9=0
+Level10=2
+Total=0
+[cards]
+Fastitocalon-F=1
+Trauma=0
+Seifer=1
+GIM47N=0
+Gerogero=0
+X-ATM092=0
+Thrustaevis=1
+Elvoret=0
+Grat=1
+SAM08G=1
+Anacondaur=0
+Shumi Tribe=2
+Geezard=2
+Wendigo=3
+Elnoyle=3
+Red Giant=1
+Blitz=2
+Sphinxara=0
+Armadodo=0
+Gesper=0
+Blood Soul=0
+Wedge, Biggs=0
+T-Rexaur=1
+Catoblepas=1
+Vysage=0
+Creeps=1
+Abadon=0
+Blue Dragon=0
+Adamantoise=0
+Blobra=2
+Cactuar=0
+Torama=1
+Fastitocalon=1
+Tonberry=0
+Mesmerize=1
+Snow Lion=0
+Red Bat=1
+Hexadragon=4
+Caterchipillar=1
+Fujin, Raijin=1
+Malboro=0
+Granaldo=1
+BGH251F2=0
+Minotaur=0
+Chimera=1
+Propagator=0
+Behemoth=2
+Funguar=2
+Imp=1
+Shiva=0
+Forbidden=0
+Turtapod=0
+Gayla=2
+Iron Giant=3
+Jumbo Cactuar=0
+Kiros=1
+Grendel=1
+Oilboyle=1
+Gargantua=0
+Tiamat=1
+Mobile Type 8=1
+[AP]
+AAEXP=117
+PCT=30
+honor=2
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 18517
+Versus=Jimmy3000
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=Jimmy3000
+result=win
+score=40-33

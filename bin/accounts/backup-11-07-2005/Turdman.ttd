@@ -1,0 +1,45 @@
+[player]
+nickname=Turdman
+password=370444178
+email=cody.c.w@gmail.com
+signup_date=9/7/2005
+playerID=2155
+status=regular
+referal=
+Verify=1
+Last IP=69.179.132.149
+id=41
+IP=69.179.132.149
+adminstatus=off
+match=10-13-2005
+[Stats]
+Win=31
+Lost=46
+Draw=10
+Lame quits=0
+Newdecks=5
+Level=7
+Exp=2116
+Next=2154
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=09-12-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 128053
+Versus=Mikror
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Mikror
+result=loss
+score=14-6

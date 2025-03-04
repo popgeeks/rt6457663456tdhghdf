@@ -1,0 +1,18 @@
+[player]
+nickname=dragon
+password=76222121
+email=adamantoise2@yahoo.co.uk
+signup_date=8/21/2005
+playerID=1921
+status=regular
+referal=dragon
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-21-2005

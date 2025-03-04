@@ -1,0 +1,17 @@
+[player]
+nickname=lgkywalker
+password=283053219
+email=lgskywalker@hotmail.com
+signup_date=10/11/2005
+playerID=2787
+status=regular
+referal=lgskywalker
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-11-2005

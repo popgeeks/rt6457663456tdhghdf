@@ -1,0 +1,19 @@
+[player]
+nickname=gippel
+password=586826979
+email=stephan@puchow.de
+signup_date=10/10/2005
+playerID=2762
+status=regular
+referal=gippel
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-10-2005
+[password]
+failed=18

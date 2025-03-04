@@ -1,0 +1,18 @@
+[player]
+nickname=Kakashi
+password=600914596
+email=jorgeyalicia20@gmail.com
+signup_date=8/13/2005
+playerID=1845
+status=regular
+referal=casa
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-13-2005

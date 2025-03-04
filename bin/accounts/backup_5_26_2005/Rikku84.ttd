@@ -1,0 +1,59 @@
+[player]
+nickname=Rikku84
+password=cassie
+email=ff7yuff999@yahoo.com
+signup_date=4/18/05
+playerID=185
+status=subadmin
+referal=
+Verify=1
+Last IP=207.10.54.33
+id=18
+IP=207.10.54.33
+adminstatus=off
+match=05-15-2005
+Last Played=05-15-2005
+guildinvite=
+guildinvite_name=
+guild=Servants of Darkness
+guildmaster=3
+surname=(selphie84)
+[Stats]
+Win=45
+Lost=53
+Draw=20
+Lame quits=5
+GP=3242
+rank=1471
+Newdecks=7
+Level=9
+Exp=2813
+Next=3346
+Streak=-1
+Choices=1
+SoldCards=2
+cardsgiven=0
+Wins=39
+AP=239
+SBLost=2
+[Newdecks]
+Last=04-24-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=2
+[Play]
+Playing=false
+GameID= 16610
+Versus=jinx
+Iam=2
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=jinx
+result=loss
+score=12-10
+[Admin]
+Passkey=51082241

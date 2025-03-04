@@ -1,0 +1,64 @@
+[player]
+nickname=jedstone
+password=10343193
+email=jedstone@gmail.com
+signup_date=3/28/05
+playerID=64
+status=regular
+Verify=1
+Last IP=200.221.104.152
+id=10
+IP=200.221.104.152
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=03-28-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=3
+Level4=1
+Level5=2
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Iguion=1
+Chimera=1
+X-ATM092=1
+Gesper=1
+Shumi Tribe=1
+Snow Lion=2
+Buel=1
+Blobra=1
+Catoblepas=1
+Tri-Face=1
+Jelleye=1
+Behemoth=1
+Wendigo=1
+Glacial Eye=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 1804
+Versus=TheOneGod13
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

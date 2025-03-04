@@ -1,0 +1,87 @@
+[player]
+nickname=TheOneJesus7
+password=metalultima
+email=a_mercyful_fate@yahoo.com
+signup_date=3/31/05
+playerID=75
+status=regular
+Verify=1
+Last IP=69.134.69.211
+id=5
+IP=69.134.69.211
+adminstatus=off
+Last Played=04-13-2005
+[Stats]
+Win=61
+Lost=41
+Draw=6
+Lame quits=1
+GP=310
+rank=1451
+Newdecks=1
+Level=7
+Exp=1798
+Next=2154
+Streak=-1
+Choices=1
+SoldCards=1
+[Newdecks]
+Last=03-31-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=3
+Level4=3
+Level5=2
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=1
+Total=0
+[cards]
+Geezard=0
+Anacondaur=1
+Tri-Face=0
+Imp=1
+Jelleye=0
+Blue Dragon=0
+Gayla=0
+Gerogero=0
+Funguar=1
+Vysage=0
+Mesmerize=1
+Blitz=0
+Wendigo=0
+Fastitocalon=1
+Trauma=1
+Shumi Tribe=1
+Fujin, Raijin=0
+Elvoret=0
+Ruby Dragon=1
+PuPu=1
+Tonberry=1
+Torama=1
+Sphinxara=1
+Adamantoise=1
+Gargantua=0
+Grendel=1
+Gesper=1
+Laguna=1
+Snow Lion=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5307
+Versus=crab-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=crab-bot
+result=loss
+score=7-3

@@ -1,0 +1,49 @@
+[player]
+nickname=squallstrife
+password=CANON101
+email=squall_strife@hotmail.com
+signup_date=7/25/2005
+playerID=1500
+status=regular
+referal=
+Verify=1
+Last IP=71.97.34.215
+id=46
+IP=71.97.34.215
+adminstatus=off
+match=08-22-2005
+Last Played=08-22-2005
+[Stats]
+Win=23
+Lost=34
+Draw=10
+Lame quits=0
+GP=0
+Newdecks=3
+Level=6
+Exp=1546
+Next=1727
+AP=2067
+Streak=-4
+Choices=1
+SBLost=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-22-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 90600
+Versus=Eidolon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Eidolon
+result=draw
+score=10-10

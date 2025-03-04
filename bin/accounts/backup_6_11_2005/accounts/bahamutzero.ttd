@@ -1,0 +1,58 @@
+[player]
+nickname=bahamutzero
+password=aguinaldo
+email=negative_trash@hotmail.com
+signup_date=5/19/2005
+playerID=423
+status=regular
+referal=aguinaldo
+Verify=1
+Last IP=200.171.160.244
+id=16
+IP=200.171.160.244
+adminstatus=off
+match=06-10-2005
+Last Played=06-10-2005
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=117
+Lost=196
+Draw=33
+Lame quits=3
+GP=662
+rank=1374
+Newdecks=27
+Level=13
+Exp=5576
+Next=6316
+AP=1916
+Streak=2
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=1
+[Newdecks]
+Last=05-24-2005
+[password]
+failed=0
+[AP]
+AAEXP=570
+honor=1
+PCT=0
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 30941
+Versus=bubbles
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=bubbles
+result=win
+score=15-9
+[Warnings]
+Kicks=3

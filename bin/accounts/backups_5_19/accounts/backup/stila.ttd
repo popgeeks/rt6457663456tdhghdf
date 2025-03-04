@@ -1,0 +1,72 @@
+[player]
+nickname=stila
+password=859491764
+email=b.engelage@web.de
+signup_date=4/11/05
+playerID=125
+status=regular
+referal=270388
+Verify=1
+Last IP=80.142.115.12
+id=12
+IP=80.142.115.12
+adminstatus=off
+match=04-15-2005
+Last Played=04-15-2005
+[Stats]
+Win=1
+Lost=7
+Draw=0
+Lame quits=0
+GP=260
+rank=1450
+Newdecks=1
+Level=2
+Exp=173
+Next=248
+Streak=-6
+Choices=1
+[Newdecks]
+Last=04-11-2005
+[Totals]
+Level1=2
+Level2=3
+Level3=0
+Level4=1
+Level5=0
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Tri-Face=0
+Funguar=1
+Armadodo=0
+Belhelmel=2
+Fastitocalon-F=0
+Tonberry=0
+Gayla=1
+X-ATM092=1
+Blue Dragon=1
+Elvoret=0
+Glacial Eye=1
+Fujin, Raijin=0
+Adamantoise=0
+Mesmerize=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5654
+Versus=Jimmy3000
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Jimmy3000
+result=loss
+score=11-9

@@ -1,0 +1,47 @@
+[player]
+nickname=BlackWolf84
+password=643270253
+email=BlackWolf84@gmx.net
+signup_date=7/18/2005
+playerID=1346
+status=regular
+referal=asdasd
+Verify=1
+Last IP=83.135.146.250
+id=1
+IP=83.135.146.250
+adminstatus=off
+match=07-18-2005
+Last Played=07-18-2005
+[Stats]
+Win=1
+Lost=6
+Draw=0
+Lame quits=1
+GP=165
+Newdecks=1
+Level=2
+Exp=119
+Next=248
+AP=156
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 59556
+Versus=xzellx
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=TheOneGod13
+result=loss
+score=9-1
+[Warnings]
+Kicks=1

@@ -1,0 +1,41 @@
+[player]
+nickname=jamesms
+password=428976296
+email=james@thelostwoods.com
+signup_date=9/23/2005
+playerID=2449
+status=regular
+referal=
+Verify=1
+Last IP=142.177.136.29
+id=53
+IP=142.177.136.29
+adminstatus=off
+match=09-23-2005
+[Stats]
+Win=0
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=17
+Next=100
+Streak=1
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 111851
+Versus=dark-wing
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=dark-wing
+result=loss
+score=12-8

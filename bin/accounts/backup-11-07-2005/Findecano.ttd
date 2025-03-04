@@ -1,0 +1,41 @@
+[player]
+nickname=Findecano
+password=cs21415
+email=stefan.niederhumer@gmx.net
+signup_date=10/11/2005
+playerID=2785
+status=regular
+referal=
+Verify=1
+Last IP=212.33.61.139
+id=6
+IP=212.33.61.139
+adminstatus=off
+match=10-14-2005
+[Stats]
+Win=0
+Lost=3
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=23
+Next=100
+Streak=-1
+[Newdecks]
+Last=10-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 128356
+Versus=solidsnake
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=solidsnake
+result=loss
+score=9-1

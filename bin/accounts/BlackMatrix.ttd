@@ -1,0 +1,46 @@
+[player]
+nickname=BlackMatrix
+password=501401543
+email=cripple_mckenzie@hotmail.com
+signup_date=6/13/2005
+playerID=689
+status=regular
+referal=
+Verify=1
+Last IP=218.214.44.174
+id=14
+IP=218.214.44.174
+adminstatus=off
+match=06-19-2005
+Last Played=06-19-2005
+[Stats]
+Win=8
+Lost=15
+Draw=4
+Lame quits=0
+GP=878
+rank=1435
+Newdecks=1
+Level=4
+Exp=661
+Next=836
+AP=742
+Streak=3
+Choices=1
+[Newdecks]
+Last=06-13-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 36522
+Versus=oofenshnine
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=oofenshnine
+result=win
+score=12-8

@@ -1,0 +1,43 @@
+[player]
+nickname=dbomber757
+password=315759896
+email=dbomber757@yahoo.com
+signup_date=10/2/2005
+playerID=2605
+status=regular
+referal=
+Verify=1
+Last IP=134.121.153.216
+id=4
+IP=134.121.153.216
+adminstatus=off
+match=10-03-2005
+[Stats]
+Win=3
+Lost=3
+Draw=4
+Lame quits=0
+Newdecks=5
+Level=1
+Exp=81
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=10-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 119440
+Versus=SquallNaruto
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=SquallNaruto
+result=draw
+score=5-5

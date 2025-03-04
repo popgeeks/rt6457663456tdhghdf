@@ -1,0 +1,134 @@
+[player]
+nickname=heathen
+password=gaffski
+email=heathensterling@gmail.com
+signup_date=3/15/05
+playerID=12
+status=regular
+Verify=1
+Last IP=213.249.234.170
+id=26
+IP=213.249.234.170
+adminstatus=off
+Last Played=05-26-2005
+guildinvite=
+guildinvite_name=
+guild=
+guildmaster=
+membership=diamond
+match=05-26-2005
+surname=sterling
+
+[Stats]
+Win=199
+Lost=214
+Draw=87
+Lame quits=29
+GP=14
+rank=2034
+Newdecks=7
+Level=15
+Exp=8536
+Next=8675
+Streak=-2
+Choices=1
+SoldCards=1
+cardsgiven=0
+AP=1416
+SBLost=17
+Wins=172
+SBWin=11
+[Newdecks]
+Last=04-18-2005
+[Totals]
+Level1=7
+Level2=7
+Level3=8
+Level4=5
+Level5=6
+Level6=5
+Level7=9
+Level8=1
+Level9=0
+Level10=1
+Total=0
+[cards]
+Kiros=0
+Gayla=1
+Creeps=1
+Belhelmel=1
+Armadodo=1
+Blitz=1
+Wendigo=0
+Adamantoise=1
+Fastitocalon=1
+Granaldo=0
+SAM08G=1
+T-Rexaur=1
+Tri-Point=1
+Gerogero=1
+Ultima Weapon=0
+Fujin, Raijin=0
+Geezard=1
+Bomb=1
+Catoblepas=1
+Abadon=1
+Tri-Face=1
+Thrustaevis=1
+Elastoid=1
+Minimog=1
+Grat=1
+Sphinxara=1
+Trauma=1
+Gesper=0
+Caterchipillar=1
+Bite Bug=1
+Propagator=1
+Blue Dragon=1
+Iron Giant=1
+Glacial Eye=1
+Abyss Worm=1
+Blood Soul=1
+Grand Mantis=1
+Mobile Type 8=1
+Selphie=1
+Krysta=1
+Funguar=1
+Tiamat=1
+PuPu=1
+Jumbo Cactuar=1
+Forbidden=1
+Death Claw=1
+Iguion=1
+Chimera=1
+BGH251F2=1
+Buel=1
+Behemoth=1
+Cockatrice=1
+Red Giant=1
+Snow Lion=1
+GIM47N=1
+[AP]
+AAEXP=923
+PCT=30
+AAPOINTS=0
+TRAINED=1
+honor=2
+[Play]
+Playing=false
+GameID= 22594
+Versus=Boko
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Outlaw
+result=loss
+score=13-5
+[Warnings]
+Warns=4
+
+Kicks=4

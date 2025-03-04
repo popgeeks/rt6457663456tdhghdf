@@ -1,0 +1,46 @@
+[player]
+nickname=Cereberus
+password=laguna
+email=mooglestiltzkin@gmail.com
+signup_date=5/29/2005
+playerID=546
+status=regular
+referal=Atom
+Verify=1
+Last IP=219.95.40.114
+id=6
+IP=219.95.40.114
+adminstatus=off
+match=05-29-2005
+Last Played=05-29-2005
+[Stats]
+Win=6
+Lost=3
+Draw=3
+Lame quits=0
+GP=507
+rank=1460
+Newdecks=1
+Level=3
+Exp=381
+Next=476
+AP=1009
+Streak=-2
+Choices=1
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 24310
+Versus=squll-typo
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squll-typo
+result=loss
+score=13-9

@@ -1,0 +1,19 @@
+[player]
+nickname=DarkDreamz
+password=295301913
+email=ewc7@msn.com
+signup_date=11/2/2005
+playerID=3118
+status=regular
+referal=DarkDreamz
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=11-02-2005
+[password]
+failed=2

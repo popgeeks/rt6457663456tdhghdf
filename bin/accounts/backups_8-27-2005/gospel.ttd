@@ -1,0 +1,45 @@
+[player]
+nickname=gospel
+password=184245288
+email=sky1988sg@yahoo.com
+signup_date=6/2/2005
+playerID=594
+status=regular
+referal=dfghfsghdfhfdsv
+Verify=1
+Last IP=220.255.115.37
+id=28
+IP=220.255.115.37
+adminstatus=off
+match=06-02-2005
+Last Played=06-02-2005
+[Stats]
+Win=2
+Lost=1
+Draw=1
+Lame quits=0
+GP=5
+rank=1414
+Newdecks=1
+Level=1
+Exp=12
+Next=100
+AP=34
+Streak=3
+[Newdecks]
+Last=06-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 27012
+Versus=crab-bot
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=crab-bot
+result=win
+score=7-3

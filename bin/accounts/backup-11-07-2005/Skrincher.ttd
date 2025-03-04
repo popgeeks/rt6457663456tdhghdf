@@ -1,0 +1,30 @@
+[player]
+nickname=Skrincher
+password=330906927
+email=Bisharrako@hotmail.com
+signup_date=10/28/2005
+playerID=3061
+status=regular
+referal=Bisharrako
+Verify=1
+Last IP=85.137.29.31
+id=97
+IP=85.137.29.31
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

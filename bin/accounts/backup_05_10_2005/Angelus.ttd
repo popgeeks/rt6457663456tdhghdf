@@ -1,0 +1,46 @@
+[player]
+nickname=Angelus
+password=braindead
+email=gimel666@hotmail.com
+signup_date=5/5/2005
+playerID=292
+status=regular
+referal=
+Verify=1
+Last IP=80.41.145.160
+id=11
+IP=80.41.145.160
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=64
+Lost=109
+Draw=26
+Lame quits=3
+GP=487
+rank=1376
+Newdecks=1
+Level=12
+Exp=4982
+Next=5510
+Streak=-1
+Choices=1
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 14663
+Versus=squall
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=squall
+result=loss
+score=12-8

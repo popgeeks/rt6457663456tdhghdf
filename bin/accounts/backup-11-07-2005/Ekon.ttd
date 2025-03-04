@@ -1,0 +1,45 @@
+[player]
+nickname=Ekon
+password=Krynn747M
+email=ekon420@gmail.com
+signup_date=8/13/2005
+playerID=1841
+status=regular
+referal=
+Verify=1
+Last IP=68.116.90.157
+id=20
+IP=68.116.90.157
+adminstatus=off
+match=08-18-2005
+Last Played=08-18-2005
+[Stats]
+Win=2
+Lost=7
+Draw=0
+Lame quits=0
+GP=206
+Newdecks=1
+Level=2
+Exp=130
+Next=248
+AP=306
+Streak=-4
+Choices=1
+[Newdecks]
+Last=08-13-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 87464
+Versus=sexyshinobu
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=sexyshinobu
+result=loss
+score=6-4

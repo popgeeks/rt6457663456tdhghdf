@@ -1,0 +1,45 @@
+[player]
+nickname=Maester
+password=788198574466
+email=overhere@citromail.hu
+signup_date=8/24/2005
+playerID=1964
+status=regular
+referal=nemtom
+Verify=1
+Last IP=80.99.169.192
+id=36
+IP=80.99.169.192
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=17
+Lost=5
+Draw=6
+Lame quits=0
+GP=734
+Newdecks=1
+Level=3
+Exp=260
+Next=476
+AP=927
+Streak=-1
+Choices=1
+[Newdecks]
+Last=08-24-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 92661
+Versus=MasterD
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=7-3

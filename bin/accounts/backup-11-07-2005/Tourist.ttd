@@ -1,0 +1,48 @@
+[player]
+nickname=Tourist
+password=nirvana
+email=pawlo.srem@wp.pl
+signup_date=6/30/2005
+playerID=928
+status=regular
+referal=
+Verify=1
+Last IP=83.23.228.147
+id=47
+IP=83.23.228.147
+adminstatus=off
+match=08-04-2005
+Last Played=08-04-2005
+[Stats]
+Win=5
+Lost=21
+Draw=5
+Lame quits=1
+GP=359
+Newdecks=21
+Level=4
+Exp=532
+Next=836
+AP=1079
+Streak=-2
+SBLost=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 78407
+Versus=gafgarion
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=AJ666
+result=loss
+score=13-7

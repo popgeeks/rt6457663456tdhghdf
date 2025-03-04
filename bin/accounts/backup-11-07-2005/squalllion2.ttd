@@ -1,0 +1,39 @@
+[player]
+nickname=squalllion2
+password=773648082
+email=runemakerlango@bol.com.br
+signup_date=8/20/2005
+playerID=1910
+status=regular
+referal=
+Verify=1
+Last IP=200.158.154.238
+id=26
+IP=200.158.154.238
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=1
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0
+[Warnings]
+Bans=1
+Banned=true
+[Ban]
+Date=08-20-2005
+Admin=Lucrecia
+Reason=bye again

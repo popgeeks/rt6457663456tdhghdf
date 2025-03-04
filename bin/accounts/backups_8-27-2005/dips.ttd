@@ -1,0 +1,45 @@
+[player]
+nickname=dips
+password=616764127
+email=Serpentofdarkness@hotmail.com
+signup_date=6/26/2005
+playerID=861
+status=regular
+referal=
+Verify=1
+Last IP=82.36.154.170
+id=20
+IP=82.36.154.170
+adminstatus=off
+match=06-27-2005
+Last Played=06-27-2005
+[Stats]
+Win=8
+Lost=6
+Draw=1
+Lame quits=1
+GP=520
+Newdecks=1
+Level=3
+Exp=288
+Next=476
+AP=895
+Streak=2
+Choices=1
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 42685
+Versus=Majougi
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Majougi
+result=win
+score=10-8

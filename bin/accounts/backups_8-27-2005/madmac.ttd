@@ -1,0 +1,18 @@
+[player]
+nickname=madmac
+password=940293728
+email=madmac@acn.waw.pl
+signup_date=7/17/2005
+playerID=1325
+status=regular
+referal=costam
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-17-2005

@@ -1,0 +1,43 @@
+[player]
+nickname=pokay
+password=toll
+email=mortalchunk@hotmail.com
+signup_date=10/9/2005
+playerID=2741
+status=regular
+referal=
+Verify=1
+Last IP=84.188.209.18
+id=30
+IP=84.188.209.18
+adminstatus=off
+match=10-22-2005
+[Stats]
+Win=22
+Lost=25
+Draw=7
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=1168
+Next=1301
+Streak=-2
+Choices=1
+[Newdecks]
+Last=10-09-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 134309
+Versus=Alvaro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alvaro
+result=draw
+score=10-10

@@ -1,0 +1,45 @@
+[player]
+nickname=Blacksun
+password=r98258
+email=blacksun166@yahoo.com
+signup_date=9/26/2005
+playerID=2507
+status=regular
+referal=
+Verify=1
+Last IP=69.202.121.59
+id=38
+IP=69.202.121.59
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=52
+Lost=50
+Draw=23
+Lame quits=0
+Newdecks=1
+Level=7
+Exp=1789
+Next=2154
+Streak=10
+SBLost=2
+SBDraw=2
+SoldCards=1
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146750
+Versus=Rakan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Rakan
+result=win
+score=7-3

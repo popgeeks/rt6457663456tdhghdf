@@ -1,0 +1,32 @@
+[player]
+nickname=squallion
+password=693155705
+email=darkness_66624@hotmail.com
+signup_date=7/22/2005
+playerID=1425
+status=regular
+referal=squall
+Verify=1
+Last IP=201.137.138.163
+id=2
+IP=201.137.138.163
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=7
+[Newdecks]
+Last=07-22-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

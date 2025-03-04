@@ -1,0 +1,47 @@
+[player]
+nickname=lcpljev
+password=pokepika
+email=lcpljev@yahoo.com
+signup_date=6/25/2005
+playerID=837
+status=regular
+referal=search
+Verify=1
+Last IP=210.233.196.154
+id=5
+IP=210.233.196.154
+adminstatus=off
+Last Played=06-26-2005
+match=06-26-2005
+[Stats]
+Win=3
+Lost=2
+Draw=1
+Lame quits=0
+GP=0
+rank=1420
+Newdecks=9
+Level=1
+Exp=32
+Next=100
+AP=187
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-26-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=Xytras
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=Xytras
+result=loss
+score=7-3

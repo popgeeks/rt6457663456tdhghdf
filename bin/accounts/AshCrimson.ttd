@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=10
+match=11-22-2005
+[Play]
+Playing=false
+GameID= 155975
+Versus=phoenix243
+Iam=2
+[Stats]
+Level=1
+Exp=73
+Next=100
+Streak=-2
+[Games]
+Playing=TT
+[game]
+opponent=Chocoboy
+result=loss
+score=6-4

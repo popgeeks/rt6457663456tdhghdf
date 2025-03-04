@@ -1,0 +1,45 @@
+[player]
+nickname=Dragonmaster
+password=114007711
+email=o0Dragon_20690o@hotmail.co.uk
+signup_date=4/29/2005
+playerID=221
+status=regular
+referal=BadBoyDragon
+Verify=1
+Last IP=217.44.144.36
+id=21
+IP=217.44.144.36
+adminstatus=off
+match=04-30-2005
+Last Played=04-30-2005
+[Stats]
+Win=1
+Lost=5
+Draw=0
+Lame quits=1
+GP=172
+rank=1336
+Newdecks=1
+Level=2
+Exp=121
+Next=248
+Streak=1
+Choices=1
+[Newdecks]
+Last=04-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 9737
+Versus=Kamoji
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Kamoji
+result=win
+score=13-7

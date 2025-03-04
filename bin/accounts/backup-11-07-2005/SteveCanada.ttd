@@ -1,0 +1,35 @@
+[player]
+nickname=SteveCanada
+password=971941529
+email=skoczor@sympatico.ca
+signup_date=9/25/2005
+playerID=2492
+status=regular
+referal=
+Verify=1
+Last IP=67.70.129.33
+id=115
+IP=67.70.129.33
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 114031
+Versus=taliesin2943
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM

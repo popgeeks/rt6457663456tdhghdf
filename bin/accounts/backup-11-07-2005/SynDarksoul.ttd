@@ -1,0 +1,44 @@
+[player]
+nickname=SynDarksoul
+password=431369244
+email=hybrid_vampyr@hotmail.com
+signup_date=10/5/2005
+playerID=2647
+status=regular
+referal=
+Verify=1
+Last IP=220.240.68.103
+id=155
+IP=220.240.68.103
+adminstatus=off
+match=10-12-2005
+[Stats]
+Win=12
+Lost=21
+Draw=5
+Lame quits=1
+Newdecks=3
+Level=4
+Exp=658
+Next=836
+SoldCards=0
+cardsgiven=0
+Streak=1
+SBLost=1
+[Newdecks]
+Last=10-05-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 126765
+Versus=MetalArson
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MetalArson
+result=win
+score=6-4

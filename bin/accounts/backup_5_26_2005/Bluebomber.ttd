@@ -1,0 +1,47 @@
+[player]
+nickname=Bluebomber
+password=490012585
+email=noimnotdennis@gmail.com
+signup_date=5/20/2005
+playerID=437
+status=regular
+referal=
+Verify=1
+Last IP=68.3.154.60
+id=21
+IP=68.3.154.60
+adminstatus=off
+match=05-20-2005
+Last Played=05-20-2005
+[Stats]
+Win=1
+Lost=5
+Draw=1
+Lame quits=0
+GP=169
+rank=1296
+Newdecks=1
+Level=2
+Exp=130
+Next=248
+AP=211
+Streak=1
+SBLost=2
+Choices=1
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=pakelika
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=pakelika
+result=win
+score=9-1

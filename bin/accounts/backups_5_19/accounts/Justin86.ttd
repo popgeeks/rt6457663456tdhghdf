@@ -1,0 +1,33 @@
+[player]
+nickname=Justin86
+password=16246318
+email=justinwwk@yahoo.com
+signup_date=5/15/2005
+playerID=387
+status=regular
+referal=
+Verify=1
+Last IP=60.48.73.49
+id=25
+IP=60.48.73.49
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=19
+[Newdecks]
+Last=05-15-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

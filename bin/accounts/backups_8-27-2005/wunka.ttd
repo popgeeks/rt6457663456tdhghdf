@@ -1,0 +1,48 @@
+[player]
+nickname=wunka
+password=226829468
+email=ali_m@hotmail.co.uk
+signup_date=7/9/2005
+playerID=1138
+status=regular
+referal=wunka
+Verify=1
+Last IP=82.11.126.118
+id=42
+IP=82.11.126.118
+adminstatus=off
+match=07-09-2005
+Last Played=07-09-2005
+[Stats]
+Win=2
+Lost=5
+Draw=1
+Lame quits=0
+GP=200
+Newdecks=1
+Level=2
+Exp=109
+Next=248
+AP=12
+Streak=-4
+Choices=1
+[Newdecks]
+Last=07-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 52114
+Versus=rami
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=rami
+result=loss
+score=9-1
+[Warnings]
+Warns=1
+Kicks=2

@@ -1,0 +1,41 @@
+[player]
+nickname=Predator
+password=275579809
+email=hunterpredy@seznam.cz
+signup_date=10/2/2005
+playerID=2596
+status=regular
+referal=
+Verify=1
+Last IP=62.209.222.97
+id=20
+IP=62.209.222.97
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=9
+Lost=17
+Draw=3
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=655
+Next=836
+Streak=1
+[Newdecks]
+Last=10-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 122314
+Versus=darkcloud
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=darkcloud
+result=win
+score=13-7

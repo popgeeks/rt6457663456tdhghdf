@@ -1,0 +1,50 @@
+[player]
+nickname=daruso
+password=finalfantasy
+email=manu_dc04@hotmail.com
+signup_date=8/22/2005
+playerID=1944
+status=regular
+referal=
+Verify=1
+Last IP=200.68.109.115
+id=10
+IP=200.68.109.115
+adminstatus=off
+match=09-03-2005
+Last Played=08-26-2005
+[Stats]
+Win=17
+Lost=31
+Draw=4
+Lame quits=0
+GP=198
+Newdecks=1
+Level=5
+Exp=1250
+Next=1301
+AP=605
+Streak=-2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-22-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 97540
+Versus=blackcat
+Iam=2
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=blackcat
+result=draw
+score=10-10
+[Warnings]
+Warns=1

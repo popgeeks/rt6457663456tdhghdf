@@ -1,0 +1,49 @@
+[player]
+nickname=Axelking
+password=ax90king
+email=joanvalls_mompo@hotmail.com
+signup_date=7/12/2005
+playerID=1210
+status=regular
+referal=
+Verify=1
+Last IP=217.127.169.39
+id=22
+IP=217.127.169.39
+adminstatus=off
+match=07-15-2005
+Last Played=07-15-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=14
+Lost=11
+Draw=6
+Lame quits=0
+GP=36
+Newdecks=1
+Level=3
+Exp=421
+Next=476
+AP=582
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 56240
+Versus=Delfin
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=Jin
+result=loss
+score=7-3

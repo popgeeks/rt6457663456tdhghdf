@@ -1,0 +1,45 @@
+[player]
+nickname=Releaser
+password=638589500
+email=limiter@gmail.com
+signup_date=8/1/2005
+playerID=1624
+status=regular
+referal=
+Verify=1
+Last IP=209.161.229.235
+id=14
+IP=209.161.229.235
+adminstatus=off
+match=08-18-2005
+Last Played=08-18-2005
+[Stats]
+Win=4
+Lost=6
+Draw=2
+Lame quits=1
+GP=448
+Newdecks=1
+Level=3
+Exp=258
+Next=476
+AP=330
+Streak=2
+Choices=1
+[Newdecks]
+Last=08-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=AegisKnight
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=AegisKnight
+result=win
+score=9-1

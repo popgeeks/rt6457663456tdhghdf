@@ -1,0 +1,18 @@
+[player]
+nickname=DaVe
+password=110071897
+email=Davetew03@yahoo.com
+signup_date=7/12/2005
+playerID=1228
+status=regular
+referal=DaVe
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-12-2005

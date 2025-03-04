@@ -1,0 +1,46 @@
+[player]
+nickname=Rhue
+password=marris
+email=Tau_sbc@hotmail.com
+signup_date=7/7/2005
+playerID=1106
+status=regular
+referal=
+Verify=1
+Last IP=222.153.141.241
+id=41
+IP=222.153.141.241
+adminstatus=off
+match=07-09-2005
+Last Played=07-09-2005
+[Stats]
+Win=44
+Lost=69
+Draw=17
+Lame quits=0
+GP=98
+Newdecks=1
+Level=7
+Exp=1868
+Next=2154
+AP=666
+Streak=-2
+Choices=1
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 51912
+Iam=1
+Versus=seifer
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=seifer
+result=loss
+score=14-6

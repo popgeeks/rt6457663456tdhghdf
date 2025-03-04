@@ -1,0 +1,32 @@
+[player]
+nickname=najim2005
+password=985914408
+email=najim_adnane@msn.com
+signup_date=7/10/2005
+playerID=1155
+status=regular
+referal=adnane
+Verify=1
+Last IP=81.192.123.219
+id=15
+IP=81.192.123.219
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=07-10-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

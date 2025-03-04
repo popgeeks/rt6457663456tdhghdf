@@ -1,0 +1,32 @@
+[player]
+nickname=makai
+password=309754609
+email=egeekz@yahoo.com.br
+signup_date=7/9/2005
+playerID=1130
+status=regular
+referal=hahaha
+Verify=1
+Last IP=200.165.209.112
+id=10
+IP=200.165.209.112
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=10
+[Newdecks]
+Last=07-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,46 @@
+[player]
+nickname=redevilchild
+password=howard
+email=Redevilchild73@aol.com
+signup_date=10/6/2005
+playerID=2669
+status=regular
+referal=Karea
+Verify=1
+Last IP=172.145.159.205
+id=50
+IP=172.145.159.205
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=63
+Lost=167
+Draw=37
+Lame quits=0
+Newdecks=13
+Level=11
+Exp=4090
+Next=4838
+SoldCards=0
+cardsgiven=0
+Streak=-2
+SBLost=2
+[Newdecks]
+Last=10-15-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 146597
+Iam=1
+Versus=Andrew
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Andrew
+result=loss
+score=16-8

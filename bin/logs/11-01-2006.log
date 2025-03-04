@@ -1,0 +1,48 @@
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina>> CREATETABLE
+darklumina>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> PING
+darklumina2>> PING
+darklumina>> CHANGERULE 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina2>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina>> TT_MYCARD Game%20And%20Watch Juno%20And%20Vela King%20Dedede King%20Boo ReDead
+>> VERSION 1.5.9
+>> LOADGAME darklumina pantyraid13
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+>> VERSION 1.5.9
+>> LOADGAME darklumina2 pantyraid13
+darklumina2>> QUERYTABLES 1
+darklumina2>> EXTRACHECK
+darklumina2>> CREATETABLE
+darklumina2>> CHANGERULE 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina>> JOINTABLE 1
+darklumina2>> PING
+darklumina>> PING
+darklumina>> TABLECLOSE
+darklumina>> JOINTABLE 1
+darklumina2>> GAMEREADY
+darklumina>> GAMEREADY
+darklumina2>> TT_MYCARD Emperor%20Bulblax Basilisk Emperor%20Bulblax Kuro Nevado
+darklumina>> TT_MYCARD Angelo Blitz Blue%20Dragon Buel Catoblepas
+darklumina>> ADMINLOGIN 41257448
+darklumina>> TABLEENDMATCH darklumina
+darklumina2>> CREATETABLE
+darklumina2>> CHANGERULE 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0@@Triple%20Triad@@ XenoTrigger Suikoden2 Standard Nintendo FFT FFAC FF9 FF7 CC Anime
+darklumina>> JOINTABLE 1
+darklumina>> GAMEREADY
+darklumina2>> GAMEREADY
+darklumina>> TT_MYCARD Angelo Blitz Blue%20Dragon Buel Catoblepas
+darklumina2>> TT_MYCARD Emperor%20Bulblax Basilisk Emperor%20Bulblax Kuro Nevado

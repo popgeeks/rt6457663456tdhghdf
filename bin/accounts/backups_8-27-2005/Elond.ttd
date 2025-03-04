@@ -1,0 +1,45 @@
+[player]
+nickname=Elond
+password=169421553
+email=justingilber@hotmail.com
+signup_date=7/9/2005
+playerID=1142
+status=regular
+referal=
+Verify=1
+Last IP=24.68.97.140
+id=52
+IP=24.68.97.140
+adminstatus=off
+match=07-09-2005
+Last Played=07-09-2005
+[Stats]
+Win=3
+Lost=1
+Draw=0
+Lame quits=0
+GP=202
+Newdecks=1
+Level=2
+Exp=136
+Next=248
+AP=121
+Streak=4
+Choices=1
+[Newdecks]
+Last=07-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=wunka
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=wunka
+result=win
+score=9-1

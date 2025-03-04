@@ -1,0 +1,42 @@
+[player]
+nickname=themachine
+password=405767499
+email=anarchy_superman316@hotmail.com
+signup_date=9/23/2005
+playerID=2437
+status=regular
+referal=
+Verify=1
+Last IP=67.137.68.9
+id=56
+IP=67.137.68.9
+adminstatus=off
+match=09-25-2005
+[Stats]
+Win=9
+Lost=20
+Draw=4
+Lame quits=1
+Newdecks=1
+Level=4
+Exp=739
+Next=836
+Streak=-2
+Choices=1
+[Newdecks]
+Last=09-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 113920
+Versus=phreakazoid
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sefiroth
+result=loss
+score=12-8

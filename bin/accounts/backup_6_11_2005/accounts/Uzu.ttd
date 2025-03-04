@@ -1,0 +1,46 @@
+[player]
+nickname=Uzu
+password=760522901
+email=vity@luukku.com
+signup_date=4/19/05
+playerID=168
+status=regular
+referal=Uzliv
+Verify=1
+Last IP=82.141.84.188
+id=13
+IP=82.141.84.188
+adminstatus=off
+Last Played=04-22-2005
+match=04-22-2005
+[Stats]
+Win=9
+Lost=6
+Draw=2
+Lame quits=1
+GP=668
+rank=1277
+Newdecks=1
+Level=3
+Exp=333
+Next=476
+Streak=-2
+Choices=1
+Wins=9
+[Newdecks]
+Last=04-19-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 7302
+Versus=Mr-Tiddles
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Jimmy3000
+result=loss
+score=16-4

@@ -1,0 +1,52 @@
+[player]
+nickname=J102Y
+password=ocarina
+email=RetroKamasi@hotmail.co.uk
+signup_date=5/5/2005
+playerID=299
+status=regular
+referal=Lucrecia
+Verify=1
+Last IP=82.36.144.120
+id=29
+IP=82.36.144.120
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=173
+Lost=191
+Draw=61
+Lame quits=4
+GP=955
+rank=1439
+Newdecks=5
+Level=18
+Exp=11452
+Next=12718
+Streak=2
+Choices=1
+SoldCards=13
+cardsgiven=0
+[Newdecks]
+Last=05-06-2005
+[AP]
+AAEXP=131
+honor=1
+PCT=50
+[Play]
+Playing=false
+GameID= 14670
+Versus=PlayForKeeps
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=PlayForKeeps
+result=win
+score=11-9
+[Warnings]
+Kicks=1

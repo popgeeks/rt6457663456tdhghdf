@@ -1,0 +1,33 @@
+[player]
+nickname=zero323x
+password=381146549
+email=jdkopiak@aol.com
+signup_date=6/22/2005
+playerID=815
+status=regular
+referal=
+Verify=1
+Last IP=141.158.150.35
+id=48
+IP=141.158.150.35
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=06-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

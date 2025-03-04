@@ -1,0 +1,19 @@
+[player]
+nickname=vinceshek
+password=124208032
+email=vince_shek@hotmail.com
+signup_date=10/15/2005
+playerID=2858
+status=regular
+referal=ultimateweapon
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-15-2005
+[password]
+failed=1

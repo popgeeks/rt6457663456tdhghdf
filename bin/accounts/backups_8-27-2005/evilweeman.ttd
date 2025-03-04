@@ -1,0 +1,54 @@
+[player]
+nickname=evilweeman
+password=1qwerty
+email=michael5lambert@gmail.com
+signup_date=7/9/2005
+playerID=1135
+status=regular
+referal=gamester
+Verify=1
+Last IP=84.68.185.228
+id=16
+IP=84.68.185.228
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=66
+Lost=120
+Draw=29
+Lame quits=2
+GP=148
+Newdecks=17
+Level=8
+Exp=2574
+Next=2698
+AP=1728
+Streak=2
+Choices=1
+SoldCards=4
+cardsgiven=0
+[Newdecks]
+Last=07-10-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 92801
+Iam=2
+Versus=xion106
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=ZypherX
+result=win
+score=13-7
+[Warnings]
+Kicks=1

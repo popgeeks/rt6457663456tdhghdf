@@ -1,0 +1,44 @@
+[player]
+nickname=Daggs
+password=802139221
+email=zealous19@gmail.com
+signup_date=5/23/2005
+playerID=467
+status=regular
+referal=
+Verify=1
+Last IP=67.140.70.197
+id=18
+IP=67.140.70.197
+adminstatus=off
+Last Played=05-23-2005
+[Stats]
+Win=2
+Lost=1
+Draw=1
+Lame quits=0
+GP=0
+rank=1460
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=18
+Streak=3
+[Newdecks]
+Last=05-23-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 20662
+Versus=Ortew
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=esthar-bot
+result=win
+score=7-3

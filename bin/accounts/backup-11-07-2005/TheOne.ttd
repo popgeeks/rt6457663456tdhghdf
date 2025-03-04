@@ -1,0 +1,42 @@
+[player]
+nickname=TheOne
+password=341475903
+email=Free_To_Dream316@yahoo.com
+signup_date=9/25/2005
+playerID=2486
+status=regular
+referal=
+Verify=1
+Last IP=67.137.68.9
+id=15
+IP=67.137.68.9
+adminstatus=off
+match=10-15-2005
+[Stats]
+Win=24
+Lost=38
+Draw=7
+Lame quits=0
+Newdecks=1
+Level=6
+Exp=1692
+Next=1727
+Streak=-8
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 129038
+Versus=solidsnake
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=solidsnake
+result=loss
+score=7-3

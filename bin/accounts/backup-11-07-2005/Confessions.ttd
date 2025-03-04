@@ -1,0 +1,49 @@
+[player]
+nickname=Confessions
+password=925811587
+email=executioner_be@hotmail.com
+signup_date=6/17/2005
+playerID=728
+status=regular
+referal=Confessions1988
+Verify=1
+Last IP=81.82.95.191
+id=8
+IP=81.82.95.191
+adminstatus=off
+match=06-17-2005
+Last Played=06-17-2005
+[Stats]
+Win=4
+Lost=7
+Draw=3
+Lame quits=1
+GP=278
+rank=1065
+Newdecks=11
+Level=3
+Exp=332
+Next=476
+AP=412
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=1
+[Newdecks]
+Last=06-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 35185
+Versus=chocobo
+Iam=1
+[password]
+failed=3
+[Games]
+Playing=OTT
+[game]
+opponent=chocobo
+result=win
+score=12-8

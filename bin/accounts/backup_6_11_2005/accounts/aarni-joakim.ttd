@@ -1,0 +1,20 @@
+[player]
+nickname=aarni-joakim
+password=445983171
+email=aarnijoakim@hotmail.com
+signup_date=5/6/2005
+playerID=310
+status=regular
+referal=69red69
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=05-06-2005

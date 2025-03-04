@@ -1,0 +1,22 @@
+[player]
+nickname=Swordinator
+password=435547351
+email=I_r_smart_guy@hotmal.com
+signup_date=4/30/2005
+playerID=231
+status=regular
+referal=Swordy
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-30-2005
+[password]
+failed=6

@@ -1,0 +1,18 @@
+[player]
+nickname=Masterkami
+password=776905237
+email=ifrit@mails.att
+signup_date=7/9/2005
+playerID=1140
+status=regular
+referal=janmann
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-09-2005

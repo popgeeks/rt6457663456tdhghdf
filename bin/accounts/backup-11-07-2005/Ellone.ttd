@@ -1,0 +1,49 @@
+[player]
+nickname=Ellone
+password=melissa
+email=surprise_alexis@msn.com
+signup_date=7/27/2005
+playerID=1533
+status=regular
+referal=Asuma
+Verify=1
+Last IP=86.196.155.229
+id=74
+IP=86.196.155.229
+adminstatus=off
+match=10-27-2005
+Last Played=08-18-2005
+[Stats]
+Win=136
+Lost=97
+Draw=60
+Lame quits=5
+GP=974
+Newdecks=3
+Level=14
+Exp=6755
+Next=7520
+AP=72
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-28-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 138194
+Versus=redevilchild
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=redevilchild
+result=win
+score=13-11

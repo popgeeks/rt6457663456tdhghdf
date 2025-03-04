@@ -1,0 +1,37 @@
+[player]
+nickname=MegaPaul
+password=488397538
+email=mittenparade@hotmail.com
+signup_date=7/18/2005
+playerID=1339
+status=regular
+referal=manji
+Verify=1
+Last IP=82.35.210.42
+id=21
+IP=82.35.210.42
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=9
+[Newdecks]
+Last=07-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 59033
+Versus=Gilgamesh
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

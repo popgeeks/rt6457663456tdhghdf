@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=40
+match=12-04-2005
+[Play]
+Playing=false
+GameID= 164130
+Versus=Chronic
+Iam=1
+[Stats]
+Level=1
+Exp=56
+Next=100
+Streak=1
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=ChronaMew
+result=win
+score=7-3

@@ -1,0 +1,17 @@
+[player]
+nickname=arngrim
+password=554698526
+email=bbaird1@ithaca.edu
+signup_date=11/4/2005
+playerID=3142
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=11-04-2005

@@ -1,0 +1,45 @@
+[player]
+nickname=Smunchie
+password=rochel
+email=ffsmunchie@hotmail.com
+signup_date=7/24/2005
+playerID=1457
+status=regular
+referal=
+Verify=1
+Last IP=82.126.155.190
+id=41
+IP=82.126.155.190
+adminstatus=off
+match=07-30-2005
+Last Played=07-30-2005
+[Stats]
+Win=12
+Lost=14
+Draw=6
+Lame quits=0
+GP=713
+Newdecks=1
+Level=3
+Exp=379
+Next=476
+AP=960
+Streak=-5
+Choices=1
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 73097
+Versus=Charmed
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Charmed
+result=loss
+score=13-7

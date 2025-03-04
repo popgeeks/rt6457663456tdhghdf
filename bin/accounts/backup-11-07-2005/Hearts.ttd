@@ -1,0 +1,17 @@
+[player]
+nickname=Hearts
+password=884692906
+email=nick_smi@hotnail.com
+signup_date=10/14/2005
+playerID=2826
+status=regular
+referal=Nicholas
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-14-2005

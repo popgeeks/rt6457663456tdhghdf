@@ -1,0 +1,51 @@
+[player]
+nickname=Run4Tonight
+password=loserkids
+email=DaneCooker@yahoo.com
+signup_date=4/21/05
+playerID=181
+status=regular
+referal=
+Verify=1
+Last IP=70.34.129.114
+id=24
+IP=70.34.129.114
+adminstatus=off
+Last Played=05-04-2005
+match=05-04-2005
+[Stats]
+Win=273
+Lost=153
+Draw=105
+Lame quits=5
+GP=690
+rank=2629
+Newdecks=7
+Level=18
+Exp=11625
+Next=12718
+SoldCards=24
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=04-21-2005
+[AP]
+AAEXP=1575
+honor=1
+PCT=100
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 10917
+Versus=MisterRictus
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=MisterRictus
+result=loss
+score=12-8

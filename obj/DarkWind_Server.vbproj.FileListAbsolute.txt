@@ -1,0 +1,243 @@
+F:\Code\Release Builds\DarkWind_Server.exe.config
+F:\Code\Release Builds\DarkWind_Server.exe.manifest
+F:\Code\Release Builds\DarkWind_Server.application
+F:\Code\Release Builds\DarkWind_Server.exe
+F:\Code\Release Builds\DarkWind_Server.xml
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\ResolveAssemblyReference.cache
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\Interop.DAO.dll
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\Interop.InetCtlsObjects.dll
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\Interop.MSWinsockLib.dll
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\AxInterop.InetCtlsObjects.dll
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\AxInterop.MSWinsockLib.dll
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.vbproj.ResolveComReference.cache
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmDebug.resources
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmpacket.resources
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmserver.resources
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmSystray.resources
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.vbproj.GenerateResource.Cache
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.exe.manifest
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.application
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.exe
+F:\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.xml
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.exe.config
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.exe.manifest
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.application
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.exe
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.pdb
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\DarkWind_Server.xml
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\AxWinsockArray.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\Interop.MSWinsockLib.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\AxInterop.MSWinsockLib.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\Interop.DAO.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\Interop.InetCtlsObjects.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\bin\AxInterop.InetCtlsObjects.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\ResolveAssemblyReference.cache
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\Interop.DAO.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\Interop.MSWinsockLib.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.frmDebug.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.frmpacket.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.frmserver.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.frmSystray.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.exe.manifest
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.application
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.exe
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.xml
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Debug\DarkWind_Server.pdb
+C:\Software Code\Code\Release Builds\DarkWind_Server.exe.config
+C:\Software Code\Code\Release Builds\DarkWind_Server.exe.manifest
+C:\Software Code\Code\Release Builds\DarkWind_Server.application
+C:\Software Code\Code\Release Builds\DarkWind_Server.exe
+C:\Software Code\Code\Release Builds\DarkWind_Server.xml
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\ResolveAssemblyReference.cache
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\Interop.DAO.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\Interop.InetCtlsObjects.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\Interop.MSWinsockLib.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmDebug.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmpacket.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmserver.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.frmSystray.resources
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.exe.manifest
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.application
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.exe
+C:\Software Code\Code\Dark Wind v2\Production\Server-PROD\obj\Release\DarkWind_Server.xml
+C:\Users\test\Documents\Release Builds\DarkWind_Server.exe.config
+C:\Users\test\Documents\Release Builds\DarkWind_Server.exe.manifest
+C:\Users\test\Documents\Release Builds\DarkWind_Server.application
+C:\Users\test\Documents\Release Builds\DarkWind_Server.exe
+C:\Users\test\Documents\Release Builds\DarkWind_Server.xml
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\Interop.DAO.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\Interop.InetCtlsObjects.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\Interop.MSWinsockLib.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.frmpacket.resources
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.frmserver.resources
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.frmSystray.resources
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.exe.manifest
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.application
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.exe
+C:\Users\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.xml
+C:\Users\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.exe.config
+C:\Users\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.exe.manifest
+C:\Users\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.application
+C:\Users\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.exe
+C:\Users\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.pdb
+C:\Users\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.xml
+C:\Users\test\Documents\Software Code\Production\Server\bin\AxWinsockArray.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\Interop.MSWinsockLib.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\AxInterop.MSWinsockLib.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\Interop.DAO.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\Interop.InetCtlsObjects.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\AxInterop.InetCtlsObjects.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\Interop.DAO.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.frmpacket.resources
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.frmserver.resources
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.frmSystray.resources
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.exe.manifest
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.application
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.exe
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.xml
+C:\Users\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.pdb
+C:\Users\test\Documents\Software Code\Production\Server\bin\MySql.Data.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\MySQLFactory.dll
+C:\Users\test\Documents\Software Code\Production\Server\bin\MySQLFactory.pdb
+C:\Users\test\Documents\Software Code\Production\Server\bin\MySQLFactory.xml
+C:\backup\test\Documents\Release Builds\DarkWind_Server.exe.config
+C:\backup\test\Documents\Release Builds\DarkWind_Server.exe
+C:\backup\test\Documents\Release Builds\DarkWind_Server.xml
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\ResolveAssemblyReference.cache
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\Interop.DAO.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\Interop.InetCtlsObjects.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\Interop.MSWinsockLib.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\AxInterop.MSWinsockLib.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.frmpacket.resources
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.frmserver.resources
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.frmSystray.resources
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.exe
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.xml
+C:\backup\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.exe.config
+C:\backup\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.exe
+C:\backup\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.pdb
+C:\backup\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.xml
+C:\backup\test\Documents\Software Code\Production\Server\bin\AxWinsockArray.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\MySql.Data.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\MySQLFactory.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\Interop.MSWinsockLib.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\AxInterop.MSWinsockLib.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\MySQLFactory.pdb
+C:\backup\test\Documents\Software Code\Production\Server\bin\MySQLFactory.xml
+C:\backup\test\Documents\Software Code\Production\Server\bin\Interop.DAO.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\Interop.InetCtlsObjects.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\AxInterop.InetCtlsObjects.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\Interop.DAO.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\Interop.InetCtlsObjects.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\Interop.MSWinsockLib.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.frmpacket.resources
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.frmserver.resources
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.frmSystray.resources
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.exe
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.xml
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.pdb
+C:\backup\test\Documents\Software Code\Production\Server\bin\Interop.TTEServerEncrypt64.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\Interop.TTEServerEncrypt64.dll
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\Interop.TTEServerEncrypt64.dll
+C:\backup\test\Documents\Release Builds\DarkWind_Server.exe.manifest
+C:\backup\test\Documents\Release Builds\DarkWind_Server.application
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.TrustInfo.xml
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.exe.manifest
+C:\backup\test\Documents\Software Code\Production\Server\obj\Release\DarkWind_Server.application
+C:\backup\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.exe.manifest
+C:\backup\test\Documents\Software Code\Production\Server\bin\DarkWind_Server.application
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.TrustInfo.xml
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.exe.manifest
+C:\backup\test\Documents\Software Code\Production\Server\obj\Debug\DarkWind_Server.application
+C:\backup\test\Documents\Software Code\Production\Server\bin\Entities.dll
+C:\backup\test\Documents\Software Code\Production\Server\bin\Entities.pdb
+C:\backup\test\Documents\Software Code\Production\Server\bin\Entities.xml
+C:\Certification\Live Update 03\Server\bin\DarkWind_Server.exe.config
+C:\Certification\Live Update 03\Server\bin\DarkWind_Server.exe.manifest
+C:\Certification\Live Update 03\Server\bin\DarkWind_Server.application
+C:\Certification\Live Update 03\Server\bin\DarkWind_Server.exe
+C:\Certification\Live Update 03\Server\bin\DarkWind_Server.pdb
+C:\Certification\Live Update 03\Server\bin\DarkWind_Server.xml
+C:\Certification\Live Update 03\Server\bin\AxWinsockArray.dll
+C:\Certification\Live Update 03\Server\bin\Entities.dll
+C:\Certification\Live Update 03\Server\bin\Interop.MSWinsockLib.dll
+C:\Certification\Live Update 03\Server\bin\AxInterop.MSWinsockLib.dll
+C:\Certification\Live Update 03\Server\bin\Entities.pdb
+C:\Certification\Live Update 03\Server\bin\Entities.xml
+C:\Certification\Live Update 03\Server\bin\MySQLFactory.pdb
+C:\Certification\Live Update 03\Server\bin\MySQLFactory.xml
+C:\Certification\Live Update 03\Server\bin\Interop.DAO.dll
+C:\Certification\Live Update 03\Server\bin\Interop.InetCtlsObjects.dll
+C:\Certification\Live Update 03\Server\bin\Interop.TTEServerEncrypt64.dll
+C:\Certification\Live Update 03\Server\bin\AxInterop.InetCtlsObjects.dll
+C:\Certification\Live Update 03\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Certification\Live Update 03\Server\obj\Debug\Interop.DAO.dll
+C:\Certification\Live Update 03\Server\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Certification\Live Update 03\Server\obj\Debug\Interop.MSWinsockLib.dll
+C:\Certification\Live Update 03\Server\obj\Debug\Interop.TTEServerEncrypt64.dll
+C:\Certification\Live Update 03\Server\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\Certification\Live Update 03\Server\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.frmpacket.resources
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.frmserver.resources
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.frmSystray.resources
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.TrustInfo.xml
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.exe.manifest
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.application
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.exe
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.xml
+C:\Certification\Live Update 03\Server\obj\Debug\DarkWind_Server.pdb
+C:\Certification\Live Update 03\Server\obj\Release\ResolveAssemblyReference.cache
+C:\Certification\Live Update 03\Server\obj\Release\Interop.DAO.dll
+C:\Certification\Live Update 03\Server\obj\Release\Interop.InetCtlsObjects.dll
+C:\Certification\Live Update 03\Server\obj\Release\Interop.MSWinsockLib.dll
+C:\Certification\Live Update 03\Server\obj\Release\Interop.TTEServerEncrypt64.dll
+C:\Certification\Live Update 03\Server\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Certification\Live Update 03\Server\obj\Release\AxInterop.MSWinsockLib.dll
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.vbproj.ResolveComReference.cache
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.frmpacket.resources
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.frmserver.resources
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.frmSystray.resources
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.vbproj.GenerateResource.Cache
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.exe
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.xml
+C:\Certification\Live Update 03\Server\bin\MySql.Data.dll
+C:\Certification\Live Update 03\Server\bin\MySQLFactory.dll
+C:\Release Builds\DarkWind_Server.exe.config
+C:\Release Builds\DarkWind_Server.exe.manifest
+C:\Release Builds\DarkWind_Server.application
+C:\Release Builds\DarkWind_Server.exe
+C:\Release Builds\DarkWind_Server.xml
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.TrustInfo.xml
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.exe.manifest
+C:\Certification\Live Update 03\Server\obj\Release\DarkWind_Server.application

@@ -1,0 +1,60 @@
+[player]
+nickname=Slicer
+password=BGB041
+email=dm_slicer@lineone.net
+signup_date=4/15/05
+playerID=139
+status=regular
+referal=
+Verify=1
+Last IP=80.229.253.5
+id=1
+IP=80.229.253.5
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=04-15-2005
+[Totals]
+Level1=3
+Level2=2
+Level3=2
+Level4=3
+Level5=2
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Geezard=1
+Blitz=1
+Ruby Dragon=1
+GIM47N=1
+Blobra=2
+Forbidden=1
+Bomb=1
+Grendel=1
+Torama=1
+Ultima Weapon=1
+Grat=1
+Fujin, Raijin=1
+Shumi Tribe=1
+Tri-Face=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

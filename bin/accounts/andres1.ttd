@@ -1,0 +1,17 @@
+[player]
+nickname=andres1
+password=835509239
+email=andre507@hotmail.com
+signup_date=10/27/2005
+playerID=3047
+status=regular
+referal=andres
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-27-2005

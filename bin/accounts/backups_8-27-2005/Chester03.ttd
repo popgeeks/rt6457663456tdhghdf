@@ -1,0 +1,46 @@
+[player]
+nickname=Chester03
+password=genki3
+email=krisz02d@freemail.hu
+signup_date=8/25/2005
+playerID=1979
+status=regular
+referal=Chester02
+Verify=1
+Last IP=81.182.104.61
+id=31
+IP=81.182.104.61
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=1
+Lost=16
+Draw=5
+Lame quits=0
+GP=249
+Newdecks=1
+Level=2
+Exp=174
+Next=248
+AP=204
+Streak=-5
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 93317
+Versus=pathogen
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Squall-rank9
+result=loss
+score=14-6

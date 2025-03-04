@@ -1,0 +1,53 @@
+[player]
+nickname=squalllion
+password=637825607
+email=cloudstryf@hotmail.com
+signup_date=8/20/2005
+playerID=1904
+status=regular
+referal=
+Verify=1
+Last IP=200.158.155.120
+id=34
+IP=200.158.155.120
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=1
+Lost=2
+Draw=1
+Lame quits=2
+GP=45
+Newdecks=1
+Level=1
+Exp=69
+Next=100
+AP=214
+Streak=-1
+[Newdecks]
+Last=08-20-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=88835
+Versus=Team
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=rinoapereira
+result=loss
+score=12-8
+[Warnings]
+Kicks=2
+Warns=2
+Bans=1
+Banned=true
+[Ban]
+Date=08-20-2005
+Admin=Lucrecia
+Reason=right button this time

@@ -1,0 +1,90 @@
+[player]
+nickname=MGdaGR8est
+password=tosmart
+email=MGdaGR8est@gmail.com
+signup_date=3/26/05
+playerID=58
+status=regular
+Verify=1
+Last IP=69.115.8.136
+id=15
+IP=69.115.8.136
+adminstatus=off
+match=10-21-2005
+Last Played=08-10-2005
+surname=ttplayer
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=2085
+Lost=1073
+Draw=1050
+Lame quits=12
+GP=978
+rank=2136
+Newdecks=1
+Level=31
+Exp=34701
+Next=35948
+Wins=0
+AP=100203
+Streak=4
+Choices=1
+SoldCards=170
+SBLost=2
+SBWin=1
+[Newdecks]
+Last=03-26-2005
+[Totals]
+Level1=4
+Level2=2
+Level3=1
+Level4=6
+Level5=1
+Level6=1
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Snow Lion=1
+Turtapod=1
+Mesmerize=1
+Blitz=1
+Bomb=1
+X-ATM092=1
+Fastitocalon-F=1
+Funguar=1
+Gayla=1
+Tonberry King=1
+T-Rexaur=1
+Imp=1
+Jelleye=1
+Blood Soul=1
+[AP]
+AAEXP=1923
+honor=2
+PCT=20
+AAPOINTS=0
+TRAINED=10
+high=5
+[Play]
+Playing=false
+GameID= 133789
+Versus=howabe
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=howabe
+result=win
+score=6-4
+[Warnings]
+Kicks=5

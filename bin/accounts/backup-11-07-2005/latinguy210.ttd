@@ -1,0 +1,19 @@
+[player]
+nickname=latinguy210
+password=223715126
+email=reamadrid21000@yahoo.com
+signup_date=10/21/2005
+playerID=2958
+status=regular
+referal=soccer
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-21-2005
+[password]
+failed=2

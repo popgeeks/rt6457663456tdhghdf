@@ -1,0 +1,30 @@
+[player]
+nickname=neoomni82
+password=163557231
+email=neo_omni82@yahoo.com
+signup_date=9/28/2005
+playerID=2534
+status=regular
+referal=
+Verify=1
+Last IP=24.23.61.170
+id=130
+IP=24.23.61.170
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

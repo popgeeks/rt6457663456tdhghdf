@@ -1,0 +1,20 @@
+[player]
+nickname=rodjhon
+password=114929199
+email=rodjhon_pogi@yahoo.com
+signup_date=7/21/2005
+playerID=1402
+status=regular
+referal=jairah
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=07-21-2005
+[password]
+failed=1

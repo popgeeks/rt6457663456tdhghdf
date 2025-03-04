@@ -1,0 +1,47 @@
+[player]
+nickname=aquaela
+password=ml7sai
+email=michelle_leez@hotmail.com
+signup_date=7/24/2005
+playerID=1478
+status=regular
+referal=
+Verify=1
+Last IP=68.187.148.40
+id=84
+IP=68.187.148.40
+adminstatus=off
+match=10-30-2005
+Last Played=08-03-2005
+[Stats]
+Win=9
+Lost=16
+Draw=6
+Lame quits=0
+GP=256
+Newdecks=3
+Level=4
+Exp=609
+Next=836
+AP=803
+Streak=-2
+SoldCards=0
+cardsgiven=0
+Choices=1
+[Newdecks]
+Last=07-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 140042
+Versus=LagunaD
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=LagunaD
+result=loss
+score=13-7

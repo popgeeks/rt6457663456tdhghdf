@@ -1,0 +1,55 @@
+[player]
+nickname=Marauder
+password=marybeth
+email=total_outlaw@hotmail.com
+signup_date=6/3/2005
+playerID=605
+status=regular
+referal=
+Verify=1
+Last IP=213.107.183.115
+id=20
+IP=213.107.183.115
+adminstatus=off
+match=06-09-2005
+Last Played=06-09-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+[Stats]
+Win=128
+Lost=122
+Draw=53
+Lame quits=4
+GP=190
+rank=1430
+Newdecks=7
+Level=14
+Exp=6759
+Next=7520
+AP=299
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-04-2005
+[AP]
+AAEXP=1881
+honor=1
+PCT=50
+[Play]
+Playing=false
+GameID= 30832
+Versus=3wingedangel
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=3wingedangel
+result=win
+score=20-4

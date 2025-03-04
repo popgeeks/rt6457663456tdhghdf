@@ -1,0 +1,30 @@
+[player]
+nickname=Celsius
+password=897899328
+email=kmh89@web.de
+signup_date=8/28/2005
+playerID=1988
+status=regular
+referal=
+Verify=1
+Last IP=85.216.11.230
+id=14
+IP=85.216.11.230
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=08-28-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

@@ -1,0 +1,70 @@
+[player]
+nickname=Shiami
+password=cammander
+email=cj_hudson@shaw.ca
+signup_date=4/15/05
+playerID=138
+status=regular
+referal=
+Verify=1
+Last IP=68.148.31.184
+id=11
+IP=68.148.31.184
+adminstatus=off
+match=04-16-2005
+Last Played=04-16-2005
+[Stats]
+Win=0
+Lost=1
+Draw=2
+Lame quits=0
+GP=50
+rank=1338
+Newdecks=1
+Level=1
+Exp=61
+Next=100
+Streak=1
+[Newdecks]
+Last=04-15-2005
+[Totals]
+Level1=0
+Level2=2
+Level3=4
+Level4=4
+Level5=0
+Level6=3
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Tri-Face=2
+Blue Dragon=1
+Jumbo Cactuar=2
+Shumi Tribe=1
+Glacial Eye=1
+Wendigo=1
+Grendel=1
+Blitz=1
+Snow Lion=1
+Trauma=1
+Abadon=1
+Armadodo=1
+Adamantoise=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5967
+Versus=darklumina
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=darklumina
+result=draw
+score=5-5

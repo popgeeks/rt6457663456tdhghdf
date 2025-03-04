@@ -1,0 +1,19 @@
+[player]
+nickname=735448995
+password=668089806
+email=bond_1987@hotmail.com
+signup_date=10/12/2005
+playerID=2813
+status=regular
+referal=Sepiroth-23
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-12-2005
+[password]
+failed=1

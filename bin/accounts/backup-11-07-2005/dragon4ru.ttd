@@ -1,0 +1,73 @@
+[player]
+nickname=dragon4ru
+password=711229681
+email=dragons4ru@yahoo.com
+signup_date=3/28/05
+playerID=68
+status=regular
+Verify=1
+Last IP=70.244.45.159
+id=15
+IP=70.244.45.159
+adminstatus=off
+Last Played=03-29-2005
+[Stats]
+Win=6
+Lost=7
+Draw=8
+Lame quits=1
+GP=210
+rank=1285
+Newdecks=1
+Level=2
+Exp=220
+Next=248
+Streak=1
+Choices=1
+Wins=6
+[Newdecks]
+Last=03-28-2005
+[Totals]
+Level1=2
+Level2=4
+Level3=1
+Level4=1
+Level5=1
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Oilboyle=0
+Gayla=1
+Abadon=2
+Trauma=1
+Thrustaevis=1
+Glacial Eye=1
+Iguion=1
+Iron Giant=0
+Turtapod=1
+Fastitocalon=1
+T-Rexaur=0
+Bomb=0
+Anacondaur=1
+Buel=1
+Red Bat=1
+Elastoid=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 2043
+Versus=Alliance
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=hitman
+result=win
+score=7-3

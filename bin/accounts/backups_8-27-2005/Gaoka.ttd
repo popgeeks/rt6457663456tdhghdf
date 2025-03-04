@@ -1,0 +1,45 @@
+[player]
+nickname=Gaoka
+password=noseke
+email=Gaokabloodfire@gmail.com
+signup_date=7/25/2005
+playerID=1503
+status=regular
+referal=noseke
+Verify=1
+Last IP=213.97.251.48
+id=37
+IP=213.97.251.48
+adminstatus=off
+match=07-28-2005
+Last Played=07-28-2005
+[Stats]
+Win=3
+Lost=5
+Draw=2
+Lame quits=0
+GP=240
+Newdecks=1
+Level=2
+Exp=205
+Next=248
+AP=136
+Streak=3
+Choices=1
+[Newdecks]
+Last=07-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 71040
+Versus=Alvaro
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Alvaro
+result=win
+score=11-9

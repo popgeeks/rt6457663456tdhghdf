@@ -1,0 +1,41 @@
+[player]
+nickname=randy01
+password=soloelmejor
+email=vladiking31@hotmail.com
+signup_date=8/12/2005
+playerID=1835
+status=regular
+referal=yoyoyo
+Verify=1
+Last IP=201.240.60.98
+id=13
+IP=201.240.60.98
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=21
+Level=1
+Exp=0
+Next=100
+AP=19
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 88284
+Versus=Randymate
+Iam=2
+[password]
+failed=0
+[Games]
+Challenged=
+[Warnings]
+Kicks=1

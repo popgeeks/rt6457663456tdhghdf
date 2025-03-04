@@ -1,0 +1,47 @@
+[player]
+nickname=Reno478
+password=129078328
+email=CDAdams99@aol.com
+signup_date=10/22/2005
+playerID=2977
+status=regular
+referal=
+Verify=1
+Last IP=172.194.74.236
+id=61
+IP=172.194.74.236
+adminstatus=off
+match=11-02-2005
+guildinvite=
+guildinvite_name=
+guild=
+guildmaster=
+[Stats]
+Win=5
+Lost=35
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=762
+Next=836
+Streak=-1
+Choices=1
+[Newdecks]
+Last=10-22-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 141974
+Versus=LagunaD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=LagunaD
+result=loss
+score=13-7

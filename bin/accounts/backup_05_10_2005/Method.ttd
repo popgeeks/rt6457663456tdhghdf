@@ -1,0 +1,32 @@
+[player]
+nickname=Method
+password=575472592
+email=cross_1987@o2.pl
+signup_date=5/8/2005
+playerID=331
+status=regular
+referal=
+Verify=1
+Last IP=83.16.185.226
+id=26
+IP=83.16.185.226
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=05-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

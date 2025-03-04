@@ -1,0 +1,56 @@
+[player]
+nickname=darkcloud89
+password=316962480
+email=mauricio_12337@hotmail.com
+signup_date=6/1/2005
+playerID=581
+status=regular
+referal=darkcloud89
+Verify=1
+Last IP=200.92.114.94
+id=41
+IP=200.92.114.94
+adminstatus=off
+match=08-01-2005
+Last Played=08-01-2005
+guildinvite=
+guildinvite_name=
+guild=Sith Lords
+guildmaster=3
+[Stats]
+Win=95
+Lost=118
+Draw=42
+Lame quits=3
+GP=1530
+rank=1417
+Newdecks=9
+Level=14
+Exp=6534
+Next=7520
+AP=6909
+Streak=-6
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-03-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 75756
+Versus=amy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=amy
+result=loss
+score=14-6
+[Warnings]
+Kicks=1

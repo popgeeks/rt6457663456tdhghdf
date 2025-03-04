@@ -1,0 +1,43 @@
+[player]
+nickname=gizette
+password=2285480
+email=collegechick19832@yahoo.com
+signup_date=10/1/2005
+playerID=2569
+status=regular
+referal=
+Verify=1
+Last IP=68.224.109.220
+id=38
+IP=68.224.109.220
+adminstatus=off
+match=10-02-2005
+[Stats]
+Win=2
+Lost=1
+Draw=0
+Lame quits=0
+Newdecks=7
+Level=2
+Exp=119
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=10-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 118937
+Versus=bubbles
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=bubbles
+result=win
+score=17-5

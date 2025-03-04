@@ -1,0 +1,46 @@
+[player]
+nickname=flameboy
+password=westham1
+email=pamelafm@aol.com
+signup_date=5/9/2005
+playerID=341
+status=regular
+referal=ben
+Verify=1
+Last IP=82.34.126.138
+id=23
+IP=82.34.126.138
+adminstatus=off
+match=05-10-2005
+Last Played=05-10-2005
+[Stats]
+Win=1
+Lost=4
+Draw=1
+Lame quits=0
+GP=177
+rank=1500
+Newdecks=1
+Level=2
+Exp=138
+Next=248
+Streak=1
+Choices=1
+Wins=1
+[Newdecks]
+Last=05-09-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 13924
+Versus=Jimmy3000
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=pushmeaway
+result=win
+score=11-7

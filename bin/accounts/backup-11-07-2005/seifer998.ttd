@@ -1,0 +1,37 @@
+[player]
+nickname=seifer998
+password=224403321
+email=craigie998@yahoo.com
+signup_date=10/25/2005
+playerID=3006
+status=regular
+referal=forum
+Verify=1
+Last IP=81.103.245.157
+id=21
+IP=81.103.245.157
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 136302
+Versus=Deleviathan
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

@@ -1,0 +1,46 @@
+[player]
+nickname=Tidus789
+password=2964079
+email=new_dream@hotmail.co.uk
+signup_date=7/30/2005
+playerID=1594
+status=regular
+referal=Andy
+Verify=1
+Last IP=84.92.108.127
+id=9
+IP=84.92.108.127
+adminstatus=off
+match=07-30-2005
+Last Played=07-30-2005
+[Stats]
+Win=0
+Lost=0
+Draw=2
+Lame quits=1
+GP=15
+Newdecks=1
+Level=1
+Exp=7
+Next=100
+AP=77
+[Newdecks]
+Last=07-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 73478
+Versus=LeonSKennedy
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=LeonSKennedy
+result=draw
+score=5-5
+[Warnings]
+Kicks=1
+Warns=1

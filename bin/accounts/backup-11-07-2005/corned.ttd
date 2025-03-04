@@ -1,0 +1,34 @@
+[player]
+nickname=corned
+password=hotdogg
+email=superc0rn@hotmail.com
+signup_date=7/21/2005
+playerID=1417
+status=regular
+referal=corn
+Verify=1
+Last IP=12.218.38.221
+id=10
+IP=12.218.38.221
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=11
+Level=1
+Exp=0
+Next=100
+AP=3
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=07-21-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

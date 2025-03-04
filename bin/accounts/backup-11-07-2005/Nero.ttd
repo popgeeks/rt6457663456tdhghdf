@@ -1,0 +1,41 @@
+[player]
+nickname=Nero
+password=Angelus
+email=RosaDeNero@Gmail.com
+signup_date=9/8/2005
+playerID=2159
+status=regular
+referal=
+Verify=1
+Last IP=66.27.198.226
+id=47
+IP=66.27.198.226
+adminstatus=off
+match=09-18-2005
+[Stats]
+Win=7
+Lost=19
+Draw=8
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=370
+Next=476
+Streak=-3
+[Newdecks]
+Last=09-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 108110
+Versus=MasterD
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=MasterD
+result=loss
+score=8-2

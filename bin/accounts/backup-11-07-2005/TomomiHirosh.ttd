@@ -1,0 +1,30 @@
+[player]
+nickname=TomomiHirosh
+password=873309134
+email=tomomihiroshi@quipo.it
+signup_date=9/4/2005
+playerID=2095
+status=regular
+referal=TomomiHiroshi
+Verify=1
+Last IP=62.211.6.193
+id=38
+IP=62.211.6.193
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=09-04-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

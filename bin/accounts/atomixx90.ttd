@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=19
+match=12-14-2005
+[Play]
+Playing=false
+GameID= 171205
+Versus=crazyghost
+Iam=2
+[Stats]
+Level=4
+Exp=772
+Next=836
+Streak=1
+[Games]
+Playing=OTT
+[game]
+opponent=crazyghost
+result=win
+score=11-9

@@ -1,0 +1,32 @@
+[player]
+nickname=Arcarion
+password=235599636
+email=ph.hoevelmann@web.de
+signup_date=10/1/2005
+playerID=2571
+status=regular
+referal=
+Verify=1
+Last IP=80.140.155.17
+id=16
+IP=80.140.155.17
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=3
+Level=1
+Exp=0
+Next=100
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=10-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

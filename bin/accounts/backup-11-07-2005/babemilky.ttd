@@ -1,0 +1,32 @@
+[player]
+nickname=babemilky
+password=81887364
+email=milkchocolatebird@yahoo.com
+signup_date=7/17/2005
+playerID=1313
+status=regular
+referal=26021990
+Verify=1
+Last IP=210.245.107.187
+id=27
+IP=210.245.107.187
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=07-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,19 @@
+[player]
+nickname=nadine
+password=28955936
+email=nadincaldwel@hotmail.com
+signup_date=10/18/2005
+playerID=2906
+status=regular
+referal=father
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-18-2005
+[password]
+failed=9

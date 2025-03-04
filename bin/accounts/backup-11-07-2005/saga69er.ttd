@@ -1,0 +1,44 @@
+[player]
+nickname=saga69er
+password=572009086
+email=shura54@walla.com
+signup_date=7/11/2005
+playerID=1189
+status=regular
+referal=
+Verify=1
+Last IP=81.193.145.152
+id=27
+IP=81.193.145.152
+adminstatus=off
+match=07-11-2005
+Last Played=07-11-2005
+[Stats]
+Win=0
+Lost=1
+Draw=1
+Lame quits=0
+GP=5
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+AP=76
+Streak=1
+[Newdecks]
+Last=07-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 53512
+Versus=pakelika
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=pakelika
+result=draw
+score=5-5

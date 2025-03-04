@@ -1,0 +1,46 @@
+[player]
+nickname=guitardude86
+password=moore
+email=guitardude86@yahoo.com
+signup_date=10/3/2005
+playerID=2611
+status=regular
+referal=friend
+Verify=1
+Last IP=69.176.150.28
+id=20
+IP=69.176.150.28
+adminstatus=off
+match=11-07-2005
+guildinvite=
+guildinvite_name=
+[Stats]
+Win=158
+Lost=292
+Draw=97
+Lame quits=4
+Newdecks=1
+Level=16
+Exp=8863
+Next=9651
+Streak=-2
+[Newdecks]
+Last=10-03-2005
+[AP]
+AAEXP=33
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 146371
+Versus=TheFuzz
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=TheFuzz
+result=loss
+score=12-8

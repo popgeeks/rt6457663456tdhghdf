@@ -1,0 +1,60 @@
+[player]
+nickname=sefiroth
+password=cegadora8
+email=juanos_audron@yahoo.com.mx
+signup_date=7/24/2005
+playerID=1474
+status=regular
+referal=
+Verify=1
+Last IP=200.65.222.216
+id=11
+IP=200.65.222.216
+adminstatus=off
+match=11-07-2005
+Last Played=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=Monoxide Children
+guildmaster=3
+[Stats]
+Win=936
+Lost=1012
+Draw=302
+Lame quits=13
+GP=5898
+Newdecks=1
+Level=24
+Exp=20743
+Next=22950
+AP=31444
+Streak=4
+Choices=1
+SoldCards=90
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=1779
+honor=1
+PCT=100
+AAPOINTS=1
+TRAINED=16
+high=5
+golden=3
+[Play]
+Playing=false
+GameID= 146510
+Iam=2
+Versus=Fello
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Fello
+result=win
+score=12-8
+[Warnings]
+Warns=1
+Kicks=4

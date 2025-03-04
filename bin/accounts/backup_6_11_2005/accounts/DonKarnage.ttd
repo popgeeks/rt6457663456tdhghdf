@@ -1,0 +1,33 @@
+[player]
+nickname=DonKarnage
+password=599212228
+email=julien33230@msn.com
+signup_date=5/27/2005
+playerID=512
+status=regular
+referal=GanG
+Verify=1
+Last IP=84.4.54.16
+id=16
+IP=84.4.54.16
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=05-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

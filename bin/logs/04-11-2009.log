@@ -1,0 +1,3 @@
+
+Table 'darkwind.config' doesn't exist>> UPDATE config SET aptax = aptax + 30
+Table 'darkwind.config' doesn't exist>> UPDATE config SET aptax = aptax + 7

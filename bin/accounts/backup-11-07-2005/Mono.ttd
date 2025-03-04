@@ -1,0 +1,30 @@
+[player]
+nickname=Mono
+password=155556380
+email=gmorgue@hotmail.com
+signup_date=10/30/2005
+playerID=3089
+status=regular
+referal=Search
+Verify=1
+Last IP=66.226.54.249
+id=66
+IP=66.226.54.249
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

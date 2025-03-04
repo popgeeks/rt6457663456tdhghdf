@@ -1,0 +1,33 @@
+[player]
+nickname=xDark-Cloudx
+password=733408271
+email=xdark_cloudx@hotmail.com
+signup_date=5/24/2005
+playerID=483
+status=regular
+referal=Final
+Verify=1
+Last IP=201.255.10.165
+id=26
+IP=201.255.10.165
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=05-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

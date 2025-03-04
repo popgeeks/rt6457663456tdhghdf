@@ -1,0 +1,46 @@
+[player]
+nickname=pathogen
+password=expedition
+email=atika@goowy.com
+signup_date=8/25/2005
+playerID=1973
+status=regular
+referal=
+Verify=1
+Last IP=220.235.17.173
+id=9
+IP=220.235.17.173
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=19
+Lost=34
+Draw=6
+Lame quits=0
+GP=530
+Newdecks=1
+Level=5
+Exp=1253
+Next=1301
+AP=199
+Streak=-1
+Choices=1
+[Newdecks]
+Last=08-25-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 93346
+Versus=Mra
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Mra
+result=loss
+score=14-6

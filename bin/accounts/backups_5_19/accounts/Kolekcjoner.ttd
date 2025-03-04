@@ -1,0 +1,38 @@
+[player]
+nickname=Kolekcjoner
+password=188233196
+email=javok@o2.pl
+signup_date=5/15/2005
+playerID=386
+status=regular
+referal=javok@o2.pl
+Verify=1
+Last IP=80.55.137.230
+id=25
+IP=80.55.137.230
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=12
+[Newdecks]
+Last=05-15-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=true
+GameID= 16541
+Versus=DemiBlitz
+Iam=1
+[Games]
+Playing=TT

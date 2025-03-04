@@ -1,0 +1,38 @@
+[player]
+nickname=SMOKEYGEORGE
+password=462585508
+email=SMOKEYGEORGE@YAHOO.COM
+signup_date=6/1/2005
+playerID=584
+status=regular
+referal=
+Verify=1
+Last IP=69.202.40.47
+id=47
+IP=69.202.40.47
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=5
+[Newdecks]
+Last=06-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 26293
+Versus=Seiryukun00
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT

@@ -1,0 +1,45 @@
+[player]
+nickname=Filgaja
+password=r2d2c3po
+email=Filgaja@ish.de
+signup_date=9/29/2005
+playerID=2545
+status=regular
+referal=blubba
+Verify=1
+Last IP=62.143.20.144
+id=31
+IP=62.143.20.144
+adminstatus=off
+match=11-02-2005
+[Stats]
+Win=32
+Lost=24
+Draw=9
+Lame quits=0
+Newdecks=1
+Level=6
+Exp=1580
+Next=1727
+SBWin=3
+Streak=3
+SBDraw=2
+SBLost=2
+[Newdecks]
+Last=09-29-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 142233
+Versus=sefiroth
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sefiroth
+result=win
+score=13-7

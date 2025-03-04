@@ -1,0 +1,19 @@
+[player]
+nickname=damian
+password=45776188
+email=damian377@hotmail.co.uk
+signup_date=5/16/2005
+playerID=399
+status=regular
+referal=j102y
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=05-16-2005

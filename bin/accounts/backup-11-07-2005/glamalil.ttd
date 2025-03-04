@@ -1,0 +1,43 @@
+[player]
+nickname=glamalil
+password=610869764
+email=benrie@gmail.com
+signup_date=9/8/2005
+playerID=2164
+status=regular
+referal=
+Verify=1
+Last IP=219.90.85.134
+id=33
+IP=219.90.85.134
+adminstatus=off
+match=10-22-2005
+[Stats]
+Win=4
+Lost=3
+Draw=2
+Lame quits=1
+Newdecks=3
+Level=2
+Exp=190
+Next=248
+SoldCards=0
+cardsgiven=0
+Streak=1
+[Newdecks]
+Last=09-08-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 134251
+Versus=myrben
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=myrben
+result=win
+score=12-8

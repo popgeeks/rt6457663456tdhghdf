@@ -1,0 +1,41 @@
+[player]
+nickname=Fedaykin
+password=865158795
+email=svoggenreiter@msn.com
+signup_date=9/18/2005
+playerID=2349
+status=regular
+referal=
+Verify=1
+Last IP=84.180.101.149
+id=44
+IP=84.180.101.149
+adminstatus=off
+match=09-18-2005
+[Stats]
+Win=3
+Lost=2
+Draw=4
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=108
+Next=248
+Streak=-2
+[Newdecks]
+Last=09-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 108111
+Versus=Grahf
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Grahf
+result=loss
+score=11-9

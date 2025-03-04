@@ -1,0 +1,37 @@
+[player]
+nickname=Elemence
+password=217730462
+email=Elemence@suscom.net
+signup_date=7/28/2005
+playerID=1556
+status=regular
+referal=Me
+Verify=1
+Last IP=64.235.177.243
+id=33
+IP=64.235.177.243
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=6
+[Newdecks]
+Last=07-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 71310
+Versus=Ac13
+Iam=2
+[password]
+failed=3
+[Games]
+Playing=TT

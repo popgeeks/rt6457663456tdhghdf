@@ -1,0 +1,22 @@
+[player]
+nickname=zidane7777
+password=892618476
+email=turksfive@hotmail.com
+signup_date=5/4/2005
+playerID=284
+status=regular
+referal=benjamin
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=05-04-2005
+[password]
+failed=9

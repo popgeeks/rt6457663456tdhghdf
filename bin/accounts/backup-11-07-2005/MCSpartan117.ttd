@@ -1,0 +1,44 @@
+[player]
+nickname=MCSpartan117
+password=537792384
+email=diablo280@charter.net
+signup_date=9/1/2005
+playerID=2058
+status=regular
+referal=Casey
+Verify=1
+Last IP=66.190.235.249
+id=23
+IP=66.190.235.249
+adminstatus=off
+match=09-01-2005
+[Stats]
+Win=0
+Lost=2
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=1
+Next=100
+Streak=-1
+SBDraw=1
+[Newdecks]
+Last=09-01-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 96831
+Versus=Waddlesworth
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Waddlesworth
+result=draw
+score=0-0
+[Warnings]
+Warns=1

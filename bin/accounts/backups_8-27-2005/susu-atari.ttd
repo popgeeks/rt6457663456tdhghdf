@@ -1,0 +1,45 @@
+[player]
+nickname=susu-atari
+password=sususu
+email=susu_atari@hotmail.com
+signup_date=4/29/2005
+playerID=225
+status=regular
+referal=
+Verify=1
+Last IP=84.65.196.7
+id=20
+IP=84.65.196.7
+adminstatus=off
+match=04-30-2005
+Last Played=04-30-2005
+[Stats]
+Win=1
+Lost=1
+Draw=0
+Lame quits=0
+GP=30
+rank=1499
+Newdecks=1
+Level=1
+Exp=23
+Next=100
+Streak=2
+Wins=1
+[Newdecks]
+Last=04-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 9620
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Lucrecia
+result=win
+score=6-4

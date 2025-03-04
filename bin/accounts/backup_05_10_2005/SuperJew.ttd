@@ -1,0 +1,51 @@
+[player]
+nickname=SuperJew
+password=477413534
+email=Fein9277@kutztown.edu
+signup_date=4/26/2005
+playerID=200
+status=regular
+referal=
+Verify=1
+Last IP=151.197.24.186
+id=16
+IP=151.197.24.186
+adminstatus=off
+match=05-11-2005
+Last Played=05-11-2005
+[Stats]
+Win=36
+Lost=81
+Draw=30
+Lame quits=3
+GP=928
+rank=1284
+Newdecks=5
+Level=9
+Exp=3147
+Next=3346
+Streak=-6
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-05-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 14615
+Versus=pakelika
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=DarkJaxyChan
+result=loss
+score=8-2
+[Warnings]
+Kicks=4

@@ -1,0 +1,107 @@
+[player]
+nickname=gafgarion
+password=tyson
+email=bkpsx@poczta.onet.pl
+signup_date=4/4/05
+playerID=89
+status=regular
+Verify=1
+Last IP=83.28.123.185
+id=32
+IP=83.28.123.185
+adminstatus=off
+Last Played=08-27-2005
+match=09-04-2005
+[Stats]
+Win=250
+Lost=124
+Draw=114
+Lame quits=9
+GP=598
+rank=1212
+Newdecks=3
+Level=13
+Exp=5625
+Next=6316
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=35
+AP=11553
+SBLost=1
+[Newdecks]
+Last=04-04-2005
+[Totals]
+Level1=2
+Level2=1
+Level3=3
+Level4=3
+Level5=1
+Level6=0
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Blood Soul=1
+Bite Bug=0
+Red Bat=0
+Forbidden=0
+Behemoth=0
+Armadodo=0
+Snow Lion=1
+Trauma=0
+Death Claw=1
+Torama=2
+Fastitocalon=1
+X-ATM092=0
+Iron Giant=0
+Geezard=0
+Vysage=0
+Gerogero=0
+Gayla=0
+Ochu=0
+Fujin, Raijin=0
+Adamantoise=1
+Caterchipillar=0
+Imp=0
+Tri-Face=0
+Buel=0
+Elnoyle=0
+GIM47N=0
+Gargantua=0
+BGH251F2=0
+Abadon=0
+Ruby Dragon=0
+Iguion=0
+Creeps=0
+=0
+Funguar=0
+Propagator=0
+Elastoid=1
+Red Giant=0
+Gesper=1
+Belhelmel=1
+[AP]
+AAEXP=271
+PCT=100
+AAPOINTS=2
+[Play]
+Playing=false
+GameID= 98525
+Versus=utherbr
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=utherbr
+result=draw
+score=5-5
+[Warnings]
+Kicks=1
+Warns=1

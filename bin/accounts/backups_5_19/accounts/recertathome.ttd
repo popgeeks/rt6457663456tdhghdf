@@ -1,0 +1,49 @@
+[player]
+nickname=recertathome
+password=7621540
+email=recertathome@hotmail.com
+signup_date=5/12/2005
+playerID=363
+status=regular
+referal=7621540
+Verify=1
+Last IP=68.85.24.109
+id=14
+IP=68.85.24.109
+adminstatus=off
+Last Played=05-17-2005
+match=05-17-2005
+[Stats]
+Win=8
+Lost=13
+Draw=9
+Lame quits=0
+GP=40
+rank=1212
+Newdecks=7
+Level=3
+Exp=436
+Next=476
+AP=711
+Streak=-1
+SBLost=4
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=05-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17903
+Versus=GaretJax
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=GaretJax
+result=loss
+score=7-3

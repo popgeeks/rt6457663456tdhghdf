@@ -1,0 +1,41 @@
+[player]
+nickname=Ominous
+password=511481582
+email=deadtomdisease@yahoo.com
+signup_date=9/27/2005
+playerID=2524
+status=regular
+referal=Friend
+Verify=1
+Last IP=68.61.181.48
+id=117
+IP=68.61.181.48
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=3
+Lost=3
+Draw=4
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=74
+Next=100
+Streak=2
+[Newdecks]
+Last=09-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 115424
+Versus=PizzaTheHut
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=PizzaTheHut
+result=draw
+score=5-5

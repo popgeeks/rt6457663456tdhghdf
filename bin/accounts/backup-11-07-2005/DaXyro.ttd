@@ -1,0 +1,45 @@
+[player]
+nickname=DaXyro
+password=shadow
+email=daxyro@gmail.com
+signup_date=7/6/2005
+playerID=1070
+status=regular
+referal=
+Verify=1
+Last IP=68.10.100.157
+id=15
+IP=68.10.100.157
+adminstatus=off
+match=07-10-2005
+Last Played=07-10-2005
+[Stats]
+Win=4
+Lost=17
+Draw=4
+Lame quits=0
+GP=470
+Newdecks=1
+Level=3
+Exp=249
+Next=476
+AP=932
+Streak=-2
+Choices=1
+[Newdecks]
+Last=07-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 52459
+Versus=LeonSKennedy
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=LeonSKennedy
+result=loss
+score=6-4

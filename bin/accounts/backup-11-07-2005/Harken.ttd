@@ -1,0 +1,19 @@
+[player]
+nickname=Harken
+password=494085192
+email=colchonero_1987@hotmail.com
+signup_date=10/17/2005
+playerID=2896
+status=regular
+referal=jose
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-17-2005
+[password]
+failed=3

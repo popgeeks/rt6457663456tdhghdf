@@ -1,0 +1,42 @@
+[player]
+nickname=KennyRogers
+password=837424813
+email=Uber-cow@comcast.net
+signup_date=11/3/2005
+playerID=3127
+status=regular
+referal=
+Verify=1
+Last IP=67.160.93.77
+id=16
+IP=67.160.93.77
+adminstatus=off
+match=11-03-2005
+[Stats]
+Win=14
+Lost=15
+Draw=5
+Lame quits=0
+Newdecks=1
+Level=2
+Exp=195
+Next=248
+Streak=-6
+SBWin=2
+[Newdecks]
+Last=11-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 143428
+Versus=takeshii
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=howabe
+result=loss
+score=12-8

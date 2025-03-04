@@ -1,0 +1,44 @@
+[player]
+nickname=gokupoa
+password=lp0pw000
+email=goku_poa@brturbo.com.br
+signup_date=9/7/2005
+playerID=2154
+status=regular
+referal=Goku-POA
+Verify=1
+Last IP=200.96.70.76
+id=13
+IP=200.96.70.76
+adminstatus=off
+match=09-17-2005
+[Stats]
+Win=84
+Lost=77
+Draw=26
+Lame quits=0
+Newdecks=1
+Level=11
+Exp=4241
+Next=4838
+Streak=-1
+SBWin=4
+SBLost=3
+[Newdecks]
+Last=09-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 107505
+Versus=NeoSephiroth
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=NeoSephiroth
+result=loss
+score=14-6

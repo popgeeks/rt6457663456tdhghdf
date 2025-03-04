@@ -1,0 +1,48 @@
+[player]
+nickname=kingkupo
+password=papercut
+email=collective_soul@msn.com
+signup_date=5/3/2005
+playerID=274
+status=regular
+referal=squall
+Verify=1
+Last IP=68.3.29.45
+id=10
+IP=68.3.29.45
+adminstatus=off
+match=05-19-2005
+Last Played=05-19-2005
+[Stats]
+Win=2
+Lost=8
+Draw=0
+Lame quits=0
+GP=5
+rank=931
+Newdecks=13
+Level=1
+Exp=78
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Wins=0
+AP=139
+[Newdecks]
+Last=05-19-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 18501
+Versus=Jinx
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=Jinx
+result=loss
+score=6-4

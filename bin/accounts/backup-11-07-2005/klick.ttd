@@ -1,0 +1,43 @@
+[player]
+nickname=klick
+password=burn999
+email=jaytee_18@hotmail.com
+signup_date=9/6/2005
+playerID=2142
+status=regular
+referal=
+Verify=1
+Last IP=203.122.221.128
+id=27
+IP=203.122.221.128
+adminstatus=off
+match=09-12-2005
+[Stats]
+Win=4
+Lost=9
+Draw=1
+Lame quits=0
+Newdecks=5
+Level=3
+Exp=266
+Next=476
+Streak=-1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 104159
+Versus=howabe
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=howabe
+result=loss
+score=16-4

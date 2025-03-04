@@ -1,0 +1,44 @@
+[player]
+nickname=Elrond
+password=692968129
+email=elfu_karalius@yahoo.com
+signup_date=8/11/2005
+playerID=1800
+status=regular
+referal=faceless
+Verify=1
+Last IP=85.206.113.235
+id=18
+IP=85.206.113.235
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+[Stats]
+Win=1
+Lost=2
+Draw=1
+Lame quits=0
+GP=40
+Newdecks=1
+Level=1
+Exp=37
+Next=100
+AP=126
+Streak=1
+[Newdecks]
+Last=08-11-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 84961
+Versus=Ac13
+Iam=2
+[Games]
+Playing=TT
+[game]
+opponent=Ac13
+result=win
+score=6-4

@@ -1,0 +1,81 @@
+[player]
+nickname=Mongoose
+password=123456
+email=mongoose123mongoose@hotmail.com
+signup_date=3/16/05
+playerID=21
+status=regular
+Verify=1
+Last IP=144.134.225.39
+id=12
+IP=144.134.225.39
+adminstatus=off
+Last Played=05-23-2005
+match=05-23-2005
+[Stats]
+Win=20
+Lost=20
+Draw=4
+Lame quits=0
+rank=1372
+Newdecks=1
+Level=5
+Exp=1069
+Next=1301
+Streak=-2
+Choices=1
+GP=1047
+AP=3853
+SBLost=2
+Wins=18
+[Newdecks]
+Last=03-16-2005
+[Totals]
+Level1=3
+Level2=3
+Level3=2
+Level4=2
+Level5=1
+Level6=2
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Imp=0
+Oilboyle=1
+Death Claw=1
+Granaldo=0
+Elvoret=1
+Caterchipillar=1
+Funguar=1
+Ochu=1
+Adamantoise=1
+Creeps=2
+Gerogero=0
+Wendigo=1
+Glacial Eye=1
+Fujin, Raijin=0
+GIM47N=1
+Iguion=0
+Elnoyle=0
+Tri-Point=1
+Cockatrice=1
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 20869
+Versus=Eidolon
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Eidolon
+result=loss
+score=16-4

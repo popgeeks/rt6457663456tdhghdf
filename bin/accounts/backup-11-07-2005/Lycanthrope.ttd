@@ -1,0 +1,45 @@
+[player]
+nickname=Lycanthrope
+password=fizban
+email=savvy_mortenson@hotmail.com
+signup_date=9/24/2005
+playerID=2475
+status=regular
+referal=
+Verify=1
+Last IP=203.206.253.42
+id=30
+IP=203.206.253.42
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=11
+Lost=16
+Draw=2
+Lame quits=0
+Newdecks=3
+Level=3
+Exp=380
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=-6
+SBWin=3
+SBLost=3
+[Newdecks]
+Last=09-24-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 125061
+Versus=ultima
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=CHINCHIN
+[game]
+opponent=Kenshin
+result=draw
+score=10-10

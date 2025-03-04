@@ -1,0 +1,61 @@
+[player]
+nickname=SupaWakka
+password=2003120
+email=aaronfarrugia@hotmail.com
+signup_date=4/26/2005
+playerID=198
+status=regular
+referal=
+Verify=1
+Last IP=144.137.201.97
+id=51
+IP=144.137.201.97
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+guildinvite=
+guildinvite_name=
+guild=Guardians of Eden
+guildmaster=1
+surname=blitzace
+[Stats]
+Win=260
+Lost=305
+Draw=81
+Lame quits=16
+GP=926
+rank=1023
+Newdecks=13
+Wins=0
+Level=20
+Exp=13713
+Next=15166
+AP=9585
+SBWin=2
+Streak=-1
+Choices=1
+SoldCards=0
+cardsgiven=0
+SBLost=2
+[Newdecks]
+Last=05-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=215
+honor=2
+PCT=0
+[Play]
+Playing=false
+GameID= 93149
+Versus=Squall-rank9
+Iam=2
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Squall-rank9
+result=loss
+score=14-6
+[Warnings]
+Kicks=15

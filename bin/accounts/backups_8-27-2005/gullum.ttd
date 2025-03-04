@@ -1,0 +1,32 @@
+[player]
+nickname=gullum
+password=986471651
+email=gullum_15@wp.pl
+signup_date=6/7/2005
+playerID=634
+status=regular
+referal=
+Verify=1
+Last IP=195.117.173.106
+id=19
+IP=195.117.173.106
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=06-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

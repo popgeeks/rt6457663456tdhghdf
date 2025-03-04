@@ -1,0 +1,43 @@
+[player]
+nickname=moranguinha
+password=842117547
+email=angel_monica@yahoo.co.jp
+signup_date=9/24/2005
+playerID=2470
+status=regular
+referal=ilovebruno
+Verify=1
+Last IP=200.148.4.154
+id=15
+IP=200.148.4.154
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=0
+Lost=3
+Draw=1
+Lame quits=0
+Newdecks=15
+Level=1
+Exp=35
+Next=100
+Streak=-2
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=09-27-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 115111
+Versus=Arturo
+Iam=1
+[Games]
+Playing=TT
+[game]
+opponent=Arturo
+result=draw
+score=5-5

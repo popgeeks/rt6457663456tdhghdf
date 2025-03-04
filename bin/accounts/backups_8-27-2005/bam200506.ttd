@@ -1,0 +1,33 @@
+[player]
+nickname=bam200506
+password=319139778
+email=bam2005@hotmail.co.uk
+signup_date=5/29/2005
+playerID=544
+status=regular
+referal=google
+Verify=1
+Last IP=82.39.166.96
+id=2
+IP=82.39.166.96
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

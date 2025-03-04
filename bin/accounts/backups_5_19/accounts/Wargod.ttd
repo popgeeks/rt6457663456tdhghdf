@@ -1,0 +1,22 @@
+[player]
+nickname=Wargod
+password=811283885
+email=maxencemartin@hotmail.fr
+signup_date=5/10/2005
+playerID=348
+status=regular
+referal=maxence
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=05-10-2005
+[password]
+failed=8

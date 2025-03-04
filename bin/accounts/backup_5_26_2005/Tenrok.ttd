@@ -1,0 +1,48 @@
+[player]
+nickname=Tenrok
+password=omegaultimis
+email=omegaultimis@hotmail.com
+signup_date=5/20/2005
+playerID=438
+status=regular
+referal=Tenrok
+Verify=1
+Last IP=67.176.109.196
+id=12
+IP=67.176.109.196
+adminstatus=off
+match=05-23-2005
+Last Played=05-23-2005
+[Stats]
+Win=6
+Lost=29
+Draw=11
+Lame quits=0
+GP=941
+rank=891
+Newdecks=1
+Level=5
+Exp=846
+Next=1301
+AP=103
+SBLost=1
+Streak=-4
+Choices=1
+[Newdecks]
+Last=05-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 20853
+Versus=Tetrakill
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Angelus
+result=draw
+score=10-10

@@ -1,0 +1,21 @@
+[player]
+nickname=angel-vamp
+password=589269875
+email=hvroy_uk@hotmail.com
+signup_date=6/8/2005
+playerID=653
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=06-08-2005
+[password]
+failed=1

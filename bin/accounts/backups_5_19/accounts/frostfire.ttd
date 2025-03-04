@@ -1,0 +1,38 @@
+[player]
+nickname=frostfire
+password=10060071
+email=hitmanforhire666@comcast.net
+signup_date=5/3/2005
+playerID=275
+status=regular
+referal=
+Verify=1
+Last IP=68.83.6.79
+id=7
+IP=68.83.6.79
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+Wins=0
+[Newdecks]
+Last=05-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10853
+Versus=Lucrecia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT

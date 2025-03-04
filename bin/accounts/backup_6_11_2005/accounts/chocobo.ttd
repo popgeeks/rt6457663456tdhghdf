@@ -1,0 +1,56 @@
+[player]
+nickname=chocobo
+password=105129
+email=ongjitseng@yahoo.com
+signup_date=5/27/2005
+playerID=510
+status=regular
+referal=
+Verify=1
+Last IP=60.240.220.118
+id=20
+IP=60.240.220.118
+adminstatus=off
+Last Played=06-11-2005
+match=06-11-2005
+guildinvite=
+guildinvite_name=
+guild=Fated Circle
+guildmaster=3
+[Stats]
+Win=151
+Lost=114
+Draw=63
+Lame quits=1
+GP=2957
+rank=2681
+Newdecks=17
+Level=16
+Exp=9005
+Next=9651
+AP=8707
+Streak=1
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=1
+[Newdecks]
+Last=05-29-2005
+[AP]
+AAEXP=0
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 31387
+Versus=firedragon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=firedragon
+result=win
+score=12-8

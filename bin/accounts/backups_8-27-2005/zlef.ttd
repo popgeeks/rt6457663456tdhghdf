@@ -1,0 +1,18 @@
+[player]
+nickname=zlef
+password=203835129
+email=lobo_adrian@msn.com
+signup_date=8/25/2005
+playerID=1989
+status=regular
+referal=12345
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+[Newdecks]
+Last=08-25-2005

@@ -1,0 +1,55 @@
+[player]
+nickname=Lucrecia
+password=173356234
+email=akoin@t-online.de
+signup_date=4/23/2005
+playerID=188
+status=regular
+referal=
+Verify=1
+Last IP=84.178.205.217
+id=16
+IP=84.178.205.217
+adminstatus=off
+match=05-19-2005
+Last Played=05-19-2005
+[Stats]
+Win=384
+Lost=391
+Draw=154
+Lame quits=16
+GP=905
+rank=1030
+Newdecks=1
+Level=25
+Exp=23128
+Next=24450
+Streak=-8
+Choices=1
+AP=1281
+SBLost=24
+Wins=201
+SBWin=2
+[Newdecks]
+Last=04-23-2005
+[AP]
+AAEXP=370
+honor=1
+PCT=10
+AAPOINTS=1
+[Play]
+Playing=false
+GameID= 18350
+Versus=Trepie
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=Trepie
+result=loss
+score=36-29
+[Warnings]
+Kicks=3

@@ -1,0 +1,47 @@
+[player]
+nickname=Beastay
+password=taxied99
+email=bladejohnst@hotmail.com
+signup_date=7/7/2005
+playerID=1100
+status=regular
+referal=BloodLust
+Verify=1
+Last IP=84.69.79.140
+id=30
+IP=84.69.79.140
+adminstatus=off
+match=07-16-2005
+Last Played=07-16-2005
+[Stats]
+Win=10
+Lost=7
+Draw=6
+Lame quits=0
+GP=425
+Newdecks=5
+Level=3
+Exp=296
+Next=476
+AP=600
+SoldCards=0
+cardsgiven=0
+Streak=-1
+Choices=1
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 57291
+Versus=PinkSpider
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+[game]
+opponent=Gouma
+result=loss
+score=12-8

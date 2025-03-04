@@ -1,0 +1,46 @@
+[player]
+nickname=Pugrin
+password=perrin
+email=Pugrin@yahoo.com
+signup_date=7/7/2005
+playerID=1104
+status=regular
+referal=
+Verify=1
+Last IP=69.137.123.234
+id=78
+IP=69.137.123.234
+adminstatus=off
+match=07-25-2005
+Last Played=07-25-2005
+[Stats]
+Win=19
+Lost=24
+Draw=11
+Lame quits=0
+GP=475
+Newdecks=1
+Level=5
+Exp=928
+Next=1301
+AP=483
+Streak=-4
+Choices=1
+[Newdecks]
+Last=07-07-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 67556
+Versus=WolfBenW
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=WolfBenW
+result=draw
+score=10-10

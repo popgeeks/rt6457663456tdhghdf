@@ -1,0 +1,42 @@
+[player]
+nickname=Rakan
+password=r98258
+email=RCrofoo2@yahoo.com
+signup_date=11/3/2005
+playerID=3125
+status=regular
+referal=
+Verify=1
+Last IP=69.202.121.59
+id=67
+IP=69.202.121.59
+adminstatus=off
+match=11-07-2005
+[Stats]
+Win=9
+Lost=33
+Draw=10
+Lame quits=0
+Newdecks=1
+Level=3
+Exp=329
+Next=476
+Streak=-12
+SBDraw=2
+[Newdecks]
+Last=11-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 146750
+Versus=blacksun
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=blacksun
+result=loss
+score=7-3

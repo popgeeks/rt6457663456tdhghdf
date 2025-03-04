@@ -1,0 +1,117 @@
+[player]
+nickname=Mr-Tiddles
+password=psycho
+email=Mr_Tiddles@Hotmail.co.uk
+signup_date=4/5/05
+playerID=99
+status=regular
+Verify=1
+Last IP=172.215.166.181
+id=30
+IP=172.215.166.181
+adminstatus=off
+Last Played=05-13-2005
+match=05-13-2005
+guildmaster=2
+guild=Sama-San
+
+[Stats]
+Win=186
+Lost=119
+Draw=68
+Lame quits=8
+rank=1395
+Newdecks=1
+Level=15
+Exp=7749
+Next=8675
+Streak=-3
+Choices=1
+SoldCards=32
+GP=993
+Wins=182
+AP=51
+SBLost=3
+SBDraw=1
+SBWin=1
+
+[Newdecks]
+Last=04-05-2005
+
+[Totals]
+Level1=7
+Level2=2
+Level3=4
+Level4=4
+Level5=6
+Level6=5
+Level7=5
+Level8=0
+Level9=2
+Level10=2
+Total=0
+[cards]
+GIM47N=1
+T-Rexaur=1
+Elnoyle=1
+Trauma=1
+Fastitocalon=1
+Bite Bug=1
+Turtapod=1
+Geezard=1
+Gayla=1
+Ultima Weapon=1
+Behemoth=1
+Wedge, Biggs=0
+Cactuar=1
+Fastitocalon-F=1
+Malboro=0
+Oilboyle=1
+Fujin, Raijin=1
+Iron Giant=1
+Tonberry=1
+Tiamat=1
+Mesmerize=1
+Zell=1
+Ward=1
+Tonberry King=1
+Blue Dragon=1
+Cerberus=1
+Sphinxara=1
+Shumi Tribe=1
+SAM08G=1
+Catoblepas=1
+Granaldo=1
+Jumbo Cactuar=1
+Gesper=1
+Funguar=1
+Red Bat=1
+Carbuncle=1
+Torama=1
+Glacial Eye=1
+Chimera=1
+
+[AP]
+AAEXP=460
+PCT=100
+
+[Play]
+Playing=true
+GameID= 15787
+Versus=Lucrecia
+Iam=1
+
+[password]
+failed=0
+
+[Games]
+Playing=OTT
+Challenged=
+
+[game]
+opponent=Lucrecia
+result=loss
+score=8-2
+[Warnings]
+Kicks=8
+Warns=1

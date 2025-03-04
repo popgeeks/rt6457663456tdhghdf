@@ -1,0 +1,45 @@
+[player]
+nickname=Lucas
+password=374269842
+email=japa152@hotmail.com
+signup_date=7/28/2005
+playerID=1550
+status=regular
+referal=japa
+Verify=1
+Last IP=200.208.208.14
+id=9
+IP=200.208.208.14
+adminstatus=off
+match=07-29-2005
+Last Played=07-29-2005
+[Stats]
+Win=2
+Lost=7
+Draw=1
+Lame quits=0
+GP=215
+Newdecks=1
+Level=2
+Exp=157
+Next=248
+AP=254
+Streak=-2
+Choices=1
+[Newdecks]
+Last=07-28-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 76817
+Versus=MGdaGR8est
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Alvaro
+result=loss
+score=11-9

@@ -1,0 +1,51 @@
+[player]
+nickname=Ortew
+password=443923353
+email=lorted@hotmail.com
+signup_date=5/22/2005
+playerID=453
+status=regular
+referal=
+Verify=1
+Last IP=81.40.234.132
+id=30
+IP=81.40.234.132
+adminstatus=off
+match=05-24-2005
+Last Played=05-24-2005
+[Stats]
+Win=15
+Lost=13
+Draw=9
+Lame quits=0
+GP=403
+rank=1756
+Newdecks=1
+Level=5
+Exp=964
+Next=1301
+AP=1320
+Streak=-1
+Choices=1
+SBDraw=1
+SBWin=1
+[Newdecks]
+Last=05-22-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 21341
+Versus=risk
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=risk
+result=loss
+score=13-7
+[Warnings]
+Kicks=1

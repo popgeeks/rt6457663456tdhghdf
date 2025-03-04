@@ -1,0 +1,48 @@
+[player]
+nickname=musicmama
+password=754443048
+email=HappyDancer615@netscape.net
+signup_date=9/26/2005
+playerID=2495
+status=regular
+referal=
+Verify=1
+Last IP=69.47.169.101
+id=129
+IP=69.47.169.101
+adminstatus=off
+match=10-03-2005
+guildinvite=
+guildinvite_name=
+guild=Night Breed
+guildmaster=3
+[Stats]
+Win=11
+Lost=32
+Draw=10
+Lame quits=0
+Newdecks=1
+Level=4
+Exp=536
+Next=836
+Streak=-3
+SBWin=1
+[Newdecks]
+Last=09-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 119794
+Versus=PizzaTheHut
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=PizzaTheHut
+result=loss
+score=7-3
+[Warnings]
+Warns=1

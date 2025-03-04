@@ -1,0 +1,44 @@
+[player]
+nickname=Testing123
+password=310994743
+email=xeno_fazz@hotmail.com
+signup_date=5/23/2005
+playerID=470
+status=regular
+referal=
+Verify=1
+Last IP=69.196.86.213
+id=27
+IP=69.196.86.213
+adminstatus=off
+match=05-23-2005
+Last Played=05-23-2005
+[Stats]
+Win=0
+Lost=0
+Draw=1
+Lame quits=0
+GP=10
+rank=1500
+Newdecks=1
+Level=1
+Exp=30
+Next=100
+AP=61
+[Newdecks]
+Last=05-23-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 20775
+Versus=CyMicX
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=CyMicX
+result=draw
+score=5-5

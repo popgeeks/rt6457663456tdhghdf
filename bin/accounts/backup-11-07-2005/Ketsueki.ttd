@@ -1,0 +1,73 @@
+[player]
+nickname=Ketsueki
+password=mothman
+email=ivory_raven666@yahoo.com
+signup_date=4/1/05
+playerID=77
+status=regular
+Verify=1
+Last IP=69.153.23.221
+id=8
+IP=69.153.23.221
+adminstatus=off
+Last Played=06-20-2005
+match=06-20-2005
+[Stats]
+Win=3
+Lost=10
+Draw=5
+Lame quits=0
+GP=405
+rank=887
+Newdecks=1
+Level=3
+Exp=360
+Next=476
+Streak=-2
+Choices=1
+Wins=1
+AP=332
+SBWin=1
+[Newdecks]
+Last=04-01-2005
+[Totals]
+Level1=3
+Level2=3
+Level3=2
+Level4=4
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Elastoid=1
+Tonberry=1
+Fujin, Raijin=1
+Snow Lion=1
+Trauma=1
+Torama=1
+T-Rexaur=3
+Mesmerize=1
+Grat=1
+Blobra=1
+Gesper=1
+Grendel=1
+Blood Soul=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=ColdFireZero
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ColdFireZero
+result=loss
+score=7-3

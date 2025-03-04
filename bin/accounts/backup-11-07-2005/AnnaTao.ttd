@@ -1,0 +1,45 @@
+[player]
+nickname=AnnaTao
+password=pamaalskk
+email=ginnypotter521@hotmail.com
+signup_date=8/27/2005
+playerID=2023
+status=regular
+referal=
+Verify=1
+Last IP=201.243.110.70
+id=124
+IP=201.243.110.70
+adminstatus=off
+match=09-27-2005
+[Stats]
+Win=210
+Lost=142
+Draw=51
+Lame quits=0
+GP=0
+Newdecks=1
+Level=17
+Exp=11237
+Next=11368
+Streak=-1
+Choices=1
+[Newdecks]
+Last=08-27-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 115336
+Versus=Squall-rank9
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=Squall-rank9
+result=loss
+score=11-9

@@ -1,0 +1,46 @@
+[player]
+nickname=Babygirl
+password=kathysmells
+email=lollabunny247@yahoo.com
+signup_date=5/2/2005
+playerID=267
+status=regular
+referal=Vicky
+Verify=1
+Last IP=69.138.45.76
+id=10
+IP=69.138.45.76
+adminstatus=off
+match=05-03-2005
+Last Played=05-03-2005
+[Stats]
+Win=2
+Lost=2
+Draw=2
+Lame quits=0
+GP=220
+rank=1500
+Newdecks=1
+Level=2
+Exp=172
+Next=248
+Streak=-2
+Choices=1
+Wins=2
+[Newdecks]
+Last=05-02-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 10589
+Versus=bubbles
+Iam=2
+[Games]
+Playing=OTT
+[game]
+opponent=bubbles
+result=loss
+score=15-5

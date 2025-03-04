@@ -1,0 +1,53 @@
+[player]
+nickname=Philar
+password=8523
+email=philar@clearwire.net
+signup_date=8/10/2005
+playerID=1788
+status=regular
+referal=
+Verify=1
+Last IP=64.193.1.73
+id=211
+IP=64.193.1.73
+adminstatus=off
+match=08-12-2005
+Last Played=08-12-2005
+guildinvite=
+guildinvite_name=
+guild=Diablos Guild
+guildmaster=1
+[Stats]
+Win=101
+Lost=95
+Draw=27
+Lame quits=0
+GP=169
+Newdecks=1
+Level=12
+Exp=4964
+Next=5510
+AP=6039
+Streak=1
+Choices=1
+SBWin=8
+SBLost=2
+[Newdecks]
+Last=08-10-2005
+[AP]
+AAEXP=95
+honor=1
+PCT=0
+[Play]
+Playing=false
+GameID= 85531
+Versus=DarkGlory
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=DarkGlory
+result=win
+score=11-7

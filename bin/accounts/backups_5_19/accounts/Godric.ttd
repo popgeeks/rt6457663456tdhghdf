@@ -1,0 +1,47 @@
+[player]
+nickname=Godric
+password=485328435
+email=godricporsche@hotmail.com
+signup_date=5/6/2005
+playerID=306
+status=regular
+referal=
+Verify=1
+Last IP=216.229.163.106
+id=21
+IP=216.229.163.106
+adminstatus=off
+match=05-17-2005
+Last Played=05-17-2005
+[Stats]
+Win=2
+Lost=5
+Draw=0
+Lame quits=3
+GP=195
+rank=1290
+Newdecks=1
+Level=2
+Exp=160
+Next=248
+Streak=-3
+Wins=1
+AP=245
+Choices=1
+[Newdecks]
+Last=05-06-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 17769
+Versus=GaretJax
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=GaretJax
+result=loss
+score=8-2

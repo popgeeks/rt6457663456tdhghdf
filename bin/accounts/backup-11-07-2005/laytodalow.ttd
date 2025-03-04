@@ -1,0 +1,56 @@
+[player]
+nickname=laytodalow
+password=azim4ever
+email=Soleiman86@web.de
+signup_date=7/12/2005
+playerID=1209
+status=regular
+referal=
+Verify=1
+Last IP=84.139.100.133
+id=5
+IP=84.139.100.133
+adminstatus=off
+match=10-08-2005
+Last Played=07-13-2005
+guildinvite=
+guildinvite_name=
+guild=Slayers
+guildmaster=3
+[Stats]
+Win=53
+Lost=75
+Draw=31
+Lame quits=2
+GP=500
+Newdecks=3
+Level=9
+Exp=2737
+Next=3346
+AP=902
+Streak=-3
+SoldCards=0
+cardsgiven=0
+Choices=1
+SBLost=3
+[Newdecks]
+Last=07-12-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 123069
+Versus=J102Y
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=J102Y
+result=loss
+score=13-7
+[Warnings]
+Warns=1

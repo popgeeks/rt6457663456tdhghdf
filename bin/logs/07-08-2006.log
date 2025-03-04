@@ -1,0 +1,10 @@
+>> VERSION 1.5.7
+>> LOADGAME darklumina sexynickel101
+darklumina>> QUERYTABLES 1
+darklumina>> EXTRACHECK
+darklumina>> QUIT 0 1
+>> VERSION 1.5.7
+>> LOADGAME midnight monami
+midnight>> QUERYTABLES 1
+midnight>> EXTRACHECK
+midnight>> QUIT 0 1

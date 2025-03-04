@@ -1,0 +1,50 @@
+[player]
+nickname=sakura
+password=100392043
+email=anac_92@hotmail.com
+signup_date=7/31/2005
+playerID=1608
+status=regular
+referal=ana
+Verify=1
+Last IP=201.130.66.247
+id=27
+IP=201.130.66.247
+adminstatus=off
+match=08-26-2005
+Last Played=08-26-2005
+[Stats]
+Win=37
+Lost=55
+Draw=8
+Lame quits=0
+GP=147
+Newdecks=1
+Level=8
+Exp=2507
+Next=2698
+AP=2465
+Streak=-2
+Choices=1
+SBWin=1
+[Newdecks]
+Last=07-31-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 92390
+Versus=necronmaster
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=necronmaster
+result=loss
+score=9-1
+[Warnings]
+Warns=1
+Kicks=1

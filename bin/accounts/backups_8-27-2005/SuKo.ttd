@@ -1,0 +1,48 @@
+[player]
+nickname=SuKo
+password=criminal
+email=criminalfantasies@hotmail.com
+signup_date=8/20/2005
+playerID=1891
+status=regular
+referal=xankly
+Verify=1
+Last IP=84.121.0.197
+id=19
+IP=84.121.0.197
+adminstatus=off
+match=08-27-2005
+Last Played=08-27-2005
+[Stats]
+Win=61
+Lost=60
+Draw=26
+Lame quits=1
+GP=3405
+Newdecks=1
+Level=9
+Exp=2833
+Next=3346
+AP=653
+Streak=3
+Choices=1
+SBLost=8
+SBWin=9
+[Newdecks]
+Last=08-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 93451
+Versus=Saty
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Saty
+result=win
+score=6-4

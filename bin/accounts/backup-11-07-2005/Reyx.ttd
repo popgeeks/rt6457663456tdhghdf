@@ -1,0 +1,30 @@
+[player]
+nickname=Reyx
+password=726674436
+email=piet_total@web.de
+signup_date=11/4/2005
+playerID=3133
+status=regular
+referal=Reyx
+Verify=1
+Last IP=172.183.130.211
+id=29
+IP=172.183.130.211
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=11-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

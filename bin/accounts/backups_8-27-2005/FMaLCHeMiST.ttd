@@ -1,0 +1,45 @@
+[player]
+nickname=FMaLCHeMiST
+password=151423
+email=e31miguel88@hotmail.com
+signup_date=8/18/2005
+playerID=1873
+status=regular
+referal=sno
+Verify=1
+Last IP=81.39.202.131
+id=29
+IP=81.39.202.131
+adminstatus=off
+match=08-20-2005
+Last Played=08-20-2005
+[Stats]
+Win=4
+Lost=2
+Draw=0
+Lame quits=0
+GP=230
+Newdecks=1
+Level=2
+Exp=110
+Next=248
+AP=184
+Streak=3
+Choices=1
+[Newdecks]
+Last=08-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 88590
+Versus=Untomiel
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Untomiel
+result=win
+score=7-3

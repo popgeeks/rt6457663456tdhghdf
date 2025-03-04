@@ -1,0 +1,58 @@
+[player]
+nickname=Giviont
+password=crab131313
+email=ein131313@yahoo.com
+signup_date=4/15/05
+playerID=142
+status=regular
+referal=
+Verify=1
+Last IP=69.205.135.161
+id=12
+IP=69.205.135.161
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+[Newdecks]
+Last=04-15-2005
+[Totals]
+Level1=3
+Level2=1
+Level3=1
+Level4=3
+Level5=1
+Level6=3
+Level7=3
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Iron Giant=1
+Wendigo=2
+Fastitocalon-F=1
+Blobra=1
+Blood Soul=1
+Trauma=1
+Shumi Tribe=1
+Gargantua=1
+BGH251F2=2
+Mesmerize=1
+Elvoret=1
+SAM08G=1
+Torama=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

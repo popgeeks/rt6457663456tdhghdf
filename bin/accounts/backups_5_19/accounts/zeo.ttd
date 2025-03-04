@@ -1,0 +1,22 @@
+[player]
+nickname=zeo
+password=130152106
+email=damianwing@hotmail.com
+signup_date=5/7/2005
+playerID=320
+status=regular
+referal=zeo
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=05-07-2005
+[password]
+failed=1

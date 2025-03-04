@@ -1,0 +1,56 @@
+[player]
+nickname=Sephiroth8
+password=566761135
+email=priprapum@hotmail.com
+signup_date=8/24/2005
+playerID=1967
+status=regular
+referal=
+Verify=1
+Last IP=66.50.17.147
+id=88
+IP=66.50.17.147
+adminstatus=off
+match=10-11-2005
+Last Played=08-24-2005
+guildinvite=
+guildinvite_name=
+guild=
+guildmaster=
+surname=
+[Stats]
+Win=121
+Lost=153
+Draw=27
+Lame quits=4
+GP=224
+Newdecks=1
+Level=9
+Exp=2847
+Next=3346
+AP=621
+Streak=-2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-24-2005
+[AP]
+AAEXP=0
+honor=2
+[Play]
+Playing=false
+GameID= 126067
+Versus=RedXII
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=RedXII
+result=loss
+score=14-6
+[Warnings]
+Kicks=1
+Warns=1

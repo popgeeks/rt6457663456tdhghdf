@@ -1,0 +1,41 @@
+[player]
+nickname=shino
+password=338395535
+email=mfcds@yahoo.com.br
+signup_date=10/27/2005
+playerID=3055
+status=regular
+referal=1123132
+Verify=1
+Last IP=201.21.6.87
+id=74
+IP=201.21.6.87
+adminstatus=off
+match=10-27-2005
+[Stats]
+Win=1
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=42
+Next=100
+Streak=1
+[Newdecks]
+Last=10-27-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 138474
+Versus=dark-wing
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Demagio
+result=win
+score=13-7

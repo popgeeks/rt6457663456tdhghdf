@@ -1,0 +1,50 @@
+[player]
+nickname=MavvTheThief
+password=steals
+email=mavvthethief@hotmail.com
+signup_date=6/21/2005
+playerID=779
+status=regular
+referal=lex
+Verify=1
+Last IP=66.135.140.79
+id=20
+IP=66.135.140.79
+adminstatus=off
+match=07-14-2005
+Last Played=07-14-2005
+[Stats]
+Win=12
+Lost=21
+Draw=2
+Lame quits=0
+GP=697
+rank=1187
+Newdecks=11
+Level=4
+Exp=710
+Next=836
+AP=1850
+Streak=2
+Choices=1
+SoldCards=0
+cardsgiven=0
+[Newdecks]
+Last=06-26-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 55369
+Versus=bubbles
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=bubbles
+result=win
+score=21-3
+[Warnings]
+Warns=1

@@ -1,0 +1,72 @@
+[player]
+nickname=vickyjoy
+password=letmein
+email=vidijoy@msn.com
+signup_date=4/2/05
+playerID=80
+status=regular
+Verify=1
+Last IP=69.138.45.76
+id=14
+IP=69.138.45.76
+adminstatus=off
+Last Played=04-11-2005
+match=04-11-2005
+[Stats]
+Win=3
+Lost=34
+Draw=3
+Lame quits=0
+GP=560
+rank=611
+Newdecks=1
+Level=4
+Exp=776
+Next=836
+Streak=-15
+Choices=1
+[Newdecks]
+Last=04-02-2005
+[Totals]
+Level1=1
+Level2=2
+Level3=2
+Level4=3
+Level5=0
+Level6=0
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Fastitocalon=1
+Thrustaevis=1
+Elvoret=0
+Tiamat=0
+Bomb=2
+Red Bat=1
+Oilboyle=0
+Tonberry=0
+Ochu=1
+Glacial Eye=1
+Blitz=1
+Wendigo=0
+Turtapod=0
+=0
+Granaldo=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 106
+Versus=Spd
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Spd
+result=loss
+score=6-4

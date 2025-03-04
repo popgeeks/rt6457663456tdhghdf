@@ -1,0 +1,135 @@
+[player]
+nickname=Kojiro777
+password=dlumina
+email=ihavethesyndrome@hotmail.com
+signup_date=3/21/05
+playerID=34
+status=regular
+Verify=1
+Last IP=67.160.8.180
+id=25
+IP=67.160.8.180
+adminstatus=off
+Last Played=05-16-2005
+membership=diamond
+membership_enddate=05-28-2005
+match=05-16-2005
+guildinvite=
+guildinvite_name=
+guild=Card Club
+guildmaster=3
+surname=(Brad)
+
+[Stats]
+Win=217
+Lost=112
+Draw=32
+Lame quits=7
+GP=587
+rank=3513
+Newdecks=11
+Level=15
+Exp=7809
+Next=8675
+Streak=-2
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=217
+AP=31
+SBLost=1
+[Newdecks]
+Last=05-01-2005
+[Totals]
+Level1=0
+Level2=0
+Level3=0
+Level4=0
+Level5=1
+Level6=2
+Level7=7
+Level8=3
+Level9=0
+Level10=5
+Total=0
+[cards]
+Anacondaur=0
+Gesper=0
+Fastitocalon=0
+Adamantoise=0
+Granaldo=1
+Creeps=0
+Jelleye=0
+Armadodo=0
+Blood Soul=0
+Oilboyle=1
+SAM08G=0
+Mesmerize=0
+Blobra=0
+Abadon=0
+Kiros=1
+Blue Dragon=0
+Iguion=0
+GIM47N=0
+Ochu=0
+Snow Lion=0
+Red Giant=1
+Tonberry=0
+Siren=1
+Glacial Eye=0
+Mobile Type 8=0
+Hexadragon=0
+Geezard=0
+Irvine=1
+Wendigo=0
+Tri-Face=0
+Quistis=1
+Vysage=0
+Blitz=0
+Red Bat=0
+Tiamat=1
+Krysta=0
+Shumi Tribe=0
+Grand Mantis=0
+Gayla=0
+Cockatrice=0
+Ruby Dragon=0
+Abyss Worm=0
+Selphie=1
+Chubby Chocobo=1
+Sphinxara=1
+Malboro=0
+Caterchipillar=0
+BGH251F2=1
+Ifrit=1
+Propagator=1
+Funguar=0
+Tonberry King=0
+Edea=1
+Cactuar=0
+Gargantua=1
+Trauma=0
+PuPu=1
+Jumbo Cactuar=1
+Buel=0
+[AP]
+AAEXP=0
+Honor=2
+PCT=0
+[Play]
+Playing=false
+GameID= 17005
+Versus=JamesFate
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=SB
+Challenged=
+[game]
+opponent=JamesFate
+result=loss
+score=2-0
+[Warnings]
+Warns=1
+Kicks=2

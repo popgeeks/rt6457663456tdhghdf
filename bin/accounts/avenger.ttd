@@ -1,0 +1,43 @@
+[player]
+nickname=avenger
+password=515255927
+email=darklionheart@sbcglobal.net
+signup_date=9/25/2005
+playerID=2485
+status=regular
+referal=a
+Verify=1
+Last IP=69.231.94.94
+id=25
+IP=69.231.94.94
+adminstatus=off
+match=09-25-2005
+[Stats]
+Win=0
+Lost=1
+Draw=1
+Lame quits=0
+Newdecks=1
+Level=1
+Exp=7
+Next=100
+Streak=1
+[Newdecks]
+Last=09-25-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 113771
+Versus=erased
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=howabe
+result=loss
+score=6-4
+[Warnings]
+Kicks=1

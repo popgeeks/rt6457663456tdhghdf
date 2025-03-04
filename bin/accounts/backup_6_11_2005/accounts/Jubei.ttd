@@ -1,0 +1,74 @@
+[player]
+nickname=Jubei
+password=hajime
+email=sjc4ever03@hotmail.com
+signup_date=3/26/05
+playerID=57
+status=regular
+Verify=1
+Last IP=24.19.185.73
+id=11
+IP=24.19.185.73
+adminstatus=off
+Last Played=06-06-2005
+match=06-06-2005
+surname=gene-splice
+[Stats]
+Win=36
+Lost=30
+Draw=13
+Lame quits=2
+GP=4187
+rank=1311
+Newdecks=1
+Level=8
+Exp=2494
+Next=2698
+Streak=2
+Choices=1
+Wins=2
+AP=13977
+[Newdecks]
+Last=03-26-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=3
+Level4=2
+Level5=1
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Behemoth=0
+Grendel=2
+Tonberry King=1
+SAM08G=2
+Armadodo=1
+Bite Bug=1
+Oilboyle=0
+Blitz=1
+Mesmerize=0
+Creeps=1
+T-Rexaur=1
+Abadon=1
+Fujin, Raijin=1
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=2
+[Play]
+Playing=false
+GameID= 29066
+Versus=ZeroCool
+Iam=1
+[Games]
+Playing=OTT
+[game]
+opponent=KIAxel
+result=win
+score=15-5

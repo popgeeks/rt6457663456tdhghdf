@@ -1,0 +1,82 @@
+[player]
+nickname=uud2
+password=1101127
+email=uud2@woh.rr.com
+signup_date=4/16/05
+playerID=153
+status=regular
+referal=Jedislight
+Verify=1
+Last IP=24.209.81.101
+id=9
+IP=24.209.81.101
+adminstatus=off
+match=04-17-2005
+Last Played=04-17-2005
+[Stats]
+Win=7
+Lost=14
+Draw=9
+Lame quits=0
+GP=312
+rank=1322
+Newdecks=1
+Level=4
+Exp=522
+Next=836
+Streak=1
+Choices=1
+SoldCards=1
+[Newdecks]
+Last=04-16-2005
+[Totals]
+Level1=1
+Level2=3
+Level3=0
+Level4=4
+Level5=2
+Level6=3
+Level7=2
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Thrustaevis=1
+Vysage=2
+Jumbo Cactuar=1
+Tri-Face=0
+Wedge, Biggs=0
+Glacial Eye=1
+Shumi Tribe=0
+Belhelmel=1
+Adamantoise=1
+Bomb=0
+Red Bat=0
+Mesmerize=0
+Imp=0
+Gargantua=1
+Wendigo=0
+Iron Giant=1
+Blobra=0
+Funguar=1
+Fujin, Raijin=1
+Elvoret=1
+Blitz=1
+Elnoyle=1
+Gerogero=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 6351
+Versus=Avelia
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Avelia
+result=win
+score=14-6

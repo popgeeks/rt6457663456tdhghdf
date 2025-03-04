@@ -1,0 +1,22 @@
+[player]
+nickname=ShadowTitan
+password=832349776
+email=david04492@hotmail.com
+signup_date=4/27/2005
+playerID=202
+status=regular
+referal=ShadowTitan
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=04-27-2005
+[password]
+failed=2

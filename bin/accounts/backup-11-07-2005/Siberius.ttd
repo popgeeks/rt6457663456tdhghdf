@@ -1,0 +1,43 @@
+[player]
+nickname=Siberius
+password=20035922
+email=pepsidoomh@fsmail.net
+signup_date=10/30/2005
+playerID=3078
+status=regular
+referal=what?
+Verify=1
+Last IP=81.76.2.135
+id=26
+IP=81.76.2.135
+adminstatus=off
+match=10-31-2005
+[Stats]
+Win=1
+Lost=8
+Draw=3
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=86
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-8
+[Newdecks]
+Last=10-30-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 141015
+Versus=ixeon
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=ixeon
+result=loss
+score=8-2

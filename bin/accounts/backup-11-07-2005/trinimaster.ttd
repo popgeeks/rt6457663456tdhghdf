@@ -1,0 +1,17 @@
+[player]
+nickname=trinimaster
+password=777358650
+email=matthewgonzale349@hotmail.com
+signup_date=8/30/2005
+playerID=2013
+status=regular
+referal=friend
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=08-30-2005

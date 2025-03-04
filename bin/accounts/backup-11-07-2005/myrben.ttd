@@ -1,0 +1,42 @@
+[player]
+nickname=myrben
+password=789020835
+email=falcon_auto@yahoo.com
+signup_date=10/21/2005
+playerID=2950
+status=regular
+referal=
+Verify=1
+Last IP=203.76.228.56
+id=12
+IP=203.76.228.56
+adminstatus=off
+match=10-28-2005
+[Stats]
+Win=19
+Lost=30
+Draw=15
+Lame quits=1
+Newdecks=1
+Level=5
+Exp=1277
+Next=1301
+Streak=-1
+[Newdecks]
+Last=10-21-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 138586
+Versus=g7puppet
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=g7puppet
+result=loss
+score=13-7

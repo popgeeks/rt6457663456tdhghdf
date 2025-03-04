@@ -1,0 +1,27 @@
+[AP]
+AAEXP=1424
+honor=1
+PCT=0
+[player]
+id=132
+match=05-31-2006
+guildinvite=
+guildinvite_name=
+[Play]
+Playing=false
+GameID= 580662
+Versus=dragonbabe
+Iam=2
+[Stats]
+Level=16
+Exp=8699
+Next=9651
+Streak=-1
+Choices=1
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=solidsnake
+result=loss
+score=11-9

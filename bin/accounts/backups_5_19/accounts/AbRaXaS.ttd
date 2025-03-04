@@ -1,0 +1,77 @@
+[player]
+nickname=AbRaXaS
+password=60112953
+email=XellDincht999@t-online.de
+signup_date=3/16/05
+playerID=22
+status=regular
+Verify=1
+Last IP=62.227.60.11
+id=3
+IP=62.227.60.11
+adminstatus=off
+Last Played=03-19-2005
+[Stats]
+Win=26
+Lost=10
+Draw=5
+Lame quits=0
+GP=365
+rank=1487
+Newdecks=1
+Level=3
+Exp=342
+Next=476
+Streak=2
+Choices=1
+Wins=26
+[Newdecks]
+Last=03-16-2005
+[Totals]
+Level1=2
+Level2=2
+Level3=2
+Level4=4
+Level5=1
+Level6=3
+Level7=1
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Torama=1
+Thrustaevis=1
+Blood Soul=0
+Death Claw=1
+Turtapod=1
+Shumi Tribe=1
+Trauma=1
+Gayla=1
+Sphinxara=0
+Ultima Weapon=0
+Fujin, Raijin=0
+Wendigo=1
+PuPu=1
+Blobra=1
+Fastitocalon=1
+Blitz=1
+Tri-Point=1
+Elvoret=1
+Creeps=1
+Bomb=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 479
+Versus=Hitman
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Hitman
+result=win
+score=8-2

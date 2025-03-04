@@ -1,0 +1,21 @@
+[player]
+nickname=SupaWakka
+password=805575966
+email=aaronfarrugia@hotmail.com
+signup_date=4/26/2005
+playerID=198
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=04-26-2005
+[password]
+failed=2

@@ -1,0 +1,47 @@
+[player]
+nickname=Homer
+password=09051989
+email=wlegocciole@gmail.com
+signup_date=8/18/2005
+playerID=1870
+status=regular
+referal=DarkMan
+Verify=1
+Last IP=82.53.150.64
+id=17
+IP=82.53.150.64
+adminstatus=off
+match=09-05-2005
+Last Played=08-19-2005
+[Stats]
+Win=9
+Lost=6
+Draw=0
+Lame quits=0
+GP=263
+Newdecks=11
+Level=3
+Exp=253
+Next=476
+AP=514
+SoldCards=0
+cardsgiven=0
+Streak=-2
+Choices=1
+[Newdecks]
+Last=08-18-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=alyxxs
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=alyxxs
+result=loss
+score=8-2

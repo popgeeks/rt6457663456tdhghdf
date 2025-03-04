@@ -1,0 +1,17 @@
+[player]
+nickname=samuraiman
+password=739435791
+email=megaman.carruana@laposte.net
+signup_date=9/12/2005
+playerID=2249
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-12-2005

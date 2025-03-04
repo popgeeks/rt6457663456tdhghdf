@@ -1,0 +1,43 @@
+[player]
+nickname=Bolt
+password=342372893
+email=bolt.pt@gmail.com
+signup_date=3/31/05
+playerID=73
+status=regular
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+[Newdecks]
+Last=03-31-2005
+[Totals]
+Level1=1
+Level2=5
+Level3=3
+Level4=1
+Level5=1
+Level6=4
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Death Claw=2
+Iguion=1
+Bite Bug=1
+Buel=2
+Oilboyle=2
+Anacondaur=1
+Grendel=1
+Jelleye=1
+Armadodo=1
+Trauma=1
+Turtapod=1
+PuPu=1

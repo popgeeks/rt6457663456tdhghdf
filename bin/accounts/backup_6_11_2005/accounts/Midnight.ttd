@@ -1,0 +1,59 @@
+[player]
+nickname=Midnight
+password=CyberJ
+email=cyberjazz9@hotmail.com
+signup_date=4/29/2005
+playerID=216
+status=regular
+referal=Mid
+Verify=1
+Last IP=203.164.12.20
+id=2
+IP=203.164.12.20
+adminstatus=off
+match=06-11-2005
+Last Played=06-11-2005
+guildinvite=
+guildinvite_name=
+guild=Pupu Army
+guildmaster=3
+surname=cc
+[Stats]
+Win=70
+Lost=70
+Draw=24
+Lame quits=6
+GP=210
+rank=2300
+Newdecks=23
+Level=10
+Exp=3772
+Next=3936
+Streak=1
+Choices=1
+SoldCards=0
+cardsgiven=0
+Wins=27
+AP=47
+SBWin=11
+SBLost=7
+[Newdecks]
+Last=06-03-2005
+[AP]
+AAEXP=0
+honor=2
+PCT=0
+[Play]
+Playing=false
+GameID= 31311
+Versus=derivative
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+Challenged=
+[game]
+opponent=timd21
+result=win
+score=8-2

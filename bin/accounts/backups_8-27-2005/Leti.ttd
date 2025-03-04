@@ -1,0 +1,44 @@
+[player]
+nickname=Leti
+password=banshee1
+email=Leti_@web.de
+signup_date=8/3/2005
+playerID=1664
+status=regular
+referal=
+Verify=1
+Last IP=84.170.226.136
+id=41
+IP=84.170.226.136
+adminstatus=off
+match=08-03-2005
+Last Played=08-03-2005
+[Stats]
+Win=1
+Lost=3
+Draw=0
+Lame quits=0
+GP=35
+Newdecks=1
+Level=1
+Exp=63
+Next=100
+AP=148
+Streak=-2
+[Newdecks]
+Last=08-03-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 77378
+Versus=yanden
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=yanden
+result=loss
+score=16-4

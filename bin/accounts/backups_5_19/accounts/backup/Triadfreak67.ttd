@@ -1,0 +1,71 @@
+[player]
+nickname=Triadfreak67
+password=85834681
+email=luvmyabc@earthlink.net
+signup_date=4/15/05
+playerID=141
+status=regular
+referal=
+Verify=1
+Last IP=69.81.150.215
+id=14
+IP=69.81.150.215
+adminstatus=off
+match=04-16-2005
+Last Played=04-16-2005
+[Stats]
+Win=2
+Lost=7
+Draw=1
+Lame quits=0
+GP=620
+rank=1426
+Newdecks=1
+Level=2
+Exp=197
+Next=248
+Streak=-2
+Choices=1
+[Newdecks]
+Last=04-15-2005
+[Totals]
+Level1=5
+Level2=0
+Level3=6
+Level4=1
+Level5=0
+Level6=2
+Level7=0
+Level8=0
+Level9=0
+Level10=0
+Total=0
+[cards]
+Oilboyle=1
+X-ATM092=1
+Red Bat=2
+Tonberry=1
+Adamantoise=1
+Death Claw=1
+Gayla=1
+PuPu=0
+Ochu=1
+Bite Bug=1
+Snow Lion=2
+Tri-Face=1
+Geezard=1
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 5830
+Versus=HITMAN
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=HITMAN
+result=loss
+score=16-4

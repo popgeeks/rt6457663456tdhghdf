@@ -1,0 +1,46 @@
+[player]
+nickname=ricksouto
+password=19980112
+email=rick_souto@hotmail.com
+signup_date=5/17/2005
+playerID=410
+status=regular
+referal=Alucard
+Verify=1
+Last IP=200.153.169.45
+id=12
+IP=200.153.169.45
+adminstatus=off
+match=05-18-2005
+Last Played=05-18-2005
+[Stats]
+Win=5
+Lost=5
+Draw=2
+Lame quits=1
+GP=290
+rank=1603
+Newdecks=1
+Level=2
+Exp=222
+Next=248
+AP=121
+Streak=-2
+Choices=1
+[Newdecks]
+Last=05-17-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=
+Versus=squall
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=squall
+result=loss
+score=6-4

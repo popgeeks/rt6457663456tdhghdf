@@ -1,0 +1,46 @@
+[player]
+nickname=DePoSte
+password=879600762
+email=Sasukeuchihaoriginal@hotmail.com
+signup_date=8/11/2005
+playerID=1809
+status=regular
+referal=Edgar
+Verify=1
+Last IP=213.250.148.99
+id=29
+IP=213.250.148.99
+adminstatus=off
+match=08-22-2005
+Last Played=08-22-2005
+[Stats]
+Win=24
+Lost=17
+Draw=4
+Lame quits=0
+GP=1714
+Newdecks=1
+Level=4
+Exp=765
+Next=836
+AP=815
+Streak=2
+Choices=1
+SBLost=1
+[Newdecks]
+Last=08-11-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID=90341
+Versus=Team
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=sexyshinobu
+result=draw
+score=10-10

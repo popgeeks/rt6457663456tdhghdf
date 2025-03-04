@@ -1,0 +1,167 @@
+QUERYTABLES 1
+EXTRACHECK
+GETAVATARS 1 body
+GETAVATARS 0 head
+BUYAVATARS kungfu_male
+PING
+GETAVATARS 2
+GETAVATARS 2
+GETAVATARS 2
+GETAVATARS 0 background
+CREATETABLE
+TABLECLOSE
+CHAT Kitten!
+OTTPLACEAT 12
+GAMESURRENDER
+GAMESURRENDER
+PING
+GAMESURRENDER
+OTTPLACEAT 0
+GAMESURRENDER
+CHAT !endgame [Game Request]
+CHAT !endgame [Game Request]
+CHAT !endgame [Game Request]
+CHAT No idea how I even got sucked into that game.
+PM GaretJax .
+CHAT I was actually waiting for one with someone else.
+CHAT ?!
+CHAT >_<
+CHAT !endgame [Game Request]
+CHAT Will do!
+STATS 14k
+QUIT 0 1
+QUERYTABLES 1
+EXTRACHECK
+CHAT Thanks a lot.
+CHAT :D
+CHAT Kitten!
+QUERYTABLES 1
+EXTRACHECK
+CHAT D'oh! >_<
+CREATETABLE
+CHALLENGECHATS Hi, I'm actually waiting for someone. >_<
+TABLECLOSE
+PING
+JOINTABLE 7
+CHALLENGECHATS !!!
+CHALLENGECHATS Now, I show you how to do rules?
+CHALLENGECHATS Aw, lol. I see your little lady. :)
+CHALLENGECHATS Actually... let's just use these rules.
+CHALLENGECHATS They're a good start, to explain!
+CHALLENGECHATS Click ready!
+GAMEREADY
+MYCARD 0 Geezard
+MYCARD 1 SAM08G
+MYCARD 2 Blitz
+MYCARD 3 Ochu
+MYCARD 4 Tri-Face
+READY 14k
+PLACEAT 8 0 kitten
+PLACEAT 4 2 kitten
+PING
+PLACEAT 1 4 kitten
+PING
+PLACEAT 3 3 kitten
+PLACEAT 7 1 kitten
+JOINTABLE 7
+CHALLENGECHATS Ready! :)
+GAMEREADY
+MYCARD 0 Behemoth
+MYCARD 1 Ochu
+MYCARD 2 Tri-Face
+MYCARD 3 Turtapod
+MYCARD 4 Geezard
+READY 14k
+PLACEAT 5 1 kitten
+PLACEAT 7 4 kitten
+PLACEAT 3 3 kitten
+PLACEAT 1 0 kitten
+PING
+JOINTABLE 5
+PING
+GAMEREADY
+MYCARD 0 Turtapod
+MYCARD 1 SAM08G
+MYCARD 2 Blitz
+MYCARD 3 Adamantoise
+MYCARD 4 Geezard
+READY 14k
+PLACEAT 7 4 kitten
+PLACEAT 5 3 kitten
+PLACEAT 1 1 kitten
+PLACEAT 3 2 kitten
+CREATETABLE
+CHALLENGECHATS Woohoo! :)
+CHANGERULE Basic Random 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Standard
+CHALLENGECHATS Ohhh, wow!
+CHALLENGECHATS They have FFT cards, even! :O
+CHALLENGECHATS We haven't unlocked them yet, though. :)
+PING
+GAMEREADY
+MYCARD 0 Blitz
+MYCARD 1 Ochu
+MYCARD 2 Adamantoise
+MYCARD 3 Tri-Face
+MYCARD 4 Ochu
+READY 14k
+PLACEAT 1 0 kitten
+PLACEAT 7 1 kitten
+PLACEAT 3 2 kitten
+PLACEAT 2 3 kitten
+PLACEAT 8 4 kitten
+PING
+PING
+QUERYTABLES 1
+EXTRACHECK
+CHPASS 14k 691664218 bottom
+CHPASS 14k 691664218 bottom
+GETAVATARS 1 body
+GETAVATARS 0 head
+PING
+CREATETABLE
+CHANGERULE Basic Normal 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0@@Triple%20Triad@@ Standard
+CHALLENGECHATS Ready...
+GAMEREADY
+CHALLENGECHATS I'm boring you so hard with this. This isn't AT ALL the game that I'm used to.
+CHALLENGECHATS *nods* If you're sure, we keep trying.
+MYCARD 0 Behemoth
+MYCARD 1 Adamantoise
+MYCARD 2 Blitz
+MYCARD 3 Turtapod
+MYCARD 4 Tri-Face
+READY 14k
+PLACEAT 2 3 kitten
+PLACEAT 8 4 kitten
+PING
+PLACEAT 6 1 kitten
+PLACEAT 4 0 kitten
+PLACEAT 0 2 kitten
+UNLOCKSHOP
+PING
+STATS 14k
+SHOPGET Angelus
+SHOPCARDBUY Angelus Hero%20Medal 30
+SHOPGET Pupu-Army
+SHOPGET JamesFate
+SHOPGET esthar-bot
+SHOPGET Alvaro
+SHOPGET atomsplit
+SHOPGET bubbles
+SHOPGET crab-bot
+SHOPGET crazyelf48
+SHOPCARDBUY crazyelf48 Razzly 30
+PING
+STATS kitten
+SHOPGET kitten
+UNLOCKSHOP
+CHAT Is there a way to give someone a card?
+PING
+APCHECK
+APSET 0
+CHAT Is there a way to GIVE someone a card, here?
+CHAT Oh!
+CHAT Thanks, I get it now. :)
+CREATETABLE  TRADE@@Trade
+CREATETABLE  TRADE@@Trade
+CREATETABLE  TRADE@@Trade
+QUIT 0 1

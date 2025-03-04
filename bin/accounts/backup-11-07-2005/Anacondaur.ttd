@@ -1,0 +1,43 @@
+[player]
+nickname=Anacondaur
+password=jaaku85
+email=exinferas@gmail.com
+signup_date=9/17/2005
+playerID=2314
+status=regular
+referal=Anacondaur
+Verify=1
+Last IP=213.216.219.135
+id=15
+IP=213.216.219.135
+adminstatus=off
+match=10-05-2005
+[Stats]
+Win=60
+Lost=44
+Draw=20
+Lame quits=0
+Newdecks=1
+Level=9
+Exp=2928
+Next=3346
+Streak=1
+Choices=1
+[Newdecks]
+Last=09-17-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 120588
+Versus=Mikror
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=TT
+[game]
+opponent=Mikror
+result=win
+score=6-4

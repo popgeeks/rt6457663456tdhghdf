@@ -1,0 +1,43 @@
+[player]
+nickname=Hollington
+password=654374479
+email=bpredgewell1@hotmail.co.uk
+signup_date=9/20/2005
+playerID=2376
+status=regular
+referal=
+Verify=1
+Last IP=88.110.98.157
+id=24
+IP=88.110.98.157
+adminstatus=off
+match=09-22-2005
+[Stats]
+Win=32
+Lost=54
+Draw=11
+Lame quits=0
+Newdecks=1
+Level=8
+Exp=2247
+Next=2698
+Streak=2
+Choices=1
+[Newdecks]
+Last=09-20-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 110891
+Versus=ElloneLoire
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=ElloneLoire
+result=win
+score=11-9

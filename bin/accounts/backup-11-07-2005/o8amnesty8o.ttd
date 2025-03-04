@@ -1,0 +1,32 @@
+[player]
+nickname=o8amnesty8o
+password=723647772
+email=amnesty9925@gmail.com
+signup_date=8/2/2005
+playerID=1653
+status=regular
+referal=google
+Verify=1
+Last IP=69.139.164.10
+id=51
+IP=69.139.164.10
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=4
+[Newdecks]
+Last=08-02-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+[password]
+failed=0

@@ -1,0 +1,43 @@
+[player]
+nickname=fuzionblade
+password=819057106
+email=fuzionblade@hotmail.com
+signup_date=10/7/2005
+playerID=2684
+status=regular
+referal=
+Verify=1
+Last IP=210.50.72.251
+id=131
+IP=210.50.72.251
+adminstatus=off
+match=10-07-2005
+[Stats]
+Win=1
+Lost=2
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=1
+Exp=27
+Next=100
+SoldCards=0
+cardsgiven=0
+Streak=-1
+[Newdecks]
+Last=10-07-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 122143
+Versus=oniz
+Iam=1
+[password]
+failed=0
+[Games]
+Playing=MM
+[game]
+opponent=likeUcare
+result=loss
+score=7-3

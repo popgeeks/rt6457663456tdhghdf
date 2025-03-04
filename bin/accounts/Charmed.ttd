@@ -1,0 +1,46 @@
+[player]
+nickname=Charmed
+password=941075562
+email=charmed67190@msn.com
+signup_date=7/24/2005
+playerID=1460
+status=regular
+referal=
+Verify=1
+Last IP=80.170.148.40
+id=51
+IP=80.170.148.40
+adminstatus=off
+match=02-12-2006
+Last Played=08-27-2005
+[Stats]
+Win=245
+Lost=212
+Draw=71
+Lame quits=2
+GP=62
+Newdecks=1
+Level=19
+Exp=13393
+Next=13706
+AP=3398
+Streak=2
+Choices=1
+[Newdecks]
+Last=07-24-2005
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 345778
+Versus=redevilchild
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=Tim1
+result=draw
+score=10-10

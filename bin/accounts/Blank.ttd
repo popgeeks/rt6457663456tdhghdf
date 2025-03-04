@@ -1,0 +1,22 @@
+[player]
+nickname=Blank
+password=144943415
+email=findecano_elf@hotmail.com
+signup_date=5/3/2005
+playerID=270
+status=regular
+referal=tantalus
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+rank=1500
+Newdecks=1
+Wins=0
+[Newdecks]
+Last=05-03-2005
+[password]
+failed=2

@@ -1,0 +1,44 @@
+[player]
+nickname=Malvinh
+password=pissoff
+email=malvinh87@hotmail.com
+signup_date=9/26/2005
+playerID=2501
+status=regular
+referal=
+Verify=1
+Last IP=220.101.48.83
+id=24
+IP=220.101.48.83
+adminstatus=off
+match=09-28-2005
+[Stats]
+Win=34
+Lost=4
+Draw=2
+Lame quits=0
+Newdecks=1
+Level=5
+Exp=937
+Next=1301
+Streak=6
+SBWin=2
+[Newdecks]
+Last=09-26-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+honor=1
+[Play]
+Playing=false
+GameID= 122773
+Versus=likeUcare
+Iam=2
+[Games]
+Playing=OTT
+Challenged=
+[game]
+opponent=likeUcare
+result=win
+score=12-8

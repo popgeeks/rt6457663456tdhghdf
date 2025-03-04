@@ -1,0 +1,19 @@
+[player]
+nickname=Dragonith
+password=145585715
+email=Dragoth@gmail.com
+signup_date=9/8/2005
+playerID=2161
+status=regular
+referal=
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=09-08-2005
+[password]
+failed=2

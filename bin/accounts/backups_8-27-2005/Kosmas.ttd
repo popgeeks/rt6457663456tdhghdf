@@ -1,0 +1,32 @@
+[player]
+nickname=Kosmas
+password=394274055
+email=kosmas_fil@hotmail.com
+signup_date=8/19/2005
+playerID=1880
+status=regular
+referal=Kosmas
+Verify=1
+Last IP=212.107.27.94
+id=17
+IP=212.107.27.94
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=0
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=3
+[Newdecks]
+Last=08-19-2005
+[password]
+failed=0
+[AP]
+AAEXP=0
+[Play]
+Playing=false

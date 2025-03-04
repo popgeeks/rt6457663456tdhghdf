@@ -1,0 +1,45 @@
+[player]
+nickname=tahtd00d
+password=406295060
+email=that_heroic_d00d@yahoo.com
+signup_date=10/4/2005
+playerID=2631
+status=regular
+referal=SirBlank
+Verify=1
+Last IP=66.19.53.67
+id=47
+IP=66.19.53.67
+adminstatus=off
+match=10-04-2005
+[Stats]
+Win=9
+Lost=9
+Draw=0
+Lame quits=0
+Newdecks=11
+Level=3
+Exp=364
+Next=476
+SoldCards=0
+cardsgiven=0
+Streak=2
+SBWin=1
+SBLost=2
+[Newdecks]
+Last=10-04-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 120247
+Versus=guitardude86
+Iam=2
+[password]
+failed=0
+[Games]
+Playing=OTT
+[game]
+opponent=guitardude86
+result=win
+score=14-6

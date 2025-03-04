@@ -1,0 +1,38 @@
+[player]
+nickname=ChalLuckyLuc
+password=nubz0r
+email=SmallVivi@gmail.com
+signup_date=6/16/2005
+playerID=771
+status=regular
+referal=
+Verify=1
+Last IP=82.36.224.160
+id=32
+IP=82.36.224.160
+adminstatus=off
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+GP=910
+rank=1500
+Newdecks=1
+Level=1
+Exp=0
+Next=100
+AP=104
+[Newdecks]
+Last=06-20-2005
+[AP]
+AAEXP=0
+[Play]
+Playing=false
+GameID= 38354
+Versus=Angelus
+Iam=2
+[password]
+failed=0
+[Games]
+Challenged=

@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=34
+match=11-15-2005
+[Play]
+Playing=false
+GameID= 151797
+Versus=phreakazoid
+Iam=1
+[Stats]
+Level=2
+Exp=246
+Next=248
+Streak=-2
+[Games]
+Playing=OTT
+[game]
+opponent=phreakazoid
+result=loss
+score=16-4

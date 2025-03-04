@@ -1,0 +1,21 @@
+[AP]
+AAEXP=0
+[player]
+id=14
+match=11-14-2005
+[Play]
+Playing=false
+GameID= 151118
+Versus=ismhawk
+Iam=1
+[Stats]
+Level=3
+Exp=269
+Next=476
+Streak=1
+[Games]
+Playing=TT
+[game]
+opponent=ismhawk
+result=win
+score=7-3

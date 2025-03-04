@@ -1,0 +1,17 @@
+[player]
+nickname=flatwood19
+password=823639332
+email=poob15@yahoo.com
+signup_date=10/27/2005
+playerID=3049
+status=regular
+referal=dog
+Verify=0
+[Stats]
+Win=0
+Lost=0
+Draw=0
+Lame quits=0
+Newdecks=1
+[Newdecks]
+Last=10-27-2005
