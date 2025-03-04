@@ -1,0 +1,1763 @@
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_BurnCard(sPlayer VARCHAR(45), sCard VARCHAR(60)) RETURNS varchar(300) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE iLevel INT DEFAULT 0;
+  DECLARE iSpecial INT DEFAULT 0;
+  DECLARE sItem VARCHAR(45);
+
+  SELECT level, flggold INTO iLevel, iSpecial FROM cards WHERE cardname = sCard;
+  SELECT ItemName INTO sItem FROM items WHERE ID = iLevel;
+
+  IF iSpecial = 0 THEN
+    call spi_PlayerItem(0, sPlayer, iLevel, 1);
+    RETURN CONCAT(sCard, ' was burned and turned into 1x ', sItem);
+  ELSE
+    call spi_PlayerItem(0, sPlayer, iLevel, 1);
+    call spi_PlayerItem(0, sPlayer, iLevel, 1);
+    RETURN CONCAT(sCard, ' was burned and turned into 2x ', sItem);
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_CardWarsRemainingCards(sPlayer VARCHAR(45), iGameID INT) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT count(c.CardID) INTO iCount
+  FROM cardwars_playercards c
+  INNER JOIN cards ON cards.ID = c.CardID
+  WHERE c.Player = sPlayer and c.GameID = iGameID AND CardUsed = 0 And CardDiscarded = 0;
+
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_ChatFilter(sText VARCHAR(500)) RETURNS tinyint(1)
+BEGIN
+DECLARE done INT DEFAULT 0;
+
+DECLARE sWord VARCHAR(100);
+
+DECLARE iFound INT DEFAULT 0;
+
+
+
+DECLARE cur2 CURSOR FOR
+
+	SELECT word FROM wordfilter;
+
+
+
+DECLARE CONTINUE HANDLER FOR SQLSTATE '02000' SET done = 1;
+
+
+
+open cur2;
+
+
+
+REPEAT
+
+  FETCH cur2 INTO sWord;
+
+
+
+  IF NOT done THEN
+
+
+
+	SELECT CASE WHEN INSTR(sText, sWord) > 0 THEN 1 ELSE 0 END INTO iFound;
+
+
+
+	IF iFound = 1 THEN
+
+		RETURN 1;
+
+	END IF;
+
+ END IF;
+
+UNTIL done END REPEAT;
+
+close cur2;
+
+
+
+RETURN 0;
+
+
+
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_FindCardbyID(iID INT) RETURNS varchar(50) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE sCard VARCHAR(50);
+  SELECT cardname INTO sCard FROM cards where ID = iID;
+
+  RETURN sCard;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetAchievementProgress(sPlayer VARCHAR(45), iAchievementID INT) RETURNS int(11)
+BEGIN
+    DECLARE iCount INT DEFAULT 0;
+    DECLARE sInstruction VARCHAR(100);
+    DECLARE iAchievementMax INT DEFAULT 0;
+
+    SELECT AchievementsInstruction, AchievementsMax
+    INTO sInstruction, iAchievementMax 
+    FROM achievements 
+    WHERE AchievementsID = iAchievementID;
+  
+    CASE sInstruction
+    
+    WHEN 'LeaderboardTT' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Game = 'tt' and Player = sPlayer;
+    WHEN 'LeaderboardOTT' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Game = 'ott' and Player = sPlayer;
+    WHEN 'LeaderboardSB' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Game = 'sb' and Player = sPlayer;
+    WHEN 'LeaderboardCHIN' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Game = 'chin' and Player = sPlayer;        
+    WHEN 'LeaderboardTTM' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Game = 'ttm' and Player = sPlayer;
+    WHEN 'LeaderboardTTW' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Game = 'ttw' and Player = sPlayer;
+    WHEN 'LeaderboardALL' THEN
+        SELECT COUNT(Game) INTO iCount
+        FROM
+        (
+            SELECT DISTINCT Game 
+            FROM leaderboardmerits 
+            WHERE Player = sPlayer
+        ) a;       
+    WHEN 'LeaderboardANY' THEN
+        SELECT COUNT(ID) INTO iCount FROM leaderboardmerits WHERE Player = sPlayer; 
+    WHEN 'RANKTT' THEN
+        SELECT tt_rank INTO iCount FROM accounts WHERE Player = sPlayer;
+    WHEN 'RANKOTT' THEN
+        SELECT ott_rank INTO iCount FROM accounts WHERE Player = sPlayer;
+    WHEN 'RANKSB' THEN
+        SELECT sb_rank INTO iCount FROM accounts WHERE Player = sPlayer;
+    WHEN 'RANKTTM' THEN
+        SELECT memory_rank INTO iCount FROM accounts WHERE Player = sPlayer;
+    WHEN 'RANKCHIN' THEN
+        SELECT chinchin_rank INTO iCount FROM accounts WHERE Player = sPlayer;
+    WHEN 'RANKTTW' THEN
+        SELECT cw_rank INTO iCount FROM accounts WHERE Player = sPlayer;
+    WHEN 'Achievement' THEN
+        SELECT COUNT(PlayerAchievementsID) INTO iCount FROM playerachievements 
+        where PlayerAchievementsPlayerID = sPlayer AND PlayerAchievementsAchievementID = iAchievementID;
+    WHEN 'COMLEVEL' THEN
+        SELECT level INTO iCount FROM accounts where player = sPlayer;
+    WHEN 'JACKPOTCOUNT' THEN
+        SELECT COUNT(ID) INTO iCount FROM jackpots Where player = sPlayer;
+    WHEN 'JACKPOTGP' THEN
+        SELECT SUM(GOLD) INTO iCount FROM jackpots where player = sPlayer;
+    WHEN 'MINWAGERCHIN' THEN
+        SELECT MAX(chin_wager) INTO iCount FROM chinchirorin_games WHERE chin_player1 = sPlayer OR chin_player2 = sPlayer;
+    WHEN 'MINWAGERGP' THEN
+        SELECT MAX(Gold) INTO iCount FROM tablewagers WHERE player = sPlayer;
+     WHEN 'ProductCash' THEN
+        SELECT SUM(Cash) INTO iCount
+        FROM
+        (
+            SELECT SUM(Payment) as Cash FROM cartsales WHERE player = sPlayer
+            UNION ALL
+            SELECT SUM(membershippayment) as Cash FROM membershippayments WHERE MembershipPaymentsPlayerID = sPlayer
+        ) A;
+    WHEN 'PUPLUS' THEN
+        SELECT MAX(Total) INTO iCount
+        FROM
+        (
+            SELECT count(membershipID) as Total
+            FROM memberships 
+            WHERE membershipplayerID = sPlayer AND membershiptypeID = 4
+            GROUP BY membershipsubscriptionID
+        ) A;
+    WHEN 'SaveAP' THEN
+        SELECT ap INTO iCount FROM accounts where player = sPlayer;
+    WHEN 'SaveGold' THEN
+        SELECT gold INTO iCount FROM accounts where player = sPlayer;
+    WHEN 'TTEEARTHDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 3;
+    WHEN 'TTEFIREDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 4;        
+    WHEN 'TTEHOLYDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 5;
+    WHEN 'TTEICEDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 6;    
+    WHEN 'TTEMECHDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 8;   
+    WHEN 'TTEPOISONDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 9;    
+    WHEN 'TTETHUNDERDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 7;      
+    WHEN 'TTEWATERDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage
+        WHERE player = sPlayer AND
+            damagetype = 11;    
+    WHEN 'TTEWINDCOUNT' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 12;    
+    WHEN 'TTEWINDDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 12;
+    WHEN 'TTWCHAIN' THEN
+        SELECT COUNT(ChainCount) INTO iCount FROM cardwars_combo WHERE player = sPlayer and ChainCount > 1;   
+    WHEN 'TTWCOMBO' THEN
+        SELECT MAX(ChainCount) INTO iCount FROM cardwars_combo WHERE player = sPlayer and ChainCount > 1;
+    WHEN 'TTWCOMBODMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 2;
+    WHEN 'TTWCRITBLOW' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            IsCrit = 1;       
+    WHEN 'TTWDMG' THEN
+        SELECT MAX(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer and damagetype <> 2;     
+    WHEN 'TTWEARTH' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 3;           
+    WHEN 'TTWFIRE' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 4;   
+    WHEN 'TTWHEAL' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 13;    
+    WHEN 'TTWHEALCOUNT' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage
+        WHERE player = sPlayer AND
+            damagetype = 13;     
+    WHEN 'TTWHOLY' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 5;    
+    WHEN 'TTWICE' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 6;     
+    WHEN 'TTWMECH' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage
+        WHERE player = sPlayer AND
+            damagetype = 8;
+    WHEN 'TTWNORMALDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 1;
+    WHEN 'TTWPOISON' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 9;
+    WHEN 'TTWSHADOW' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 10;
+    WHEN 'TTWSHADOWDMG' THEN
+        SELECT SUM(DamageAmount) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 10;   
+    WHEN 'TTWSTRIKE' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage
+        WHERE player = sPlayer;   
+    WHEN 'TTWTHUNDER' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 7;
+    WHEN 'TTWWATER' THEN
+        SELECT COUNT(ID) INTO iCount
+        FROM cardwars_damage 
+        WHERE player = sPlayer AND
+            damagetype = 11;    
+    WHEN 'TTWWIN' THEN
+        SELECT as_cw_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;
+    WHEN 'WagerCHIN' THEN
+        SELECT SUM(chin_wager) INTO iCount
+        FROM chinchirorin_games
+        WHERE chin_player1 = sPlayer OR chin_player2 = sPlayer;   
+    WHEN 'WagerGP' THEN
+        SELECT SUM(Gold) INTO iCount
+        FROM tablewagers
+        WHERE Player = sPlayer;
+    WHEN 'WinANY' THEN
+        SELECT as_total_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;
+    WHEN 'WinCHIN' THEN
+        SELECT as_chin_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;
+    WHEN 'WinOTT' THEN
+        SELECT as_ott_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;
+    WHEN 'WinSB' THEN
+        SELECT as_sb_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;    
+    WHEN 'WinTOTT' THEN
+        SELECT as_tott_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;
+    WHEN 'WinTT' THEN
+        SELECT as_tt_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;    
+    WHEN 'WinTTM' THEN
+        SELECT as_ttm_wins INTO iCount
+        FROM account_stats
+        WHERE as_player = sPlayer;  
+    ELSE
+        SET iCount = 0;
+    END CASE;
+  
+    IF iCount > iAchievementMax THEN
+      SET iCount = iAchievementMax;
+    END IF;
+
+    RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetActiveLootCardCountByLootID(sPlayer VARCHAR(45), iLootCardID INT) RETURNS int(11)
+BEGIN
+  DECLARE iRowCount INT DEFAULT 0;
+
+  SELECT count(ID) INTO iRowCount FROM activelootcards
+  WHERE player = sPlayer AND LootCardID = iLootCardID AND (EndStamp >= now() OR (SELECT Duration FROM lootcards WHERE ID = iLootCardID) = 0);
+
+  RETURN iRowCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardAttackValue(sCard VARCHAR(75)) RETURNS int(11)
+BEGIN
+  DECLARE iAttack INT DEFAULT 0;
+
+  SELECT up * down INTO iAttack FROM cards where Cardname = sCard;
+
+  RETURN iAttack;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardCirculation(sCardName VARCHAR(45)) RETURNS int(11)
+BEGIN
+    RETURN (SELECT sum(p1.value) from playercards p1 where p1.cardname = sCardName);
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardCirculationText(iTotal INT, sCardName VARCHAR(45)) RETURNS varchar(150) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+    DECLARE iCirculation INT DEFAULT 0;
+
+    SELECT sum(p1.value) INTO iCirculation from playercards p1 where p1.cardname = sCardName;
+
+    RETURN CONCAT(iCirculation, ' | ', FORMAT((iTotal / iCirculation) * 100, 2), '%');
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardDefenseValue(sCard VARCHAR(75)) RETURNS int(11)
+BEGIN
+  DECLARE iDefense INT DEFAULT 0;
+
+  SELECT left * right INTO iDefense FROM cards where Cardname = sCard;
+
+  RETURN iDefense;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardElement(sCard VARCHAR(75)) RETURNS varchar(45) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE sElement VARCHAR(45);
+
+  SELECT Element INTO sElement FROM cards where cardname = sCard;
+
+  IF sElement = 'none' or sElement = 'None' or sElement = '' THEN
+    SET sElement = 'Normal';
+  END IF;
+
+  RETURN sElement;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardElementID(sCard VARCHAR(75)) RETURNS int(11)
+BEGIN
+  DECLARE iElementID INT DEFAULT 0;
+  DECLARE sElement VARCHAR(45);
+
+  SELECT Element INTO sElement FROM cards WHERE cardname = sCard;
+
+  SELECT IFNULL(ID, 0) INTO iElementID
+  FROM elements_lu
+  WHERE Element = sElement;
+
+  RETURN iElementID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardID(sCard VARCHAR(75)) RETURNS int(11)
+BEGIN
+  DECLARE iID INT DEFAULT 0;
+
+  SELECT ID INTO iID FROM cards where cardname = sCard;
+
+  RETURN iID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardOverlay(CardName VARCHAR(45), CardRank VARCHAR(50), CardLevel INT, CardStatus VARCHAR(100), CardCirculation INT) RETURNS varchar(8000) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE TEMPLATE VARCHAR(8000);
+
+  SELECT TemplateText INTO TEMPLATE FROM portal.PageTemplates WHERE ID = 1;
+
+  RETURN REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(TEMPLATE, '%%CARD%%', CardName), '%%CARDIMAGE%%', CONCAT('/Portal/_images/cards/blue/', CardName, '.jpg')), '%%RANK%%', CardRank), '%%LEVEL%%', CardLevel), '%%STATUS%%', CardStatus), '%%CIRCULATION%%', CardCirculation);
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardRank(sCardName VARCHAR(45)) RETURNS varchar(200) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE CardRank VARCHAR(200);
+  DECLARE CardLevel INT;
+
+  SELECT Level INTO CardLevel FROM Cards Where Cardname = sCardName;
+
+  IF sCardName = 'Atomsplitter' THEN
+    SET CardRank = '<font color="#8800df">Mythical</font>';
+  ELSEIF CardLevel = 10 THEN
+    SET CardRank = '<font color="#bf1f00">Fabled</font>';
+  ELSEIF CardLevel = 8 OR CardLevel = 9 THEN
+    SET CardRank = '<font color="#ffcc20">Legendary</font>';
+  ELSEIF CardLevel = 6 OR CardLevel = 7 THEN
+    SET CardRank = '<font color="Cyan">Magical</font>';
+  ELSE
+    SET CardRank = '<font color="#eaea88">Common</font>';
+  END IF;
+
+  RETURN CardRank;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardStatus(sCardName VARCHAR(45)) RETURNS varchar(200) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE CardStatus VARCHAR(200);
+  DECLARE CardLevel INT;
+  DECLARE iSpecial INT;
+
+  SELECT Level, flgGold INTO CardLevel, iSpecial FROM Cards Where Cardname = sCardName;
+
+  IF sCardName = 'Atomsplitter' THEN
+    SET CardStatus = 'Attuned';
+  ELSEIF iSpecial = 1 THEN
+    SET CardStatus = 'Attuned';
+  ELSEIF CardLevel <= 5 THEN
+    SET CardStatus = 'No-Value';
+  ELSE
+    SET CardStatus = '';
+  END IF;
+
+  RETURN CardStatus;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetCardWarsDamageModifier(iAtkElement INT, iDefElement INT) RETURNS decimal(10,2)
+BEGIN
+  DECLARE dMod DECIMAL(10, 2) DEFAULT 1;
+
+  SELECT CASE WHEN Count(DamageMod) > 0 THEN DamageMod ELSE 1 END INTO dMod FROM cardwars_elementmods WHERE AtkElementID = iAtkElement AND DefElementID = iDefElement;
+
+  RETURN dMod;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetConfigurationValue(sKeyword VARCHAR(45)) RETURNS varchar(1500) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE sValue VARCHAR(1500);
+
+  SELECT ConfigValue INTO sValue FROM configuration WHERE ConfigKeyword = sKeyword;
+  RETURN sValue;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetDistinctPlayerCardCount(sPlayer VARCHAR(45), sDeck VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+  DECLARE iBankCount INT DEFAULT 0;
+
+  SELECT count(DISTINCT cards.cardname)
+  INTO iCount
+  FROM playercards
+  INNER JOIN cards ON playercards.cardname = cards.cardname AND playercards.player = sPlayer and cards.deck = sDeck
+  WHERE playercards.value > 0;
+
+  SELECT count(DISTINCT cards.cardname)
+  INTO iBankCount
+  FROM playervault
+  INNER JOIN cards ON playervault.cardid = cards.id AND playervault.player = sPlayer and cards.deck = sDeck
+  WHERE
+    cards.cardname NOT IN (SELECT DISTINCT cards.cardname
+                            FROM playercards
+                            INNER JOIN cards ON playercards.cardname = cards.cardname AND playercards.player = sPlayer
+                            WHERE playercards.value > 0 and cards.deck = sDeck);
+
+  RETURN iCount + iBankCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetGuildApplication(sPlayer VARCHAR(45)) RETURNS varchar(25) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE sGuild VARCHAR(25);
+
+  SELECT IFNULL(guild, '') INTO sGuild FROM guild_applications WHERE player = sPlayer;
+
+  RETURN sGuild;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetGuildBankCardCount(sGuild VARCHAR(75)) RETURNS int(11)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT COUNT(ID) INTO iCardCount FROM guildbank_cards WHERE guild = sGuild;
+
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetGuildSpecialRank(sPlayer VARCHAR(50)) RETURNS varchar(25) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE sRank VARCHAR(25);
+
+  SELECT CASE WHEN S1.GuildRank = '' THEN Rank ELSE CAST(CONCAT(S1.guildrank) AS CHAR) END
+  INTO sRank
+  FROM
+  (
+    SELECT a.player as Player,
+      CASE WHEN a.guildstatus = 2 then 'Guild Master'
+      WHEN a.guildstatus = 3 then 'Member'
+      ELSE 'Officer' END as Rank,
+      CAST(IFNULL(s.guildrank, '') AS CHAR) as guildrank
+      FROM accounts a
+        LEFT JOIN specialguildranks s ON a.player = s.player
+    WHERE a.player = sPlayer
+  ) S1;
+
+  RETURN sRank;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetGuildVaultLimit(sGuild VARCHAR(75)) RETURNS int(11)
+BEGIN
+    DECLARE iCap INT DEFAULT 0;
+
+    SELECT cardcap INTO iCap FROM guild_descriptions WHERE guild = sGuild;
+
+    RETURN iCap;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetJackpot() RETURNS int(11)
+BEGIN
+  DECLARE iJackpot INT;
+  SELECT fx_GetConfigurationValue('TTJackpot') INTO iJackpot;
+  RETURN iJackpot;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetLootCardID(sCard VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iLootCardID INT DEFAULT 0;
+
+  SELECT IFNULL(ID, 0) INTO iLootCardID FROM lootcards WHERE CardName = sCard;
+  RETURN iLootCardID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetMembershipShopTax(sDescription VARCHAR(100)) RETURNS decimal(10,2)
+BEGIN
+  DECLARE dTax DECIMAL(10, 2);
+
+  SELECT ShopTax INTO dTax
+  FROM memberships_lu m
+  WHERE Description = sDescription;
+
+  RETURN dTax;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetMeritScore(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iMeritScore INT DEFAULT 0;
+  DECLARE iDiscoveryScore INT DEFAULT 0;
+  DECLARE iCardLeaderboard INT DEFAULT 0;
+
+  SELECT sum(AchievementsScore)
+  INTO iMeritScore
+  FROM playerachievements
+  INNER JOIN achievements ON playerachievements.PlayerAchievementsAchievementID = achievements.AchievementsID
+  WHERE playerachievements.PlayerAchievementsPlayerID = sPlayer;
+
+  SELECT count(ID) * 3 INTO iDiscoveryScore FROM discoveries where Player = sPlayer;
+  SELECT count(ID) * 2 INTO iCardLeaderboard FROM cardleaderboard where Player = sPlayer;
+
+  RETURN iMeritScore + iDiscoveryScore + iCardLeaderboard;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetNewsCountByMonth(iMonth INT, iYear INT) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT COUNT(ID) INTO iCount FROM pagenews WHERE MONTH(PAGESTAMP) = iMonth AND YEAR(PAGESTAMP) = iYear;
+
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetNextGameID() RETURNS int(11)
+BEGIN
+  DECLARE iID INT DEFAULT 0;
+
+  SELECT ConfigValue + 1 INTO iID FROM configuration
+  WHERE ConfigKeyword = 'GameID';
+
+  UPDATE configuration SET ConfigValue = ConfigValue + 1 WHERE ConfigKeyword = 'GameID';
+
+  RETURN iID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetOnlineID(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iID INT DEFAULT 0;
+  
+  SELECT COALESCE(id, 0) INTO iID FROM onlineusers WHERE player = sPlayer;
+  
+  RETURN iID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerAP(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iPlayerAP INT DEFAULT 0;
+  
+  SELECT ap INTO iPlayerAP FROM accounts where player = sPlayer;
+  
+  RETURN iPlayerAP;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerAdvancementLevelValue(sPlayer VARCHAR(45), sKey VARCHAR(15)) RETURNS double
+BEGIN
+  DECLARE iPlayerLevel INT DEFAULT 0;
+  DECLARE dAAMod DOUBLE DEFAULT 0;
+
+  SELECT level INTO iPlayerLevel FROM player_advancements WHERE player = sPlayer AND keyword = sKey;
+
+  IF iPlayerLevel = 1 THEN
+    SELECT lvl1_mod INTO dAAMod FROM advancement_abilities WHERE keyword = sKey;
+  ELSEIF iPlayerLevel = 2 THEN
+    SELECT lvl2_mod INTO dAAMod FROM advancement_abilities WHERE keyword = sKey;
+  ELSEIF iPlayerLevel = 3 THEN
+    SELECT lvl3_mod INTO dAAMod FROM advancement_abilities WHERE keyword = sKey;
+  ELSEIF iPlayerLevel = 4 THEN
+    SELECT lvl4_mod INTO dAAMod FROM advancement_abilities WHERE keyword = sKey;
+  ELSEIF iPlayerLevel = 5 THEN
+    SELECT lvl5_mod INTO dAAMod FROM advancement_abilities WHERE keyword = sKey;
+  ELSE
+    SET dAAMod = 0;
+  END IF;
+
+  RETURN dAAMod;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerCardCount(sPlayer VARCHAR(45), sCard VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT IFNULL(sum(value), 0) INTO iCardCount FROM playercards where player = sPlayer and cardname = sCard AND value > 0;
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerCardTotal(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT IFNULL(sum(value), 0) INTO iCardCount FROM playercards 
+  where player = sPlayer AND value > 0;
+  
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerCardWarDamage(sPlayer VARCHAR(45), iGameID INT) RETURNS int(11)
+BEGIN
+  DECLARE iDamage INT DEFAULT 0;
+
+  SELECT sum(DamageAmount) INTO iDamage FROM cardwars_damage Where Player = sPlayer AND GameID = iGameID;
+
+  RETURN iDamage;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerEXPBonus(sPlayer VARCHAR(45)) RETURNS decimal(10,2)
+BEGIN
+  DECLARE iBonus DECIMAL(10, 2);
+  DECLARE iAABonus DECIMAL(10, 2);
+  DECLARE iVABonus DECIMAL(10, 2);
+  DECLARE sMembership VARCHAR(45);
+  DECLARE iEXPBonus DECIMAL(10, 2);
+  DECLARE iRushBonus DECIMAL(10, 2);
+
+  SELECT (fx_GetActiveLootCardCountByLootID(sPlayer, 23) * 0.05)
+  INTO iEXPBonus;
+
+  SELECT fx_GetPlayerMembership(sPlayer) INTO sMembership;
+  SELECT fx_GetRushBonus(sPlayer) INTO iRushBonus;
+  SELECT ExperienceBonus INTO iBonus FROM memberships_lu WHERE Description = sMembership;
+
+  SELECT fx_GetPlayerAdvancementLevelValue(sPlayer, 'darkys'), fx_GetVeteranAdvancementLevelValue(sPlayer, 'experience')
+    INTO iAABonus, iVABonus;
+
+  RETURN (iBonus + iAABonus + iVABonus + iEXPBonus + iRushBonus);
+
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerGP(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iPlayerGP INT DEFAULT 0;
+  
+  SELECT gold INTO iPlayerGP FROM accounts where player = sPlayer;
+  
+  RETURN iPlayerGP;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerGPBonus(sPlayer VARCHAR(45)) RETURNS decimal(10,2)
+BEGIN
+  DECLARE iBonus DECIMAL(10, 2);
+  DECLARE iGPBonus DECIMAL(10, 2);
+  DECLARE iAABonus DECIMAL(10, 2);
+  DECLARE iVABonus DECIMAL(10, 2);
+  DECLARE iRushBonus DECIMAL(10, 2);
+  DECLARE sMembership VARCHAR(45);
+
+  SELECT (fx_GetActiveLootCardCountByLootID(sPlayer, 22) * 0.05)
+  INTO iGPBonus;
+
+  SELECT fx_GetPlayerMembership(sPlayer) INTO sMembership;
+  SELECT fx_GetRushBonus(sPlayer) INTO iRushBonus;
+  SELECT GoldBonus INTO iBonus FROM memberships_lu WHERE Description = sMembership;
+
+  SELECT fx_GetPlayerAdvancementLevelValue(sPlayer, 'golden'), fx_GetVeteranAdvancementLevelValue(sPlayer, 'gold')
+    INTO iAABonus, iVABonus;
+
+  RETURN (iBonus + iAABonus + iVABonus + iGPBonus + iRushBonus);
+
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerInfractionBase(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iLevel INT DEFAULT 0;
+  DECLARE iMaxPoints INT DEFAULT 0;
+  DECLARE iNewPlayerInfractionBase INT DEFAULT 0;
+  DECLARE iInfractionBase INT DEFAULT 0;
+
+
+  SELECT level INTO iLevel FROM accounts WHERE player = sPlayer;
+
+  SELECT fx_GetConfigurationValue('NewPlayerInfractionBase'), fx_GetConfigurationValue('InfractionBase')
+    INTO iNewPlayerInfractionBase, iInfractionBase;
+
+  IF iLevel <= 5 THEN
+    RETURN iNewPlayerInfractionBase;
+  ELSE
+    RETURN iInfractionBase;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerInfractionScore(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iInfractionScore INT DEFAULT 0;
+
+  SELECT sum(i.InfractionPoints) INTO iInfractionScore
+  FROM playerinfractions p
+  INNER JOIN infractions i ON i.ID = p.InfractionID
+  WHERE p.Player = sPlayer;
+
+  RETURN iInfractionScore;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerItemCharges(sPlayer VARCHAR(45), iPlayerItemID INT) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT Charges INTO iCount FROM playeritems where ID = iPlayerItemID and player = sPlayer;
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerItemCount(sPlayer VARCHAR(45), iItemID INT) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT count(ID) INTO iCount FROM playeritems where ItemID = iItemID and player = sPlayer;
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerItemID(sPlayer VARCHAR(45), iItemID INT) RETURNS int(11)
+BEGIN
+  DECLARE iID INT DEFAULT 0;
+
+  SELECT IFNULL(ID, 0) INTO iID FROM playeritems where ItemID = iItemID and player = sPlayer LIMIT 1;
+  RETURN iID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerLastNewDeck(sPlayer VARCHAR(45)) RETURNS datetime
+BEGIN
+  DECLARE dtDate DATETIME;
+
+  SELECT stamp INTO dtDate FROM historyusers WHERE typeFK = 8 and player = sPlayer ORDER BY stamp DESC LIMIT 1;
+  RETURN dtDate;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerLootCardCount(iLootCardID INT, sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT IFNULL(sum(LootCardID), 0) INTO iCardCount FROM playerlootcards where LootCardID = iLootCardID and Player = sPlayer AND Value > 0;
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMailCount(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iMailCount INT;
+  SELECT count(MailID) INTO iMailCount FROM playermail where MailTo = sPlayer and Deleted = 0;
+
+  RETURN iMailCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMembership(sPlayer VARCHAR(45)) RETURNS varchar(45) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE sMembership VARCHAR(45);
+
+  SELECT CASE WHEN ISNULL(memberships_lu.Description) = 1 THEN 'Normal'
+              ELSE memberships_lu.Description END
+  INTO sMembership
+  FROM memberships
+  INNER JOIN memberships_lu ON memberships.membershiptypeID = memberships_lu.ID
+  WHERE membershipplayerID = sPlayer and membershipexpdate >= now()
+  ORDER BY memberships_lu.ID DESC, membershipexpdate DESC
+  LIMIT 1;
+
+  SELECT CASE WHEN ISNULL(sMembership) = 1 THEN 'Normal'
+              WHEN sMembership = '' THEN 'Normal'
+              ELSE sMembership END
+  INTO sMembership;
+
+  RETURN sMembership;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMembershipCountByType(sPlayer VARCHAR(45), iType INT) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT Count(MembershipID) INTO iCount
+  FROM memberships
+  INNER JOIN memberships_lu ON memberships.membershiptypeID = memberships_lu.ID
+  WHERE membershipplayerID = sPlayer and membershipexpdate >= now() AND membershiptypeID = iType
+  ORDER BY memberships_lu.ID DESC, membershipexpdate DESC;
+
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMembershipExpiration(sPlayer VARCHAR(45)) RETURNS datetime
+BEGIN
+  DECLARE dtExpDate DATETIME;
+
+  SELECT membershipexpdate
+  INTO dtExpDate
+  FROM memberships
+  INNER JOIN memberships_lu ON memberships.membershiptypeID = memberships_lu.ID
+  WHERE membershipplayerID = sPlayer and membershipexpdate >= now()
+  ORDER BY memberships_lu.ID DESC, membershipexpdate DESC
+  LIMIT 1;
+
+  RETURN dtExpDate;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMembershipExpirationByType(sPlayer VARCHAR(45), iType INT) RETURNS datetime
+BEGIN
+  DECLARE dtExpDate DATETIME;
+
+  SELECT membershipexpdate
+  INTO dtExpDate
+  FROM memberships
+  INNER JOIN memberships_lu ON memberships.membershiptypeID = memberships_lu.ID
+  WHERE membershipplayerID = sPlayer and membershipexpdate >= now() AND MembershipTypeID = iType
+  ORDER BY memberships_lu.ID DESC, membershipexpdate DESC
+  LIMIT 1;
+
+  RETURN dtExpDate;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMembershipShopTax(sPlayer VARCHAR(45)) RETURNS decimal(10,2)
+BEGIN
+  DECLARE dTax DECIMAL(10, 2);
+  DECLARE sDescription VARCHAR(100);
+
+  SELECT fx_GetPlayerMembership(sPlayer) INTO sDescription;
+  SELECT fx_GetMembershipShopTax(sDescription) INTO dTax;
+
+  RETURN dTax;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerMessageBoardPostCount(sPlayer VARCHAR(50)) RETURNS int(11)
+BEGIN
+  DECLARE iPostCount INT DEFAULT 0;
+
+  SELECT COUNT(PostID) INTO iPostCount FROM guildmessageboardposts WHERE Poster = sPlayer AND PostDeletedBy = '';
+
+  RETURN iPostCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerQuestCount(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT count(quests.questid)
+  INTO iCount
+  FROM Quests
+  INNER JOIN QuestRewardCategory ON questrewardcategory.QuestRewardCategoryID = Quests.QuestRewardCategoryID
+  WHERE QuestReportID NOT IN
+  (SELECT QuestID FROM questplayers WHERE QuestPlayerName = sPlayer) and QuestExpires > Now();
+
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerShopCardCount(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT count(cardname) INTO iCardCount FROM playershop_cards where player = sPlayer;
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerShopLimit(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iMembershipShopLimit INT DEFAULT 0;
+  DECLARE sMembership VARCHAR(45);
+  DECLARE iAALimit INT DEFAULT 0;
+  DECLARE iVALimit INT DEFAULT 0;
+  DECLARE iLootCardBonus INT DEFAULT 0;
+
+  SELECT fx_GetPlayerMembership(sPlayer) INTO sMembership;
+
+  SELECT (fx_GetActiveLootCardCountByLootID(sPlayer, 6) * 5) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 7) * 15) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 8) * 25) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 9) * 50) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 10) * 100)
+  INTO iLootCardBonus;
+
+  SELECT ShopLimits INTO iMembershipShopLimit FROM memberships_lu WHERE Description = sMembership;
+
+  SELECT fx_GetPlayerAdvancementLevelValue(sPlayer, 'bountiful'), fx_GetVeteranAdvancementLevelValue(sPlayer, 'enhance')
+    INTO iAALimit, iVALimit;
+
+  RETURN iMembershipShopLimit + (iAALimit * 5) + iVALimit + iLootCardBonus;
+
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerTokens(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iTokens INT DEFAULT 0;
+
+  SELECT tokens INTO iTokens FROM accounts where player = sPlayer;
+  RETURN iTokens;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerTotalNewDecks(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+  SELECT Count(player) INTO iCount FROM historyusers WHERE typeFK = 8 and player = sPlayer;
+
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerTotalNewDecksToday(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT count(id) INTO iCount
+  FROM historyusers
+  WHERE typeFK = 8 and player = sPlayer and stamp >= curdate();
+
+  RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetPlayerVaultLimit(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iAALimit INT DEFAULT 0;
+  DECLARE iVALimit INT DEFAULT 0;
+  DECLARE iLootCardBonus INT DEFAULT 0;
+  DECLARE iDefaultSize INT DEFAULT 0;
+
+  SELECT fx_GetConfigurationValue('BaseVaultSize') INTO iDefaultSize;
+
+  SELECT (fx_GetActiveLootCardCountByLootID(sPlayer, 11) * 10) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 12) * 25) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 13) * 50) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 14) * 100) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 15) * 250) +
+    (fx_GetActiveLootCardCountByLootID(sPlayer, 16) * 5)
+  INTO iLootCardBonus;
+
+  RETURN iLootCardBonus + iDefaultSize;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRandomCard(iLowerBound INT, iUpperBound INT, iSpecial INT) RETURNS varchar(45) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+
+DECLARE sCard VARCHAR(45);
+DECLARE iID INT DEFAULT 0;
+
+SELECT cardname, id * 0+RAND() as rnd_id INTO sCard, iID FROM cards 
+    WHERE level >= iLowerBound AND level <= iUpperBound 
+        AND ((flggold = 0) OR (flggold = 1 AND iSpecial = 1))
+    ORDER BY rnd_id LIMIT 1;
+
+RETURN sCard;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRandomCardForPacks(sPlayer VARCHAR(45), sDeck VARCHAR(30), iLowerBound INT, iUpperBound INT, iChance INT, iSpecial INT) RETURNS varchar(45) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+
+DECLARE dHighRoller DOUBLE;
+DECLARE dVIP DOUBLE;
+DECLARE iRandom INT DEFAULT 0;
+DECLARE iType INT DEFAULT 0;
+DECLARE iThreshold INT DEFAULT 0;
+DECLARE sCard VARCHAR(45);
+DECLARE iID INT DEFAULT 0;
+DECLARE iRate INT DEFAULT 10;
+DECLARE iSkip INT DEFAULT 0;
+
+SELECT fx_GetPlayerAdvancementLevelValue(sPlayer, 'high'), 
+    fx_GetVeteranAdvancementLevelValue(sPlayer, 'vip'), 
+    FLOOR(RAND() * 200) + 1
+  INTO dHighRoller, dVIP, iRandom;
+
+SELECT ((200 - iRate) - (dHighRoller + dVIP)) INTO iThreshold;
+
+IF(iRandom > iThreshold) AND (iChance = 1) THEN
+    IF iUpperBound = 5 THEN
+        SET iLowerBound = 6;
+        SET iUpperBound = 7;
+        SET iSkip = 1;
+    ELSE
+        SET iLowerBound = 8;
+        SET iUpperBound = 10;
+    END IF;
+    
+    IF (iRandom - 5 >= iThreshold) AND (iSkip <> 1) THEN
+        SET iLowerBound = 10;
+        SET iUpperBound = 10;
+    END IF;
+END IF;
+
+SELECT cardname, id * 0+RAND() as rnd_id INTO sCard, iID FROM cards 
+    WHERE deck = sDeck AND level >= iLowerBound AND level <= iUpperBound 
+        AND flggold = iSpecial ORDER BY rnd_id LIMIT 1;
+
+RETURN sCard;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRandomLootCardByPrice(dPrice DECIMAL(10,2)) RETURNS int(11)
+BEGIN
+  DECLARE iRandom INT DEFAULT 0;
+  DECLARE iID INT DEFAULT 0;
+
+  SELECT RAND() * 100, ID INTO iRandom, iID FROM lootcards where cashprice <= dPrice and ID > 5 and active = 1 ORDER BY 1 DESC LIMIT 1;
+
+  RETURN iID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRandomLootCardForRush() RETURNS int(11)
+BEGIN
+  DECLARE iRandom INT DEFAULT 0;
+  DECLARE iID INT DEFAULT 0;
+
+  SELECT RAND() * 100, ID INTO iRandom, iID FROM lootcards where cashprice <= 1 AND ID > 5 AND ID < 25 ORDER BY 1 DESC LIMIT 1;
+
+  RETURN iID;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRandomNumber(iMax INT) RETURNS int(11)
+BEGIN
+  DECLARE iNumber INT DEFAULT 0;
+
+  SET iNumber = FLOOR(RAND() * iMax) + 1;
+
+  RETURN iNumber;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRandomTreasureLine(sType VARCHAR(5)) RETURNS varchar(300) CHARSET latin1 COLLATE latin1_swedish_ci
+BEGIN
+  DECLARE iTemp INT;
+  DECLARE sText VARCHAR(300);
+
+  SELECT description, id * 0+RAND() as rnd_id INTO sText, iTemp FROM treasurehunterlines where type = sType ORDER BY rnd_id LIMIT 1;
+  RETURN sText;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetRushBonus(sPlayer VARCHAR(45)) RETURNS decimal(10,2)
+BEGIN
+  DECLARE iRush DECIMAL(10, 2);
+  DECLARE iBonus DECIMAL(10, 2);
+
+  SELECT rush INTO iRush FROM accounts WHERE player = sPlayer;
+
+  SET iBonus = iRush / 1440;
+  
+  IF iRush = 0 THEN
+    SET iBonus = 0;
+  ELSEIF iBonus <= 0.25 THEN
+    SET iBonus = 0.05;
+  ELSEIF iBonus <= 0.50 THEN
+    SET iBonus = 0.10;
+  ELSEIF iBonus <= 0.75 THEN
+    SET iBonus = 0.15;
+  ELSEIF iBonus <= 1 THEN
+    SET iBonus = 0.20;
+  END IF;
+  
+  RETURN iBonus;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetSilenceMinutes(sPlayer VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iNumber INT DEFAULT 0;
+  
+  SELECT COALESCE(minutes, 0) INTO iNumber FROM silences WHERE player = sPlayer;
+  
+  RETURN iNumber;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetTotalCardsInDeck(sDeck VARCHAR(45)) RETURNS int(11)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT count(ID) INTO iCardCount FROM cards where deck = sDeck;
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetTotalEarnings(sKey VARCHAR(45), dBegin DATETIME, dEnd DATETIME) RETURNS decimal(10,2)
+BEGIN
+    DECLARE dTotal DECIMAL(10, 2) DEFAULT 0;
+    DECLARE dEarnings DECIMAL(10, 2);
+    
+    IF sKey = 'MEM' OR sKey = 'ALL' THEN
+        SELECT COALESCE(SUM(MembershipPayment), 0) INTO dEarnings
+        FROM membershippayments 
+        WHERE MembershipStamp BETWEEN dBegin AND dEnd;
+        
+        SET dTotal = dTotal + dEarnings;
+    END IF;
+    
+    IF sKey = 'OFF' OR sKey = 'ALL' THEN
+        SELECT COALESCE(SUM(Currency), 0) INTO dEarnings
+        FROM offerpalcredits 
+        WHERE Stamp BETWEEN dBegin AND dEnd;
+        
+        SET dTotal = dTotal + dEarnings;
+    END IF;
+    
+    IF sKey = 'CART' OR sKey = 'ALL' THEN
+        SELECT COALESCE(SUM(Payment), 0) INTO dEarnings
+        FROM cartsales 
+        WHERE Stamp BETWEEN dBegin AND dEnd;
+        
+        SET dTotal = dTotal + dEarnings;
+    END IF;    
+    
+    RETURN dTotal;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetTotalPlayersOnline() RETURNS int(11)
+BEGIN
+    DECLARE iCount INT DEFAULT 0;
+    
+    SELECT COUNT(*) INTO iCount
+    FROM
+    (
+        SELECT player FROM weblogin WHERE LASTACTIVITY >= DATE_SUB(NOW(), INTERVAL 30 MINUTE)
+    ) A;
+
+    RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetTotalPlayersOnline_old() RETURNS int(11)
+BEGIN
+    DECLARE iCount INT DEFAULT 0;
+    
+    SELECT COUNT(*) INTO iCount
+    FROM
+    (
+        SELECT player FROM onlineusers
+        UNION ALL
+        SELECT userAuth FROM webguests WHERE FROM_UNIXTIME(LastActivity) >= DATE_SUB(NOW(), INTERVAL 30 MINUTE)
+        UNION ALL
+        SELECT player FROM weblogin WHERE FROM_UNIXTIME(LASTACTIVITY) >= DATE_SUB(NOW(), INTERVAL 30 MINUTE)
+        UNION ALL
+        SELECT m.name
+        FROM tteforums.members m
+        WHERE FROM_UNIXTIME(last_activity) >= DATE_SUB(NOW(), INTERVAL 30 MINUTE) AND
+          NOT EXISTS (SELECT * FROM onlineusers o WHERE m.name = o.player)
+        UNION ALL
+        SELECT member_name
+          FROM tteforums.sessions s
+          WHERE NOT EXISTS (SELECT * FROM onlineusers o WHERE s.member_name = o.player)
+          AND FROM_UNIXTIME(running_time) > DATE_SUB(NOW(), INTERVAL 75 MINUTE)
+    ) A;
+
+    RETURN iCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_GetVeteranAdvancementLevelValue(sPlayer VARCHAR(45), sKey VARCHAR(15)) RETURNS double
+BEGIN
+  DECLARE dPlayerLevel DOUBLE DEFAULT 0;
+  DECLARE dAAMod DOUBLE DEFAULT 0;
+  DECLARE dValue DOUBLE DEFAULT 0;
+
+  SELECT level INTO dPlayerLevel FROM player_advancements WHERE player = sPlayer AND keyword = sKey;
+  SELECT mod  INTO dAAMod FROM veteran_advancement WHERE keyword = sKey;
+
+  SELECT dAAMod * dPlayerLevel INTO dValue;
+
+  RETURN dValue;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_IsAdmin(sPlayer VARCHAR(45)) RETURNS tinyint(1)
+BEGIN
+  DECLARE bIsAdmin BOOLEAN;
+  DECLARE iRowCount INT DEFAULT 0;
+
+  SELECT Count(Player) INTO iRowCount FROM Administrators WHERE player = sPlayer;
+
+  IF iRowCount > 0 THEN
+    SET bIsAdmin = TRUE;
+  ELSE
+    SET bIsAdmin = FALSE;
+  END IF;
+
+  RETURN bIsAdmin;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_IsBanned(sPlayer VARCHAR(45), sIP VARCHAR(15)) RETURNS tinyint(1)
+BEGIN
+  DECLARE bIsBanned BOOLEAN DEFAULT FALSE;
+  DECLARE iBanned INT DEFAULT 0;
+  DECLARE iInfractionScore INT DEFAULT 0;
+  DECLARE iInfractionBase INT DEFAULT 0;
+
+  SELECT fx_GetConfigurationValue('InfractionBase') INTO iInfractionBase;
+  SELECT fx_GetPlayerInfractionScore(sPlayer) INTO iInfractionScore;
+
+  IF iInfractionScore >= iInfractionBase THEN
+    SET bIsBanned = TRUE;
+  END IF;
+
+  IF sPlayer <> '' THEN
+    SELECT Banned INTO iBanned FROM accounts where player = sPlayer;
+
+    IF iBanned = 1 THEN
+      SET bIsBanned = TRUE;
+    END IF;
+  END IF;
+
+  IF sIP <> '' THEN
+    SELECT count(ID) INTO iBanned FROM bannedips WHERE IP = sIP;
+
+    IF iBanned > 0 THEN
+      SET bIsBanned = TRUE;
+    END IF;
+  END IF;
+
+  RETURN bIsBanned;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_IsDiscovery(sCard VARCHAR(60)) RETURNS tinyint(1)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+
+  SELECT count(ItemType) INTO iCount FROM discoveries WHERE ItemType = 'Card' AND ItemName = sCard;
+
+  IF iCount > 0 THEN
+    RETURN FALSE;
+  ELSE
+    RETURN TRUE;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_IsInTable(sPlayer VARCHAR(45)) RETURNS tinyint(1)
+BEGIN
+  DECLARE iTableCount INT DEFAULT 0;
+
+  SELECT count(ID) INTO iTableCount FROM Tables WHERE Player1 = sPlayer OR Player2 = sPlayer OR Player3 = sPlayer OR Player4 = sPlayer;
+
+  IF iTableCount > 0 THEN
+    RETURN True;
+  ELSE
+    RETURN False;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_IsLootCard(sCard VARCHAR(60)) RETURNS tinyint(1)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+
+  SELECT count(ID) INTO iCardCount FROM lootcards where Cardname = sCard;
+
+  IF iCardCount > 0 THEN
+    RETURN True;
+  ELSE
+    RETURN False;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_IsOnline(sPlayer VARCHAR(45)) RETURNS tinyint(1)
+BEGIN
+  DECLARE iCount INT DEFAULT 0;
+  DECLARE iWebCount INT DEFAULT 0;
+
+  SELECT Count(player) INTO iCount FROM onlineusers where player = sPlayer;
+  SELECT count(player) INTO iWebCount FROM onlineusers where player = sPlayer;
+
+  IF iCount + iWebCount > 0 THEN
+    RETURN TRUE;
+  ELSE
+    RETURN FALSE;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_ItemBreak(sPlayer VARCHAR(45), iItemID INT) RETURNS int(11)
+BEGIN
+  DECLARE iBroken INT DEFAULT 0;
+  DECLARE iBreak INT DEFAULT 0;
+  DECLARE iBreakRate INT DEFAULT 0;
+  DECLARE iThreshold INT DEFAULT 0;
+  DECLARE iPlayerItemID INT DEFAULT 0;
+
+  SELECT Breakable, BreakRate INTO iBreak, iBreakRate FROM items where ID = iItemID;
+  SELECT fx_GetPlayerItemID(sPlayer, iItemID) INTO iPlayerItemID;
+
+  IF iBreak = 0 THEN
+    SET iBroken = 0;
+  ELSE
+    SET iThreshold = FLOOR(RAND() * 100) + 1;
+
+    IF iBreakRate >= iThreshold THEN
+      SET iBroken = 1;
+      call spi_PlayerItem(iPlayerItemID, sPlayer, iItemID, -1);
+    ELSE
+      SET iBroken = 0;
+    END IF;
+  END IF;
+
+  RETURN iBroken;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_NextGame(iGameID INT, iAction INT, sGameKeyword VARCHAR(5)) RETURNS int(11)
+BEGIN
+  DECLARE iGame INT DEFAULT 0;
+
+  IF iAction = 1 THEN
+    IF sGameKeyword = 'tt' THEN
+        SELECT GameID into iGame FROM tt_games WHERE GameID > iGameID ORDER BY GameID ASC LIMIT 1;
+    ELSEIF sGameKeyword = 'ott' THEN
+        SELECT GameID into iGame FROM ott_games WHERE GameID > iGameID AND IFNULL(GameEnds, '') <> '' ORDER BY GameID ASC LIMIT 1;
+    ELSEIF sGameKeyword = 'chin' THEN
+        SELECT CHIN_GAMEID into iGame FROM chinchirorin_games WHERE CHIN_GAMEID > iGameID ORDER BY CHIN_GAMEID ASC LIMIT 1;
+    ELSEIF sGameKeyword = 'sb' THEN
+        SELECT GameID into iGame FROM spheregames WHERE GameID > iGameID ORDER BY GameID ASC LIMIT 1;
+    ELSEIF sGameKeyword = 'ttm' THEN
+        SELECT MEMORY_GameID into iGame FROM ttm_games WHERE MEMORY_GameID > iGameID ORDER BY MEMORY_GameID ASC LIMIT 1;
+    ELSEIF sGameKeyword = 'tott' THEN
+        SELECT GameID into iGame FROM teamott_games WHERE GameID > iGameID ORDER BY GameID ASC LIMIT 1;
+    ELSEIF sGameKeyword = 'ttw' THEN
+        SELECT GameID into iGame FROM cardwars WHERE GameID > iGameID ORDER BY GameID ASC LIMIT 1;
+    END IF;
+  ELSEIF iAction = -1 THEN
+    IF sGameKeyword = 'tt' THEN
+        SELECT GameID into iGame FROM tt_games WHERE GameID < iGameID ORDER BY GameID DESC LIMIT 1;
+    ELSEIF sGameKeyword = 'ott' THEN
+        SELECT GameID into iGame FROM ott_games WHERE GameID < iGameID AND IFNULL(GameEnds, '') <> '' ORDER BY GameID DESC LIMIT 1;
+    ELSEIF sGameKeyword = 'chin' THEN
+        SELECT CHIN_GAMEID into iGame FROM chinchirorin_games WHERE CHIN_GAMEID < iGameID ORDER BY CHIN_GAMEID DESC LIMIT 1;
+    ELSEIF sGameKeyword = 'sb' THEN
+        SELECT GameID into iGame FROM spheregames WHERE GameID < iGameID ORDER BY GameID DESC LIMIT 1;
+    ELSEIF sGameKeyword = 'ttm' THEN
+        SELECT MEMORY_GameID into iGame FROM ttm_games WHERE MEMORY_GameID < iGameID ORDER BY MEMORY_GameID DESC LIMIT 1;
+    ELSEIF sGameKeyword = 'tott' THEN
+        SELECT GameID into iGame FROM teamott_games WHERE GameID < iGameID ORDER BY GameID DESC LIMIT 1;
+    ELSEIF sGameKeyword = 'ttw' THEN
+        SELECT GameID into iGame FROM cardwars WHERE GameID < iGameID ORDER BY GameID DESC LIMIT 1;
+    END IF;
+  END IF;
+  
+  RETURN iGame;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_OwnsCard(sPlayer VARCHAR(45), sCard VARCHAR(60)) RETURNS tinyint(1)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+  DECLARE iLootCardCount INT DEFAULT 0;
+  DECLARE iBankCount INT DEFAULT 0;
+  DECLARE iCardID INT DEFAULT 0;
+  DECLARE bIsLootCard BOOLEAN;
+
+  SELECT ID INTO iCardID FROM cards where cardname = sCard;
+  SELECT fx_IsLootCard(sCard) INTO bIsLootCard;
+
+  IF bIsLootCard = TRUE THEN
+    SELECT count(ID) INTO iLootCardCount FROM playerlootcards where player = sPlayer and value > 0 and LootCardID = iCardID;
+  ELSE
+    SELECT count(ID) INTO iCardCount FROM playercards where player = sPlayer AND value > 0 AND cardname = sCard;
+    SELECT count(CardID) INTO iBankCount FROM playervault where player = sPlayer and CardID = iCardID;
+  END IF;
+
+  IF iLootCardCount + iCardCount + iBankCount > 0 THEN
+    RETURN True;
+  ELSE
+    RETURN False;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_OwnsCard_NoVault(sPlayer VARCHAR(45), sCard VARCHAR(60)) RETURNS tinyint(1)
+BEGIN
+  DECLARE iCardCount INT DEFAULT 0;
+  DECLARE iLootCardCount INT DEFAULT 0;
+
+  DECLARE iCardID INT DEFAULT 0;
+  DECLARE bIsLootCard BOOLEAN;
+
+  SELECT ID INTO iCardID FROM cards where cardname = sCard;
+  SELECT fx_IsLootCard(sCard) INTO bIsLootCard;
+
+  IF bIsLootCard = TRUE THEN
+    SELECT count(ID) INTO iLootCardCount FROM playerlootcards where player = sPlayer and value > 0 and LootCardID = iCardID;
+  ELSE
+    SELECT count(ID) INTO iCardCount FROM playercards where player = sPlayer AND value > 0 AND cardname = sCard;
+
+  END IF;
+
+  IF iLootCardCount + iCardCount > 0 THEN
+    RETURN True;
+  ELSE
+    RETURN False;
+  END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_PaymentsInMonth(sPlayer VARCHAR(45)) RETURNS decimal(10,2)
+BEGIN
+  DECLARE dPayments DECIMAL(10,2);
+  DECLARE dCartItems DECIMAL(10,2);
+
+  SELECT IFNULL(sum(MembershipPayment), 0)
+  INTO dPayments
+  FROM membershippayments m
+  WHERE MembershipPaymentsPlayerID = sPlayer AND AddDate(NOW(), INTERVAL -1 MONTH) <= MembershipStamp;
+
+  SELECT IFNULL(sum(Payment), 0)
+  INTO dCartItems
+  FROM cartsales c
+  WHERE Player = sPlayer AND AddDate(NOW(), INTERVAL -1 MONTH) <= Stamp
+  AND CartItem <> 'TTE Cash Deposit $5' and CartItem not like 'Donation to the%';
+
+  RETURN dPayments + dCartItems;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_TTGetPlayerCardCount(sPlayer VARCHAR(45), sNoDupes INT(10),stableid VARCHAR(45),sMaxLevel VARCHAR(10),sMinLevel VARCHAR(10),sDecks varchar(1000),sTradeRules varchar(200)) RETURNS int(100)
+BEGIN
+
+  DECLARE iCardCount INT DEFAULT 0;
+  
+  IF(ifnull(sDecks,'') <>'' AND sDecks <> 'AllDecks') THEN
+   IF(sTradeRules <>'none' AND ifnull(sTradeRules,'') <>'') THEN
+     IF(sNoDupes=1) then
+       SELECT COUNT(playercards.cardname) INTO iCardCount FROM playercards INNER JOIN cards ON
+       cards.cardname = playercards.cardname 
+       WHERE playercards.player=sPlayer AND FIND_IN_SET(cards.Deck ,sDecks) AND cards.level >= sMinLevel AND cards.level <= sMaxLevel AND playercards.value > 0;
+     ELSE
+       SELECT IFNULL(sum(value), 0) INTO iCardCount FROM playercards INNER JOIN cards ON
+	   cards.cardname = playercards.cardname 
+       WHERE playercards.player=sPlayer AND FIND_IN_SET(cards.Deck ,sDecks) AND cards.level >= sMinLevel AND cards.level <= sMaxLevel AND playercards.value > 0;
+     end if;
+    ELSE 
+      SELECT COUNT(cards.cardname) INTO iCardCount FROM cards 
+      WHERE FIND_IN_SET(cards.Deck ,sDecks) AND cards.level >= sMinLevel AND cards.level <= sMaxLevel;
+	end if;
+  ELSEIF(sDecks <> 'AllDecks') THEN
+	IF(sTradeRules <>'none' AND ifnull(sTradeRules,'') <>'') THEN
+     IF(sNoDupes=1) then
+       SELECT COUNT(playercards.cardname) INTO iCardCount FROM playercards INNER JOIN cards ON
+       cards.cardname = playercards.cardname 
+       WHERE playercards.player=sPlayer AND cards.level >= sMinLevel AND cards.level <= sMaxLevel AND playercards.value > 0;
+     ELSE
+       SELECT IFNULL(sum(value), 0) INTO iCardCount FROM playercards INNER JOIN cards ON
+	   cards.cardname = playercards.cardname 
+       WHERE playercards.player=sPlayer AND cards.level >= sMinLevel AND cards.level <= sMaxLevel AND playercards.value > 0;
+     end if;
+    ELSE 
+      SELECT COUNT(cards.cardname) INTO iCardCount FROM cards 
+      WHERE cards.level >= sMinLevel and cards.level <= sMaxLevel;
+	end if;
+  ELSE
+    SET iCardCount=5;
+  end if;
+  IF(sTradeRules <>'none' AND ifnull(sTradeRules,'') <>'' AND iCardCount>=5) THEN
+    IF(sNoDupes=1) then
+      SELECT COUNT(playercards.cardname) INTO iCardCount FROM playercards INNER JOIN cards ON
+      cards.cardname = playercards.cardname WHERE playercards.player=sPlayer AND cards.level >= sMinLevel AND cards.level <= sMaxLevel AND playercards.value > 0;
+    ELSE
+      SELECT IFNULL(sum(value), 0) INTO iCardCount FROM playercards INNER JOIN cards ON
+	  cards.cardname = playercards.cardname WHERE playercards.player=sPlayer AND cards.level >= sMinLevel AND cards.level <= sMaxLevel AND playercards.value > 0;
+    end if;
+  end if;
+  
+  RETURN iCardCount;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE DEFINER=u925182332_darkwind@127.0.0.1 FUNCTION fx_TotalGamesPlayed(sKey VARCHAR(45), dBegin DATETIME, dEnd DATETIME) RETURNS int(11)
+BEGIN
+    DECLARE iTotal INT;
+    DECLARE iGames INT;
+    
+    IF sKey = 'TT' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM tt_games WHERE StartDate BETWEEN dBegin AND dEnd;
+        SET iGames = iTotal;
+    END IF;
+    
+    IF sKey = 'OTT' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM ott_games WHERE StartDate BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    IF sKey = 'TTM' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM ttm_games WHERE memory_date BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    IF sKey = 'TTW' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM cardwars WHERE StartDate BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    IF sKey = 'CHIN' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM chinchirorin_games WHERE chin_date BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    IF sKey = 'TOTT' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM teamott_games WHERE StartDate BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    IF sKey = 'SB' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM spheregames WHERE Date BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    IF sKey = 'TH' OR sKey = 'ALL' THEN
+        SELECT COUNT(*) INTO iTotal FROM treasurehuntergames WHERE Stamp BETWEEN dBegin AND dEnd;
+        SET iGames = iGames + iTotal;
+    END IF;
+    
+    RETURN iGames;
+END$$
+DELIMITER ;

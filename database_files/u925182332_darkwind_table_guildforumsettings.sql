@@ -1,0 +1,91 @@
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `guildforumsettings`
+--
+
+CREATE TABLE `guildforumsettings` (
+  `GuildForumSettingID` int(10) UNSIGNED NOT NULL,
+  `Guild` varchar(20) NOT NULL,
+  `PrivatePosting` int(10) UNSIGNED NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci ROW_FORMAT=COMPACT;
+
+--
+-- Dumping data for table `guildforumsettings`
+--
+
+INSERT INTO `guildforumsettings` (`GuildForumSettingID`, `Guild`, `PrivatePosting`) VALUES
+(1, 'Servants of Darkness', 0),
+(2, 'Wings to Altair', 1),
+(3, 'Mystic Dawn', 0),
+(4, 'Shadowbugs', 1),
+(5, 'Galbadia Garden', 0),
+(6, 'Avalanche', 0),
+(7, 'The Harem', 0),
+(8, '-Turks-', 0),
+(9, 'Trodian Empire', 0),
+(10, 'Vodka Aces', 1),
+(11, 'SupremoS', 0),
+(12, 'Pluto Knights', 0),
+(13, 'Timber Maniacs', 1),
+(14, 'The Sith', 0),
+(15, 'Wikas Whanau', 0),
+(16, 'DieMon Tech', 0),
+(17, 'Da_Witnesses', 0),
+(18, 'Heavenly Heroes', 0),
+(19, 'Terror Squad', 0),
+(20, 'Knights Of Gaia', 0),
+(21, 'Dark Oblivion', 0),
+(22, 'The Elite', 0),
+(23, 'Showdown', 0),
+(24, 'Trodain Empire', 0),
+(25, 'for Him', 0),
+(26, 'OtherWorld', 0),
+(27, 'We The People', 1),
+(28, 'Jedi Masters', 0),
+(29, 'Ultimate Chaos', 0),
+(30, 'hates you!', 0),
+(31, 'Kogarasumaru', 0),
+(32, 'Wandering Souls', 0),
+(33, 'Bell Guardians', 0),
+(34, 'Po Chi Lam', 0),
+(35, 'GP Collectors', 0),
+(36, 'Spirit of Chaos', 0),
+(37, 'Baldy Inc', 0),
+(38, 'Lunar Sanctuary', 0),
+(39, 'Eternal Mirage', 0),
+(40, 'NiGHT HunTeR', 0),
+(41, 'Enhasa', 0),
+(42, 'GuitarAddicted', 0),
+(43, 'Knights of Dawn', 0),
+(44, 'Krusty Krab', 0),
+(45, 'Mogs n Moombas', 1),
+(46, 'Templars Shadow', 0),
+(47, 'Edge of Virtue', 0),
+(48, 'Secret service', 0),
+(49, 'Devils Nest', 0),
+(50, 'Hell\'s Cavalry', 1),
+(51, 'LOLGUILD', 0),
+(52, 'Dragonfly', 1),
+(53, 'uno ciico', 0),
+(54, 'LemonLand', 0),
+(55, 'Lemon Land', 0),
+(56, 'Green Users', 0),
+(57, 'Gurren Brigade', 0),
+(58, 'Anime101', 0),
+(59, 'Silenced', 0),
+(60, 'Master 360', 0),
+(61, 'Illuminati', 0),
+(62, 'I am in a Guild', 0),
+(63, 'StarsOfDestiny', 0),
+(64, 'Army of Gringo', 0),
+(65, 'Weekend Warrior', 0),
+(66, 'Imperial Enzka', 0),
+(67, 'Nitro Circus', 0),
+(68, 'UltimaCloud', 0),
+(69, 'The Avengers', 0),
+(70, 'Glance Reviver', 0),
+(71, 'Ultima', 0),
+(72, 'The Guildless', 0),
+(73, 'Caiman Land', 0);
